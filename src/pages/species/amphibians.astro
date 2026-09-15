@@ -1,0 +1,66 @@
+---
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { resolveFigureImage } from "../../lib/figure-images";
+import { siteUrl } from "../../lib/site-url";
+
+const figures = (await getCollection("figures")).filter(
+  (item) => item.data.contentType !== "title" && item.data.species
+);
+
+const groups = [
+  { name: "カエル類", species: [], icon: "●" },
+  { name: "イモリ・サンショウウオ類", species: ["トウホクサンショウウオ"], icon: "〰" },
+  { name: "その他", species: [], icon: "◌" }
+];
+
+const groupFigure = (group: (typeof groups)[number]) =>
+  figures.find((figure) => group.species.includes(figure.data.species ?? ""));
+
+const groupImage = (group: (typeof groups)[number]) => {
+  const figure = groupFigure(group);
+  if (!figure) return undefined;
+  return resolveFigureImage(
+    figure.id,
+    figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
+  );
+};
+
+const groupCount = (group: (typeof groups)[number]) =>
+  figures.filter((figure) => group.species.includes(figure.data.species ?? "")).length;
+---
+
+<BaseLayout title="両生類 | NATURE FIGURE">
+  <div class="mammals-page">
+    <div class="breadcrumb">
+      <a href={siteUrl("/")}>ホーム</a><span>›</span>
+      <a href={siteUrl("/species/")}>生きものから探す</a><span>›</span>
+      両生類
+    </div>
+    <section class="mammals-hero">
+      <div class="mammals-hero-copy">
+        <p class="eyebrow">生きものから探す</p>
+        <h1>両生類</h1>
+      </div>
+      <div class="mammals-hero-art" aria-hidden="true">〰</div>
+    </section>
+    <div class="mammal-group-grid">
+      {groups.map((group) => {
+        const image = groupImage(group);
+        return (
+          <a class="mammal-group-card" href={siteUrl("/figures/")}>
+            <div class="mammal-group-media">
+              {image ? <img src={image} alt="" loading="lazy" /> : <span>{group.icon}</span>}
+            </div>
+            <div class="mammal-group-footer">
+              <span class="mammal-group-icon" aria-hidden="true">{group.icon}</span>
+              <div><strong>{group.name}</strong><small>{groupCount(group)}種類</small></div>
+              <span class="mammal-group-arrow" aria-hidden="true">›</span>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </div>
+</BaseLayout>
