@@ -56,17 +56,25 @@ h2 { margin-top: 2.5rem; }
 .species-search button:hover { background: #116c52; }
 .species-search-status { min-height: 18px; margin: 0 4px 4px; color: #a05252; font-size: .72rem; }
 .species-category { display: grid; grid-template-columns: 195px minmax(0, 1fr); gap: 18px; margin-top: 12px; padding: 14px 14px 14px 15px; border: 1px solid #cae8df; border-radius: 9px; background: rgba(248, 255, 252, .92); }
-.species-category--paleontology { border-color: #cce8f0; background: rgba(247, 252, 255, .94); }
+.species-category--paleontology,
+.species-category--paleontology-dinosaurs,
+.species-category--paleontology-other { border-color: #cce8f0; background: rgba(247, 252, 255, .94); }
 .species-category--mythical { border-color: #ddd2f0; background: rgba(253, 250, 255, .94); }
 .species-category-intro { position: relative; display: flex; align-items: flex-start; gap: 10px; min-width: 0; padding: 2px 2px 30px; }
 .species-category-icon { display: grid; flex: 0 0 43px; width: 43px; height: 43px; place-items: center; border-radius: 50%; background: #289d78; color: #fff; font-size: 1.35rem; }
-.species-category--paleontology .species-category-icon { background: #2489b7; }
+.species-category--paleontology .species-category-icon,
+.species-category--paleontology-dinosaurs .species-category-icon,
+.species-category--paleontology-other .species-category-icon { background: #2489b7; }
 .species-category--mythical .species-category-icon { background: #8b5ac0; }
 .species-category-intro h2 { margin: 4px 0 0; color: #176b55; font-size: 1.25rem; }
-.species-category--paleontology .species-category-intro h2 { color: #17688e; }
+.species-category--paleontology .species-category-intro h2,
+.species-category--paleontology-dinosaurs .species-category-intro h2,
+.species-category--paleontology-other .species-category-intro h2 { color: #17688e; }
 .species-category--mythical .species-category-intro h2 { color: #7650a7; }
 .species-category-english { margin: 2px 0 13px; color: #6db29e; font-size: .6rem; letter-spacing: .08em; }
-.species-category--paleontology .species-category-english { color: #5da2c0; }
+.species-category--paleontology .species-category-english,
+.species-category--paleontology-dinosaurs .species-category-english,
+.species-category--paleontology-other .species-category-english { color: #5da2c0; }
 .species-category--mythical .species-category-english { color: #a183c5; }
 .species-category-description { max-width: 125px; margin: 0; color: #5d8378; font-size: .68rem; line-height: 1.65; }
 .species-see-all { position: absolute; bottom: 0; right: 0; color: #287d68; font-size: .63rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
@@ -81,6 +89,24 @@ h2 { margin-top: 2.5rem; }
 .species-group-content strong { display: block; overflow: hidden; color: #236653; font-size: .68rem; line-height: 1.3; text-overflow: ellipsis; white-space: nowrap; }
 .species-group-content small { display: block; margin-top: 2px; color: #79a99c; font-size: .57rem; }
 .species-group-arrow { color: #428a75; font-size: 1.1rem; }
+
+/* SPECIES / MAMMALS */
+.mammals-page { max-width: 1120px; margin: 0 auto; }
+.mammals-hero { position: relative; min-height: 168px; margin: -8px -20px 25px; padding: 28px 20px; overflow: hidden; background: linear-gradient(110deg, #f1fbf8 0%, #f2fbf9 55%, #e0f4ee 100%); border-radius: 0 0 12px 12px; }
+.mammals-hero-copy { position: relative; z-index: 1; }
+.mammals-hero h1 { margin: 14px 0 0; color: #116e5a; font-size: clamp(2rem, 4vw, 3rem); letter-spacing: .06em; }
+.mammals-hero-art { position: absolute; right: 19%; bottom: -48px; color: rgba(103, 184, 157, .2); font-size: 13rem; line-height: 1; transform: scaleX(1.4); }
+.mammal-group-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 19px 12px; padding: 0 0 35px; }
+.mammal-group-card { overflow: hidden; border: 1px solid #c8e8ee; border-radius: 9px; background: #fff; color: #14758a; text-decoration: none; box-shadow: 0 2px 8px rgba(34, 126, 145, .035); transition: transform .15s ease, box-shadow .15s ease; }
+.mammal-group-card:hover { transform: translateY(-3px); box-shadow: 0 8px 18px rgba(34, 126, 145, .12); }
+.mammal-group-media { display: grid; height: 135px; place-items: center; overflow: hidden; background: linear-gradient(145deg, #fff, #f7fbfb); }
+.mammal-group-media img { width: 100%; height: 100%; object-fit: contain; }
+.mammal-group-media > span { color: #91cfc2; font-size: 5rem; line-height: 1; }
+.mammal-group-footer { display: grid; grid-template-columns: 39px minmax(0, 1fr) 14px; gap: 8px; align-items: center; min-height: 64px; padding: 7px 9px; border-top: 1px solid #e3f0f0; }
+.mammal-group-icon { display: grid; width: 37px; height: 37px; place-items: center; border-radius: 50%; background: #229c84; color: #fff; font-size: 1.05rem; }
+.mammal-group-footer strong { display: block; color: #126c80; font-size: .96rem; line-height: 1.35; }
+.mammal-group-footer small { display: block; margin-top: 2px; color: #78abb1; font-size: .63rem; }
+.mammal-group-arrow { color: #1b85a0; font-size: 1.6rem; font-weight: 300; }
 
 /* FIGURE detail */
 .breadcrumb { font-size: .72rem; color: #7b8d86; margin-bottom: 17px; }
@@ -243,16 +269,16 @@ footer { padding: 30px; text-align: center; color: #788b83; border-top: 1px soli
   z-index: 100;
   display: grid;
   place-items: center;
-  padding: 40px;
+  padding: 0;
   background: rgba(10, 24, 19, .86);
   cursor: zoom-out;
 }
 .image-lightbox[hidden] { display: none; }
 .image-lightbox img {
   display: block;
-  max-width: min(92vw, 1400px);
-  max-height: 90vh;
-  width: auto;
+  max-width: 100%;
+  max-height: 100%;
+  width: 100%;
   height: auto;
   object-fit: contain;
   border-radius: 4px;
@@ -295,13 +321,20 @@ body.lightbox-open { overflow: hidden; }
   .figure-sidebar > .basic-card { order: 1; }
   .figure-main > .topic-card, .figure-main > .review-card { order: 2; }
   .figure-sidebar > :not(.basic-card) { order: 3; }
-  .topic-body.has-images { grid-template-columns: 1fr; }
-  .topic-images { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .topic-body.has-images.multiple-images { grid-template-columns: 1fr; }
+  .topic-body.has-images.single-image { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .topic-images,
+  .topic-images.two,
+  .topic-images.three-or-more { width: 100%; grid-column: 1 / -1; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .topic-body.single-image .topic-images { grid-column: auto; grid-template-columns: 1fr; }
+  .topic-body.single-image .topic-comment { grid-column: auto; }
+  .topic-body.multiple-images .topic-comment { grid-column: 1 / -1; }
   .basic-top { grid-template-columns: 100px minmax(0,1fr); }
   .figure-cover { width: 100px; height: auto; aspect-ratio: 4 / 3; }
 }
 @media (max-width: 520px) {
   .topic-images { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 5px; }
+  .topic-body.single-image .topic-images { grid-template-columns: 1fr; }
   .info-list { grid-template-columns: max-content 1fr; gap: 3px 8px; }
   .basic-top { grid-template-columns: 90px minmax(0,1fr); gap: 11px; }
   .figure-cover { width: 90px; height: auto; aspect-ratio: 4 / 3; }
@@ -368,6 +401,9 @@ body.lightbox-open { overflow: hidden; }
   .species-category-description { max-width: none; }
   .species-see-all { top: 9px; bottom: auto; right: 2px; }
   .species-group-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .mammals-hero { margin-left: -16px; margin-right: -16px; padding-left: 16px; padding-right: 16px; }
+  .mammal-group-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px 8px; }
+  .mammal-group-media { height: 105px; }
   .blog-hero { min-height: 260px; margin: -30px -16px 28px; padding: 42px 22px; }
   .blog-layout { grid-template-columns: 1fr; gap: 18px; }
   .blog-sidebar { position: static; }
@@ -397,6 +433,14 @@ body.lightbox-open { overflow: hidden; }
   .species-group-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 7px; }
   .species-group-card { grid-template-columns: 52px minmax(0, 1fr) 8px; min-height: 55px; }
   .species-group-card img, .species-group-placeholder { width: 52px; height: 38px; }
+  .mammals-hero { min-height: 145px; }
+  .mammals-hero-art { right: 0; font-size: 9rem; }
+  .mammal-group-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px 8px; }
+  .mammal-group-media { height: 100px; }
+  .mammal-group-footer { grid-template-columns: 32px minmax(0, 1fr) 10px; gap: 5px; min-height: 53px; padding: 5px 6px; }
+  .mammal-group-icon { width: 30px; height: 30px; font-size: .85rem; }
+  .mammal-group-footer strong { font-size: .75rem; }
+  .mammal-group-arrow { font-size: 1.25rem; }
   .desktop-only { display: none; }
   .blog-hero h1 { font-size: 2rem; }
   .blog-hero { min-height: 220px; }

@@ -11,6 +11,7 @@ const figures = (await getCollection("figures")).filter(
 
 type Figure = (typeof figures)[number];
 type Group = {
+  id?: string;
   name: string;
   species: string[];
 };
@@ -31,7 +32,7 @@ const categories: Category[] = [
     description: "現在生きている生き物を、分類から探すことができます。",
     icon: "●",
     groups: [
-      { name: "哺乳類", species: ["ニホンザル", "トウホクノウサギ"] },
+      { id: "mammals", name: "哺乳類", species: ["ニホンザル", "トウホクノウサギ"] },
       { name: "鳥類", species: ["マガン", "オオマシコ"] },
       { name: "爬虫類", species: [] },
       { name: "両生類", species: ["トウホクサンショウウオ"] },
@@ -44,20 +45,35 @@ const categories: Category[] = [
     ]
   },
   {
-    id: "paleontology",
-    title: "古生物",
-    englishTitle: "PALEONTOLOGY",
-    description: "絶滅した生き物を、分類から探すことができます。",
+    id: "paleontology-dinosaurs",
+    title: "古生物 - 恐竜とその仲間",
+    englishTitle: "PALEONTOLOGY / DINOSAURS & RELATIVES",
+    description: "恐竜とその仲間を、分類から探すことができます。",
     icon: "✦",
     groups: [
-      { name: "恐竜類", species: [] },
-      { name: "翼竜類", species: [] },
-      { name: "鳥盤類", species: [] },
-      { name: "角竜類", species: [] },
       { name: "獣脚類", species: [] },
+      { name: "竜脚類", species: [] },
+      { name: "鳥脚類", species: [] },
+      { name: "角竜類", species: [] },
+      { name: "装盾類", species: [] },
       { name: "堅頭竜類", species: [] },
       { name: "翼竜", species: [] },
       { name: "海生爬虫類", species: [] },
+      { name: "その他", species: [] }
+    ]
+  },
+  {
+    id: "paleontology-other",
+    title: "古生物 - その他",
+    englishTitle: "OTHER PALEONTOLOGY",
+    description: "恐竜以外の絶滅した生き物を探すことができます。",
+    icon: "◉",
+    groups: [
+      { name: "古代の哺乳類", species: [] },
+      { name: "古代の魚類", species: [] },
+      { name: "古代の両生類", species: [] },
+      { name: "古代の爬虫類", species: [] },
+      { name: "古代の節足動物", species: [] },
       { name: "その他", species: [] }
     ]
   },
@@ -135,7 +151,7 @@ const groupImage = (group: Group) => {
               return (
                 <a
                   class="species-group-card"
-                  href={siteUrl("/figures/")}
+                  href={siteUrl(group.id ? `/species/${group.id}/` : "/figures/")}
                   data-species={`${group.name} ${group.species.join(" ")}`}
                 >
                   {image ? <img src={image} alt="" loading="lazy" /> : <span class="species-group-placeholder">{group.name.slice(0, 1)}</span>}

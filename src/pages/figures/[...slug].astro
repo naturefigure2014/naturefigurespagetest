@@ -41,9 +41,6 @@ const relatedBlogs = blogs.filter((blog) =>
   blog.data.relatedFigures.some((figureId) => normalizeContentId(figureId) === normalizeContentId(entry.id))
 );
 
-const firstTopicImage = entry.data.topics.flatMap((topic) => topic.images)[0];
-const coverImage = entry.data.coverImage ?? firstTopicImage;
-const coverImageUrl = coverImage === undefined ? undefined : resolveFigureImage(entry.id, coverImage);
 
 const titleFigure = title
   ? figures.find((figure) => normalizeContentId(figure.id) === normalizeContentId(title.data.figureIds[0] ?? ""))
@@ -80,10 +77,6 @@ const makerBadgeClass = (() => {
         <div>
           <p class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</p>
           <h1>{entry.data.title}</h1>
-          <p class="figure-subtitle">
-            {title?.data.title && <>{title.data.title}</>}
-            {title?.data.seriesName && <>　／　{title.data.seriesName}</>}
-          </p>
           {entry.data.releaseDate && (
             <p class="figure-date">◷ {formatDate(entry.data.releaseDate)}</p>
           )}
@@ -151,22 +144,15 @@ const makerBadgeClass = (() => {
           <span class="animal-icon">♟</span>
           <h2>基本情報</h2>
         </div>
-        <div class="basic-top">
-          {coverImageUrl && (
-            <img class="figure-cover" src={coverImageUrl} alt={entry.data.title} />
-          )}
-          <dl class="info-list">
-            <dt>フィギュア名</dt><dd>{entry.data.title}</dd>
-            <dt>通し番号</dt><dd>{entry.data.figureId}</dd>
-            {title && titleHref && <><dt>収録タイトル</dt><dd><a href={titleHref}>{title.data.title}</a></dd></>}
-            {title?.data.seriesName && <><dt>シリーズ名</dt><dd>{title.data.seriesName}</dd></>}
-            {title?.data.maker && <><dt>メーカー名</dt><dd>{title.data.maker}</dd></>}
-            {title?.data.releaseStart && <><dt>発売開始</dt><dd>{title.data.releaseStart}</dd></>}
-            {entry.data.size && <><dt>サイズ</dt><dd>{entry.data.size}</dd></>}
-            {entry.data.price && <><dt>価格</dt><dd>{entry.data.price}</dd></>}
-            {entry.data.species && <><dt>種類</dt><dd>{entry.data.species}</dd></>}
-          </dl>
-        </div>
+        <dl class="info-list">
+          {(title?.data.maker ?? entry.data.maker) && <><dt>メーカー名</dt><dd>{title?.data.maker ?? entry.data.maker}</dd></>}
+          {title?.data.seriesName && <><dt>シリーズ名</dt><dd>{title.data.seriesName}</dd></>}
+          {title && titleHref && <><dt>収録タイトル</dt><dd><a href={titleHref}>{title.data.title}</a></dd></>}
+          {entry.data.figureId && <><dt>No.</dt><dd>{entry.data.figureId}</dd></>}
+          {entry.data.title && <><dt>フィギュア名</dt><dd>{entry.data.title}</dd></>}
+          {title?.data.releaseStart && <><dt>発売開始</dt><dd>{title.data.releaseStart}</dd></>}
+          {entry.data.species && <><dt>種類</dt><dd>{entry.data.species}</dd></>}
+        </dl>
 
         {entry.data.tags.length > 0 && (
           <div class="tag-list">
