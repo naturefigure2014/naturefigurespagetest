@@ -1,0 +1,150 @@
+---
+import "../styles/global.css";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getCollection, render } from "astro:content";
+import { resolveFigureImage } from "../lib/figure-images";
+import { siteUrl } from "../lib/site-url";
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const figures = await getCollection("figures");
+const normalizeContentId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
+const lineup = figures
+  .filter((figure) => figure.data.contentType !== "title" && normalizeContentId(figure.data.titleId ?? "") === normalizeContentId(entry.id))
+  .sort((a, b) => a.data.figureId.localeCompare(b.data.figureId, undefined, { numeric: true }));
+
+const makerBadgeClass = entry.data.maker === "海洋堂" ? "maker-kaiyodo" : "maker-default";
+const collectionPhoto = entry.data.collectionImage
+  ? resolveFigureImage(entry.id, entry.data.collectionImage)
+  : undefined;
+const resourceSections = [
+  ["解説書", "guide", entry.data.resources.guide],
+  ["ディスプレイポップ", "display-pop", entry.data.resources.displayPop],
+  ["カプセル", "capsule", entry.data.resources.capsule],
+  ["販売場所", "sales-location", entry.data.resources.salesLocation]
+] as const;
+---
+<BaseLayout title={`${entry.data.title} | NATURE FIGURE`} description={entry.data.description}>
+  <div class="breadcrumb"><a href={siteUrl("/")}>ホーム</a> / <a href={siteUrl("/titles/")}>タイトル</a> / {entry.data.title}</div>
+
+  <div class="title-layout">
+    <article class="title-main">
+      <header class="title-heading">
+        <div class="title-heading-meta">
+          <p class:list={["eyebrow", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</p>
+          {entry.data.seriesName && <span class="title-series-label">{entry.data.seriesName}</span>}
+        </div>
+        <h1>{entry.data.title}</h1>
+        {entry.data.description && <p class="title-lead">{entry.data.description}</p>}
+      </header>
+
+      {collectionPhoto && (
+        <div class="title-collection-photo">
+          <img src={collectionPhoto} alt={`${entry.data.title}の集合写真`} />
+        </div>
+      )}
+
+      <section class="title-description">
+        <div class="title-section-header">
+          <span class="topic-marker"></span>
+          <h2>概要</h2>
+        </div>
+        <div class="review-body">
+          <Content />
+        </div>
+      </section>
+
+      <section class="title-section title-lineup-section">
+        <div class="title-section-header">
+          <span class="topic-marker"></span>
+          <h2>ラインナップ</h2>
+        </div>
+        <div class="lineup-grid">
+          {lineup.map((figure) => {
+            const image = resolveFigureImage(
+              figure.id,
+              figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
+            );
+            return (
+              <a class="lineup-item" href={siteUrl(`/figures/${figure.id.replace(/\/index(?:\.md)?$/, "")}/`)}>
+                {image ? <img src={image} alt={figure.data.title} loading="lazy" /> : <span class="lineup-placeholder">{figure.data.figureId}</span>}
+                <span class="lineup-caption">
+                  <em>{figure.data.figureId}</em>
+                  <strong>{figure.data.title}</strong>
+                </span>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+
+      {resourceSections.map(([heading, sectionKey, resource]) => (
+        <section class:list={["title-section", "title-placeholder-section", `title-resource-${sectionKey}`]}>
+          <div class="title-section-header">
+            <span class="topic-marker"></span>
+            <h2>{heading}</h2>
+          </div>
+          <div class="title-resource-body">
+            {resource?.image && (
+              <img
+                src={resolveFigureImage(entry.id, resource.image)}
+                alt={`${entry.data.title}の${heading}`}
+                loading="lazy"
+              />
+            )}
+            {resource?.description && <p>{resource.description}</p>}
+          </div>
+        </section>
+      ))}
+
+      <section class="title-section title-placeholder-section title-related-post-section">
+        <div class="title-section-header">
+          <span class="topic-marker"></span>
+          <h2>関連投稿</h2>
+        </div>
+        <div class="title-resource-body related-post-body">
+          {entry.data.relatedPostEmbed
+            ? <div set:html={entry.data.relatedPostEmbed}></div>
+            : <div aria-label="関連投稿の掲載予定位置"></div>}
+        </div>
+      </section>
+    </article>
+
+    <aside class="title-sidebar">
+      <section class="sidebar-card basic-card title-basic-card">
+        <div class="basic-heading">
+          <span class="animal-icon">♟</span>
+          <h2>基本情報</h2>
+        </div>
+        <dl class="info-list">
+          <dt>タイトル</dt><dd>{entry.data.title}</dd>
+          {entry.data.maker && <><dt>メーカー</dt><dd>{entry.data.maker}</dd></>}
+          {entry.data.seriesName && <><dt>シリーズ</dt><dd>{entry.data.seriesName}</dd></>}
+          {entry.data.releaseStart && <><dt>発売開始</dt><dd>{entry.data.releaseStart}</dd></>}
+          <dt>収録数</dt><dd>{lineup.length}種類</dd>
+        </dl>
+        {entry.data.tags.length > 0 && (
+          <div class="tag-list">{entry.data.tags.map((tag) => <span>{tag}</span>)}</div>
+        )}
+      </section>
+
+      <section class="sidebar-card related-card">
+        <h2>関連するフィギュア</h2>
+        {lineup.slice(0, 3).map((figure) => {
+          const image = resolveFigureImage(
+            figure.id,
+            figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
+          );
+          return (
+            <a class="related-item" href={siteUrl(`/figures/${figure.id.replace(/\/index(?:\.md)?$/, "")}/`)}>
+              {image ? <img src={image} alt="" /> : <span class="related-placeholder">FIGURE</span>}
+              <span><strong>{figure.data.title}</strong><small>{entry.data.title}</small></span>
+              <b>›</b>
+            </a>
+          );
+        })}
+      </section>
+      <a class="back-link" href={siteUrl("/titles/")}>←　一覧に戻る</a>
+    </aside>
+  </div>
+</BaseLayout>

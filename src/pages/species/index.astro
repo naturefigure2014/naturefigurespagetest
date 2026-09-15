@@ -1,0 +1,174 @@
+---
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { resolveFigureImage } from "../../lib/figure-images";
+import { siteUrl } from "../../lib/site-url";
+
+const figures = (await getCollection("figures")).filter(
+  (item) => item.data.contentType !== "title" && item.data.species
+);
+
+type Figure = (typeof figures)[number];
+type Group = {
+  name: string;
+  species: string[];
+};
+type Category = {
+  id: string;
+  title: string;
+  englishTitle: string;
+  description: string;
+  icon: string;
+  groups: Group[];
+};
+
+const categories: Category[] = [
+  {
+    id: "animal",
+    title: "動物",
+    englishTitle: "ANIMAL",
+    description: "現在生きている生き物を、分類から探すことができます。",
+    icon: "●",
+    groups: [
+      { name: "哺乳類", species: ["ニホンザル", "トウホクノウサギ"] },
+      { name: "鳥類", species: ["マガン", "オオマシコ"] },
+      { name: "爬虫類", species: [] },
+      { name: "両生類", species: ["トウホクサンショウウオ"] },
+      { name: "魚類", species: ["クニマス"] },
+      { name: "昆虫", species: [] },
+      { name: "クモ類", species: [] },
+      { name: "甲殻類", species: ["ニホンザリガニ"] },
+      { name: "軟体動物", species: [] },
+      { name: "その他", species: ["キタカブリ"] }
+    ]
+  },
+  {
+    id: "paleontology",
+    title: "古生物",
+    englishTitle: "PALEONTOLOGY",
+    description: "絶滅した生き物を、分類から探すことができます。",
+    icon: "✦",
+    groups: [
+      { name: "恐竜類", species: [] },
+      { name: "翼竜類", species: [] },
+      { name: "鳥盤類", species: [] },
+      { name: "角竜類", species: [] },
+      { name: "獣脚類", species: [] },
+      { name: "堅頭竜類", species: [] },
+      { name: "翼竜", species: [] },
+      { name: "海生爬虫類", species: [] },
+      { name: "その他", species: [] }
+    ]
+  },
+  {
+    id: "mythical",
+    title: "幻獣・伝承",
+    englishTitle: "MYTHICAL & LEGENDARY",
+    description: "伝承や神話、都市伝説に登場する生き物を探すことができます。",
+    icon: "♞",
+    groups: [
+      { name: "UMA", species: ["ツチノコ"] },
+      { name: "妖怪", species: [] },
+      { name: "幻獣", species: [] },
+      { name: "キャラクター", species: [] }
+    ]
+  }
+];
+
+const figureForSpecies = (names: string[]): Figure | undefined =>
+  figures.find((figure) => names.includes(figure.data.species ?? ""));
+
+const groupCount = (group: Group) =>
+  figures.filter((figure) => group.species.includes(figure.data.species ?? "")).length;
+
+const groupImage = (group: Group) => {
+  const figure = figureForSpecies(group.species);
+  if (!figure) return undefined;
+  return resolveFigureImage(
+    figure.id,
+    figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
+  );
+};
+---
+
+<BaseLayout title="SPECIES | NATURE FIGURE">
+  <div class="species-page">
+    <div class="breadcrumb"><a href={siteUrl("/")}>ホーム</a> / 生きものから探す</div>
+
+    <section class="species-hero">
+      <div class="species-hero-copy">
+        <p class="eyebrow">生きものから探す</p>
+        <h1>生き物から探す</h1>
+        <p>
+          フィギュアに登場する生き物を、分類や名前から探すことができます。<br />
+          動物・古生物・幻獣・伝承の4つのカテゴリから、気になる生き物を見つけてください。
+        </p>
+      </div>
+      <div class="species-hero-art" aria-hidden="true">♠</div>
+    </section>
+
+    <form class="species-search" id="species-search">
+      <span aria-hidden="true">⌕</span>
+      <label class="sr-only" for="species-query">生き物の名前で検索</label>
+      <input id="species-query" type="search" placeholder="生き物の名前で検索（例：ニホンザル、ティラノサウルスなど）" />
+      <button type="submit">検索</button>
+    </form>
+    <p class="species-search-status" id="species-search-status" aria-live="polite"></p>
+
+    <div class="species-category-list">
+      {categories.map((category) => (
+        <section class:list={["species-category", `species-category--${category.id}`]}>
+          <div class="species-category-intro">
+            <div class="species-category-icon" aria-hidden="true">{category.icon}</div>
+            <div>
+              <h2>{category.title}</h2>
+              <p class="species-category-english">{category.englishTitle}</p>
+              <p class="species-category-description">{category.description}</p>
+            </div>
+            <a class="species-see-all" href={siteUrl("/figures/")}>すべて見る <span>→</span></a>
+          </div>
+          <div class="species-group-grid">
+            {category.groups.map((group) => {
+              const image = groupImage(group);
+              const count = groupCount(group);
+              return (
+                <a
+                  class="species-group-card"
+                  href={siteUrl("/figures/")}
+                  data-species={`${group.name} ${group.species.join(" ")}`}
+                >
+                  {image ? <img src={image} alt="" loading="lazy" /> : <span class="species-group-placeholder">{group.name.slice(0, 1)}</span>}
+                  <span class="species-group-content">
+                    <strong>{group.name}</strong>
+                    <small>{count}種類</small>
+                  </span>
+                  <span class="species-group-arrow" aria-hidden="true">›</span>
+                </a>
+              );
+            })}
+          </div>
+        </section>
+      ))}
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  const form = document.querySelector<HTMLFormElement>("#species-search");
+  const input = document.querySelector<HTMLInputElement>("#species-query");
+  const status = document.querySelector<HTMLElement>("#species-search-status");
+  const cards = Array.from(document.querySelectorAll<HTMLElement>(".species-group-card"));
+
+  form?.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const query = input?.value.trim().toLocaleLowerCase() ?? "";
+    let visible = 0;
+    cards.forEach((card) => {
+      const matches = !query || (card.dataset.species ?? "").toLocaleLowerCase().includes(query);
+      card.hidden = !matches;
+      if (matches) visible += 1;
+    });
+    if (status) status.textContent = query && visible === 0 ? "該当する分類が見つかりませんでした。" : "";
+  });
+</script>

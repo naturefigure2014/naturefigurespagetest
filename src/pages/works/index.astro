@@ -1,0 +1,17 @@
+---
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Card from "../../components/Card.astro";
+import { getCollection } from "astro:content";
+import { siteUrl } from "../../lib/site-url";
+const items = await getCollection("works");
+---
+<BaseLayout title="WORKS | NATURE FIGURE">
+  <p class="eyebrow">WORKS</p>
+  <h1>自作・塗装・改造</h1>
+  <div class="grid">
+    {items.map((item) => (
+      <Card href={siteUrl(`/works/${item.id}/`)} label={item.data.type.toUpperCase()} title={item.data.title} description={item.data.description} image={item.data.images[0]} />
+    ))}
+  </div>
+</BaseLayout>

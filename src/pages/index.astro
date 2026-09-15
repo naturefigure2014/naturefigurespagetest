@@ -1,0 +1,18 @@
+---
+import "../styles/global.css";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Card from "../components/Card.astro";
+import { siteUrl } from "../lib/site-url";
+---
+<BaseLayout>
+  <p class="eyebrow">NATURE FIGURE</p>
+  <h1>自然を、フィギュアで楽しむ。</h1>
+  <p class="lead">フィギュアレビュー、自作・塗装作品、ブログを、4つのコンテンツに整理して紹介するサイトです。</p>
+  <h2>EXPLORE</h2>
+  <div class="grid">
+    <Card href={siteUrl("/titles/")} label="TITLES" title="商品・シリーズ" description="複数ラインナップにも単体商品にも対応。" />
+    <Card href={siteUrl("/figures/")} label="FIGURES" title="フィギュア" description="個々のフィギュアを詳しくレビュー。" />
+    <Card href={siteUrl("/works/")} label="WORKS" title="自作・塗装・改造" description="自分で手を加えた作品を紹介。" />
+    <Card href={siteUrl("/blog/")} label="BLOG" title="ブログ" description="展示会・お出かけ・日記など。" />
+  </div>
+</BaseLayout>

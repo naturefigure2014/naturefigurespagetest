@@ -1,0 +1,315 @@
+---
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection, render } from "astro:content";
+import { resolveFigureImage } from "../../lib/figure-images";
+import { siteUrl } from "../../lib/site-url";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("figures");
+  return entries
+    .filter((entry) => entry.data.contentType !== "title")
+    .map((entry) => ({
+      params: { slug: entry.id.replace(/\/index(?:\.md)?$/, "") },
+      props: { entry }
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const normalizeContentId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
+const figures = await getCollection("figures");
+const title = figures.find(
+  (item) => item.data.contentType === "title" &&
+    normalizeContentId(item.id) === normalizeContentId(entry.data.titleId ?? "")
+);
+const works = await getCollection("works");
+const blogs = await getCollection("blog");
+
+const normalizedTitleId = normalizeContentId(entry.data.titleId ?? "");
+const titleHref = title ? siteUrl(`/figures/${normalizeContentId(title.id)}/`) : undefined;
+const relatedFigures = figures.filter(
+  (figure) =>
+    figure.data.contentType !== "title" &&
+    normalizeContentId(figure.data.titleId ?? "") === normalizedTitleId &&
+    normalizeContentId(figure.id) !== normalizeContentId(entry.id)
+);
+const relatedWorks = works.filter((work) =>
+  entry.data.workIds.some((workId) => normalizeContentId(workId) === normalizeContentId(work.id))
+);
+const relatedBlogs = blogs.filter((blog) =>
+  blog.data.relatedFigures.some((figureId) => normalizeContentId(figureId) === normalizeContentId(entry.id))
+);
+
+const firstTopicImage = entry.data.topics.flatMap((topic) => topic.images)[0];
+const coverImage = entry.data.coverImage ?? firstTopicImage;
+const coverImageUrl = coverImage === undefined ? undefined : resolveFigureImage(entry.id, coverImage);
+
+const titleFigure = title
+  ? figures.find((figure) => normalizeContentId(figure.id) === normalizeContentId(title.data.figureIds[0] ?? ""))
+  : undefined;
+const titleImage = title?.data.coverImage ?? (titleFigure
+  ? resolveFigureImage(titleFigure.id, titleFigure.data.coverImage ?? titleFigure.data.topics.flatMap((topic) => topic.images)[0])
+  : undefined);
+
+const formatDate = (date: Date | undefined) =>
+  date ? date.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" }) : undefined;
+
+// メーカーごとのラベル色。海洋堂は青にしています。
+const makerBadgeClass = (() => {
+  switch (entry.data.maker) {
+    case "海洋堂": return "maker-kaiyodo";
+    case "バンダイ": return "maker-bandai";
+    case "タカラトミー": return "maker-takaratomy";
+    case "リーメント": return "maker-re-ment";
+    case "奇譚クラブ": return "maker-kitan-club";
+    default: return "maker-default";
+  }
+})();
+---
+<BaseLayout title={`${entry.data.title} | NATURE FIGURE`} description={entry.data.description}>
+  <div class="breadcrumb">
+    <a href={siteUrl("/")}>ホーム</a> / <a href={siteUrl("/figures/")}>フィギュア</a>
+    {title && titleHref && <> / <a href={titleHref}>{title.data.title}</a></>}
+    / {entry.data.title}
+  </div>
+
+  <div class="figure-layout">
+    <article class="figure-main">
+      <header class="figure-heading">
+        <div>
+          <p class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</p>
+          <h1>{entry.data.title}</h1>
+          <p class="figure-subtitle">
+            {title?.data.title && <>{title.data.title}</>}
+            {title?.data.seriesName && <>　／　{title.data.seriesName}</>}
+          </p>
+          {entry.data.releaseDate && (
+            <p class="figure-date">◷ {formatDate(entry.data.releaseDate)}</p>
+          )}
+          {entry.data.description && <p class="figure-lead">{entry.data.description}</p>}
+        </div>
+      </header>
+
+      {entry.data.topics.map((topic, topicIndex) => (
+        <section class:list={["topic-card", { featured: topicIndex === 0 }]}>
+          <div class="topic-card-header">
+            <span class="topic-marker">{topicIndex + 1}</span>
+            <h2>{topic.title}</h2>
+          </div>
+
+          <div class:list={["topic-body", {
+            "has-images": topic.images.length > 0,
+            "single-image": topic.images.length === 1,
+            "multiple-images": topic.images.length >= 2
+          }]}>
+            {topic.images.length > 0 && (
+              <div class:list={["topic-images", {
+                single: topic.images.length === 1,
+                two: topic.images.length === 2,
+                "three-or-more": topic.images.length >= 3
+              }]}>
+                {topic.images.map((image, index) => {
+                  const imageUrl = resolveFigureImage(entry.id, image);
+                  return (
+                    <a
+                      class="topic-image-link"
+                      href={imageUrl}
+                      data-lightbox-image={imageUrl}
+                      data-lightbox-alt={`${topic.title} ${index + 1}`}
+                      aria-label={`${topic.title}の画像${index + 1}を拡大表示`}
+                    >
+                      <img
+                        src={imageUrl}
+                        alt={`${topic.title} ${index + 1}`}
+                        loading={topicIndex === 0 ? "eager" : "lazy"}
+                      />
+                    </a>
+                  );
+                })}
+              </div>
+            )}
+            {topic.comment && <p class="topic-comment">{topic.comment}</p>}
+          </div>
+        </section>
+      ))}
+
+      <section class="review-card">
+        <div class="topic-card-header">
+          <span class="topic-marker">★</span>
+          <h2>レビュー</h2>
+        </div>
+        <div class="review-body">
+          <Content />
+        </div>
+      </section>
+    </article>
+
+    <aside class="figure-sidebar">
+      <section class="sidebar-card basic-card">
+        <div class="basic-heading">
+          <span class="animal-icon">♟</span>
+          <h2>基本情報</h2>
+        </div>
+        <div class="basic-top">
+          {coverImageUrl && (
+            <img class="figure-cover" src={coverImageUrl} alt={entry.data.title} />
+          )}
+          <dl class="info-list">
+            <dt>フィギュア名</dt><dd>{entry.data.title}</dd>
+            <dt>通し番号</dt><dd>{entry.data.figureId}</dd>
+            {title && titleHref && <><dt>収録タイトル</dt><dd><a href={titleHref}>{title.data.title}</a></dd></>}
+            {title?.data.seriesName && <><dt>シリーズ名</dt><dd>{title.data.seriesName}</dd></>}
+            {title?.data.maker && <><dt>メーカー名</dt><dd>{title.data.maker}</dd></>}
+            {title?.data.releaseStart && <><dt>発売開始</dt><dd>{title.data.releaseStart}</dd></>}
+            {entry.data.size && <><dt>サイズ</dt><dd>{entry.data.size}</dd></>}
+            {entry.data.price && <><dt>価格</dt><dd>{entry.data.price}</dd></>}
+            {entry.data.species && <><dt>種類</dt><dd>{entry.data.species}</dd></>}
+          </dl>
+        </div>
+
+        {entry.data.tags.length > 0 && (
+          <div class="tag-list">
+            {entry.data.tags.map((tag) => <span>{tag}</span>)}
+          </div>
+        )}
+      </section>
+
+      {title && titleHref && (
+        <section class="sidebar-card related-card">
+          <h2>関連するタイトル</h2>
+          <a class="related-item" href={titleHref}>
+            {titleImage ? <img src={titleImage} alt="" /> : <span class="related-placeholder">TITLE</span>}
+            <span>
+              <strong>{title.data.title}</strong>
+              <small>{title.data.maker ?? ""}</small>
+            </span>
+            <b>›</b>
+          </a>
+        </section>
+      )}
+
+      {relatedFigures.length > 0 && (
+        <section class="sidebar-card related-card">
+          <h2>関連するフィギュア</h2>
+          {relatedFigures.slice(0, 3).map((figure) => {
+            const image = resolveFigureImage(
+              figure.id,
+              figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
+            );
+            return (
+              <a class="related-item" href={siteUrl(`/figures/${figure.id.replace(/\/index(?:\.md)?$/, "")}/`)}>
+                {image ? <img src={image} alt="" /> : <span class="related-placeholder">FIGURE</span>}
+                <span>
+                  <strong>{figure.data.title}</strong>
+                  <small>{title?.data.title ?? ""}</small>
+                </span>
+                <b>›</b>
+              </a>
+            );
+          })}
+        </section>
+      )}
+
+      {relatedWorks.length > 0 && (
+        <section class="sidebar-card related-card">
+          <h2>関連する作品（WORKS）</h2>
+          {relatedWorks.slice(0, 3).map((work) => (
+            <a class="related-item" href={siteUrl(`/works/${work.id}/`)}>
+              {work.data.images[0] ? <img src={work.data.images[0]} alt="" /> : <span class="related-placeholder">WORKS</span>}
+              <span>
+                <strong>{work.data.title}</strong>
+                <small>{work.data.type}</small>
+              </span>
+              <b>›</b>
+            </a>
+          ))}
+        </section>
+      )}
+
+      {relatedBlogs.length > 0 && (
+        <section class="sidebar-card related-card">
+          <h2>関連するブログ</h2>
+          {relatedBlogs.slice(0, 3).map((blog) => (
+            <a class="related-item" href={siteUrl(`/blog/${blog.id}/`)}>
+              {blog.data.coverImage ? <img src={blog.data.coverImage} alt="" /> : <span class="related-placeholder">BLOG</span>}
+              <span>
+                <strong>{blog.data.title}</strong>
+                <small>{blog.data.date ? formatDate(blog.data.date) : ""}</small>
+              </span>
+              <b>›</b>
+            </a>
+          ))}
+        </section>
+      )}
+
+      {relatedWorks.length > 0 && (
+        <section class="work-callout">
+          <strong>このフィギュアを塗装しました</strong>
+          <p>自分で制作した作品はこちら</p>
+          <a href={siteUrl(`/works/${relatedWorks[0].id}/`)}>→　塗装作品を見る</a>
+        </section>
+      )}
+
+      <section class="share-box">
+        <h2>シェアする</h2>
+        <div class="share-buttons">
+          <a href="#" aria-label="X">X</a>
+          <a href="#" aria-label="Facebook">f</a>
+          <button type="button" aria-label="リンクをコピー" data-copy-url>⛓</button>
+        </div>
+      </section>
+
+      <a class="back-link" href={siteUrl("/figures/")}>←　一覧に戻る</a>
+    </aside>
+  </div>
+  <div class="image-lightbox" data-image-lightbox hidden>
+    <button type="button" class="lightbox-close" data-lightbox-close aria-label="画像を閉じる">×</button>
+    <img data-lightbox-target alt="" />
+  </div>
+</BaseLayout>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>("[data-copy-url]").forEach((button) => {
+    button.addEventListener("click", async () => {
+      try {
+        await navigator.clipboard.writeText(window.location.href);
+        button.textContent = "✓";
+        setTimeout(() => (button.textContent = "⛓"), 1200);
+      } catch {
+        // Clipboard API may be unavailable on local/non-secure contexts.
+      }
+    });
+  });
+
+  const lightbox = document.querySelector<HTMLElement>("[data-image-lightbox]");
+  const lightboxImage = document.querySelector<HTMLImageElement>("[data-lightbox-target]");
+  const lightboxClose = document.querySelector<HTMLButtonElement>("[data-lightbox-close]");
+
+  const closeLightbox = () => {
+    if (!lightbox) return;
+    lightbox.hidden = true;
+    document.body.classList.remove("lightbox-open");
+    if (lightboxImage) lightboxImage.removeAttribute("src");
+  };
+
+  document.querySelectorAll<HTMLAnchorElement>("[data-lightbox-image]").forEach((link) => {
+    link.addEventListener("click", (event) => {
+      event.preventDefault();
+      const src = link.dataset.lightboxImage;
+      if (!lightbox || !lightboxImage || !src) return;
+      lightboxImage.src = src;
+      lightboxImage.alt = link.dataset.lightboxAlt ?? "";
+      lightbox.hidden = false;
+      document.body.classList.add("lightbox-open");
+    });
+  });
+
+  lightboxClose?.addEventListener("click", closeLightbox);
+  lightbox?.addEventListener("click", (event) => {
+    if (event.target === lightbox) closeLightbox();
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") closeLightbox();
+  });
+</script>

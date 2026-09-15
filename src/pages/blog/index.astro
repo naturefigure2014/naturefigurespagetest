@@ -1,0 +1,166 @@
+---
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { siteUrl } from "../../lib/site-url";
+
+const items = (await getCollection("blog"))
+  .sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0));
+
+const categoryLabels: Record<string, string> = {
+  diary: "日記",
+  event: "イベント",
+  outing: "施設・訪問",
+  note: "その他"
+};
+
+const years = [...new Set(items.map((item) => item.data.date?.getFullYear()).filter(Boolean))] as number[];
+const categories = [...new Set(items.map((item) => item.data.category))];
+---
+
+<BaseLayout title="BLOG | NATURE FIGURE" description="フィギュアと生きものをめぐる記録。">
+  <section class="blog-hero">
+    <div>
+      <p class="eyebrow">BLOG</p>
+      <h1>フィギュアと生きものを<br class="desktop-only" />めぐる記録</h1>
+      <p>展示会やイベント、コレクション、フィギュアについての記録を紹介します。</p>
+    </div>
+  </section>
+
+  <div class="blog-layout">
+    <aside class="blog-sidebar" aria-label="ブログの絞り込み">
+      <label class="search-box">
+        <span aria-hidden="true">⌕</span>
+        <input id="blog-search" type="search" placeholder="記事を検索…" autocomplete="off" />
+      </label>
+
+      <section class="filter-section">
+        <h2>カテゴリー</h2>
+        <div class="filter-list">
+          <button class="filter-button is-active" type="button" data-category="all">すべて <span>{items.length}</span></button>
+          {categories.map((category) => (
+            <button class="filter-button" type="button" data-category={category}>
+              {categoryLabels[category] ?? category} <span>{items.filter((item) => item.data.category === category).length}</span>
+            </button>
+          ))}
+        </div>
+      </section>
+
+      <section class="filter-section archive-section">
+        <h2>年別アーカイブ</h2>
+        <div class="archive-list">
+          {years.map((year) => (
+            <button type="button" data-year={year}>{year} <span>{items.filter((item) => item.data.date?.getFullYear() === year).length}</span></button>
+          ))}
+        </div>
+        <button class="archive-all" type="button" data-year="all">もっと見る ＋</button>
+      </section>
+    </aside>
+
+    <section class="blog-results" aria-label="ブログ記事一覧">
+      <div class="blog-toolbar">
+        <p id="blog-count">全{items.length}件</p>
+        <label class="sort-select">
+          <span class="sr-only">並び順</span>
+          <select id="blog-sort">
+            <option value="new">新しい順</option>
+            <option value="old">古い順</option>
+          </select>
+        </label>
+      </div>
+
+      <div id="blog-list" class="blog-list">
+        {items.map((item) => {
+          const year = item.data.date?.getFullYear();
+          const date = item.data.date?.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" });
+          return (
+            <article
+              class="blog-card"
+              data-category={item.data.category}
+              data-year={year ?? ""}
+              data-title={item.data.title.toLowerCase()}
+              data-description={(item.data.description ?? "").toLowerCase()}
+              data-date={item.data.date?.getTime() ?? 0}
+            >
+              <a href={siteUrl(`/blog/${item.id}/`)} class="blog-card-link">
+                <div class="blog-card-content">
+                  <time datetime={item.data.date?.toISOString()}>{date}</time>
+                  <h2>{item.data.title}</h2>
+                  <div class="blog-tags">
+                    <span>{categoryLabels[item.data.category] ?? item.data.category}</span>
+                    {item.data.tags.slice(0, 2).map((tag) => <span>{tag}</span>)}
+                  </div>
+                  {item.data.description && <p>{item.data.description}</p>}
+                </div>
+                <div class="blog-card-media">
+                  {item.data.coverImage ? (
+                    <img src={item.data.coverImage} alt="" loading="lazy" />
+                  ) : (
+                    <div class="blog-placeholder" aria-hidden="true"><span>NATURE<br />FIGURE</span></div>
+                  )}
+                  <span class="blog-arrow" aria-hidden="true">›</span>
+                </div>
+              </a>
+            </article>
+          );
+        })}
+      </div>
+
+      <p id="blog-empty" class="blog-empty" hidden>条件に一致する記事はありません。</p>
+    </section>
+  </div>
+</BaseLayout>
+
+<script>
+  const cards = Array.from(document.querySelectorAll<HTMLElement>(".blog-card"));
+  const buttons = Array.from(document.querySelectorAll<HTMLButtonElement>(".filter-button"));
+  const yearButtons = Array.from(document.querySelectorAll<HTMLButtonElement>("[data-year]"));
+  const search = document.querySelector<HTMLInputElement>("#blog-search");
+  const sort = document.querySelector<HTMLSelectElement>("#blog-sort");
+  const list = document.querySelector<HTMLElement>("#blog-list");
+  const count = document.querySelector<HTMLElement>("#blog-count");
+  const empty = document.querySelector<HTMLElement>("#blog-empty");
+
+  let activeCategory = "all";
+  let activeYear = "all";
+
+  function render() {
+    const query = (search?.value ?? "").trim().toLowerCase();
+    const visible = cards.filter((card) => {
+      const categoryOk = activeCategory === "all" || card.dataset.category === activeCategory;
+      const yearOk = activeYear === "all" || card.dataset.year === activeYear;
+      const textOk = !query || `${card.dataset.title} ${card.dataset.description}`.includes(query);
+      return categoryOk && yearOk && textOk;
+    });
+
+    const sorted = [...visible].sort((a, b) => {
+      const diff = Number(a.dataset.date ?? 0) - Number(b.dataset.date ?? 0);
+      return sort?.value === "old" ? diff : -diff;
+    });
+
+    cards.forEach((card) => card.hidden = true);
+    sorted.forEach((card) => {
+      card.hidden = false;
+      list?.appendChild(card);
+    });
+
+    if (count) count.textContent = `全${cards.length}件中 ${sorted.length}件を表示`;
+    if (empty) empty.hidden = sorted.length !== 0;
+  }
+
+  buttons.forEach((button) => button.addEventListener("click", () => {
+    activeCategory = button.dataset.category ?? "all";
+    buttons.forEach((b) => b.classList.toggle("is-active", b === button));
+    render();
+  }));
+
+  yearButtons.forEach((button) => button.addEventListener("click", () => {
+    activeYear = button.dataset.year ?? "all";
+    yearButtons.forEach((b) => b.classList.toggle("is-active", b === button && activeYear !== "all"));
+    render();
+  }));
+
+  search?.addEventListener("input", render);
+  sort?.addEventListener("change", render);
+  render();
+</script>

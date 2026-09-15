@@ -1,0 +1,18 @@
+---
+import "../../../styles/global.css";
+import TitleDetail from "../../../components/TitleDetail.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("figures");
+  return entries
+    .filter((entry) => entry.data.contentType === "title")
+    .map((entry) => ({
+      params: { slug: entry.id.replace(/\/index(?:\.md)?$/, "") },
+      props: { entry }
+    }));
+}
+
+const { entry } = Astro.props;
+---
+<TitleDetail entry={entry} />

@@ -1,0 +1,18 @@
+---
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Card from "../../components/Card.astro";
+import { getCollection } from "astro:content";
+import { resolveFigureImage } from "../../lib/figure-images";
+import { siteUrl } from "../../lib/site-url";
+const items = (await getCollection("figures")).filter((item) => item.data.contentType !== "title");
+---
+<BaseLayout title="FIGURES | NATURE FIGURE">
+  <p class="eyebrow">FIGURES</p>
+  <h1>フィギュア</h1>
+  <div class="grid">
+    {items.map((item) => (
+      <Card href={siteUrl(`/figures/${item.id.replace(/\/index(?:\.md)?$/, "")}/`)} label={item.data.figureId} title={item.data.title} description={item.data.species} image={resolveFigureImage(item.id, item.data.coverImage ?? item.data.topics.flatMap((topic) => topic.images)[0])} />
+    ))}
+  </div>
+</BaseLayout>

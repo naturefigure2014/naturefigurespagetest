@@ -1,0 +1,23 @@
+---
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection, render } from "astro:content";
+import { siteUrl } from "../../lib/site-url";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("works");
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+<BaseLayout title={`${entry.data.title} | NATURE FIGURE`} description={entry.data.description}>
+  <div class="breadcrumb"><a href={siteUrl("/works/")}>WORKS</a> / {entry.data.title}</div>
+  <p class="eyebrow">{entry.data.type.toUpperCase()}</p>
+  <h1>{entry.data.title}</h1>
+  <article class="detail">
+    {entry.data.images[0] && <img class="hero-image" src={entry.data.images[0]} alt={entry.data.title} />}
+    <Content />
+  </article>
+</BaseLayout>

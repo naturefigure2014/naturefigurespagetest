@@ -1,0 +1,16 @@
+---
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+const figures = await getCollection("figures");
+const makers = [...new Set(figures.map((item) => item.data.maker).filter(Boolean))].sort();
+---
+<BaseLayout title="MAKERS | NATURE FIGURE">
+  <p class="eyebrow">MAKERS</p>
+  <h1>メーカーから探す</h1>
+  <div class="grid">
+    {makers.map((name) => (
+      <div class="card"><div class="body"><h3>{name}</h3></div></div>
+    ))}
+  </div>
+</BaseLayout>
