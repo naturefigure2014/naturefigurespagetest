@@ -44,9 +44,6 @@ const makerBadgeClass = (maker?: string) => {
     default: return "maker-default";
   }
 };
-const titleFor = figures[0]?.data.scientificName
-  ? `${speciesName} (${figures[0].data.scientificName})`
-  : speciesName;
 ---
 
 <BaseLayout title={`${speciesName} | NATURE FIGURE`}>
@@ -61,11 +58,10 @@ const titleFor = figures[0]?.data.scientificName
     <section class="species-detail-hero">
       <p class="eyebrow">霊長類</p>
       <h1>{speciesName}</h1>
-      {figures[0]?.data.scientificName && <p>{figures[0].data.scientificName}</p>}
     </section>
 
     <section class="species-detail-section">
-      <h2>{titleFor}のフィギュア</h2>
+      <h2>{speciesName}のフィギュア</h2>
       <p class="species-detail-count">{figures.length}種類のフィギュア</p>
       <div class="species-detail-grid">
         {figures.map((figure) => (

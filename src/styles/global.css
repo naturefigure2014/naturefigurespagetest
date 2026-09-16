@@ -10,15 +10,19 @@ a { color: inherit; }
 .site-header {
   display: flex; align-items: center; gap: 30px; min-height: 58px;
   padding: 0 max(24px, calc((100% - 1180px) / 2));
-  background: rgba(255,255,255,.96); border-bottom: 1px solid #e0e9e5;
+  background: rgba(255,255,255,.96); border-top: 9px solid #2c7a55; border-bottom: 1px solid #e0e9e5;
   position: sticky; top: 0; z-index: 10; backdrop-filter: blur(10px);
 }
 .logo { display: flex; align-items: center; gap: 9px; color: #183a2b; text-decoration: none; white-space: nowrap; }
 .logo-mark { color: #2c7a55; font-size: 1.45rem; line-height: 1; transform: rotate(-25deg); }
+.logo-copy { display: flex; flex-direction: column; line-height: 1.15; }
 .logo-text { font-weight: 800; letter-spacing: .08em; font-size: .92rem; }
+.logo-subtitle { margin-top: 2px; color: #6b8177; font-size: .53rem; letter-spacing: .04em; }
 .site-header nav { display: flex; align-items: stretch; gap: 0; flex: 1; }
 .site-header nav a { color: #51645c; text-decoration: none; font-size: .76rem; font-weight: 700; letter-spacing: .04em; padding: 20px 15px; white-space: nowrap; }
 .site-header nav a:hover { background: #f0f6f3; color: #286044; }
+.site-header nav a.is-active { position: relative; color: #286044; font-weight: 800; }
+.site-header nav a.is-active::after { content: ""; position: absolute; right: 15px; bottom: 11px; left: 15px; height: 3px; border-radius: 2px; background: #2c7a55; }
 .header-tools { display: flex; gap: 14px; font-size: 1.35rem; color: #26463b; }
 main { max-width: 1180px; margin: auto; padding: 28px 20px 70px; }
 h1, h2, h3 { line-height: 1.25; }
@@ -110,9 +114,9 @@ h2 { margin-top: 2.5rem; }
 
 /* SPECIES / PRIMATES */
 .primates-page { max-width: 1120px; margin: 0 auto; }
-.primates-hero { position: relative; min-height: 210px; margin: -8px -20px 22px; padding: 24px 42px; overflow: hidden; background: linear-gradient(105deg, #183d27, #507542 53%, #b7c995); border-radius: 0 0 10px 10px; color: #fff; }
+.primates-hero { position: relative; min-height: 178px; margin: -8px -20px 22px; padding: 22px 42px; overflow: hidden; background: linear-gradient(105deg, #183d27, #507542 53%, #b7c995); border-radius: 0 0 10px 10px; color: #fff; }
 .primates-hero-copy { position: relative; z-index: 1; }
-.primates-hero h1 { margin: 10px 0 0; color: #fff; font-size: clamp(2.1rem, 4.2vw, 3.4rem); letter-spacing: .08em; }
+.primates-hero h1 { margin: 0; color: #fff; font-size: clamp(2.1rem, 4.2vw, 3.4rem); letter-spacing: .08em; }
 .primates-hero .eyebrow { background: rgba(20, 53, 32, .7); }
 .primates-hero p:not(.eyebrow):not(.primates-scientific) { margin: 5px 0 0; color: #f5fff1; font-size: .85rem; line-height: 1.55; }
 .primates-scientific { margin: -2px 0 5px; color: #dbe8cc; font-family: Georgia, serif; font-size: .9rem; }
@@ -231,7 +235,8 @@ h2 { margin-top: 2.5rem; }
 .share-buttons { display: flex; gap: 8px; }
 .share-buttons a, .share-buttons button { width: 31px; height: 31px; border: 0; border-radius: 50%; display: grid; place-items: center; background: #294d42; color: #fff; text-decoration: none; font: inherit; font-weight: 800; cursor: pointer; }
 .back-link { display: block; padding: 11px 14px; border: 1px solid #dbe6e1; border-radius: 7px; color: #5d746b; text-decoration: none; font-size: .76rem; background: #fff; }
-footer { padding: 30px; text-align: center; color: #788b83; border-top: 1px solid #dfe8e4; background: #fff; font-size: .75rem; }
+footer { position: relative; margin-top: 22px; padding: 18px 30px; text-align: center; color: #fff; background: linear-gradient(to bottom, #fff 0, #fff 14px, #2c7a55 14px, #2c7a55 48px, #fff 48px); font-size: .75rem; line-height: 1.5; }
+footer span { position: relative; z-index: 1; display: inline-block; padding: 5px 0; }
 
 /* TITLE detail */
 .title-layout { display: grid; grid-template-columns: minmax(0, 1fr) 358px; gap: 22px; align-items: start; }
@@ -359,6 +364,7 @@ body.lightbox-open { overflow: hidden; }
   .logo { margin-bottom: 8px; }
   .site-header nav { overflow-x: auto; }
   .site-header nav a { padding: 8px 10px; }
+  .site-header nav a.is-active::after { right: 10px; bottom: 3px; left: 10px; }
   .header-tools { display: none; }
   main { padding: 24px 16px 60px; }
   .grid { grid-template-columns: repeat(2, 1fr); gap: 14px; }
@@ -380,6 +386,8 @@ body.lightbox-open { overflow: hidden; }
   .figure-cover { width: 100px; height: auto; aspect-ratio: 4 / 3; }
 }
 @media (max-width: 520px) {
+  .site-header { min-height: 56px; }
+  .logo-subtitle { font-size: .48rem; }
   .topic-images { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 5px; }
   .topic-body.single-image .topic-images { grid-template-columns: 1fr; }
   .info-list { grid-template-columns: max-content 1fr; gap: 3px 8px; }
@@ -451,7 +459,7 @@ body.lightbox-open { overflow: hidden; }
   .mammals-hero { margin-left: -16px; margin-right: -16px; padding-left: 16px; padding-right: 16px; }
   .mammal-group-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px 8px; }
   .mammal-group-media { height: 105px; }
-  .primates-hero { min-height: 190px; margin-left: -16px; margin-right: -16px; padding: 20px; }
+  .primates-hero { min-height: 160px; margin-left: -16px; margin-right: -16px; padding: 18px 20px; }
   .primates-hero-art { right: 7%; bottom: -35px; font-size: 10rem; }
   .primates-featured { grid-template-columns: 1fr; gap: 9px; }
   .primate-feature-card { display: grid; grid-template-columns: 108px minmax(0, 1fr); }
@@ -498,7 +506,7 @@ body.lightbox-open { overflow: hidden; }
   .mammal-group-icon { width: 30px; height: 30px; font-size: .85rem; }
   .mammal-group-footer strong { font-size: .75rem; }
   .mammal-group-arrow { font-size: 1.25rem; }
-  .primates-hero { min-height: 160px; padding: 18px 16px; }
+  .primates-hero { min-height: 140px; padding: 16px; }
   .primates-hero h1 { font-size: 2rem; }
   .primates-hero-art { font-size: 8rem; }
   .species-detail-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px 8px; }

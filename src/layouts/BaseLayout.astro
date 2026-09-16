@@ -5,6 +5,9 @@ const {
   title = "NATURE FIGURE | ネイチャーフィギュアのページ",
   description = "ネイチャーフィギュアのページ"
 } = Astro.props;
+const pathname = Astro.url.pathname.replace(/^\/naturefigurespagetest/, "") || "/";
+const isActive = (section: string) =>
+  pathname === section || pathname.startsWith(`${section}/`);
 ---
 <!doctype html>
 <html lang="ja">
@@ -18,21 +21,35 @@ const {
     <header class="site-header">
       <a class="logo" href={siteUrl("/")}>
         <span class="logo-mark" aria-hidden="true">◒</span>
-        <span class="logo-text">NATURE FIGURE</span>
+        <span class="logo-copy">
+          <span class="logo-text">NATURE FIGURE</span>
+          <span class="logo-subtitle">ネイチャーフィギュアのページ</span>
+        </span>
       </a>
       <nav aria-label="メインナビゲーション">
-        <a href={siteUrl("/species/")}>生きものから探す</a>
-        <a href={siteUrl("/makers/")}>メーカーから探す</a>
-        <a href={siteUrl("/titles/")}>タイトルから探す</a>
-        <a href={siteUrl("/works/")}>塗装・改造</a>
-        <a href={siteUrl("/figures/")}>フィギュア一覧</a>
-        <a href={siteUrl("/blog/")}>ブログ</a>
+        <a data-nav-section="/species" href={siteUrl("/species/")}>生きものから探す</a>
+        <a data-nav-section="/makers" href={siteUrl("/makers/")}>メーカーから探す</a>
+        <a data-nav-section="/titles" href={siteUrl("/titles/")}>タイトルから探す</a>
+        <a data-nav-section="/works" href={siteUrl("/works/")}>塗装・改造</a>
+        <a data-nav-section="/figures" href={siteUrl("/figures/")}>フィギュア一覧</a>
+        <a data-nav-section="/blog" href={siteUrl("/blog/")}>ブログ</a>
       </nav>
       <div class="header-tools" aria-hidden="true"><span>⌕</span><span>◌</span></div>
     </header>
     <main>
       <slot />
     </main>
-    <footer>Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</footer>
+    <footer><span>Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</span></footer>
   </body>
 </html>
+
+<script>
+  const basePath = "/naturefigurespagetest";
+  const currentPath = window.location.pathname.replace(basePath, "") || "/";
+  document.querySelectorAll<HTMLAnchorElement>("[data-nav-section]").forEach((link) => {
+    const section = link.dataset.navSection ?? "";
+    if (currentPath === section || currentPath.startsWith(`${section}/`)) {
+      link.classList.add("is-active");
+    }
+  });
+</script>

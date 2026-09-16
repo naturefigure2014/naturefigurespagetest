@@ -34,9 +34,7 @@ const featured = speciesEntries.slice(0, 3);
 
     <section class="primates-hero">
       <div class="primates-hero-copy">
-        <p class="eyebrow">生きものから探す › 動物 › 哺乳類</p>
         <h1>霊長類</h1>
-        <p class="primates-scientific">Primates</p>
         <p>霊長類のフィギュアを、<br />生き物の種類から探せます。</p>
       </div>
       <div class="primates-hero-art" aria-hidden="true">♘</div>
@@ -50,7 +48,6 @@ const featured = speciesEntries.slice(0, 3);
             <img src={imageFor(figure)} alt="" loading="lazy" />
             <div class="primate-feature-body">
               <strong>{figure.data.title}</strong>
-              {figure.data.scientificName && <em>{figure.data.scientificName}</em>}
               <small>♟ フィギュア {countForSpecies(figure.data.species ?? "")}種</small>
               <span aria-hidden="true">›</span>
             </div>
@@ -75,7 +72,5 @@ const featured = speciesEntries.slice(0, 3);
       </div>
       {primates.length === 0 && <p class="primates-empty">現在、登録されている霊長類のフィギュアはありません。</p>}
     </section>
-
-    <p class="primates-note">ⓘ ※ フィギュアのない種も表示されています。現在、この種のフィギュアはありません。</p>
   </div>
 </BaseLayout>
