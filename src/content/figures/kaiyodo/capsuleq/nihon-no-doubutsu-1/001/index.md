@@ -4,6 +4,7 @@ description: カプセルQミュージアム「日本の動物コレクション
 titleId: kaiyodo/capsuleq/nihon-no-doubutsu-1
 figureId: "250"
 species: ニホンザル
+speciesGroup: 霊長類
 scientificName: Macaca fuscata
 maker: 海洋堂
 coverImage: anima_japI_015.jpg

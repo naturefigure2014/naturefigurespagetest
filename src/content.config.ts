@@ -44,6 +44,7 @@ const figures = defineCollection({
     }).default({}),
     relatedPostEmbed: z.string().optional(),
     species: z.string().optional(),
+    speciesGroup: z.string().optional(),
     scientificName: z.string().optional(),
     releaseDate: z.coerce.date().optional(),
     size: z.string().optional(),

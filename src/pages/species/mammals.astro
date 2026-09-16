@@ -10,13 +10,14 @@ const figures = (await getCollection("figures")).filter(
 );
 
 type MammalGroup = {
+  id?: string;
   name: string;
   species: string[];
   icon: string;
 };
 
 const groups: MammalGroup[] = [
-  { name: "霊長類", species: ["ニホンザル"], icon: "●" },
+  { id: "primates", name: "霊長類", species: ["ニホンザル"], icon: "●" },
   { name: "食肉類", species: [], icon: "♣" },
   { name: "齧歯・兎類", species: ["トウホクノウサギ"], icon: "◆" },
   { name: "偶蹄類", species: [], icon: "◈" },
@@ -67,7 +68,7 @@ const groupImage = (group: MammalGroup) => {
         const image = groupImage(group);
         const count = groupCount(group);
         return (
-          <a class="mammal-group-card" href={siteUrl("/figures/")}>
+          <a class="mammal-group-card" href={siteUrl(group.id ? `/species/${group.id}/` : "/figures/")}>
             <div class="mammal-group-media">
               {image ? <img src={image} alt="" loading="lazy" /> : <span>{group.icon}</span>}
             </div>

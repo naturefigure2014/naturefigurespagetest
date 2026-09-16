@@ -108,6 +108,53 @@ h2 { margin-top: 2.5rem; }
 .mammal-group-footer small { display: block; margin-top: 2px; color: #78abb1; font-size: .63rem; }
 .mammal-group-arrow { color: #1b85a0; font-size: 1.6rem; font-weight: 300; }
 
+/* SPECIES / PRIMATES */
+.primates-page { max-width: 1120px; margin: 0 auto; }
+.primates-hero { position: relative; min-height: 210px; margin: -8px -20px 22px; padding: 24px 42px; overflow: hidden; background: linear-gradient(105deg, #183d27, #507542 53%, #b7c995); border-radius: 0 0 10px 10px; color: #fff; }
+.primates-hero-copy { position: relative; z-index: 1; }
+.primates-hero h1 { margin: 10px 0 0; color: #fff; font-size: clamp(2.1rem, 4.2vw, 3.4rem); letter-spacing: .08em; }
+.primates-hero .eyebrow { background: rgba(20, 53, 32, .7); }
+.primates-hero p:not(.eyebrow):not(.primates-scientific) { margin: 5px 0 0; color: #f5fff1; font-size: .85rem; line-height: 1.55; }
+.primates-scientific { margin: -2px 0 5px; color: #dbe8cc; font-family: Georgia, serif; font-size: .9rem; }
+.primates-hero-art { position: absolute; right: 14%; bottom: -55px; color: rgba(16, 43, 24, .55); font-size: 15rem; line-height: 1; transform: scaleX(1.35); }
+.primates-section { margin: 0 0 20px; }
+.primates-section h2 { margin: 0 0 10px; color: #29463c; font-size: 1rem; }
+.primates-featured { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; }
+.primate-feature-card { overflow: hidden; border: 1px solid #dce8df; border-radius: 8px; background: #fff; color: #29463c; text-decoration: none; box-shadow: 0 2px 8px rgba(45, 83, 48, .06); }
+.primate-feature-card > img { display: block; width: 100%; height: 130px; object-fit: cover; }
+.primate-feature-body { position: relative; padding: 8px 34px 10px 12px; }
+.primate-feature-body strong, .primate-feature-body em, .primate-feature-body small { display: block; }
+.primate-feature-body strong { color: #1c6380; font-size: .78rem; }
+.primate-feature-body em { color: #81958e; font-family: Georgia, serif; font-size: .68rem; }
+.primate-feature-body small { margin-top: 4px; color: #6c847b; font-size: .64rem; }
+.primate-feature-body > span { position: absolute; right: 12px; bottom: 14px; color: #5b8b9c; font-size: 1.35rem; }
+.primate-list { display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 26px; }
+.primate-list-item { display: grid; grid-template-columns: 47px minmax(0, 1fr) 12px; gap: 9px; align-items: center; min-height: 57px; border-bottom: 1px solid #dfe9e4; color: #42665b; text-decoration: none; }
+.primate-list-item img { width: 47px; height: 39px; border-radius: 5px; object-fit: cover; background: #eef5ef; }
+.primate-list-item strong, .primate-list-item small { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.primate-list-item strong { font-size: .72rem; }
+.primate-list-item small { color: #78958a; font-size: .58rem; }
+.primate-list-arrow { color: #6090a0; font-size: 1.2rem; }
+.primates-note { margin: 8px 0 30px; padding: 7px 12px; border-radius: 5px; background: #edf5fc; color: #7090a0; font-size: .62rem; }
+.primates-empty { color: #799187; font-size: .78rem; }
+
+/* SPECIES / SPECIES DETAIL */
+.species-detail-page { max-width: 1120px; margin: 0 auto; }
+.species-detail-hero { margin: -8px -20px 24px; padding: 28px 42px; background: linear-gradient(110deg, #eef8f2, #dcefe3); border-radius: 0 0 10px 10px; }
+.species-detail-hero h1 { margin: 8px 0 0; color: #176b55; font-size: clamp(2rem, 4vw, 3rem); }
+.species-detail-hero p:not(.eyebrow) { margin: 3px 0 0; color: #6d8e7e; font-family: Georgia, serif; }
+.species-detail-section h2 { margin: 0; color: #29463c; font-size: 1.15rem; }
+.species-detail-count { margin: 3px 0 14px; color: #779188; font-size: .75rem; }
+.species-detail-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 15px 12px; }
+.species-detail-card { display: block; overflow: hidden; border: 1px solid #dce8df; border-radius: 8px; background: #fff; color: #29463c; text-decoration: none; }
+.species-detail-card > img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: #f4f8f4; }
+.species-detail-card > div { position: relative; padding: 10px 32px 10px 12px; }
+.species-detail-card strong, .species-detail-card small { display: block; }
+.species-detail-card strong { color: #1c6380; font-size: .82rem; }
+.species-detail-card small { color: #789087; font-size: .66rem; }
+.species-detail-maker { display: inline-block; margin-top: 6px; padding: 2px 6px; border-radius: 3px; color: #fff; font-size: .58rem; line-height: 1.35; }
+.species-detail-card b { position: absolute; right: 12px; top: 44px; color: #5b8b9c; font-size: 1.3rem; font-weight: 400; }
+
 /* FIGURE detail */
 .breadcrumb { font-size: .72rem; color: #7b8d86; margin-bottom: 17px; }
 .breadcrumb a { color: #527469; text-decoration: none; }
@@ -404,6 +451,16 @@ body.lightbox-open { overflow: hidden; }
   .mammals-hero { margin-left: -16px; margin-right: -16px; padding-left: 16px; padding-right: 16px; }
   .mammal-group-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px 8px; }
   .mammal-group-media { height: 105px; }
+  .primates-hero { min-height: 190px; margin-left: -16px; margin-right: -16px; padding: 20px; }
+  .primates-hero-art { right: 7%; bottom: -35px; font-size: 10rem; }
+  .primates-featured { grid-template-columns: 1fr; gap: 9px; }
+  .primate-feature-card { display: grid; grid-template-columns: 108px minmax(0, 1fr); }
+  .primate-feature-card > img { width: 108px; height: 88px; }
+  .primate-list { grid-template-columns: 1fr; }
+  .species-detail-hero { margin-left: -16px; margin-right: -16px; padding: 22px 20px; }
+  .species-detail-grid { grid-template-columns: 1fr; gap: 10px; }
+  .species-detail-card { display: grid; grid-template-columns: 108px minmax(0, 1fr); }
+  .species-detail-card > img { width: 108px; height: auto; aspect-ratio: 4 / 3; }
   .blog-hero { min-height: 260px; margin: -30px -16px 28px; padding: 42px 22px; }
   .blog-layout { grid-template-columns: 1fr; gap: 18px; }
   .blog-sidebar { position: static; }
@@ -441,6 +498,17 @@ body.lightbox-open { overflow: hidden; }
   .mammal-group-icon { width: 30px; height: 30px; font-size: .85rem; }
   .mammal-group-footer strong { font-size: .75rem; }
   .mammal-group-arrow { font-size: 1.25rem; }
+  .primates-hero { min-height: 160px; padding: 18px 16px; }
+  .primates-hero h1 { font-size: 2rem; }
+  .primates-hero-art { font-size: 8rem; }
+  .species-detail-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px 8px; }
+  .species-detail-card { display: block; }
+  .species-detail-card > img { width: 100%; }
+  .species-detail-card > div { padding: 8px 10px; }
+  .species-detail-card strong { font-size: .75rem; }
+  .species-detail-card small { font-size: .59rem; line-height: 1.4; }
+  .species-detail-maker { margin-top: 5px; font-size: .54rem; }
+  .species-detail-card b { right: 8px; top: auto; bottom: 8px; }
   .desktop-only { display: none; }
   .blog-hero h1 { font-size: 2rem; }
   .blog-hero { min-height: 220px; }
