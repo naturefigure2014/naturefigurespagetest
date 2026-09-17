@@ -9,9 +9,16 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const figures = await getCollection("figures");
 const normalizeContentId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
+const listedFigureIds = new Set(entry.data.figureIds.map(normalizeContentId));
 const lineup = figures
-  .filter((figure) => figure.data.contentType !== "title" && normalizeContentId(figure.data.titleId ?? "") === normalizeContentId(entry.id))
-  .sort((a, b) => a.data.figureId.localeCompare(b.data.figureId, undefined, { numeric: true }));
+  .filter((figure) => {
+    if (figure.data.contentType === "title") return false;
+    const figureId = normalizeContentId(figure.id);
+    return listedFigureIds.size > 0
+      ? listedFigureIds.has(figureId)
+      : normalizeContentId(figure.data.titleId ?? "") === normalizeContentId(entry.id);
+  })
+  .sort((a, b) => (a.data.figureId ?? "").localeCompare(b.data.figureId ?? "", undefined, { numeric: true }));
 
 const makerBadgeClass = entry.data.maker === "海洋堂" ? "maker-kaiyodo" : "maker-default";
 const collectionPhoto = entry.data.collectionImage

@@ -1,9 +1,37 @@
 ---
-title: "水生生物モデルコレクションAQUALAND"
+title: 水生生物モデルコレクションAQUALAND
 description: "????????????????????"
-contentType: figure
+contentType: title
+kind: series
 maker: 海洋堂
+series:
+  - aqualand
+seriesName: AQUALAND
+releaseStart: "2013.01"
 coverImage: "img/aqualand_header.png"
+figureIds:
+  - kaiyodo/aqualand/AQM023akameamagaeru
+  - kaiyodo/aqualand/AQM032kuromaguro
+  - kaiyodo/aqualand/AQM046aoumigame
+  - kaiyodo/aqualand/AQM058meganekaiman
+  - kaiyodo/aqualand/AQS000xxx
+  - kaiyodo/aqualand/AQS007zatokuzira
+  - kaiyodo/aqualand/AQS009zinbezame
+  - kaiyodo/aqualand/AQS010shirowani
+  - kaiyodo/aqualand/AQS016pirarucu
+  - kaiyodo/aqualand/AQS017silverarowana
+  - kaiyodo/aqualand/AQS022osagame
+  - kaiyodo/aqualand/AQS028kouteipenguin
+  - kaiyodo/aqualand/AQS040Wzatokujira
+  - kaiyodo/aqualand/AQS041Wsemikujira
+  - kaiyodo/aqualand/AQS056aozame
+  - kaiyodo/aqualand/AQS064blackbass
+  - kaiyodo/aqualand/AQS083meganemochinouo
+  - kaiyodo/aqualand/AQS084Wshachi
+  - kaiyodo/aqualand/AQS085hohozirozame
+  - kaiyodo/aqualand/AQS091kamonohashi
+  - kaiyodo/aqualand/AQS096bandoiruka
+  - kaiyodo/aqualand/caricature
 topics:
   - title: ??
     images:
