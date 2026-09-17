@@ -1,0 +1,18 @@
+---
+title: "AQUALAND クロマグロM"
+description: "????????????????????"
+contentType: figure
+maker: 海洋堂
+coverImage: "img/AQM032_005_small.jpg"
+topics:
+  - title: ??
+    images:
+      - "img/AQM032_005_small.jpg"
+      - "img/AQM032_006_small.jpg"
+      - "img/AQM032_003_small.jpg"
+      - "img/AQM032_001_small.jpg"
+      - "img/AQM032_002_small.jpg"
+      - "img/AQM032_004_small.jpg"
+---
+
+????????????????????

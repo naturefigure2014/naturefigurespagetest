@@ -1,0 +1,19 @@
+---
+title: "ソフビトイボックス016Aネコ"
+description: "????????????????????"
+contentType: figure
+maker: "海洋堂"
+coverImage: "img/neko008_small.jpg"
+topics:
+  - title: ??
+    images:
+      - "img/neko008_small.jpg"
+      - "img/neko001_small.jpg"
+      - "img/neko003_small.jpg"
+      - "img/neko004_small.jpg"
+      - "img/neko005_small.jpg"
+      - "img/neko006_small.jpg"
+      - "img/neko007_small.jpg"
+---
+
+????????????????????

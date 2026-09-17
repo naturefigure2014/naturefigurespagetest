@@ -146,11 +146,19 @@ const makerBadgeClass = (() => {
         </div>
         <dl class="info-list">
           {(title?.data.maker ?? entry.data.maker) && <><dt>メーカー名</dt><dd>{title?.data.maker ?? entry.data.maker}</dd></>}
-          {title?.data.seriesName && <><dt>シリーズ名</dt><dd>{title.data.seriesName}</dd></>}
-          {title && titleHref && <><dt>収録タイトル</dt><dd><a href={titleHref}>{title.data.title}</a></dd></>}
-          {entry.data.figureId && <><dt>No.</dt><dd>{entry.data.figureId}</dd></>}
+          {title && titleHref
+            ? <><dt>タイトル</dt><dd><a href={titleHref}>{title.data.title}</a></dd></>
+            : entry.data.kind === "single" && <><dt>タイトル</dt><dd>{entry.data.title}</dd></>}
           {entry.data.title && <><dt>フィギュア名</dt><dd>{entry.data.title}</dd></>}
-          {title?.data.releaseStart && <><dt>発売開始</dt><dd>{title.data.releaseStart}</dd></>}
+          {(title?.data.releaseStart ?? (entry.data.kind === "single" ? entry.data.releaseStart : undefined)) && (
+            <><dt>販売開始</dt><dd>{title?.data.releaseStart ?? entry.data.releaseStart}</dd></>
+          )}
+          {(title?.data.price ?? entry.data.price) && <><dt>価格</dt><dd>{title?.data.price ?? entry.data.price}</dd></>}
+          {entry.data.sculptor && <><dt>原型制作</dt><dd>{entry.data.sculptor}</dd></>}
+          {entry.data.executiveProducer && <><dt>製作総指揮</dt><dd>{entry.data.executiveProducer}</dd></>}
+          {title
+            ? <><dt>収録数</dt><dd>{title.data.figureIds.length}種類</dd></>
+            : entry.data.kind === "single" && <><dt>収録数</dt><dd>1種類</dd></>}
           {entry.data.species && <><dt>種類</dt><dd>{entry.data.species}</dd></>}
         </dl>
 

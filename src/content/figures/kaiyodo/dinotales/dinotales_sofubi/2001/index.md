@@ -1,0 +1,17 @@
+---
+title: "ダイノテイルズコレクション2001"
+description: "????????????????????"
+contentType: figure
+maker: 海洋堂
+coverImage: "img/tyranno2001_002_small.jpg"
+topics:
+  - title: ??
+    images:
+      - "img/tyranno2001_002_small.jpg"
+      - "img/tyranno2001_003_small.jpg"
+      - "img/tyranno2001_004_small.jpg"
+      - "img/tyranno2001_005_small.jpg"
+      - "img/tyranno2001_001_small.jpg"
+---
+
+????????????????????

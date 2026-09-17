@@ -19,6 +19,8 @@ const figures = defineCollection({
     // This is the stable lineup/figure ID inside a TITLE: 001, 002, ...
     figureId: z.string().optional(),
     maker: z.string().optional(),
+    sculptor: z.string().optional(),
+    executiveProducer: z.string().optional(),
     series: z.array(z.string()).default([]),
     seriesName: z.string().optional(),
     releaseStart: z.string().optional(),

@@ -4,3 +4,7 @@ dist/
 .env
 .env.*
 !.env.example
+
+# Legacy site files
+index.html
+_vti_cnf/

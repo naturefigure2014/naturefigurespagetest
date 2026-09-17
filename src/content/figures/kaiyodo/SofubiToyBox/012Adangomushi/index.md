@@ -1,0 +1,17 @@
+---
+title: "ソフビトイボックス012A ダンゴムシ"
+description: "????????????????????"
+contentType: figure
+maker: "海洋堂"
+coverImage: "img/dangomushi003_small.jpg"
+topics:
+  - title: ??
+    images:
+      - "img/dangomushi003_small.jpg"
+      - "img/dangomushi004_small.jpg"
+      - "img/dangomushi005_small.jpg"
+      - "img/dangomushi002_small.jpg"
+      - "img/dangomushi001_small.jpg"
+---
+
+????????????????????
