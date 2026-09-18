@@ -1,12 +1,13 @@
 ---
 title: 水生生物モデルコレクションAQUALAND
+
 contentType: title
 kind: series
 maker: 海洋堂
 series:
   - aqualand
 seriesName: AQUALAND
-releaseStart: "2013.01"
+releaseStart: "1990"
 coverImage: "img/aqualand_header.png"
 collectionImage: "img/aqualand_header.png"
 figureIds:

@@ -9,7 +9,7 @@ series:
 seriesName: カプセルQミュージアム
 releaseStart: "2013.01"
 collectionImage: japIall.jpg
-coverImage: /figures/kaiyodo/capsuleq/nihon-no-doubutsu-1/japIall.jpg
+coverImage: japI.png
 resources:
   guide:
     image: capqanima1kaisetsu.jpg

@@ -5,8 +5,8 @@ titleId: kaiyodo/capsuleq/nihon-no-doubutsu-1
 figureId: "250"
 species: ニホンザル
 speciesGroup: 霊長類
-scientificName: Macaca fuscata
 maker: 海洋堂
+sculptor: 松村しのぶ
 coverImage: anima_japI_015.jpg
 topics:
   - title: 全体

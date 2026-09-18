@@ -164,6 +164,8 @@ h2 { margin-top: 2.5rem; }
 .breadcrumb a { color: #527469; text-decoration: none; }
 .figure-heading { margin-bottom: 18px; }
 .figure-heading > div { display: flex; flex-direction: column; align-items: flex-start; }
+.figure-context { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin: 0 0 6px; color: #527268; font-size: .83rem; font-weight: 700; line-height: 1.5; }
+.figure-title-context { color: #527268; }
 .figure-heading h1 { margin: 10px 0 8px; }
 .figure-subtitle { margin: 0; color: #64776f; font-size: .91rem; }
 .figure-date { margin: 8px 0 0; color: #71837c; font-size: .78rem; }
@@ -172,11 +174,10 @@ h2 { margin-top: 2.5rem; }
 .figure-main, .figure-sidebar { min-width: 0; }
 .figure-sidebar { position: static; }
 .topic-card, .review-card, .sidebar-card { background: #fff; border: 1px solid #dfe8e4; border-radius: 10px; box-shadow: 0 2px 9px rgba(28,72,54,.025); }
-.topic-card + .topic-card, .review-card { margin-top: 14px; }
+.topic-card + .topic-card, .review-card, .review-card + .topic-card { margin-top: 14px; }
 .topic-card-header { display: flex; align-items: center; gap: 10px; padding: 14px 16px; border-bottom: 1px solid #e5ece9; }
 .topic-card-header h2 { margin: 0; color: #23483a; font-size: 1.12rem; }
-.topic-marker { width: 7px; height: 28px; border-radius: 3px; background: #2b7b55; color: transparent; flex: 0 0 auto; }
-.topic-card:not(.featured) .topic-marker { width: 26px; height: 26px; border-radius: 7px; color: #fff; background: #335f50; display: grid; place-items: center; font-size: .68rem; font-weight: 800; }
+.topic-marker { width: 26px; height: 26px; border-radius: 7px; color: #fff; background: #335f50; display: grid; place-items: center; font-size: .68rem; font-weight: 800; flex: 0 0 auto; }
 .topic-body { padding: 15px 14px 16px; }
 .topic-body.has-images {
   display: grid;
@@ -254,9 +255,9 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-directory-heading p { margin: 1px 0 0; color: #7a9b8d; font-size: .6rem; letter-spacing: .08em; }
 .maker-directory-heading a { color: #39785f; font-size: .67rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
 .maker-directory-heading a span { margin-left: 4px; font-size: .9rem; }
-.maker-pickup-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 9px; }
+.maker-pickup-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 9px; }
 .maker-pickup-card { position: relative; display: block; min-width: 0; overflow: hidden; border: 1px solid #dbe7e2; border-radius: 7px; color: inherit; background: #fff; text-decoration: none; }
-.maker-pickup-card img, .maker-pickup-placeholder { width: 100%; aspect-ratio: 1.55 / 1; object-fit: cover; display: grid; place-items: center; background: linear-gradient(135deg, #e4f1eb, #cddfd6); color: #54806d; font-size: .72rem; font-weight: 800; }
+.maker-pickup-card img, .maker-pickup-placeholder { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: grid; place-items: center; background: linear-gradient(135deg, #e4f1eb, #cddfd6); color: #54806d; font-size: .72rem; font-weight: 800; }
 .maker-pickup-caption { display: block; min-height: 54px; padding: 7px 24px 7px 8px; }
 .maker-pickup-caption strong { display: block; color: #294d40; font-size: .72rem; line-height: 1.35; }
 .maker-pickup-caption small { display: inline-block; margin-top: 5px; padding: 2px 8px; border-radius: 99px; color: #4a83a2; background: #eef7fb; font-size: .58rem; }
@@ -275,6 +276,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .title-lead { max-width: 760px; margin: 7px 0 0; color: #50665d; font-size: .86rem; }
 .title-section, .title-description { margin-top: 14px; background: #fff; border: 1px solid #dfe8e4; border-radius: 10px; box-shadow: 0 2px 9px rgba(28,72,54,.025); }
 .title-section-header { display: flex; align-items: center; gap: 10px; padding: 14px 16px; border-bottom: 1px solid #e5ece9; }
+.title-section-header .topic-marker { width: 7px; height: 28px; border-radius: 3px; background: #2b7b55; color: transparent; }
 .title-section-header h2 { margin: 0; color: #23483a; font-size: 1.12rem; }
 .title-resource-body { min-height: 74px; padding: 15px 16px 16px; color: #4e655b; font-size: .86rem; }
 .title-resource-body img { display: block; width: min(100%, 420px); height: auto; border-radius: 5px; }

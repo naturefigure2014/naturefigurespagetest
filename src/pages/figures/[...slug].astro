@@ -20,18 +20,33 @@ const { Content } = await render(entry);
 const normalizeContentId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
 const figures = await getCollection("figures");
 const title = figures.find(
-  (item) => item.data.contentType === "title" &&
-    normalizeContentId(item.id) === normalizeContentId(entry.data.titleId ?? "")
+  (item) => {
+    if (item.data.contentType !== "title") return false;
+    const entryId = normalizeContentId(entry.id);
+    const linkedByTitleId =
+      normalizeContentId(item.id) === normalizeContentId(entry.data.titleId ?? "");
+    const linkedByFigureIds = item.data.figureIds.some(
+      (figureId) => normalizeContentId(figureId) === entryId
+    );
+    return linkedByTitleId || linkedByFigureIds;
+  }
 );
 const works = await getCollection("works");
 const blogs = await getCollection("blog");
 
-const normalizedTitleId = normalizeContentId(entry.data.titleId ?? "");
+const normalizedTitleId = title
+  ? normalizeContentId(title.id)
+  : normalizeContentId(entry.data.titleId ?? "");
 const titleHref = title ? siteUrl(`/figures/${normalizeContentId(title.id)}/`) : undefined;
 const relatedFigures = figures.filter(
   (figure) =>
     figure.data.contentType !== "title" &&
-    normalizeContentId(figure.data.titleId ?? "") === normalizedTitleId &&
+    (
+      normalizeContentId(figure.data.titleId ?? "") === normalizedTitleId ||
+      (title?.data.figureIds.some(
+        (figureId) => normalizeContentId(figureId) === normalizeContentId(figure.id)
+      ) ?? false)
+    ) &&
     normalizeContentId(figure.id) !== normalizeContentId(entry.id)
 );
 const relatedWorks = works.filter((work) =>
@@ -51,6 +66,12 @@ const titleImage = title?.data.coverImage ?? (titleFigure
 
 const formatDate = (date: Date | undefined) =>
   date ? date.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" }) : undefined;
+const figureTitleContext = [title?.data.seriesName, title?.data.title]
+  .filter(Boolean)
+  .join(" ");
+const figureHeading = entry.data.figureId
+  ? `${entry.data.figureId} ${entry.data.title}`
+  : entry.data.title;
 
 // メーカーごとのラベル色。海洋堂は青にしています。
 const makerBadgeClass = (() => {
@@ -75,14 +96,27 @@ const makerBadgeClass = (() => {
     <article class="figure-main">
       <header class="figure-heading">
         <div>
-          <p class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</p>
-          <h1>{entry.data.title}</h1>
+          {title
+            ? (
+              <p class="figure-context">
+                {entry.data.maker && <span class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker}</span>}
+                {figureTitleContext && <span class="figure-title-context">{figureTitleContext}</span>}
+              </p>
+            )
+            : <p class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</p>}
+          <h1>{figureHeading}</h1>
           {entry.data.releaseDate && (
             <p class="figure-date">◷ {formatDate(entry.data.releaseDate)}</p>
           )}
           {entry.data.description && <p class="figure-lead">{entry.data.description}</p>}
         </div>
       </header>
+
+      <section class="review-card">
+        <div class="review-body">
+          <Content />
+        </div>
+      </section>
 
       {entry.data.topics.map((topic, topicIndex) => (
         <section class:list={["topic-card", { featured: topicIndex === 0 }]}>
@@ -126,12 +160,6 @@ const makerBadgeClass = (() => {
           </div>
         </section>
       ))}
-
-      <section class="review-card">
-        <div class="review-body">
-          <Content />
-        </div>
-      </section>
     </article>
 
     <aside class="figure-sidebar">
@@ -145,6 +173,7 @@ const makerBadgeClass = (() => {
           {title && titleHref
             ? <><dt>タイトル</dt><dd><a href={titleHref}>{title.data.title}</a></dd></>
             : entry.data.kind === "single" && <><dt>タイトル</dt><dd>{entry.data.title}</dd></>}
+          {entry.data.figureId && <><dt>番号</dt><dd>{entry.data.figureId}</dd></>}
           {entry.data.title && <><dt>フィギュア名</dt><dd>{entry.data.title}</dd></>}
           {(title?.data.releaseStart ?? (entry.data.kind === "single" ? entry.data.releaseStart : undefined)) && (
             <><dt>販売開始</dt><dd>{title?.data.releaseStart ?? entry.data.releaseStart}</dd></>
@@ -152,9 +181,6 @@ const makerBadgeClass = (() => {
           {(title?.data.price ?? entry.data.price) && <><dt>価格</dt><dd>{title?.data.price ?? entry.data.price}</dd></>}
           {entry.data.sculptor && <><dt>原型制作</dt><dd>{entry.data.sculptor}</dd></>}
           {entry.data.executiveProducer && <><dt>製作総指揮</dt><dd>{entry.data.executiveProducer}</dd></>}
-          {title
-            ? <><dt>収録数</dt><dd>{title.data.figureIds.length}種類</dd></>
-            : entry.data.kind === "single" && <><dt>収録数</dt><dd>1種類</dd></>}
           {entry.data.species && <><dt>種類</dt><dd>{entry.data.species}</dd></>}
         </dl>
 
