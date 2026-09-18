@@ -202,6 +202,8 @@ h2 { margin-top: 2.5rem; }
 .topic-body:not(.has-images) .topic-comment { padding: 2px 4px 4px; }
 .review-body { padding: 20px; color: #4e655b; font-size: .9rem; }
 .review-body h2, .review-body h3 { color: #23483a; }
+.review-body > :first-child { margin-top: 0; }
+.review-body > :last-child { margin-bottom: 0; }
 .basic-card {
   padding: 0 15px 15px;
   background: #eaf4f7;
@@ -237,6 +239,29 @@ h2 { margin-top: 2.5rem; }
 .back-link { display: block; padding: 11px 14px; border: 1px solid #dbe6e1; border-radius: 7px; color: #5d746b; text-decoration: none; font-size: .76rem; background: #fff; }
 footer { position: relative; margin-top: 22px; padding: 18px 30px; text-align: center; color: #fff; background: linear-gradient(to bottom, #fff 0, #fff 14px, #2c7a55 14px, #2c7a55 48px, #fff 48px); font-size: .75rem; line-height: 1.5; }
 footer span { position: relative; z-index: 1; display: inline-block; padding: 5px 0; }
+
+/* MAKER / TITLE DIRECTORY */
+.maker-directory { max-width: 1120px; margin: 0 auto; }
+.maker-directory-hero { margin: -8px -20px 15px; padding: 22px 24px 24px; color: #fff; background: linear-gradient(110deg, #315c40, #1f4f38 58%, #477e5b); border-radius: 0 0 10px 10px; }
+.maker-directory-hero h1 { margin: 8px 0 4px; color: #fff; font-size: clamp(1.55rem, 3vw, 2.25rem); }
+.maker-directory-hero p:not(.eyebrow) { margin: 0; color: rgba(255,255,255,.86); font-size: .84rem; }
+.maker-search { display: flex; align-items: center; gap: 10px; min-height: 42px; margin: 0 0 15px; padding: 0 14px; background: #fff; border: 1px solid #d9e5e0; border-radius: 999px; }
+.maker-search span { color: #477f69; font-size: 1.35rem; line-height: 1; }
+.maker-search input { min-width: 0; flex: 1; padding: 9px 0; border: 0; outline: 0; color: #315f54; font: inherit; font-size: .76rem; }
+.maker-directory-section { margin-top: 14px; padding: 14px; border: 1px solid #d8e6e0; border-radius: 8px; background: rgba(255,255,255,.72); }
+.maker-directory-heading { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 0 2px 10px; }
+.maker-directory-heading h2 { margin: 0; color: #294d40; font-size: 1.15rem; }
+.maker-directory-heading p { margin: 1px 0 0; color: #7a9b8d; font-size: .6rem; letter-spacing: .08em; }
+.maker-directory-heading a { color: #39785f; font-size: .67rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
+.maker-directory-heading a span { margin-left: 4px; font-size: .9rem; }
+.maker-pickup-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 9px; }
+.maker-pickup-card { position: relative; display: block; min-width: 0; overflow: hidden; border: 1px solid #dbe7e2; border-radius: 7px; color: inherit; background: #fff; text-decoration: none; }
+.maker-pickup-card img, .maker-pickup-placeholder { width: 100%; aspect-ratio: 1.55 / 1; object-fit: cover; display: grid; place-items: center; background: linear-gradient(135deg, #e4f1eb, #cddfd6); color: #54806d; font-size: .72rem; font-weight: 800; }
+.maker-pickup-caption { display: block; min-height: 54px; padding: 7px 24px 7px 8px; }
+.maker-pickup-caption strong { display: block; color: #294d40; font-size: .72rem; line-height: 1.35; }
+.maker-pickup-caption small { display: inline-block; margin-top: 5px; padding: 2px 8px; border-radius: 99px; color: #4a83a2; background: #eef7fb; font-size: .58rem; }
+.maker-pickup-arrow { position: absolute; right: 8px; bottom: 8px; color: #6a9382; font-size: 1.1rem; }
+.maker-directory-note { margin: 17px 2px 0; padding: 11px 14px; border-radius: 6px; color: #527064; background: #edf6f2; font-size: .72rem; }
 
 /* TITLE detail */
 .title-layout { display: grid; grid-template-columns: minmax(0, 1fr) 358px; gap: 22px; align-items: start; }
@@ -361,6 +386,18 @@ body.lightbox-open { overflow: hidden; }
   .figure-layout { grid-template-columns: minmax(0, 1fr) 310px; }
 }
 @media (max-width: 800px) {
+  footer {
+    padding: 12px 14px;
+    background: #2c7a55;
+    line-height: 1.4;
+  }
+  footer span { padding: 0; }
+
+  .maker-directory-hero { margin-left: -20px; margin-right: -20px; padding: 18px 20px 20px; }
+  .maker-directory-heading { align-items: flex-start; flex-direction: column; gap: 5px; }
+  .maker-directory-heading a { align-self: flex-end; }
+  .maker-pickup-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+
   .site-header { display: block; padding: 12px 16px; }
   .logo { margin-bottom: 8px; }
   .site-header nav { overflow-x: auto; }

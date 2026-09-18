@@ -2,15 +2,98 @@
 import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
+import { resolveFigureImage } from "../../lib/figure-images";
+import { siteUrl } from "../../lib/site-url";
+
 const figures = await getCollection("figures");
-const makers = [...new Set(figures.map((item) => item.data.maker).filter(Boolean))].sort();
+const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
+const titleEntries = new Map(
+  figures
+    .filter((entry) => entry.data.contentType === "title")
+    .map((entry) => [normalizeId(entry.id), entry])
+);
+
+type Pickup = { title: string; id?: string; count?: string };
+type Maker = { name: string; english: string; pickups: Pickup[] };
+
+const makers: Maker[] = [
+  { name: "海洋堂", english: "KAIYODO", pickups: [
+    { title: "水生生物モデルコレクションAQUALAND", id: "kaiyodo/aqualand", count: "22種類" },
+    { title: "日本の動物コレクション1", id: "kaiyodo/capsuleq/nihon-no-doubutsu-1", count: "12種類" },
+    { title: "ARTPLA ティラノサウルス", count: "フィギュア" },
+    { title: "カプセルQミュージアム", count: "フィギュア" }
+  ] },
+  { name: "ユージン", english: "YUJIN", pickups: [
+    { title: "原色日本昆虫図鑑1" }, { title: "原色淡水魚図鑑1" },
+    { title: "原色両生類図鑑" }, { title: "原色日本の鳥類図鑑" }
+  ] },
+  { name: "タカラトミーアーツ", english: "TAKARA TOMY A.R.T.S", pickups: [
+    { title: "いきもの大図鑑" }, { title: "すみっコぐらし フィギュア" },
+    { title: "どうぶつフィギュアコレクション" }
+  ] },
+  { name: "いきもん", english: "IKIMON", pickups: [
+    { title: "ネイチャーテクニカラー 日本のカエル" }, { title: "ネイチャーテクニカラー 海洋1" },
+    { title: "サイエンステクニカラー ドイツ箱" }, { title: "ネイチャーテクニカラー 昆虫" }
+  ] },
+  { name: "バンダイ", english: "BANDAI", pickups: [
+    { title: "いきものかくれんぼ" }, { title: "ガシャポン 生きものコレクション" },
+    { title: "動物フィギュアセレクション" }
+  ] },
+  { name: "スタジオソータ", english: "STUDIO SOTA", pickups: [
+    { title: "いきものフィギュアコレクション" }, { title: "ミニチュア自然観察" },
+    { title: "動物園のなかまたち" }
+  ] },
+  { name: "エポック社", english: "EPOCH", pickups: [
+    { title: "シルバニアファミリー" }, { title: "どうぶつコレクション" },
+    { title: "森のなかまたち" }
+  ] },
+  { name: "その他", english: "OTHER MAKERS", pickups: [
+    { title: "メーカー別ピックアップ", count: "準備中" },
+    { title: "気になるタイトル", count: "準備中" }, { title: "新着フィギュア", count: "準備中" }
+  ] }
+];
 ---
-<BaseLayout title="MAKERS | NATURE FIGURE">
-  <p class="eyebrow">MAKERS</p>
-  <h1>メーカーから探す</h1>
-  <div class="grid">
-    {makers.map((name) => (
-      <div class="card"><div class="body"><h3>{name}</h3></div></div>
-    ))}
+<BaseLayout title="MAKERS & TITLES | NATURE FIGURE">
+  <div class="maker-directory">
+    <div class="breadcrumb"><a href={siteUrl("/")}>ホーム</a> / メーカー・タイトルから探す</div>
+    <section class="maker-directory-hero">
+      <p class="eyebrow">MAKERS & TITLES</p>
+      <h1>メーカー・タイトルから探す</h1>
+      <p>メーカーやフィギュアのタイトルから探すことができます。</p>
+    </section>
+    <div class="maker-search" aria-label="メーカー・タイトル検索">
+      <span aria-hidden="true">⌕</span>
+      <input type="search" placeholder="メーカー名・タイトル名で検索" />
+    </div>
+    <div class="maker-directory-list">
+      {makers.map((maker) => (
+        <section class="maker-directory-section">
+          <header class="maker-directory-heading">
+            <div><h2>{maker.name}</h2><p>{maker.english}</p></div>
+            <a href={siteUrl("/titles/")}>このメーカーのタイトル一覧を見る <span>→</span></a>
+          </header>
+          <div class="maker-pickup-grid">
+            {maker.pickups.map((pickup) => {
+              const entry = pickup.id ? titleEntries.get(normalizeId(pickup.id)) : undefined;
+              const image = entry ? resolveFigureImage(entry.id, entry.data.coverImage) : undefined;
+              const card = (
+                <>
+                  {image ? <img src={image} alt="" loading="lazy" /> : <div class="maker-pickup-placeholder">{maker.name}</div>}
+                  <span class="maker-pickup-caption">
+                    <strong>{entry?.data.title ?? pickup.title}</strong>
+                    <small>{pickup.count ?? "ピックアップ"}</small>
+                  </span>
+                  <span class="maker-pickup-arrow">›</span>
+                </>
+              );
+              return entry
+                ? <a class="maker-pickup-card" href={siteUrl(`/figures/${normalizeId(entry.id)}/`)}>{card}</a>
+                : <div class="maker-pickup-card">{card}</div>;
+            })}
+          </div>
+        </section>
+      ))}
+    </div>
+    <p class="maker-directory-note">※ 掲載するタイトルは、サイトの内容に合わせて後から自由に差し替えられます。</p>
   </div>
 </BaseLayout>
