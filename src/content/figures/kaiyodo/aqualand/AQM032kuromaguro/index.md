@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND クロマグロM"
-description: "????????????????????"
+title: "クロマグロM"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQM-032"
+species: クロマグロ
+speciesGroup: 魚類/マグロ・カツオ類
 contentType: figure
 maker: 海洋堂
+sculptor: 松村しのぶ
 coverImage: "img/AQM032_005_small.jpg"
+
 topics:
   - title: ??
     images:

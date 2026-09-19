@@ -1,8 +1,13 @@
 ---
 title: "DINOLAND 1/35アロサウルス"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "35allosaurus"
+species: "アロサウルス"
+speciesGroup: "古生物/獣脚類"
 contentType: figure
 maker: 海洋堂
+sculptor: "木下隆志"
 coverImage: "img/allosaurus001_small.jpg"
 topics:
   - title: ??

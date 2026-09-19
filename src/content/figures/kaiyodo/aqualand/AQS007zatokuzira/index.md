@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND ザトウクジラ（水面）"
-description: "????????????????????"
+title: "ザトウクジラ（水面）"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-007W"
+species: ザトウクジラ
+speciesGroup: 哺乳類/クジラ類
 contentType: figure
 maker: 海洋堂
+sculptor: 松村しのぶ
 coverImage: "img/zatokuzira007_small.jpg"
+
 topics:
   - title: ??
     images:

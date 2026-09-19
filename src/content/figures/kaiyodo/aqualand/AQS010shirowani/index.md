@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND シロワニ"
-description: "????????????????????"
+title: "シロワニ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-010"
+species: シロワニ
+speciesGroup: 魚類/サメ・エイ類
 contentType: figure
 maker: 海洋堂
+sculptor: 松村しのぶ
 coverImage: "img/AQS010shirowani001_small.jpg"
+
 topics:
   - title: ??
     images:

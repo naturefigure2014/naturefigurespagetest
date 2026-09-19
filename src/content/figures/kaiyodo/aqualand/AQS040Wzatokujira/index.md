@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND AQS-040W ザトウクジラ"
-description: "????????????????????"
+title: "ザトウクジラ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-040W"
+species: ザトウクジラ
+speciesGroup: 哺乳類/クジラ類
 contentType: figure
 maker: 海洋堂
+sculptor: 松村しのぶ
 coverImage: "img/AQS040Wzatokujira001_small.jpg"
+
 topics:
   - title: ??
     images:

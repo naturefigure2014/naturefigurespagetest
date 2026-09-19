@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND AQS-022 オサガメ"
-description: "????????????????????"
+title: "オサガメ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-022"
+species: オサガメ
+speciesGroup: 爬虫類/カメ類
 contentType: figure
 maker: 海洋堂
+sculptor: 松村しのぶ
 coverImage: "img/AQS022osagame012.jpg"
+
 topics:
   - title: ??
     images:

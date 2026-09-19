@@ -1,9 +1,14 @@
 ---
 title: "AQUALANDカリカチュア"
-description: "????????????????????"
+description:
+titleId: kaiyodo/aqualand
+figureId: ""
+species: ""
+speciesGroup: その他/未分類
 contentType: figure
 maker: 海洋堂
 coverImage: "img/toukisei003_small.jpg"
+
 topics:
   - title: ??
     images:

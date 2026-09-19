@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND AQS-084W シャチ"
-description: "????????????????????"
+title: "シャチ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-084W"
+species: シャチ
+speciesGroup: 哺乳類/クジラ類
 contentType: figure
 maker: 海洋堂
+sculptor: 木下隆志
 coverImage: "img/AQS084Wshachi010.jpg"
+
 topics:
   - title: ??
     images:

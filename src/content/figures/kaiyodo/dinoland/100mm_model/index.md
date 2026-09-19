@@ -1,9 +1,25 @@
 ---
 title: "DINOLAND 100mm恐竜"
-description: "????????????????????"
-contentType: figure
+description: ""
+contentType: title
+kind: collection
 maker: 海洋堂
+series:
+  - dinoland
+seriesName: DINOLAND
 coverImage: "img/dinoland201912.jpg"
+collectionImage: "img/dinoland201912.jpg"
+figureIds:
+  - kaiyodo/dinoland/100mm_model/allosaurus
+  - kaiyodo/dinoland/100mm_model/barosaurus
+  - kaiyodo/dinoland/100mm_model/camarasaurus
+  - kaiyodo/dinoland/100mm_model/dimetrodon
+  - kaiyodo/dinoland/100mm_model/mosasaurus
+  - kaiyodo/dinoland/100mm_model/stegosaurus
+  - kaiyodo/dinoland/100mm_model/triceratops
+  - kaiyodo/dinoland/100mm_model/triceratops_
+  - kaiyodo/dinoland/100mm_model/tyrannosaurus
+  - kaiyodo/dinoland/100mm_model/velociraptor
 topics:
   - title: ??
     images:

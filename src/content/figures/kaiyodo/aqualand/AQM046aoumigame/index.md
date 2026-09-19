@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND AQM-046 アオウミガメ"
-description: "????????????????????"
+title: "アオウミガメ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQM-046"
+species: アオウミガメ
+speciesGroup: 爬虫類/カメ類
 contentType: figure
 maker: 海洋堂
+sculptor: 松村しのぶ
 coverImage: "img/AQM046aoumigame016.jpg"
+
 topics:
   - title: ??
     images:

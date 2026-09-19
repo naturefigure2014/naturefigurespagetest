@@ -1,8 +1,13 @@
 ---
 title: "DINOLAND 1/35カマラサウルス"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "35camarasaurus"
+species: "カマラサウルス"
+speciesGroup: "古生物/竜脚類"
 contentType: figure
 maker: 海洋堂
+sculptor: "松村しのぶ"
 coverImage: "img/camara013_small.jpg"
 topics:
   - title: ??

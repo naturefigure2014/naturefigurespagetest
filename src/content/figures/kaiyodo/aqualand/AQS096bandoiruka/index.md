@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND バンドウイルカ"
-description: "????????????????????"
+title: "バンドウイルカ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-096"
+species: バンドウイルカ
+speciesGroup: 哺乳類/クジラ類
 contentType: figure
 maker: 海洋堂
+sculptor: 古田悟郎
 coverImage: "img/iruka023_small.jpg"
+
 topics:
   - title: ??
     images:

@@ -4,7 +4,7 @@ description:
 titleId: kaiyodo/aqualand
 figureId: "AQM-023"
 species: アカメアマガエル
-speciesGroup: 両生類
+speciesGroup: 両生類/カエル類
 
 contentType: figure
 maker: 海洋堂

@@ -1,8 +1,14 @@
 ---
 title: "DINOLAND ヴェロキラプトル頭骨モデル"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "skull_model/Velociraptor"
+species: "ヴェロキラプトル"
+speciesGroup: "古生物/獣脚類"
 contentType: figure
 maker: 海洋堂
+price: "15,000円"
+sculptor: "山崎　繁　価格：15,000円"
 coverImage: "img/Velociraptor001_small.jpg"
 topics:
   - title: ??

@@ -1,8 +1,13 @@
 ---
 title: "海洋堂DINOLAND DIS-10 カマラサウルス"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "100mm_model/camarasaurus"
+species: "カマラサウルス"
+speciesGroup: "古生物/竜脚類"
 contentType: figure
 maker: 海洋堂
+sculptor: "???"
 coverImage: "../img/camara001_small.jpg"
 topics:
   - title: ??

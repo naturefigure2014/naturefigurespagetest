@@ -1,8 +1,13 @@
 ---
 title: "海洋堂DINOLAND 100mm恐竜シリーズ ステゴサウルス"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "100mm_model/stegosaurus"
+species: "ステゴサウルス"
+speciesGroup: "古生物/装盾類"
 contentType: figure
 maker: 海洋堂
+sculptor: "木下隆志"
 coverImage: "img/stegosaurus007.jpg"
 topics:
   - title: ??

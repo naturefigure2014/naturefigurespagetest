@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND AQS-017 シルバーアロワナ"
-description: "????????????????????"
+title: "シルバーアロワナ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-017"
+species: シルバーアロワナ
+speciesGroup: 魚類/その他
 contentType: figure
 maker: 海洋堂
+sculptor: 木下隆志
 coverImage: "img/AQS017silverarowana008.jpg"
+
 topics:
   - title: ??
     images:

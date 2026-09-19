@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND AQS-083 メガネモチノウオ"
-description: "????????????????????"
+title: "メガネモチノウオ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-083"
+species: メガネモチノウオ
+speciesGroup: 魚類/スズキ目の魚類
 contentType: figure
 maker: 海洋堂
+sculptor: 松村しのぶ
 coverImage: "img/AQS083meganemochinouo009.jpg"
+
 topics:
   - title: ??
     images:

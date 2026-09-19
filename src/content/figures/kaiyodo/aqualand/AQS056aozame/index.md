@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND AQS-056 アオザメ"
-description: "????????????????????"
+title: "アオザメ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-056"
+species: アオザメ
+speciesGroup: 魚類/サメ・エイ類
 contentType: figure
 maker: 海洋堂
+sculptor: 松村しのぶ
 coverImage: "img/AQS056aozame001_small.jpg"
+
 topics:
   - title: ??
     images:

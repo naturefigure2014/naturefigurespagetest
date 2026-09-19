@@ -1,8 +1,14 @@
 ---
 title: "海洋堂DINOLAND 100mm恐竜シリーズ ディメトロドン"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "100mm_model/dimetrodon"
+species: "ディメトロドン"
+speciesGroup: "古生物/その他"
 contentType: figure
 maker: 海洋堂
+price: "1800円"
+sculptor: "山崎　繁　価格：1800円"
 coverImage: "img/dimetrodon_header.jpg"
 topics:
   - title: ??

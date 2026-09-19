@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND ピラルク"
-description: "????????????????????"
+title: "ピラルク"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-016"
+species: ピラルク
+speciesGroup: 魚類/その他
 contentType: figure
 maker: 海洋堂
+sculptor: 佐藤 拓
 coverImage: "img/pirarucu001_small.jpg"
+
 topics:
   - title: ??
     images:

@@ -1,8 +1,13 @@
 ---
 title: "DINOLAND 1/35ステゴサウルス"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "35stegosaurs"
+species: "ステゴサウルス"
+speciesGroup: "古生物/装盾類"
 contentType: figure
 maker: 海洋堂
+sculptor: "山下伸一"
 coverImage: "img/stego012.jpg"
 topics:
   - title: ??

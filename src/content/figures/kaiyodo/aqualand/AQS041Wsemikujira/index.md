@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND AQS-041W セミクジラ"
-description: "????????????????????"
+title: "セミクジラ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-041W"
+species: セミクジラ
+speciesGroup: 哺乳類/クジラ類
 contentType: figure
 maker: 海洋堂
+sculptor: 松村しのぶ
 coverImage: "img/AQS041Wsemikujira001_small.jpg"
+
 topics:
   - title: ??
     images:

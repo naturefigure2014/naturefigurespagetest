@@ -1,8 +1,13 @@
 ---
 title: "DINOLAND 頭骨ミニモデル"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "skull_mini_model"
+species: "ティラノサウルス"
+speciesGroup: "古生物/獣脚類"
 contentType: figure
 maker: 海洋堂
+sculptor: "山崎　繁"
 coverImage: "img/skull_tyranno004_small.jpg"
 topics:
   - title: ??

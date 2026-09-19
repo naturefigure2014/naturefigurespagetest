@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND ホホジロザメ"
-description: "????????????????????"
+title: "ホホジロザメ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-085"
+species: ホホジロザメ
+speciesGroup: 魚類/サメ・エイ類
 contentType: figure
 maker: 海洋堂
+sculptor: 木下隆志
 coverImage: "img/AQS085hohozirozame011.jpg"
+
 topics:
   - title: ??
     images:

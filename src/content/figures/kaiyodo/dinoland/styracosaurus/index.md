@@ -1,8 +1,13 @@
 ---
 title: "DINOLAND スティラコサウルス"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "styracosaurus"
+species: "スティラコサウルス"
+speciesGroup: "古生物/角竜類"
 contentType: figure
 maker: 海洋堂
+sculptor: "荒木一成"
 coverImage: "img/styracosaurus014_small.jpg"
 topics:
   - title: ??

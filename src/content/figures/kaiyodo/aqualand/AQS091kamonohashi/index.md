@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND AQS-091 カモノハシ"
-description: "????????????????????"
+title: "カモノハシ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-091"
+species: カモノハシ
+speciesGroup: 哺乳類/その他
 contentType: figure
 maker: 海洋堂
+sculptor: 茨木かずみ
 coverImage: "img/AQS091kamonohashi001_small.jpg"
+
 topics:
   - title: ??
     images:

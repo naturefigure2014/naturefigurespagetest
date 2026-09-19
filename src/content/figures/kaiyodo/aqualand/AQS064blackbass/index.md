@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND ブラックバス"
-description: "????????????????????"
+title: "ブラックバス"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-064"
+species: ブラックバス
+speciesGroup: 魚類/スズキ目の魚類
 contentType: figure
 maker: 海洋堂
+sculptor: 中澤博之
 coverImage: "img/blackbass003_small.jpg"
+
 topics:
   - title: ??
     images:

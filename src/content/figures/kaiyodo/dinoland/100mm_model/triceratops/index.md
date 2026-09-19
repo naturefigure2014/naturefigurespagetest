@@ -1,8 +1,13 @@
 ---
 title: "海洋堂DINOLAND 100mm恐竜シリーズ トリケラトプス"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "100mm_model/triceratops"
+species: "トリケラトプス"
+speciesGroup: "古生物/角竜類"
 contentType: figure
 maker: 海洋堂
+sculptor: "木下隆志"
 coverImage: "img/triceratops001_small.jpg"
 topics:
   - title: ??

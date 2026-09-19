@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND ジンベエザメ"
-description: "????????????????????"
+title: "ジンベエザメ"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQS-009"
+species: ジンベエザメ
+speciesGroup: 魚類/サメ・エイ類
 contentType: figure
 maker: 海洋堂
+sculptor: 松村しのぶ
 coverImage: "img/zinbeS001_small.jpg"
+
 topics:
   - title: ??
     images:

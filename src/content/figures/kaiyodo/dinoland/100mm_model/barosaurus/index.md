@@ -1,8 +1,13 @@
 ---
 title: "海洋堂DINOLAND 100mm恐竜シリーズ バロサウルス"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "100mm_model/barosaurus"
+species: "バロサウルス"
+speciesGroup: "古生物/竜脚類"
 contentType: figure
 maker: 海洋堂
+sculptor: "松村しのぶ"
 coverImage: "img/barosaurus001_small.jpg"
 topics:
   - title: ??

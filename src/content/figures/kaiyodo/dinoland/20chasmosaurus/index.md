@@ -1,8 +1,14 @@
 ---
 title: "DINOLAND 1/20カスモサウルス"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "20chasmosaurus"
+species: "カスモサウルス"
+speciesGroup: "古生物/角竜類"
 contentType: figure
 maker: 海洋堂
+price: "2,800円（ソフビキット） 4,200円（完成品） 6,600円（2021復刻キット）"
+sculptor: "松村しのぶ"
 coverImage: "img/chasmo013_small.jpg"
 topics:
   - title: ??

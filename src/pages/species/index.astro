@@ -51,15 +51,15 @@ const categories: Category[] = [
     description: "恐竜とその仲間を、分類から探すことができます。",
     icon: "✦",
     groups: [
-      { name: "獣脚類", species: [] },
-      { name: "竜脚類", species: [] },
-      { name: "鳥脚類", species: [] },
-      { name: "角竜類", species: [] },
-      { name: "装盾類", species: [] },
-      { name: "堅頭竜類", species: [] },
-      { name: "翼竜", species: [] },
-      { name: "海生爬虫類", species: [] },
-      { name: "その他", species: [] }
+      { id: "theropods", name: "獣脚類", species: [] },
+      { id: "sauropods", name: "竜脚類", species: [] },
+      { id: "ornithopods", name: "鳥脚類", species: [] },
+      { id: "ceratopsians", name: "角竜類", species: [] },
+      { id: "thyreophorans", name: "装盾類", species: [] },
+      { id: "pachycephalosaurs", name: "堅頭竜類", species: [] },
+      { id: "pterosaurs", name: "翼竜", species: [] },
+      { id: "marine-reptiles", name: "海生爬虫類", species: [] },
+      { id: "other-dinosaurs", name: "その他", species: [] }
     ]
   },
   {
@@ -95,11 +95,44 @@ const categories: Category[] = [
 const figureForSpecies = (names: string[]): Figure | undefined =>
   figures.find((figure) => names.includes(figure.data.species ?? ""));
 
+const categoryPrefixes: Record<string, string[]> = {
+  mammals: ["哺乳類", "霊長類"],
+  birds: ["鳥類"],
+  reptiles: ["爬虫類"],
+  amphibians: ["両生類"],
+  fish: ["魚類"],
+  insects: ["昆虫"],
+  crustaceans: ["甲殻類"],
+  "other-arthropods": ["その他節足動物"],
+  mollusks: ["軟体動物"],
+  theropods: ["古生物/獣脚類"],
+  sauropods: ["古生物/竜脚類"],
+  ornithopods: ["古生物/鳥脚類"],
+  ceratopsians: ["古生物/角竜類"],
+  thyreophorans: ["古生物/装盾類"],
+  pachycephalosaurs: ["古生物/堅頭竜類"],
+  pterosaurs: ["古生物/翼竜"],
+  "marine-reptiles": ["古生物/海生爬虫類"],
+  "other-dinosaurs": ["古生物/その他"]
+};
+
+const belongsToGroup = (figure: Figure, group: Group) => {
+  const speciesGroup = figure.data.speciesGroup ?? "";
+  const prefixes = group.id ? categoryPrefixes[group.id] ?? [] : [];
+  return (
+    group.species.includes(figure.data.species ?? "") ||
+    prefixes.some((prefix) =>
+      speciesGroup === prefix || speciesGroup.startsWith(`${prefix}/`)
+    )
+  );
+};
+
+const groupFigures = (group: Group) => figures.filter((figure) => belongsToGroup(figure, group));
 const groupCount = (group: Group) =>
-  figures.filter((figure) => group.species.includes(figure.data.species ?? "")).length;
+  new Set(groupFigures(group).map((figure) => figure.data.species)).size;
 
 const groupImage = (group: Group) => {
-  const figure = figureForSpecies(group.species);
+  const figure = groupFigures(group)[0] ?? figureForSpecies(group.species);
   if (!figure) return undefined;
   return resolveFigureImage(
     figure.id,

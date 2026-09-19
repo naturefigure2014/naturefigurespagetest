@@ -1,8 +1,14 @@
 ---
 title: "DINOLAND 1/35ティラノサウルス"
-description: "????????????????????"
+description: ""
+titleId: kaiyodo/dinoland
+figureId: "35tyrannosaurs"
+species: "ティラノサウルス"
+speciesGroup: "古生物/獣脚類"
 contentType: figure
 maker: 海洋堂
+price: "3,000円（発売当時）、8,800円（2021年復刻）"
+sculptor: "松村しのぶ　HJ掲載：「WILD RUSH」第61回（'95年4月号）"
 coverImage: "img/35tyranno017_small.jpg"
 topics:
   - title: ??

@@ -1,8 +1,13 @@
 ---
-title: "AQUALAND AQ-0"
-description: "????????????????????"
+title: "AQ-0"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQ-0"
+species: ""
+speciesGroup: その他/未分類
 contentType: figure
 maker: 海洋堂
+
 topics:
   - title: ??
     images: []

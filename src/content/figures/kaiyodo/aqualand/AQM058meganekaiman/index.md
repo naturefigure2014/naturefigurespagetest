@@ -1,9 +1,15 @@
 ---
-title: "AQUALAND メガネカイマン"
-description: "????????????????????"
+title: "メガネカイマン"
+description:
+titleId: kaiyodo/aqualand
+figureId: "AQM-058"
+species: メガネカイマン
+speciesGroup: 爬虫類/ワニ類
 contentType: figure
 maker: 海洋堂
+sculptor: 松村しのぶ
 coverImage: "img/kaiman002_small.jpg"
+
 topics:
   - title: ??
     images:

@@ -1,9 +1,16 @@
 ---
 title: "DINOLAND 100mmモデル DinoAlive版"
-description: "????????????????????"
-contentType: figure
+description: ""
+contentType: title
+kind: collection
 maker: 海洋堂
+series:
+  - dinoland
+seriesName: DINOLAND
+price: "1800円"
 coverImage: "img/dinoalive002_small.jpg"
+collectionImage: "img/dinoalive002_small.jpg"
+figureIds: []
 topics:
   - title: ??
     images:
