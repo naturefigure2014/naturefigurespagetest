@@ -1,12 +1,15 @@
 ---
-title: 日本の動物コレクション1
+title: 日本の動物コレクション I 東北/北限のサル
 description: カプセルQミュージアム「日本の動物コレクション1」。
 contentType: title
 kind: series
 maker: 海洋堂
 series:
   - capsuleq
-seriesName: カプセルQミュージアム
+seriesName:
+  - カプセルQミュージアム
+  - アニマテイルズ
+  - 日本の動物コレクション
 releaseStart: "2013.01"
 collectionImage: japIall.jpg
 coverImage: japI.png

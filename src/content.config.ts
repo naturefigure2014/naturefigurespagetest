@@ -2,7 +2,10 @@ import { defineCollection, z } from "astro:content";
 
 const common = {
   title: z.string(),
-  description: z.string().optional(),
+  description: z.preprocess(
+    (value) => value === null ? undefined : value,
+    z.string().optional()
+  ),
   date: z.coerce.date().optional(),
   tags: z.array(z.string()).default([])
 };
@@ -22,7 +25,7 @@ const figures = defineCollection({
     sculptor: z.string().optional(),
     executiveProducer: z.string().optional(),
     series: z.array(z.string()).default([]),
-    seriesName: z.string().optional(),
+    seriesName: z.union([z.string(), z.array(z.string())]).optional(),
     releaseStart: z.string().optional(),
     figureIds: z.array(z.string()).default([]),
     collectionImage: z.union([z.string(), z.number()]).optional(),

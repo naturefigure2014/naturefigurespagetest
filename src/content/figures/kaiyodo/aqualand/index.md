@@ -1,6 +1,6 @@
 ---
-title: 水生生物モデルコレクションAQUALAND
-
+title: 水生生物モデルコレクション[アクアランド]
+description: 
 contentType: title
 kind: series
 maker: 海洋堂
@@ -8,7 +8,7 @@ series:
   - aqualand
 seriesName: AQUALAND
 releaseStart: "1990"
-coverImage: "img/aqualand_header.png"
+coverImage: "aqualand.png"
 collectionImage: "img/aqualand_header.png"
 figureIds:
   - kaiyodo/aqualand/AQM023akameamagaeru

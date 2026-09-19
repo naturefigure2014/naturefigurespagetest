@@ -66,7 +66,10 @@ const titleImage = title?.data.coverImage ?? (titleFigure
 
 const formatDate = (date: Date | undefined) =>
   date ? date.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" }) : undefined;
-const figureTitleContext = [title?.data.seriesName, title?.data.title]
+const titleSeriesNames = title?.data.seriesName
+  ? (Array.isArray(title.data.seriesName) ? title.data.seriesName : [title.data.seriesName])
+  : [];
+const figureTitleContext = [...titleSeriesNames, title?.data.title]
   .filter(Boolean)
   .join(" ");
 const figureHeading = entry.data.figureId
