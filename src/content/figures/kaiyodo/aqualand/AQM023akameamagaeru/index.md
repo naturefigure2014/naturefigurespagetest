@@ -1,6 +1,6 @@
 ---
 title: アカメアマガエル
-
+description:
 titleId: kaiyodo/aqualand
 figureId: "AQM-023"
 species: アカメアマガエル

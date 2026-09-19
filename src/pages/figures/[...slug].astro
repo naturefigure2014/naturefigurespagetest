@@ -60,16 +60,21 @@ const relatedBlogs = blogs.filter((blog) =>
 const titleFigure = title
   ? figures.find((figure) => normalizeContentId(figure.id) === normalizeContentId(title.data.figureIds[0] ?? ""))
   : undefined;
-const titleImage = title?.data.coverImage ?? (titleFigure
-  ? resolveFigureImage(titleFigure.id, titleFigure.data.coverImage ?? titleFigure.data.topics.flatMap((topic) => topic.images)[0])
-  : undefined);
+const titleImage = title
+  ? resolveFigureImage(
+      title.id,
+      title.data.coverImage ?? title.data.collectionImage
+    )
+  : (titleFigure
+    ? resolveFigureImage(titleFigure.id, titleFigure.data.coverImage ?? titleFigure.data.topics.flatMap((topic) => topic.images)[0])
+    : undefined);
 
 const formatDate = (date: Date | undefined) =>
   date ? date.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" }) : undefined;
 const titleSeriesNames = title?.data.seriesName
   ? (Array.isArray(title.data.seriesName) ? title.data.seriesName : [title.data.seriesName])
   : [];
-const figureTitleContext = [...titleSeriesNames, title?.data.title]
+const figureTitleContext = [titleSeriesNames[0], title?.data.title]
   .filter(Boolean)
   .join(" ");
 const figureHeading = entry.data.figureId
@@ -175,6 +180,12 @@ const makerBadgeClass = (() => {
           {title && titleHref
             ? <><dt>タイトル</dt><dd><a href={titleHref}>{title.data.title}</a></dd></>
             : entry.data.kind === "single" && <><dt>タイトル</dt><dd>{entry.data.title}</dd></>}
+          {titleSeriesNames.length > 0 && (
+            <>
+              <dt>シリーズ</dt>
+              <dd>{titleSeriesNames.map((name) => <div>{name}</div>)}</dd>
+            </>
+          )}
           {entry.data.figureId && <><dt>番号</dt><dd>{entry.data.figureId}</dd></>}
           {entry.data.title && <><dt>フィギュア名</dt><dd>{entry.data.title}</dd></>}
           {(title?.data.releaseStart ?? (entry.data.kind === "single" ? entry.data.releaseStart : undefined)) && (
@@ -192,6 +203,20 @@ const makerBadgeClass = (() => {
           </div>
         )}
       </section>
+
+      {title && titleHref && (
+        <section class="sidebar-card related-card contained-title-card">
+          <h2>収録されているタイトル</h2>
+          <a class="related-item" href={titleHref}>
+            {titleImage ? <img src={titleImage} alt="" /> : <span class="related-placeholder">TITLE</span>}
+            <span>
+              <strong>{title.data.title}</strong>
+              <small>{title.data.maker ?? ""}</small>
+            </span>
+            <b>›</b>
+          </a>
+        </section>
+      )}
 
       {title && titleHref && (
         <section class="sidebar-card related-card">

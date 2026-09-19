@@ -42,7 +42,7 @@ const resourceSections = [
       <header class="title-heading">
         <div class="title-heading-meta">
           <p class:list={["eyebrow", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</p>
-          {seriesNames.length > 0 && <span class="title-series-label">{seriesNames.join("・")}</span>}
+          {seriesNames[0] && <span class="title-series-label">{seriesNames[0]}</span>}
         </div>
         <h1>{entry.data.title}</h1>
         {entry.data.description && <p class="title-lead">{entry.data.description}</p>}
@@ -124,7 +124,12 @@ const resourceSections = [
         <dl class="info-list">
           <dt>タイトル</dt><dd>{entry.data.title}</dd>
           {entry.data.maker && <><dt>メーカー</dt><dd>{entry.data.maker}</dd></>}
-          {seriesNames.length > 0 && <><dt>シリーズ</dt><dd>{seriesNames.join("・")}</dd></>}
+          {seriesNames.length > 0 && (
+            <>
+              <dt>シリーズ</dt>
+              <dd>{seriesNames.map((name) => <div>{name}</div>)}</dd>
+            </>
+          )}
           {entry.data.releaseStart && <><dt>発売開始</dt><dd>{entry.data.releaseStart}</dd></>}
           <dt>収録数</dt><dd>{lineup.length}種類</dd>
         </dl>
