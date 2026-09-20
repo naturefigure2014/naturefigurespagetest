@@ -1,4 +1,102 @@
 ---
-import SpeciesGroupDetail from "../../components/SpeciesGroupDetail.astro";
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { resolveFigureImage } from "../../lib/figure-images";
+import { siteUrl } from "../../lib/site-url";
+
+const figures = (await getCollection("figures")).filter(
+  (item) => item.data.contentType !== "title" && item.data.species
+);
+
+type MammalGroup = {
+  id?: string;
+  name: string;
+  species: string[];
+  speciesGroups: string[];
+  icon: string;
+};
+
+const groups: MammalGroup[] = [
+  { id: "primates", name: "霊長類", species: ["ニホンザル"], speciesGroups: ["霊長類"], icon: "●" },
+  { name: "食肉類", species: [], speciesGroups: ["哺乳類/食肉類"], icon: "♣" },
+  { name: "齧歯・兎類", species: ["トウホクノウサギ"], speciesGroups: ["哺乳類/齧歯・兎類"], icon: "◆" },
+  { name: "偶蹄類", species: [], speciesGroups: ["哺乳類/偶蹄類"], icon: "◈" },
+  { name: "奇蹄類", species: [], speciesGroups: ["哺乳類/奇蹄類"], icon: "◇" },
+  { name: "ゾウ類", species: [], speciesGroups: ["哺乳類/ゾウ類"], icon: "◉" },
+  { name: "クジラ・イルカ類", species: [], speciesGroups: ["哺乳類/クジラ類"], icon: "◒" },
+  { name: "コウモリ類", species: [], speciesGroups: ["哺乳類/コウモリ類"], icon: "▽" },
+  { name: "有袋類", species: [], speciesGroups: ["哺乳類/有袋類"], icon: "♧" },
+  { name: "その他", species: [], speciesGroups: ["哺乳類/その他"], icon: "◌" }
+];
+
+const belongsToGroup = (figure: (typeof figures)[number], group: MammalGroup) => {
+  const speciesGroup = figure.data.speciesGroup ?? "";
+  return (
+    group.species.includes(figure.data.species ?? "") ||
+    group.speciesGroups.some(
+      (prefix) => speciesGroup === prefix || speciesGroup.startsWith(`${prefix}/`)
+    )
+  );
+};
+
+const figuresForGroup = (group: MammalGroup) =>
+  figures.filter((figure) => belongsToGroup(figure, group));
+
+const groupImage = (group: MammalGroup) => {
+  const figure = figuresForGroup(group)[0];
+  if (!figure) return undefined;
+  return resolveFigureImage(
+    figure.id,
+    figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
+  );
+};
+
+const groupCount = (group: MammalGroup) =>
+  new Set(figuresForGroup(group).map((figure) => figure.data.species)).size;
 ---
-<SpeciesGroupDetail title="哺乳類" group="哺乳類" icon="♘" description="哺乳類のフィギュアを、生き物の種類から探せます。" />
+
+<BaseLayout title="哺乳類 | NATURE FIGURE">
+  <div class="mammals-page">
+    <div class="breadcrumb">
+      <a href={siteUrl("/")}>ホーム</a>
+      <span>›</span>
+      <a href={siteUrl("/species/")}>生きものから探す</a>
+      <span>›</span>
+      哺乳類
+    </div>
+
+    <section class="mammals-hero">
+      <div class="mammals-hero-copy">
+        <p class="eyebrow">生きものから探す</p>
+        <h1>哺乳類</h1>
+      </div>
+      <div class="mammals-hero-art" aria-hidden="true">♘</div>
+    </section>
+
+    <div class="mammal-group-grid">
+      {groups.map((group) => {
+        const image = groupImage(group);
+        const count = groupCount(group);
+        return (
+          <a
+            class="mammal-group-card"
+            href={siteUrl(group.id ? `/species/${group.id}/` : "/figures/")}
+          >
+            <div class="mammal-group-media">
+              {image ? <img src={image} alt="" loading="lazy" /> : <span>{group.icon}</span>}
+            </div>
+            <div class="mammal-group-footer">
+              <span class="mammal-group-icon" aria-hidden="true">{group.icon}</span>
+              <div>
+                <strong>{group.name}</strong>
+                <small>{count}種類</small>
+              </div>
+              <span class="mammal-group-arrow" aria-hidden="true">›</span>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </div>
+</BaseLayout>

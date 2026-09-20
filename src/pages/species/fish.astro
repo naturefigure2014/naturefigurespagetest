@@ -1,4 +1,13 @@
 ---
-import SpeciesGroupDetail from "../../components/SpeciesGroupDetail.astro";
+import SpeciesSubgroupGrid from "../../components/SpeciesSubgroupGrid.astro";
 ---
-<SpeciesGroupDetail title="魚類" group="魚類" icon="◈" description="魚類のフィギュアを、生き物の種類から探せます。" />
+<SpeciesSubgroupGrid title="魚類" icon="◈" groups={[
+  { name: "サメ・エイ類", speciesGroups: ["魚類/サメ・エイ類"], icon: "〰" },
+  { name: "ウナギ・ナマズ類", speciesGroups: ["魚類/ウナギ・ナマズ類"], icon: "◆" },
+  { name: "コイ・フナ類", speciesGroups: ["魚類/コイ・フナ類"], icon: "◇" },
+  { name: "スズキ目の魚類", speciesGroups: ["魚類/スズキ目の魚類"], icon: "▲" },
+  { name: "カレイ・ヒラメ類", speciesGroups: ["魚類/カレイ・ヒラメ類"], icon: "◈" },
+  { name: "フグ・カワハギ類", speciesGroups: ["魚類/フグ・カワハギ類"], icon: "♢" },
+  { name: "マグロ・カツオ類", speciesGroups: ["魚類/マグロ・カツオ類"], icon: "✦" },
+  { name: "その他", species: ["クニマス"], speciesGroups: ["魚類/その他"], icon: "◌" }
+]} />

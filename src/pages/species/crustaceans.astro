@@ -1,4 +1,11 @@
 ---
-import SpeciesGroupDetail from "../../components/SpeciesGroupDetail.astro";
+import SpeciesSubgroupGrid from "../../components/SpeciesSubgroupGrid.astro";
 ---
-<SpeciesGroupDetail title="甲殻類" group="甲殻類" icon="◆" description="甲殻類のフィギュアを、生き物の種類から探せます。" />
+<SpeciesSubgroupGrid title="甲殻類" icon="◆" groups={[
+  { name: "エビ類", speciesGroups: ["甲殻類/エビ類"], icon: "〰" },
+  { name: "カニ類", speciesGroups: ["甲殻類/カニ類"], icon: "◆" },
+  { name: "ヤドカリ・ロブスター類", species: ["ニホンザリガニ"], speciesGroups: ["甲殻類/ヤドカリ・ロブスター類"], icon: "♢" },
+  { name: "ダンゴムシ・ワラジムシ類", speciesGroups: ["甲殻類/ダンゴムシ・ワラジムシ類"], icon: "◉" },
+  { name: "その他の大型甲殻類", speciesGroups: ["甲殻類/その他の大型甲殻類"], icon: "✦" },
+  { name: "その他", speciesGroups: ["甲殻類/その他"], icon: "◌" }
+]} />

@@ -1,5 +1,5 @@
 ---
-title: "DINOLAND ダイノランド"
+title: "DINOLAND[ダイノランド]"
 description: ""
 contentType: title
 kind: series

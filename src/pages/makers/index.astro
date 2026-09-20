@@ -12,6 +12,11 @@ const titleEntries = new Map(
     .filter((entry) => entry.data.contentType === "title")
     .map((entry) => [normalizeId(entry.id), entry])
 );
+const seriesNamesOf = (entry?: (typeof figures)[number]) => {
+  const value = entry?.data.seriesName;
+  if (!value) return [];
+  return Array.isArray(value) ? value : [value];
+};
 
 type Pickup = { title: string; id?: string; count?: string };
 type Maker = { name: string; english: string; pickups: Pickup[] };
@@ -76,12 +81,19 @@ const makers: Maker[] = [
             {maker.pickups.map((pickup) => {
               const entry = pickup.id ? titleEntries.get(normalizeId(pickup.id)) : undefined;
               const image = entry ? resolveFigureImage(entry.id, entry.data.coverImage) : undefined;
+              const seriesNames = seriesNamesOf(entry);
               const card = (
                 <>
                   {image ? <img src={image} alt="" loading="lazy" /> : <div class="maker-pickup-placeholder">{maker.name}</div>}
                   <span class="maker-pickup-caption">
                     <strong>{entry?.data.title ?? pickup.title}</strong>
-                    <small>{pickup.count ?? "ピックアップ"}</small>
+                    {seriesNames.length > 0 ? (
+                      <span class="maker-pickup-series">
+                        {seriesNames.map((name) => <small>{name}</small>)}
+                      </span>
+                    ) : (
+                      <small>{pickup.count ?? "ピックアップ"}</small>
+                    )}
                   </span>
                   <span class="maker-pickup-arrow">›</span>
                 </>

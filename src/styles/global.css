@@ -260,6 +260,8 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-pickup-caption { display: block; min-height: 54px; padding: 7px 24px 7px 8px; }
 .maker-pickup-caption strong { display: block; color: #294d40; font-size: .72rem; line-height: 1.35; }
 .maker-pickup-caption small { display: inline-block; margin-top: 5px; padding: 2px 8px; border-radius: 99px; color: #4a83a2; background: #eef7fb; font-size: .58rem; }
+.maker-pickup-series { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 5px; }
+.maker-pickup-series small { margin-top: 0; }
 .maker-pickup-arrow { position: absolute; right: 8px; bottom: 8px; color: #6a9382; font-size: 1.1rem; }
 .maker-directory-note { margin: 17px 2px 0; padding: 11px 14px; border-radius: 6px; color: #527064; background: #edf6f2; font-size: .72rem; }
 

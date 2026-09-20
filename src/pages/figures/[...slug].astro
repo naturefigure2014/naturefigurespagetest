@@ -188,7 +188,7 @@ const makerBadgeClass = (() => {
           {(title?.data.maker ?? entry.data.maker) && <><dt>メーカー名</dt><dd>{title?.data.maker ?? entry.data.maker}</dd></>}
           {title && titleHref
             ? <><dt>タイトル</dt><dd><a href={titleHref}>{title.data.title}</a></dd></>
-            : entry.data.kind === "single" && <><dt>タイトル</dt><dd>{entry.data.title}</dd></>}
+            : entry.data.kind !== "singleLineup" && entry.data.title && <><dt>タイトル</dt><dd>{entry.data.title}</dd></>}
           {titleSeriesNames.length > 0 && (
             <>
               <dt>シリーズ</dt>
@@ -197,7 +197,7 @@ const makerBadgeClass = (() => {
           )}
           {entry.data.figureId && <><dt>番号</dt><dd>{entry.data.figureId}</dd></>}
           {entry.data.title && <><dt>フィギュア名</dt><dd>{entry.data.title}</dd></>}
-          {(title?.data.releaseStart ?? (entry.data.kind === "single" ? entry.data.releaseStart : undefined)) && (
+          {(title?.data.releaseStart ?? (entry.data.kind === "singleLineup" ? entry.data.releaseStart : undefined)) && (
             <><dt>販売開始</dt><dd>{title?.data.releaseStart ?? entry.data.releaseStart}</dd></>
           )}
           {(title?.data.price ?? entry.data.price) && <><dt>価格</dt><dd>{title?.data.price ?? entry.data.price}</dd></>}

@@ -1,4 +1,14 @@
 ---
-import SpeciesGroupDetail from "../../components/SpeciesGroupDetail.astro";
+import SpeciesSubgroupGrid from "../../components/SpeciesSubgroupGrid.astro";
 ---
-<SpeciesGroupDetail title="鳥類" group="鳥類" icon="♠" description="鳥類のフィギュアを、生き物の種類から探せます。" />
+<SpeciesSubgroupGrid title="鳥類" icon="♠" groups={[
+  { name: "小鳥・身近な鳥", species: ["オオマシコ"], icon: "●" },
+  { name: "カラス・ハト類", icon: "◆" },
+  { name: "オウム・インコ類", icon: "◇" },
+  { name: "猛禽類", icon: "▲" },
+  { name: "キジ・ニワトリ類", icon: "♠" },
+  { name: "水鳥", species: ["マガン"], icon: "◈" },
+  { name: "海鳥", icon: "▽" },
+  { name: "ペンギン類", speciesGroups: ["鳥類/ペンギン類"], icon: "♟" },
+  { name: "その他", icon: "◌" }
+]} />

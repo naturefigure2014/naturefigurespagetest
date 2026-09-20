@@ -1,4 +1,10 @@
 ---
-import SpeciesGroupDetail from "../../components/SpeciesGroupDetail.astro";
+import SpeciesSubgroupGrid from "../../components/SpeciesSubgroupGrid.astro";
 ---
-<SpeciesGroupDetail title="爬虫類" group="爬虫類" icon="♢" description="爬虫類のフィギュアを、生き物の種類から探せます。" />
+<SpeciesSubgroupGrid title="爬虫類" icon="♢" groups={[
+  { name: "ヘビ類", speciesGroups: ["爬虫類/ヘビ類"], icon: "〰" },
+  { name: "トカゲ類", speciesGroups: ["爬虫類/トカゲ類"], icon: "◆" },
+  { name: "カメ類", speciesGroups: ["爬虫類/カメ類"], icon: "◉" },
+  { name: "ワニ類", speciesGroups: ["爬虫類/ワニ類"], icon: "♢" },
+  { name: "その他", speciesGroups: ["爬虫類/その他"], icon: "◌" }
+]} />
