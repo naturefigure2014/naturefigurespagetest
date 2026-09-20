@@ -90,4 +90,40 @@ const blog = defineCollection({
   })
 });
 
-export const collections = { figures, works, blog };
+const makers = defineCollection({
+  type: "content",
+  schema: z.object({
+    maker: z.string(),
+    english: z.string().optional(),
+    heroSourceId: z.string().optional(),
+    heroImage: z.union([z.string(), z.number()]).optional(),
+    genreDescription: z.string().optional(),
+    seriesDescription: z.string().optional(),
+    genres: z.array(z.object({
+      name: z.string(),
+      href: z.string().default("#"),
+      sourceId: z.string().optional(),
+      image: z.union([z.string(), z.number()]).optional()
+    })).default([]),
+    pickups: z.array(z.object({
+      name: z.string(),
+      href: z.string().default("#"),
+      sourceId: z.string().optional(),
+      image: z.union([z.string(), z.number()]).optional()
+    })).default([]),
+    seriesSections: z.array(z.object({
+      name: z.string(),
+      format: z.string().optional(),
+      titleIds: z.array(z.string()).default([]),
+      cards: z.array(z.object({
+        name: z.string(),
+        href: z.string().default("#"),
+        sourceId: z.string().optional(),
+        image: z.union([z.string(), z.number()]).optional()
+      })).default([]),
+      maxTitles: z.number().default(6)
+    })).default([])
+  })
+});
+
+export const collections = { figures, works, blog, makers };

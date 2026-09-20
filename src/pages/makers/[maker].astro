@@ -1,0 +1,126 @@
+---
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { resolveFigureImage } from "../../lib/figure-images";
+import { siteUrl } from "../../lib/site-url";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("makers");
+  return entries.map((entry) => ({
+    params: { maker: entry.id.replace(/\.md$/, "") },
+    props: { entry }
+  }));
+}
+
+const { entry } = Astro.props;
+const figures = await getCollection("figures");
+const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
+const titleEntries = figures.filter((item) => item.data.contentType === "title");
+const entryById = new Map(figures.map((item) => [normalizeId(item.id), item]));
+
+const imageFor = (sourceId?: string, image?: string | number) => {
+  if (!sourceId) return undefined;
+  const source = entryById.get(normalizeId(sourceId));
+  return source ? resolveFigureImage(source.id, image === "coverImage" ? source.data.coverImage : image) : undefined;
+};
+const seriesNames = (entry: (typeof titleEntries)[number]) => {
+  const value = entry.data.seriesName;
+  return value ? (Array.isArray(value) ? value : [value]) : [];
+};
+const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) => {
+  if (section.titleIds.length > 0) {
+    return section.titleIds
+      .map((id) => entryById.get(normalizeId(id)))
+      .filter((item): item is (typeof titleEntries)[number] => Boolean(item))
+      .slice(0, section.maxTitles);
+  }
+  return titleEntries
+    .filter((item) => item.data.maker === entry.data.maker && seriesNames(item).includes(section.name))
+    .slice(0, section.maxTitles);
+};
+---
+
+<BaseLayout title={`${entry.data.maker} | MAKERS & TITLES | NATURE FIGURE`}>
+  <div class="maker-detail">
+    <div class="maker-detail-content">
+      <div class="breadcrumb"><a href={siteUrl("/")}>ホーム</a> / <a href={siteUrl("/makers/")}>メーカー・タイトルから探す</a> / {entry.data.maker}</div>
+      <div class="maker-detail-menu-wrap">
+        <button class="maker-detail-menu" type="button" aria-controls="maker-detail-sidebar" aria-expanded="false">☰ メーカーから探す</button>
+        <aside class="maker-detail-sidebar" id="maker-detail-sidebar">
+          <div class="maker-detail-sidebar-heading">メーカーから探す</div>
+          {["海洋堂", "ユージン", "タカラトミーアーツ", "いきもん", "バンダイ", "スタジオソータ", "エポック社", "その他"].map((name) => (
+            <a class:list={{ "is-current": name === entry.data.maker }} href={name === "海洋堂" ? siteUrl("/makers/kaiyodo/") : "#"}>{name}</a>
+          ))}
+        </aside>
+      </div>
+      <section class="maker-detail-hero">
+        <div>
+          <p class="eyebrow">{entry.data.english ?? "MAKER"}</p>
+          <h1>{entry.data.maker}</h1>
+          <p>海洋堂のフィギュアを、シリーズやジャンルから探せます。</p>
+        </div>
+        {imageFor(entry.data.heroSourceId, entry.data.heroImage) && <img src={imageFor(entry.data.heroSourceId, entry.data.heroImage)} alt="" />}
+      </section>
+
+      <section class="maker-detail-section">
+        <div class="maker-detail-section-heading"><span></span><h2>ジャンルから探す</h2></div>
+        {entry.data.genreDescription && <p class="maker-detail-section-description">{entry.data.genreDescription}</p>}
+        <div class="maker-detail-card-grid maker-detail-card-grid--five">
+          {entry.data.genres.map((card) => (
+            <a class="maker-detail-card" href={card.href}>
+              {imageFor(card.sourceId, card.image) ? <img src={imageFor(card.sourceId, card.image)} alt="" /> : <span class="maker-detail-card-placeholder">{card.name.slice(0, 1)}</span>}
+              <strong>{card.name}</strong>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="maker-detail-section">
+        <div class="maker-detail-section-heading"><span></span><h2>シリーズから探す</h2></div>
+        {entry.data.seriesDescription && <p class="maker-detail-section-description">{entry.data.seriesDescription}</p>}
+        <h3 class="maker-detail-subheading">★ ピックアップ</h3>
+        <div class="maker-detail-card-grid maker-detail-card-grid--five">
+          {entry.data.pickups.map((card) => (
+            <a class="maker-detail-card" href={card.href}>
+              {imageFor(card.sourceId, card.image) ? <img src={imageFor(card.sourceId, card.image)} alt="" /> : <span class="maker-detail-card-placeholder">{card.name.slice(0, 1)}</span>}
+              <strong>{card.name}</strong>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="maker-detail-series-list">
+        {entry.data.seriesSections.map((section) => {
+          const titles = titlesForSeries(section);
+          return (
+            <section class="maker-detail-series">
+              <header><div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div><a href={siteUrl(`/titles/?series=${encodeURIComponent(section.name)}`)}>▶すべてのタイトルを見る</a></header>
+              <div class="maker-detail-title-grid">
+                {section.cards.map((card) => (
+                  <a href={card.href}>
+                    {imageFor(card.sourceId, card.image) ? <img src={imageFor(card.sourceId, card.image)} alt="" /> : <span class="maker-detail-title-placeholder">FIGURE</span>}
+                    <span>{card.name}</span>
+                  </a>
+                ))}
+                {titles.map((title) => {
+                  const image = resolveFigureImage(title.id, title.data.coverImage);
+                  return <a href={siteUrl(`/figures/${normalizeId(title.id)}/`)}><>{image ? <img src={image} alt="" /> : <span class="maker-detail-title-placeholder">FIGURE</span>}<span>{title.data.title}</span></></a>;
+                })}
+              </div>
+            </section>
+          );
+        })}
+      </section>
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  const button = document.querySelector<HTMLButtonElement>(".maker-detail-menu");
+  const sidebar = document.querySelector<HTMLElement>("#maker-detail-sidebar");
+  button?.addEventListener("click", () => {
+    const open = sidebar?.classList.toggle("is-open") ?? false;
+    button.setAttribute("aria-expanded", String(open));
+  });
+</script>

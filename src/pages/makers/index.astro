@@ -75,7 +75,7 @@ const makers: Maker[] = [
         <section class="maker-directory-section">
           <header class="maker-directory-heading">
             <div><h2>{maker.name}</h2><p>{maker.english}</p></div>
-            <a href={siteUrl("/titles/")}>このメーカーのタイトル一覧を見る <span>→</span></a>
+            <a href={siteUrl(maker.name === "海洋堂" ? "/makers/kaiyodo/" : "/titles/")}>このメーカーのタイトル一覧を見る <span>→</span></a>
           </header>
           <div class="maker-pickup-grid">
             {maker.pickups.map((pickup) => {

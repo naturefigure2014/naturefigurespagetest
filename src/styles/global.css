@@ -265,6 +265,49 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-pickup-arrow { position: absolute; right: 8px; bottom: 8px; color: #6a9382; font-size: 1.1rem; }
 .maker-directory-note { margin: 17px 2px 0; padding: 11px 14px; border-radius: 6px; color: #527064; background: #edf6f2; font-size: .72rem; }
 
+/* MAKER detail */
+.maker-detail { display: block; max-width: 1240px; margin: 0 auto; }
+.maker-detail-menu-wrap { position: relative; display: inline-block; }
+.maker-detail-sidebar { position: absolute; top: calc(100% + 6px); left: 0; z-index: 20; display: none; width: 220px; padding: 14px 10px; border: 1px solid #dbe7e2; border-radius: 8px; background: #f7fbf9; box-shadow: 0 8px 24px rgba(28,72,54,.12); }
+.maker-detail-sidebar.is-open { display: block; }
+.maker-detail-sidebar-heading { margin: 0 8px 8px; color: #294d40; font-size: .78rem; font-weight: 800; }
+.maker-detail-sidebar a { display: block; padding: 8px; color: #527469; font-size: .75rem; text-decoration: none; border-radius: 5px; }
+.maker-detail-sidebar a:hover, .maker-detail-sidebar a.is-current { color: #245b47; background: #dfeee6; font-weight: 800; }
+.maker-detail-content { min-width: 0; }
+.maker-detail-menu { display: inline-flex; align-items: center; gap: 6px; margin: 0 0 10px; padding: 7px 10px; border: 1px solid #cfe0d8; border-radius: 6px; color: #3b6b58; background: #fff; font: inherit; font-size: .75rem; cursor: pointer; }
+.maker-detail-hero { position: relative; display: flex; min-height: 120px; overflow: hidden; margin-bottom: 8px; border-radius: 7px; color: #fff; background: #24533e; }
+.maker-detail-hero::after { position: absolute; inset: 0; content: ""; background: linear-gradient(90deg, rgba(14,55,37,.88), rgba(14,55,37,.38)); }
+.maker-detail-hero > div { position: relative; z-index: 1; align-self: center; padding: 18px 28px; }
+.maker-detail-hero .eyebrow { color: #d8f0df; }
+.maker-detail-hero h1 { margin: 7px 0; font-size: clamp(2rem, 4vw, 3.1rem); }
+.maker-detail-hero p { margin: 0; color: #effaf0; font-size: .9rem; }
+.maker-detail-hero img { position: absolute; inset: 0; z-index: 0; width: 100%; height: 100%; object-fit: cover; }
+.maker-detail-section { margin-bottom: 8px; }
+.maker-detail-section-heading { display: flex; align-items: center; gap: 8px; margin-bottom: 11px; padding-bottom: 6px; border-bottom: 1px solid #dce9e2; }
+.maker-detail-section-heading > span { width: 4px; height: 19px; background: #35805c; }
+.maker-detail-section-heading h2 { margin: 0; color: #294d40; font-size: 1.12rem; }
+.maker-detail-section-description { margin: -2px 0 12px; color: #4d675a; font-size: .84rem; line-height: 1.7; }
+.maker-detail-subheading { margin: 0 0 10px; color: #294d40; font-size: 1.05rem; }
+.maker-detail-card-grid { display: grid; gap: 12px; }
+.maker-detail-card-grid--five { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+.maker-detail-card { overflow: hidden; border: 1px solid #dbe7e2; border-radius: 7px; color: #294d40; background: #fff; text-decoration: none; }
+.maker-detail-card img, .maker-detail-card-placeholder { display: grid; width: 100%; aspect-ratio: 4 / 3; place-items: center; object-fit: cover; color: #5b836e; background: linear-gradient(135deg, #e4f1eb, #cddfd6); font-size: 2rem; }
+.maker-detail-card strong { display: block; padding: 10px; font-size: .78rem; line-height: 1.35; }
+.maker-detail-description { margin-top: 16px; padding: 14px 16px; border-left: 3px solid #6a9c7d; color: #4d675a; background: #f1f8f3; font-size: .84rem; line-height: 1.8; }
+.maker-detail-description > :first-child { margin-top: 0; }
+.maker-detail-description > :last-child { margin-bottom: 0; }
+.maker-detail-series-list { display: grid; gap: 6px; }
+.maker-detail-series { padding: 15px; border: 1px solid #dbe7e2; border-radius: 8px; background: #fff; }
+.maker-detail-series header { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 12px; }
+.maker-detail-series header div { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; }
+.maker-detail-series h2 { margin: 0; color: #294d40; font-size: 1.05rem; }
+.maker-detail-series header span { padding: 3px 8px; border-radius: 999px; color: #4a83a2; background: #eef7fb; font-size: .65rem; }
+.maker-detail-series header a { color: #39785f; font-size: .7rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
+.maker-detail-title-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.maker-detail-title-grid a { display: grid; grid-template-columns: 84px minmax(0, 1fr); gap: 9px; align-items: start; min-width: 0; padding: 6px; border: 1px solid #dbe7e2; border-radius: 5px; color: #294d40; background: #fff; text-decoration: none; }
+.maker-detail-title-grid img, .maker-detail-title-placeholder { display: grid; width: 84px; height: 63px; place-items: center; object-fit: cover; border-radius: 4px; color: #6e8279; background: #e8eeeb; font-size: .58rem; }
+.maker-detail-title-grid span { font-size: 1rem; line-height: 1.45; }
+
 /* TITLE detail */
 .title-layout { display: grid; grid-template-columns: minmax(0, 1fr) 358px; gap: 22px; align-items: start; }
 .title-main, .title-sidebar { min-width: 0; }
@@ -413,6 +456,13 @@ body.lightbox-open { overflow: hidden; }
   .maker-directory-heading { align-items: flex-start; flex-direction: column; gap: 5px; }
   .maker-directory-heading a { align-self: flex-end; }
   .maker-pickup-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .maker-detail { display: block; }
+  .maker-detail-sidebar { width: min(260px, calc(100vw - 20px)); box-shadow: 0 8px 24px rgba(28,72,54,.18); }
+  .maker-detail-hero { min-height: 100px; }
+  .maker-detail-hero > div { padding: 16px 20px; }
+  .maker-detail-card-grid--five { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .maker-detail-title-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .maker-detail-series header { align-items: flex-start; flex-direction: column; gap: 7px; }
 
   .site-header { display: block; padding: 12px 16px; }
   .logo { margin-bottom: 8px; }
