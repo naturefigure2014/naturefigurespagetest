@@ -7,7 +7,7 @@ species: ニホンザル
 speciesGroup: 霊長類
 maker: 海洋堂
 sculptor: 松村しのぶ
-figureGroupImage: anima_japI_015.jpg
+figureTopImage: anima_japI_015.jpg
 coverImage: anima_japI_015.jpg
 topics:
   - title: 全体

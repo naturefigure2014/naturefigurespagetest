@@ -1,8 +1,8 @@
 ---
-title: "DINOLAND 1/20アンキロサウルス"
+title: "1/20アンキロサウルス"
 description: ""
 titleId: kaiyodo/dinoland
-figureId: "20ankylosaurus"
+figureId: ""
 species: "アンキロサウルス"
 speciesGroup: "古生物/装盾類"
 contentType: figure

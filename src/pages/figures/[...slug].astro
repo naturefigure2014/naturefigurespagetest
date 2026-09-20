@@ -68,8 +68,8 @@ const titleImage = title
   : (titleFigure
     ? resolveFigureImage(titleFigure.id, titleFigure.data.coverImage ?? titleFigure.data.topics.flatMap((topic) => topic.images)[0])
     : undefined);
-const collectionPhoto = entry.data.figureGroupImage
-  ? resolveFigureImage(entry.id, entry.data.figureGroupImage)
+const collectionPhoto = entry.data.figureTopImage
+  ? resolveFigureImage(entry.id, entry.data.figureTopImage)
   : undefined;
 
 const formatDate = (date: Date | undefined) =>

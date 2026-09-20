@@ -30,7 +30,7 @@ const figures = defineCollection({
     figureIds: z.array(z.string()).default([]),
     collectionImage: z.union([z.string(), z.number()]).optional(),
     // 個別フィギュアページ専用の集合写真（collectionImageより小さく表示）
-    figureGroupImage: z.union([z.string(), z.number()]).optional(),
+    figureTopImage: z.union([z.string(), z.number()]).optional(),
     resources: z.object({
       guide: z.object({
         image: z.union([z.string(), z.number()]).optional(),
