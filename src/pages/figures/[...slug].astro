@@ -68,6 +68,9 @@ const titleImage = title
   : (titleFigure
     ? resolveFigureImage(titleFigure.id, titleFigure.data.coverImage ?? titleFigure.data.topics.flatMap((topic) => topic.images)[0])
     : undefined);
+const collectionPhoto = entry.data.figureGroupImage
+  ? resolveFigureImage(entry.id, entry.data.figureGroupImage)
+  : undefined;
 
 const formatDate = (date: Date | undefined) =>
   date ? date.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" }) : undefined;
@@ -119,6 +122,12 @@ const makerBadgeClass = (() => {
           {entry.data.description && <p class="figure-lead">{entry.data.description}</p>}
         </div>
       </header>
+
+      {collectionPhoto && (
+        <div class="figure-group-photo">
+          <img src={collectionPhoto} alt={`${entry.data.title}の集合写真`} />
+        </div>
+      )}
 
       <section class="review-card">
         <div class="review-body">
