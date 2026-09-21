@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd C:\\\\astro\\\\7\\\\src\\\\content\\\\figures\\\\kaiyodo\\\\capsuleq\\\\birdgarden; python C:\\\\astro\\\\7\\\\scripts\\\\generate_legacy_figure\\.py; cd C:\\\\astro\\\\7; npm run build 2>&1 \\| Select-String -Pattern \"ERROR\\|error\\|birdgarden\\|Complete!\" -Context 1,2; if \\(\\$LASTEXITCODE -ne 0\\) \\{ exit \\$LASTEXITCODE \\}; git diff --check$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

@@ -28,7 +28,7 @@ genres:
     image: coverImage
 pickups:
   - name: カプセルQミュージアム
-    href: "#"
+    href: "/makers/kaiyodo/capsuleq/"
     sourceId: kaiyodo/capsuleq/nihon-no-doubutsu-1
     image: coverImage
   - name: アクアランド

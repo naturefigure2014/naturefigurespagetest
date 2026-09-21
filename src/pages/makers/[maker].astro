@@ -7,7 +7,7 @@ import { siteUrl } from "../../lib/site-url";
 
 export async function getStaticPaths() {
   const entries = await getCollection("makers");
-  return entries.map((entry) => ({
+  return entries.filter((entry) => !entry.data.pageTitle).map((entry) => ({
     params: { maker: entry.id.replace(/\.md$/, "") },
     props: { entry }
   }));
@@ -24,6 +24,7 @@ const imageFor = (sourceId?: string, image?: string | number) => {
   const source = entryById.get(normalizeId(sourceId));
   return source ? resolveFigureImage(source.id, image === "coverImage" ? source.data.coverImage : image) : undefined;
 };
+const linkFor = (href: string) => href.startsWith("/") ? siteUrl(href) : href;
 const seriesNames = (entry: (typeof titleEntries)[number]) => {
   const value = entry.data.seriesName;
   return value ? (Array.isArray(value) ? value : [value]) : [];
@@ -68,7 +69,7 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
         {entry.data.genreDescription && <p class="maker-detail-section-description">{entry.data.genreDescription}</p>}
         <div class="maker-detail-card-grid maker-detail-card-grid--five">
           {entry.data.genres.map((card) => (
-            <a class="maker-detail-card" href={card.href}>
+            <a class="maker-detail-card" href={linkFor(card.href)}>
               {imageFor(card.sourceId, card.image) ? <img src={imageFor(card.sourceId, card.image)} alt="" /> : <span class="maker-detail-card-placeholder">{card.name.slice(0, 1)}</span>}
               <strong>{card.name}</strong>
             </a>
@@ -82,7 +83,7 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
         <h3 class="maker-detail-subheading">★ ピックアップ</h3>
         <div class="maker-detail-card-grid maker-detail-card-grid--five">
           {entry.data.pickups.map((card) => (
-            <a class="maker-detail-card" href={card.href}>
+            <a class="maker-detail-card" href={linkFor(card.href)}>
               {imageFor(card.sourceId, card.image) ? <img src={imageFor(card.sourceId, card.image)} alt="" /> : <span class="maker-detail-card-placeholder">{card.name.slice(0, 1)}</span>}
               <strong>{card.name}</strong>
             </a>
@@ -95,10 +96,10 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
           const titles = titlesForSeries(section);
           return (
             <section class="maker-detail-series">
-              <header><div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div><a href={siteUrl(`/titles/?series=${encodeURIComponent(section.name)}`)}>▶すべてのタイトルを見る</a></header>
+              <header><div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div><a href={siteUrl(section.name === "カプセルQミュージアム" ? "/makers/kaiyodo/capsuleq/" : `/titles/?series=${encodeURIComponent(section.name)}`)}>▶すべてのタイトルを見る</a></header>
               <div class="maker-detail-title-grid">
                 {section.cards.map((card) => (
-                  <a href={card.href}>
+                  <a href={linkFor(card.href)}>
                     {imageFor(card.sourceId, card.image) ? <img src={imageFor(card.sourceId, card.image)} alt="" /> : <span class="maker-detail-title-placeholder">FIGURE</span>}
                     <span>{card.name}</span>
                   </a>

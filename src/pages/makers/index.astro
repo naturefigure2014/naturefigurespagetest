@@ -26,7 +26,7 @@ const makers: Maker[] = [
     { title: "水生生物モデルコレクションAQUALAND", id: "kaiyodo/aqualand", count: "22種類" },
     { title: "日本の動物コレクション1", id: "kaiyodo/capsuleq/nihon-no-doubutsu-1", count: "12種類" },
     { title: "DINOLAND", id: "kaiyodo/dinoland", count: "12種類" },
-    { title: "カプセルQミュージアム", count: "フィギュア" }
+    { title: "カプセルQミュージアム", count: "フィギュア", id: "kaiyodo/capsuleq" }
   ] },
   { name: "ユージン", english: "YUJIN", pickups: [
     { title: "原色日本昆虫図鑑1" }, { title: "原色淡水魚図鑑1" },
@@ -98,8 +98,13 @@ const makers: Maker[] = [
                   <span class="maker-pickup-arrow">›</span>
                 </>
               );
-              return entry
-                ? <a class="maker-pickup-card" href={siteUrl(`/figures/${normalizeId(entry.id)}/`)}>{card}</a>
+              const pickupHref = pickup.id === "kaiyodo/capsuleq"
+                ? siteUrl("/makers/kaiyodo/capsuleq/")
+                : entry
+                  ? siteUrl(`/figures/${normalizeId(entry.id)}/`)
+                  : undefined;
+              return pickupHref
+                ? <a class="maker-pickup-card" href={pickupHref}>{card}</a>
                 : <div class="maker-pickup-card">{card}</div>;
             })}
           </div>

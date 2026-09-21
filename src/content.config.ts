@@ -94,6 +94,10 @@ const makers = defineCollection({
   type: "content",
   schema: z.object({
     maker: z.string(),
+    pageTitle: z.string().optional(),
+    pageEnglish: z.string().optional(),
+    pageDescription: z.string().optional(),
+    titleHeading: z.string().optional(),
     english: z.string().optional(),
     heroSourceId: z.string().optional(),
     heroImage: z.union([z.string(), z.number()]).optional(),
