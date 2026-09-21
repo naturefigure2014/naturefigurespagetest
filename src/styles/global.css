@@ -303,10 +303,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-detail-series h2 { margin: 0; color: #294d40; font-size: 1.05rem; }
 .maker-detail-series header span { padding: 3px 8px; border-radius: 999px; color: #4a83a2; background: #eef7fb; font-size: .65rem; }
 .maker-detail-series header a { color: #39785f; font-size: .7rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
-.maker-detail-title-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
-.maker-detail-title-grid a { display: grid; grid-template-columns: 84px minmax(0, 1fr); gap: 9px; align-items: start; min-width: 0; padding: 6px; border: 1px solid #dbe7e2; border-radius: 5px; color: #294d40; background: #fff; text-decoration: none; }
-.maker-detail-title-grid img, .maker-detail-title-placeholder { display: grid; width: 84px; height: 63px; place-items: center; object-fit: cover; border-radius: 4px; color: #6e8279; background: #e8eeeb; font-size: .58rem; }
-.maker-detail-title-grid span { font-size: 1rem; line-height: 1.45; }
+.maker-detail-title-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 12px; }
 
 /* TITLE detail */
 .title-layout { display: grid; grid-template-columns: minmax(0, 1fr) 358px; gap: 22px; align-items: start; }
@@ -461,7 +458,7 @@ body.lightbox-open { overflow: hidden; }
   .maker-detail-hero { min-height: 100px; }
   .maker-detail-hero > div { padding: 16px 20px; }
   .maker-detail-card-grid--five { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .maker-detail-title-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .maker-detail-title-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .maker-detail-series header { align-items: flex-start; flex-direction: column; gap: 7px; }
 
   .site-header { display: block; padding: 12px 16px; }

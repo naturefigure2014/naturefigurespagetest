@@ -41,7 +41,7 @@ class Node:
     def to_html(self) -> str:
         if self.tag == "#root":
             return self.inner_html()
-        attrs = "".join(f' {key}="{html.escape(value, quote=True)}"' for key, value in self.attrs.items())
+        attrs = "".join(f' {key}="{html.escape(value or "", quote=True)}"' for key, value in self.attrs.items())
         if self.tag in {"br", "img", "meta", "link", "input", "hr"}:
             return f"<{self.tag}{attrs} />"
         return f"<{self.tag}{attrs}>{self.inner_html()}</{self.tag}>"
@@ -89,8 +89,30 @@ def image_path(src: str) -> str:
     return src.lstrip("./")
 
 
+def strip_small_suffix(path: str) -> str:
+    """Legacy thumbnails end with "_small" before the extension (e.g.
+    WR2_010_small.jpg). The full-size image drops that suffix."""
+    match = re.match(r"^(.*?)_small(\.[^./]+)$", path, re.IGNORECASE)
+    return f"{match.group(1)}{match.group(2)}" if match else path
+
+
+def full_size_image_source(image: Node) -> str:
+    """Legacy pages wrap thumbnails as <a href="full.jpg"><img
+    src="full_small.jpg" /></a>. Prefer the <a href> target (the full-size
+    image); fall back to stripping "_small" from the <img src>."""
+    ancestor = image.parent
+    while ancestor is not None:
+        if ancestor.tag == "a":
+            href = ancestor.attrs.get("href") or ""
+            if href.split("?", 1)[0].lower().endswith((".jpg", ".jpeg", ".png", ".gif")):
+                return href
+            break
+        ancestor = ancestor.parent
+    return strip_small_suffix(image.attrs.get("src") or "")
+
+
 def node_images(node: Node) -> list[str]:
-    return [image_path(image.attrs["src"]) for image in node.descendants("img") if image.attrs.get("src")]
+    return [image_path(full_size_image_source(image)) for image in node.descendants("img") if image.attrs.get("src")]
 
 
 def visible_without_images(node: Node) -> str:
@@ -159,8 +181,35 @@ def release_start(text: str) -> str | None:
     return f"{match.group(1)}.{int(match.group(2)):02d}"
 
 
+def extract_price(text: str) -> str | None:
+    match = re.search(r"価格\s*[：:：]?\s*([^\s　]+)", text)
+    if not match:
+        return None
+    return match.group(1)
+
+
+def commented_heading_text(raw_html: str) -> str | None:
+    """Some legacy pages have their <h4> title commented out (FrontPage
+    template placeholders), e.g. <!--<h4>...</h4>-->. Recover the text so the
+    title is not lost.
+    """
+    match = re.search(r"<!--\s*<h4[^>]*>(.*?)</h4>", raw_html, re.IGNORECASE | re.DOTALL)
+    if not match:
+        return None
+    text = re.sub(r"<br\s*/?>", " ", match.group(1), flags=re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", "", text)
+    return normalize_text(text) or None
+
+
 def make_topic(images: list[str], comment: str = "") -> dict:
     return {"images": images, "comment": comment}
+
+
+def extract_sculptor(inner_html: str) -> str | None:
+    match = re.search(r"(?:原型制作|原形制作)\s*[：:]\s*([^<]+)", inner_html)
+    if not match:
+        return None
+    return normalize_text(match.group(1)) or None
 
 
 def extract_items(main: Node, limit: int = 12):
@@ -183,12 +232,21 @@ def extract_items(main: Node, limit: int = 12):
         cells = list(row.descendants("td"))
         if not cells:
             continue
-        images = node_images(cells[0])
-        current["cell_text"] = f"{current.get('cell_text', '')} {visible_without_images(cells[0])}"
+        # A row can contain multiple <td> cells side by side (two-column
+        # image layouts), so gather images/text across the whole row rather
+        # than only the first cell.
+        images = node_images(row)
         if images:
             current["topics"].append(make_topic(images))
         else:
-            comment = visible_without_images(cells[0])
+            # Extract the sculptor name from the raw HTML (still containing
+            # <br /> tags) before it collapses into a single space, so the
+            # name does not swallow the rest of the comment text.
+            if "sculptor" not in current:
+                sculptor = extract_sculptor(row.inner_html())
+                if sculptor:
+                    current["sculptor"] = sculptor
+            comment = visible_without_images(row)
             if comment and current["topics"]:
                 current["topics"][-1]["comment"] = comment
     return items
@@ -216,6 +274,7 @@ def write_title_page(
     cover: str,
     collection: str,
     release: str | None,
+    price: str | None,
     resources: dict[str, dict[str, str]],
 ):
     folder_name = folder.name
@@ -235,6 +294,7 @@ def write_title_page(
     lines.extend([
         "executiveProducer: 松村しのぶ" if "総指揮" in overview else None,
         f"releaseStart: {quoted(release)}" if release else None,
+        f"price: {quoted(price)}" if price else None,
         f"coverImage: {quoted(cover)}",
         f"collectionImage: {quoted(collection)}",
     ])
@@ -257,7 +317,6 @@ def write_figure_page(folder: Path, item: dict, index: int, maker: str):
     figure_folder = folder / f"{index:03d}"
     figure_folder.mkdir(exist_ok=True)
     first_image = Path(item["topics"][0]["images"][0]).name if item["topics"] else ""
-    sculptor_match = re.search(r"(?:原型制作|原形制作)\s*[：:]\s*([^<\n]+)", item.get("cell_text", ""))
     lines = [
         "---",
         f"title: {quoted(item['name'])}",
@@ -269,8 +328,8 @@ def write_figure_page(folder: Path, item: dict, index: int, maker: str):
         'speciesGroup: ""',
         f"maker: {quoted(maker)}",
     ]
-    if sculptor_match:
-        lines.append(f"sculptor: {quoted(normalize_text(sculptor_match.group(1)))}")
+    if item.get("sculptor"):
+        lines.append(f"sculptor: {quoted(item['sculptor'])}")
     lines.extend([
         f"figureTopImage: {quoted(first_image)}",
         f"coverImage: {quoted(first_image)}",
@@ -290,14 +349,15 @@ def generate(source: Path):
     else:
         output_folder = source.parent.parent if source.parent.name == "_legacy" else source.parent
     document = DocumentParser()
-    document.feed(source.read_text(encoding="utf-8", errors="replace"))
+    raw_html = source.read_text(encoding="utf-8", errors="replace")
+    document.feed(raw_html)
     content = find_by_id(document.root, "collection_page")
     main = find_by_id(document.root, "collection_page_main")
     if content is None or main is None:
         raise RuntimeError("collection_page and collection_page_main were not found")
 
     heading = first_descendant(content, "h4")
-    title = heading.text() if heading else source.stem
+    title = heading.text() if heading else commented_heading_text(raw_html) or source.stem
     paragraphs = list(content.descendants("p"))
     overview = paragraphs[0].inner_html().strip() if paragraphs else ""
     maker_candidates = ("海洋堂", "バンダイ", "いきもん", "奇譚クラブ")
@@ -306,16 +366,22 @@ def generate(source: Path):
     items = extract_items(main)
     resources = extract_resources(main)
     release = release_start(" ".join(paragraph.text() for paragraph in paragraphs))
-    image_dir = source.parent / "img"
+    price = extract_price(" ".join(paragraph.text() for paragraph in paragraphs))
+    # Always resolve images relative to the working collection folder, since
+    # the source HTML may have been relocated to _legacy/ or legacy-html/.
+    image_dir = output_folder / "img"
     all_images = list(content.descendants("img"))
-    cover_source = next((image_path(image.attrs["src"]) for image in all_images if image.attrs.get("src")), "")
+    cover_source = next(
+        (image_path(full_size_image_source(image)) for image in all_images if image.attrs.get("src")),
+        "",
+    )
     collection_source = next(
-        (image_path(link.attrs["href"]) for link in content.descendants("a") if link.attrs.get("href", "").lower().endswith((".jpg", ".jpeg", ".png", ".gif"))),
+        (image_path(link.attrs["href"]) for link in content.descendants("a") if (link.attrs.get("href") or "").lower().endswith((".jpg", ".jpeg", ".png", ".gif"))),
         cover_source,
     )
     cover = f"img/{Path(cover_source).name}" if cover_source else ""
     collection = f"img/{Path(collection_source).name}" if collection_source else cover
-    write_title_page(output_folder, title, maker, overview, items, cover, collection, release, resources)
+    write_title_page(output_folder, title, maker, overview, items, cover, collection, release, price, resources)
     for index, item in enumerate(items, 1):
         for topic in item["topics"]:
             for image in topic["images"]:

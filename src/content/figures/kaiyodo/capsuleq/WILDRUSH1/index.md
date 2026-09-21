@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "海洋堂カプセルQミュージアム WILD RUSH ワイルド・ラッシュ 真・世界動物誌 第1章 アフリカ・サバンナ編"
 description: ""
 contentType: title
 kind: series
@@ -17,6 +17,7 @@ figureIds:
   - kaiyodo/capsuleq/WILDRUSH1/007
 executiveProducer: 松村しのぶ
 releaseStart: "2018.05"
+price: "400円"
 coverImage: "img/WR1_header.png"
 collectionImage: "img/WR1_021.jpg"
 ---

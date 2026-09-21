@@ -17,17 +17,20 @@ topics:
       
   - title: ""
     images:
-      - "WR2mitoso001_small.jpg"
+      - "WR2mitoso001.jpg"
+      - "WR2mitoso002.jpg"
     comment: |
       
   - title: ""
     images:
-      - "WR2mitoso003_small.jpg"
+      - "WR2mitoso003.jpg"
+      - "WR2mitoso004.jpg"
     comment: |
       
   - title: ""
     images:
-      - "WR2mitoso005_small.jpg"
+      - "WR2mitoso005.jpg"
+      - "WR2mitoso006.jpg"
     comment: |
       
 ---

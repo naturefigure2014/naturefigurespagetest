@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>カプセルQ 珍獣動物園</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>海洋堂カプセルQミュージアム<br />
+		珍獣動物園</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="269" src="img/chinju1_017.jpg" width="760" /></td>
+			</tr>
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2015年7月　販売元：海洋堂　価格：300円　造形総指揮：松村しのぶ<br />
+			公式サイト：<a href="http://www.capsuleq.in/m/catalog/2015.07.chinju/chinju.html" target="_blank">コチラ</a><br />
+			これまでのアニマテイルズシリーズでは見られなかった動物たちがラインナップ。ハシビロコウとハダカデバネズミにはギミックがあります。日本の動物シリーズが終了し、今後はこのような形で動物シリーズが発売されるのでしょう。こちらのシリーズは「<a href="../../cap_miyage">上野珍獣動物園</a>」にも収録されました。<br />
+			関連：<a href="../chinnzyu2">珍獣動物園2</a>、<a href="../../cap_miyage">上野珍獣動物園</a><br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		<table style="width: 100%">
+		<tr>
+		<td>
+		<a href="#1">
+<img src="img/chinju1_009_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/chinju1_003_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/chinju1_001_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/chinju1_012_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/chinju1_005_small.jpg" width="146" /></a></td>
+		</tr>
+		</table>
+		
+			<table style="width: 100%">
+			<tr>
+<th id="1">ハシビロコウ</th></tr>
+<tr>
+<td><a href="img/chinju1_009.jpg">
+<img height="283" src="img/chinju1_009_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1_009.jpg" --></a><a href="img/chinju1_010.jpg"><img height="283" src="img/chinju1_010_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1_010.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/chinju1_011.jpg">
+<img height="283" src="img/chinju1_011_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1_011.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">原型制作：松本栄一郎<br />
+<br />
+まったく動かないことで有名な鳥。<br />
+アフリカ原産。<br />
+<br />
+羽の塗装も良くできていると思います。<br />
+ボールジョイントで顔の向きを変えられます。思ったより目立っていないのでグッド。</td>
+</tr>
+<tr>
+<th id="2">アルパカ(立ち)</th></tr>
+<tr>
+<td><a href="img/chinju1_003.jpg">
+<img height="283" src="img/chinju1_003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1_003.jpg" --></a><a href="img/chinju1_004.jpg"><img height="283" src="img/chinju1_004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1_004.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">原型制作：寺岡邦明<br />
+アルパカって品種改良で生まれたんですね。知りませんでした。</td>
+</tr>
+<tr>
+<th id="3">アルパカ(座り)</th></tr>
+<tr>
+<td><a href="img/chinju1_001.jpg">
+<img height="283" src="img/chinju1_001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1_001.jpg" --></a><a href="img/chinju1_002.jpg"><img height="283" src="img/chinju1_002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1_002.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">原型制作：寺岡邦明<br />
+<br />
+こちらは座りポーズ。</td>
+</tr>
+<tr>
+<th id="4">カピバラ</th></tr>
+<tr>
+<td><a href="img/chinju1_012.jpg">
+<img height="283" src="img/chinju1_012_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1_012.jpg" --></a><a href="img/chinju1_013.jpg"><img height="283" src="img/chinju1_013_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1_013.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/chinju1_014.jpg">
+<img height="283" src="img/chinju1_014_small.jpg" width="378" /></a></td>
+</tr>
+<tr>
+<td class="comment">原型制作：菅谷中<br />
+<br />
+最大のげっ歯類。長崎バイオパークでめっちゃ触りました。毛は思ったより硬いです。<br />
+<br />
+耳が細かいです。</td>
+</tr>
+<tr>
+<th id="5">ハダカデバネズミ</th></tr>
+<tr>
+<td><a href="img/chinju1_005.jpg">
+<img height="283" src="img/chinju1_005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1_005.jpg" --></a><a href="img/chinju1_006.jpg"><img height="283" src="img/chinju1_006_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1_006.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/chinju1_007.jpg">
+<img height="283" src="img/chinju1_007_small.jpg" width="378" /></a></td>
+</tr>
+<tr>
+<td class="comment">原型制作：山本聖士<br />
+<br />
+相変わらずひどい名前のねずみ。サイズは<a href="../../../ntc/daiza/sabanna/index.html">あちらのメーカー</a>と同じくらい。<br />
+<br />
+首のギミックで顎が開きます。</td>
+</tr>
+<tr>
+<th>解説書</th></tr>
+<tr>
+<td><a href="img/chinju1book.jpg">
+<img height="533" src="img/chinju1book_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1book.jpg" --></a><a href="img/chinju1book2.jpg"><img height="530" src="img/chinju1book2_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinju1book2.jpg" --></a></td>
+</tr>
+
+<tr>
+<th>ディスプレイポップ</th></tr>
+<tr>
+<td><img height="441" src="img/chinzyuDP1.jpg" width="378" /><a href="img/chinzyuDP2.jpg"><img height="439" src="img/chinzyuDP2_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Capsule/CapQ/chinnzyu1/img/chinzyuDP2.jpg" --></a></td>
+</tr>
+
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

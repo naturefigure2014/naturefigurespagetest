@@ -11,6 +11,7 @@ seriesName:
   - アニマテイルズ
   - 日本の動物コレクション
 releaseStart: "2013.01"
+price: "300円"
 collectionImage: japIall.jpg
 coverImage: japI.png
 resources:

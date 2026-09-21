@@ -15,11 +15,12 @@ figureIds:
   - kaiyodo/capsuleq/birdgarden/005
   - kaiyodo/capsuleq/birdgarden/006
 releaseStart: "2015.12"
-coverImage: "img/birdgarden001_small.jpg"
+price: "300円"
+coverImage: "img/birdgarden001.jpg"
 collectionImage: "img/birdgarden001.jpg"
 resources:
   displayPop:
-    image: "img/birdDP_small.jpg"
+    image: "img/birdDP.jpg"
 ---
 
 ■概要<br />

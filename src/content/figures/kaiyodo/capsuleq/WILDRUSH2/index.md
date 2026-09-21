@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "海洋堂カプセルQミュージアム WILD RUSH ワイルド・ラッシュ 真・世界動物誌 第2章 南アメリカ・アマゾン編"
 description: ""
 contentType: title
 kind: series
@@ -18,6 +18,7 @@ figureIds:
   - kaiyodo/capsuleq/WILDRUSH2/008
 executiveProducer: 松村しのぶ
 releaseStart: "2018.09"
+price: "400円"
 coverImage: "img/WR2_header.png"
 collectionImage: "img/WR2_006.jpg"
 ---

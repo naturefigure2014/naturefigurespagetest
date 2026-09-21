@@ -7,13 +7,13 @@ figureId: "004"
 species: "スジグロシロハラインコ"
 speciesGroup: ""
 maker: "海洋堂"
-figureTopImage: "birdgarden009_small.jpg"
-coverImage: "birdgarden009_small.jpg"
+figureTopImage: "birdgarden009.jpg"
+coverImage: "birdgarden009.jpg"
 topics:
   - title: ""
     images:
-      - "birdgarden009_small.jpg"
-      - "birdgarden008_small.jpg"
+      - "birdgarden009.jpg"
+      - "birdgarden008.jpg"
     comment: |
       原産地はアマゾン熱帯雨林など。ヒトによくなつくためペットとして人気。
 ---

@@ -7,12 +7,13 @@ figureId: "006"
 species: "カプセル"
 speciesGroup: ""
 maker: "海洋堂"
-figureTopImage: "WR2_008_small.jpg"
-coverImage: "WR2_008_small.jpg"
+figureTopImage: "WR2_008.jpg"
+coverImage: "WR2_008.jpg"
 topics:
   - title: ""
     images:
-      - "WR2_008_small.jpg"
+      - "WR2_008.jpg"
+      - "WR2_009.jpg"
     comment: |
       テーマカラーは緑。
 ---

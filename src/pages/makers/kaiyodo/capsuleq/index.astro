@@ -77,18 +77,18 @@ const heroImage = heroSource
                     ? resolveFigureImage(card.sourceId, card.image === "coverImage" ? entryById.get(normalizeId(card.sourceId))?.data.coverImage : card.image)
                     : undefined;
                   return (
-                    <a href={card.href.startsWith("/") ? siteUrl(card.href) : card.href}>
-                      {image ? <img src={image} alt="" /> : <span class="maker-detail-title-placeholder">FIGURE</span>}
-                      <span>{card.name}</span>
+                    <a class="maker-detail-card" href={card.href.startsWith("/") ? siteUrl(card.href) : card.href}>
+                      {image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
+                      <strong>{card.name}</strong>
                     </a>
                   );
                 })}
                 {titles.map((title) => {
                   const image = resolveFigureImage(title.id, title.data.coverImage);
                   return (
-                    <a href={siteUrl(`/figures/${normalizeId(title.id)}/`)}>
-                      {image ? <img src={image} alt="" /> : <span class="maker-detail-title-placeholder">FIGURE</span>}
-                      <span>{title.data.title}</span>
+                    <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}>
+                      {image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
+                      <strong>{title.data.title}</strong>
                     </a>
                   );
                 })}

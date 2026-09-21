@@ -1,24 +1,42 @@
 ---
-title: "WILD RUSH4"
-description: "????????????????????"
-contentType: figure
+title: "index"
+description: ""
+contentType: title
+kind: series
 maker: "海洋堂"
+series:
+  - capsuleq
+seriesName: カプセルQミュージアム
+figureIds:
+  - kaiyodo/capsuleq/WILDRUSH4/001
+  - kaiyodo/capsuleq/WILDRUSH4/002
+  - kaiyodo/capsuleq/WILDRUSH4/003
+  - kaiyodo/capsuleq/WILDRUSH4/004
+  - kaiyodo/capsuleq/WILDRUSH4/005
+  - kaiyodo/capsuleq/WILDRUSH4/006
+  - kaiyodo/capsuleq/WILDRUSH4/007
+  - kaiyodo/capsuleq/WILDRUSH4/008
+  - kaiyodo/capsuleq/WILDRUSH4/009
+executiveProducer: 松村しのぶ
+releaseStart: "2019.12"
+price: "400円"
 coverImage: "img/WR4_header.png"
-topics:
-  - title: ??
-    images:
-      - "img/WR4_header.png"
-      - "img/WR4_027.jpg"
-      - "img/WR4_005_small.jpg"
-      - "img/WR4_016_small.jpg"
-      - "img/WR4_001_small.jpg"
-      - "img/WR4_013_small.jpg"
-      - "img/WR4_009_small.jpg"
-      - "img/WR4_004_small.jpg"
-      - "img/WR4_007_small.jpg"
-      - "img/WR4_006_small.jpg"
-      - "img/WR4_025_small.jpg"
-      - "img/WR4_017_small.jpg"
+collectionImage: "img/WR4_005.jpg"
 ---
 
-????????????????????
+【海洋堂　カプセルＱ・miniQ ワイルドラッシュ　真・世界動物誌　第4章　アジア・熱帯編】<br />
+			販売開始：2019年12月　販売元：海洋堂　価格：400円　造形総指揮：松村しのぶ<br />
+			公式サイト：<a href="http://kaiyodo.co.jp/items/capsuleq/cqm_wr04/" target="_blank">コチラ</a><br />
+			■背景<br />
+			ワイルドラッシュ第４弾。前回まではけものフレンズと同時に発表されていましたが、今回はワンフェス2019夏にてWRのみ発表されました。<br />
+			■ラインナップ<br />
+			今回はアジア。全5種という限られた枠組みの中、爬虫類から大型草食動物までバラエティに富んだラインナップ。<br />
+			人気種目白押しで楽しいシリーズですが、そろそろアニマテイルズ時代のようなマニアックな種も欲しくなってしまいます。1種類くらいはそういう枠が欲しいなぁ。<br />
+			■塗装<br />
+			塗装に関しては、ワンフェスで見たデコマスをよく再現していると思います。絶妙なグラデーションを多用しており、このご時勢でのこの価格帯のフィギュアとしては、最高水準の出来栄えといっても過言では無かろう。<br />
+			<br />
+			今回はこれまでに立体化された動物がほとんどなので、過去製品も振り返りながらレビューです。<br />
+			<br />
+			第1弾：<a href="../WILDRUSH1">アフリカ・サバンナ編</a><br />
+			第2弾：<a href="../WILDRUSH2">南米・アマゾン編</a><br />
+			第3弾：<a href="../WILDRUSH3">極地・北極編</a><br />

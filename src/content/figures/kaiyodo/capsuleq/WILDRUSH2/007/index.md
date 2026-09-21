@@ -17,12 +17,12 @@ topics:
       前回はそれぞれに1から５の番号が振られていましたが、今回はなし。
   - title: ""
     images:
-      - "WR2_005_small.jpg"
+      - "WR2_005.jpg"
     comment: |
       
   - title: ""
     images:
-      - "WR2_007_small.jpg"
+      - "WR2_007.jpg"
     comment: |
       
 ---
