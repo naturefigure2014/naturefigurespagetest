@@ -1,18 +1,128 @@
 ---
 import "../styles/global.css";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import Card from "../components/Card.astro";
+import { getCollection } from "astro:content";
+import { resolveFigureImage } from "../lib/figure-images";
 import { siteUrl } from "../lib/site-url";
+
+const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
+
+const figures = await getCollection("figures");
+const figureById = new Map(figures.map((item) => [normalizeId(item.id), item]));
+
+// TODO: 「注目のフィギュア」の選定ロジックが決まるまでの仮のピックアップ。
+const featuredFigureIds = [
+  "kaiyodo/aqualand/AQS009zinbezame",
+  "kaiyodo/ARTPLA/Lion",
+  "kaiyodo/ARTPLA/Tyrannosaurus"
+];
+const featuredFigures = featuredFigureIds
+  .map((id) => figureById.get(id))
+  .filter((item): item is (typeof figures)[number] => Boolean(item));
+
+const categoryLabels: Record<string, string> = {
+  diary: "日記",
+  event: "イベント",
+  outing: "施設・訪問",
+  note: "その他"
+};
+
+const recentPosts = (await getCollection("blog"))
+  .sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0))
+  .slice(0, 3);
 ---
+
 <BaseLayout>
-  <p class="eyebrow">NATURE FIGURE</p>
-  <h1>自然を、フィギュアで楽しむ。</h1>
-  <p class="lead">フィギュアレビュー、自作・塗装作品、ブログを、4つのコンテンツに整理して紹介するサイトです。</p>
-  <h2>EXPLORE</h2>
-  <div class="grid">
-    <Card href={siteUrl("/titles/")} label="TITLES" title="商品・シリーズ" description="複数ラインナップにも単体商品にも対応。" />
-    <Card href={siteUrl("/figures/")} label="FIGURES" title="フィギュア" description="個々のフィギュアを詳しくレビュー。" />
-    <Card href={siteUrl("/works/")} label="WORKS" title="自作・塗装・改造" description="自分で手を加えた作品を紹介。" />
-    <Card href={siteUrl("/blog/")} label="BLOG" title="ブログ" description="展示会・お出かけ・日記など。" />
-  </div>
+  <section class="home-hero">
+    <img class="home-hero-image" src={siteUrl("/images/home-hero-placeholder.png")} alt="" />
+    <div class="home-hero-overlay"></div>
+    <div class="home-hero-content">
+      <p class="eyebrow">NATURE FIGURE</p>
+      <h1>自然を、<br />フィギュアで楽しむ。</h1>
+      <p class="lead">動物・魚・昆虫・恐竜など、<br />自然の魅力をカタチにした<br />フィギュアの世界へ。</p>
+    </div>
+  </section>
+
+  <section class="home-quicklinks">
+    <a class="home-quicklink" href={siteUrl("/species/")}>
+      <span class="home-quicklink-icon" aria-hidden="true">🌿</span>
+      <span class="home-quicklink-body">
+        <strong>生きものから探す</strong>
+        <span>動物・魚・昆虫・恐竜など、生きものの種類から探せます。</span>
+      </span>
+      <span class="home-quicklink-arrow" aria-hidden="true">→</span>
+    </a>
+    <a class="home-quicklink" href={siteUrl("/makers/")}>
+      <span class="home-quicklink-icon" aria-hidden="true">🏭</span>
+      <span class="home-quicklink-body">
+        <strong>メーカー・タイトルから探す</strong>
+        <span>海洋堂をはじめ、各メーカーのシリーズやタイトルから探せます。</span>
+      </span>
+      <span class="home-quicklink-arrow" aria-hidden="true">→</span>
+    </a>
+    <a class="home-quicklink" href={siteUrl("/figures/")}>
+      <span class="home-quicklink-icon" aria-hidden="true">▦</span>
+      <span class="home-quicklink-body">
+        <strong>フィギュア一覧</strong>
+        <span>すべてのフィギュアを一覧で見ることができます。</span>
+      </span>
+      <span class="home-quicklink-arrow" aria-hidden="true">→</span>
+    </a>
+  </section>
+
+  <section class="home-section">
+    <div class="home-section-heading">
+      <span></span>
+      <h2>注目のフィギュア</h2>
+      <a href={siteUrl("/figures/")}>すべてのフィギュアを見る ›</a>
+    </div>
+    <div class="home-figure-grid">
+      {featuredFigures.map((item) => {
+        const image = resolveFigureImage(
+          item.id,
+          item.data.coverImage ?? item.data.topics.flatMap((topic) => topic.images)[0]
+        );
+        return (
+          <a class="home-figure-card" href={siteUrl(`/figures/${normalizeId(item.id)}/`)}>
+            {image ? <img src={image} alt="" loading="lazy" /> : <span class="home-figure-placeholder">FIGURE</span>}
+            <span class="home-figure-badge">NEW</span>
+            <span class="home-figure-caption">
+              <strong>{item.data.title}</strong>
+              {(item.data.speciesGroup || item.data.maker) && <small>{item.data.speciesGroup || item.data.maker}</small>}
+            </span>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="home-section-heading">
+      <span></span>
+      <h2>最近の記事／ブログ</h2>
+      <a href={siteUrl("/blog/")}>すべての記事を見る ›</a>
+    </div>
+    <div class="home-blog-grid">
+      {recentPosts.map((post) => (
+        <a class="home-blog-card" href={siteUrl(`/blog/${post.id}/`)}>
+          {post.data.coverImage ? (
+            <img src={post.data.coverImage} alt="" loading="lazy" />
+          ) : (
+            <span class="home-blog-placeholder">NATURE<br />FIGURE</span>
+          )}
+          <span class="home-blog-body">
+            <strong>{post.data.title}</strong>
+            <span class="home-blog-meta">
+              {post.data.date && (
+                <time datetime={post.data.date.toISOString()}>
+                  {post.data.date.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" })}
+                </time>
+              )}
+              <span class="home-blog-tag">{categoryLabels[post.data.category] ?? post.data.category}</span>
+            </span>
+          </span>
+        </a>
+      ))}
+    </div>
+  </section>
 </BaseLayout>

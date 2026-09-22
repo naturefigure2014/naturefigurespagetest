@@ -46,6 +46,75 @@ h2 { margin-top: 2.5rem; }
 .card h3 { margin: .35rem 0 .4rem; }
 .card p { color: #667970; margin: 0; }
 
+/* HOME */
+.home-hero {
+  position: relative;
+  overflow: hidden;
+  margin: -28px -20px 34px;
+  min-height: 300px;
+  display: flex;
+  align-items: flex-end;
+}
+.home-hero-image { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.home-hero-overlay {
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(10,30,22,.18) 0%, rgba(8,26,19,.55) 60%, rgba(6,20,15,.8) 100%);
+}
+.home-hero-content { position: relative; padding: 44px clamp(20px, 6vw, 56px) 36px; color: #fff; }
+.home-hero-content .eyebrow { background: rgba(255,255,255,.18); }
+.home-hero-content h1 { margin: .3em 0 .35em; color: #fff; font-size: clamp(1.7rem, 4.6vw, 2.7rem); }
+.home-hero-content .lead { max-width: 480px; color: rgba(255,255,255,.94); }
+
+.home-quicklinks { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; margin-bottom: 40px; }
+.home-quicklink {
+  display: flex; align-items: center; gap: 14px;
+  padding: 20px; border-radius: 12px; border: 1px solid #dfe8e4; background: #fff;
+  text-decoration: none; color: inherit;
+  box-shadow: 0 2px 10px rgba(28,72,54,.04);
+}
+.home-quicklink-icon {
+  display: grid; place-items: center; flex-shrink: 0;
+  width: 46px; height: 46px; border-radius: 50%;
+  background: #2c7a55; color: #fff; font-size: 1.3rem;
+}
+.home-quicklink-body { display: flex; flex-direction: column; gap: 4px; flex: 1; min-width: 0; }
+.home-quicklink-body strong { color: #173d30; font-size: 1rem; }
+.home-quicklink-body span { color: #667970; font-size: .8rem; line-height: 1.5; }
+.home-quicklink-arrow {
+  display: grid; place-items: center; flex-shrink: 0;
+  width: 30px; height: 30px; border-radius: 50%;
+  background: #eaf3ee; color: #2c7a55; font-size: 1rem;
+}
+
+.home-section { margin-top: 40px; }
+.home-section-heading { display: flex; align-items: center; gap: 8px; margin-bottom: 16px; padding-bottom: 8px; border-bottom: 1px solid #dce9e2; }
+.home-section-heading > span { width: 4px; height: 19px; background: #35805c; }
+.home-section-heading h2 { flex: 1; margin: 0; color: #294d40; font-size: 1.12rem; }
+.home-section-heading a { color: #39785f; font-size: .78rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
+
+.home-figure-grid, .home-blog-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+.home-figure-card, .home-blog-card {
+  position: relative; display: block; overflow: hidden;
+  border: 1px solid #dfe8e4; border-radius: 10px; background: #fff; text-decoration: none; color: inherit;
+}
+.home-figure-card img, .home-figure-placeholder,
+.home-blog-card img, .home-blog-placeholder {
+  display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover;
+}
+.home-figure-placeholder, .home-blog-placeholder {
+  display: grid; place-items: center; background: #e7eee9; color: #71847b; font-size: .8rem; text-align: center; line-height: 1.4;
+}
+.home-figure-badge {
+  position: absolute; top: 10px; right: 10px;
+  padding: 3px 9px; border-radius: 999px;
+  background: #173d30; color: #fff; font-size: .62rem; font-weight: 800; letter-spacing: .04em;
+}
+.home-figure-caption, .home-blog-body { display: block; padding: 12px 14px 14px; }
+.home-figure-caption strong, .home-blog-body strong { display: block; color: #294d40; font-size: .9rem; line-height: 1.4; }
+.home-figure-caption small { display: block; margin-top: 4px; color: #73857e; font-size: .74rem; }
+.home-blog-meta { display: flex; align-items: center; gap: 8px; margin-top: 6px; color: #73857e; font-size: .72rem; }
+.home-blog-tag { padding: 2px 8px; border-radius: 999px; background: #eaf3ee; color: #2c7a55; font-weight: 700; }
+
 /* SPECIES */
 .species-page { max-width: 1120px; margin: 0 auto; }
 .species-hero { position: relative; min-height: 150px; margin: -8px -20px 18px; padding: 10px 20px 20px; overflow: hidden; background: linear-gradient(110deg, #f1fbf8 0%, #f4fbfa 54%, #e5f5f0 100%); border-radius: 0 0 12px 12px; }
@@ -459,6 +528,8 @@ body.lightbox-open { overflow: hidden; }
   .maker-detail-hero > div { padding: 16px 20px; }
   .maker-detail-card-grid--five { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .maker-detail-title-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+
+  .home-quicklinks { grid-template-columns: 1fr; }
   .maker-detail-series header { align-items: flex-start; flex-direction: column; gap: 7px; }
 
   .site-header { display: block; padding: 12px 16px; }
