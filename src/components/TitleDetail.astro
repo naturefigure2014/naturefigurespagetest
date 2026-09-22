@@ -131,6 +131,7 @@ const resourceSections = [
             </>
           )}
           {entry.data.releaseStart && <><dt>発売開始</dt><dd>{entry.data.releaseStart}</dd></>}
+          {entry.data.price && <><dt>価格</dt><dd>{entry.data.price}</dd></>}
           <dt>収録数</dt><dd>{lineup.length}種類</dd>
         </dl>
         {entry.data.tags.length > 0 && (
