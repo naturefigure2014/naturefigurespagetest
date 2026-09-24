@@ -4,6 +4,8 @@ description: ""
 contentType: title
 kind: collection
 maker: 海洋堂
+genre:
+  - paleontology
 series:
   - dinoland
 seriesName: DINOLAND

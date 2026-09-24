@@ -1,0 +1,101 @@
+---
+import "../../../../styles/global.css";
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { resolveFigureImage } from "../../../../lib/figure-images";
+import { siteUrl } from "../../../../lib/site-url";
+
+export async function getStaticPaths() {
+  const makerPages = await getCollection("makers");
+  const genrePages = makerPages.filter((entry) => entry.data.genreSlug);
+  return genrePages.map((entry) => ({
+    params: { slug: entry.data.genreSlug },
+    props: { entry }
+  }));
+}
+
+const { entry: page } = Astro.props;
+
+const figures = await getCollection("figures");
+const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
+const entryById = new Map(figures.map((item) => [normalizeId(item.id), item]));
+const genreEntries = figures.filter((item) => {
+  return item.data.contentType === "title" && item.data.genre.includes(page.data.genreSlug);
+});
+const titlesForSection = (section: (typeof page.data.seriesSections)[number]) => {
+  if (section.titleIds.length > 0) {
+    return section.titleIds
+      .map((id) => entryById.get(normalizeId(id)))
+      .filter((item): item is (typeof figures)[number] => Boolean(item))
+      .slice(0, section.maxTitles);
+  }
+  if (section.name === "すべて") {
+    return genreEntries;
+  }
+  return genreEntries.slice(0, section.maxTitles);
+};
+const heroSource = page.data.heroSourceId ? entryById.get(normalizeId(page.data.heroSourceId)) : undefined;
+const heroImage = heroSource
+  ? resolveFigureImage(heroSource.id, page.data.heroImage === "coverImage" ? heroSource.data.coverImage : page.data.heroImage)
+  : undefined;
+---
+
+<BaseLayout title={`${page.data.pageTitle ?? "ジャンル"} | ${page.data.maker} | NATURE FIGURE`}>
+  <div class="maker-detail">
+    <div class="maker-detail-content">
+      <div class="breadcrumb">
+        <a href={siteUrl("/")}>ホーム</a> /
+        <a href={siteUrl("/makers/")}>メーカー・タイトルから探す</a> /
+        <a href={siteUrl("/makers/kaiyodo/")}>{page.data.maker}</a> /
+        {page.data.pageTitle}
+      </div>
+
+      <section class="maker-detail-hero">
+        <div>
+          <p class="eyebrow">{page.data.pageEnglish ?? page.data.english ?? "GENRE"}</p>
+          <h1>{page.data.pageTitle}</h1>
+          {page.data.pageDescription && <p>{page.data.pageDescription}</p>}
+        </div>
+        {heroImage && <img src={heroImage} alt="" />}
+      </section>
+
+      <section class="maker-detail-section">
+        <div class="maker-detail-section-heading">
+          <span></span><h2>{page.data.titleHeading ?? "タイトル一覧"}</h2>
+        </div>
+        {page.data.seriesSections.map((section) => {
+          const titles = titlesForSection(section);
+          return (
+            <section class="maker-detail-series">
+              <header>
+                <div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div>
+              </header>
+              <div class="maker-detail-title-grid">
+                {section.cards.map((card) => {
+                  const image = card.sourceId
+                    ? resolveFigureImage(card.sourceId, card.image === "coverImage" ? entryById.get(normalizeId(card.sourceId))?.data.coverImage : card.image)
+                    : undefined;
+                  return (
+                    <a class="maker-detail-card" href={card.href.startsWith("/") ? siteUrl(card.href) : card.href}>
+                      {image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
+                      <strong>{card.name}</strong>
+                    </a>
+                  );
+                })}
+                {titles.map((title) => {
+                  const image = resolveFigureImage(title.id, title.data.coverImage);
+                  return (
+                    <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}>
+                      {image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
+                      <strong>{title.data.title}</strong>
+                    </a>
+                  );
+                })}
+              </div>
+            </section>
+          );
+        })}
+      </section>
+    </div>
+  </div>
+</BaseLayout>

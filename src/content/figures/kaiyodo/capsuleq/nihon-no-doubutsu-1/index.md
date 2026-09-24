@@ -10,6 +10,9 @@ seriesName:
   - カプセルQミュージアム
   - アニマテイルズ
   - 日本の動物コレクション
+genre:
+  - animals
+  - culture
 releaseStart: "2013.01"
 price: "300円"
 collectionImage: japIall.jpg

@@ -7,6 +7,8 @@ maker: 海洋堂
 series:
   - dinoland
 seriesName: DINOLAND
+genre:
+  - paleontology
 coverImage: "100mm_model_dinoalive/img/dinoalive005_small.jpg"
 collectionImage: "100mm_model_dinoalive/img/dinoalive005_small.jpg"
 figureIds:

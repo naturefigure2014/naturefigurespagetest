@@ -7,6 +7,8 @@ maker: 海洋堂
 series:
   - aqualand
 seriesName: AQUALAND
+genre:
+  - aquatic
 releaseStart: "1990"
 coverImage: "aqualand.png"
 collectionImage: "img/aqualand_header.png"

@@ -4,6 +4,8 @@ description: ""
 contentType: title
 kind: series
 maker: "海洋堂"
+genre:
+  - aquatic
 series:
   - capsuleq
 seriesName: カプセルQミュージアム
