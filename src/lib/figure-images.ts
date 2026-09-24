@@ -40,6 +40,11 @@ export function resolveFigureImage(
   ) {
     return value;
   }
+  if (value.startsWith("/img/")) {
+    const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+    const assetPath = value.startsWith("/") ? value.slice(1) : value;
+    return `${base}/${assetPath}`;
+  }
   if (value.startsWith("/")) {
     const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     return `${base}${value}`;

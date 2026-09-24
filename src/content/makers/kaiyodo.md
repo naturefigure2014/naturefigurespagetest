@@ -12,8 +12,8 @@ genres:
     image: coverImage
   - name: 動物全般
     href: "/makers/kaiyodo/genre/animals/"
-    sourceId: kaiyodo/capsuleq/nihon-no-doubutsu-1
-    image: coverImage
+    sourceId: kaiyodo/genre-animals
+    image: "img/animals.png"
   - name: 古生物
     href: "/makers/kaiyodo/genre/paleontology/"
     sourceId: kaiyodo/dinoland

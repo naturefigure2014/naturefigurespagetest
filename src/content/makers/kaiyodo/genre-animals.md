@@ -6,8 +6,8 @@ pageEnglish: Animals
 pageDescription: 海洋堂の動物フィギュアを、シリーズを横断して紹介します。
 titleHeading: 動物全般 タイトル一覧
 english: KAIYODO
-heroSourceId: kaiyodo/capsuleq/nihon-no-doubutsu-1
-heroImage: coverImage
+heroImage: "img/animals.png"
+coverImage: "img/animals.png"
 seriesSections:
   - name: すべて
     format: ジャンル

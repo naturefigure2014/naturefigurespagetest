@@ -3,6 +3,7 @@ import "../../../../styles/global.css";
 import BaseLayout from "../../../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../../../lib/figure-images";
+import { resolveMakerImage } from "../../../../lib/maker-images";
 import { siteUrl } from "../../../../lib/site-url";
 
 export async function getStaticPaths() {
@@ -35,8 +36,14 @@ const titlesForSection = (section: (typeof page.data.seriesSections)[number]) =>
   return genreEntries.slice(0, section.maxTitles);
 };
 const heroSource = page.data.heroSourceId ? entryById.get(normalizeId(page.data.heroSourceId)) : undefined;
-const heroImage = heroSource
-  ? resolveFigureImage(heroSource.id, page.data.heroImage === "coverImage" ? heroSource.data.coverImage : page.data.heroImage)
+const heroImage = page.data.heroImage
+  ? (
+      typeof page.data.heroImage === "string" && page.data.heroImage.startsWith("img/")
+        ? resolveMakerImage(page.id, page.data.heroImage)
+        : heroSource
+          ? resolveFigureImage(heroSource.id, page.data.heroImage === "coverImage" ? heroSource.data.coverImage : page.data.heroImage)
+          : undefined
+    )
   : undefined;
 ---
 

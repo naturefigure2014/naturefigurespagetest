@@ -3,6 +3,7 @@ import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
+import { resolveMakerImage } from "../../lib/maker-images";
 import { siteUrl } from "../../lib/site-url";
 
 export async function getStaticPaths() {
@@ -15,6 +16,7 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const figures = await getCollection("figures");
+const makers = await getCollection("makers");
 const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
 const titleEntries = figures.filter((item) => item.data.contentType === "title");
 const entryById = new Map(figures.map((item) => [normalizeId(item.id), item]));
@@ -22,7 +24,26 @@ const entryById = new Map(figures.map((item) => [normalizeId(item.id), item]));
 const imageFor = (sourceId?: string, image?: string | number) => {
   if (!sourceId) return undefined;
   const source = entryById.get(normalizeId(sourceId));
-  return source ? resolveFigureImage(source.id, image === "coverImage" ? source.data.coverImage : image) : undefined;
+  if (source) {
+    return resolveFigureImage(source.id, image === "coverImage" ? source.data.coverImage : image);
+  }
+
+  if (typeof image === "string" && image.startsWith("img/")) {
+    const directMakerImage = resolveMakerImage(entry.id, image);
+    if (directMakerImage) return directMakerImage;
+  }
+
+  const makerSource = makers.find((item) => normalizeId(item.id) === normalizeId(sourceId));
+  if (!makerSource) return undefined;
+
+  const makerImage = image === "coverImage" ? makerSource.data.coverImage : image;
+  if (typeof makerImage !== "string" || !makerImage.startsWith("img/")) {
+    return undefined;
+  }
+
+  return resolveMakerImage(makerSource.id, makerImage)
+    ?? resolveMakerImage(normalizeId(sourceId).split("/")[0], makerImage)
+    ?? resolveMakerImage(entry.id, makerImage);
 };
 const linkFor = (href: string) => href.startsWith("/") ? siteUrl(href) : href;
 const seriesNames = (entry: (typeof titleEntries)[number]) => {

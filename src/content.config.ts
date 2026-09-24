@@ -104,6 +104,7 @@ const makers = defineCollection({
     english: z.string().optional(),
     heroSourceId: z.string().optional(),
     heroImage: z.union([z.string(), z.number()]).optional(),
+    coverImage: z.union([z.string(), z.number()]).optional(),
     genreDescription: z.string().optional(),
     seriesDescription: z.string().optional(),
     genres: z.array(z.object({
