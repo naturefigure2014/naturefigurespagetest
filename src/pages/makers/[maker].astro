@@ -22,15 +22,16 @@ const titleEntries = figures.filter((item) => item.data.contentType === "title")
 const entryById = new Map(figures.map((item) => [normalizeId(item.id), item]));
 
 const imageFor = (sourceId?: string, image?: string | number) => {
+  // sourceId が無くても img/ 相対パスならメーカー自身の画像として解決する
+  if (typeof image === "string" && image.startsWith("img/")) {
+    const directMakerImage = resolveMakerImage(entry.id, image);
+    if (directMakerImage) return directMakerImage;
+  }
+
   if (!sourceId) return undefined;
   const source = entryById.get(normalizeId(sourceId));
   if (source) {
     return resolveFigureImage(source.id, image === "coverImage" ? source.data.coverImage : image);
-  }
-
-  if (typeof image === "string" && image.startsWith("img/")) {
-    const directMakerImage = resolveMakerImage(entry.id, image);
-    if (directMakerImage) return directMakerImage;
   }
 
   const makerSource = makers.find((item) => normalizeId(item.id) === normalizeId(sourceId));

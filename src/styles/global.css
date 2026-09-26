@@ -348,7 +348,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-detail-hero::after { position: absolute; inset: 0; content: ""; background: linear-gradient(90deg, rgba(14,55,37,.88), rgba(14,55,37,.38)); }
 .maker-detail-hero > div { position: relative; z-index: 1; align-self: center; padding: 18px 28px; }
 .maker-detail-hero .eyebrow { color: #d8f0df; }
-.maker-detail-hero h1 { margin: 7px 0; font-size: clamp(2rem, 4vw, 3.1rem); }
+.maker-detail-hero h1 { margin: 7px 0; font-size: clamp(2rem, 4vw, 3.1rem); color: #fff;}
 .maker-detail-hero p { margin: 0; color: #effaf0; font-size: .9rem; }
 .maker-detail-hero img { position: absolute; inset: 0; z-index: 0; width: 100%; height: 100%; object-fit: cover; }
 .maker-detail-section { margin-bottom: 8px; }

@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "WILD RUSH ワイルド・ラッシュ　真・世界動物誌　第4章　アジア・熱帯編】"
 description: ""
 contentType: title
 kind: series
@@ -22,8 +22,8 @@ figureIds:
 executiveProducer: 松村しのぶ
 releaseStart: "2019.12"
 price: "400円"
-coverImage: "img/WR4_header.png"
-collectionImage: "img/WR4_005.jpg"
+coverImage: "img/WR4.png"
+collectionImage: "img/WR4_027.jpg"
 ---
 
 【海洋堂　カプセルＱ・miniQ ワイルドラッシュ　真・世界動物誌　第4章　アジア・熱帯編】<br />
@@ -38,7 +38,3 @@ collectionImage: "img/WR4_005.jpg"
 			塗装に関しては、ワンフェスで見たデコマスをよく再現していると思います。絶妙なグラデーションを多用しており、このご時勢でのこの価格帯のフィギュアとしては、最高水準の出来栄えといっても過言では無かろう。<br />
 			<br />
 			今回はこれまでに立体化された動物がほとんどなので、過去製品も振り返りながらレビューです。<br />
-			<br />
-			第1弾：<a href="../WILDRUSH1">アフリカ・サバンナ編</a><br />
-			第2弾：<a href="../WILDRUSH2">南米・アマゾン編</a><br />
-			第3弾：<a href="../WILDRUSH3">極地・北極編</a><br />

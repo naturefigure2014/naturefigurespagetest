@@ -1,27 +1,22 @@
 ---
 maker: 海洋堂
 english: KAIYODO
-heroSourceId: kaiyodo/dinoland
-heroImage: coverImage
+heroImage: "img/kaiyodo_hero.png"
 genreDescription: さまざまなシリーズでリリースされた海洋堂製のフィギュアを、ジャンルごとに分けて紹介します。
 seriesDescription: 海洋堂のフィギュアを、シリーズごとに紹介します。
 genres:
   - name: 水棲生物
     href: "/makers/kaiyodo/genre/aquatic/"
-    sourceId: kaiyodo/genre-aquatic
     image: "img/aquatic.jpg"
   - name: 動物全般
     href: "/makers/kaiyodo/genre/animals/"
-    sourceId: kaiyodo/genre-animals
     image: "img/animals.jpg"
   - name: 古生物
     href: "/makers/kaiyodo/genre/paleontology/"
-    sourceId: kaiyodo/genre-paleontology
     image: "img/paleontology.jpg"
   - name: 文化・歴史
     href: "/makers/kaiyodo/genre/culture/"
-    sourceId: kaiyodo/capsuleq/nihon-no-doubutsu-1
-    image: coverImage
+    image: "img/culture.png"
 pickups:
   - name: カプセルQミュージアム
     href: "/makers/kaiyodo/capsuleq/"

@@ -9,8 +9,8 @@ series:
 seriesName: DINOLAND
 genre:
   - paleontology
-coverImage: "100mm_model_dinoalive/img/dinoalive005_small.jpg"
-collectionImage: "100mm_model_dinoalive/img/dinoalive005_small.jpg"
+coverImage: "35tyrannosaurs/img/35tyranno014.jpg"
+collectionImage: "35tyrannosaurs/img/35tyranno014.jpg"
 figureIds:
   - kaiyodo/dinoland/100mm_model/allosaurus
   - kaiyodo/dinoland/100mm_model/barosaurus
