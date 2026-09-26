@@ -6,8 +6,8 @@ pageEnglish: Animals
 pageDescription: 海洋堂の動物フィギュアを、シリーズを横断して紹介します。
 titleHeading: 動物全般 タイトル一覧
 english: KAIYODO
-heroImage: "img/animals.png"
-coverImage: "img/animals.png"
+heroImage: "img/animals.jpg"
+coverImage: "img/animals.jpg"
 seriesSections:
   - name: すべて
     format: ジャンル

@@ -6,8 +6,8 @@ pageEnglish: Paleontology
 pageDescription: 海洋堂の恐竜・古生物フィギュアを、シリーズを横断して紹介します。
 titleHeading: 古生物 タイトル一覧
 english: KAIYODO
-heroSourceId: kaiyodo/dinoland
-heroImage: coverImage
+heroImage: "img/paleontology.jpg"
+coverImage: "img/paleontology.jpg"
 seriesSections:
   - name: すべて
     format: ジャンル

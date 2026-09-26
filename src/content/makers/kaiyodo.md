@@ -8,16 +8,16 @@ seriesDescription: 海洋堂のフィギュアを、シリーズごとに紹介�
 genres:
   - name: 水棲生物
     href: "/makers/kaiyodo/genre/aquatic/"
-    sourceId: kaiyodo/aqualand
-    image: coverImage
+    sourceId: kaiyodo/genre-aquatic
+    image: "img/aquatic.jpg"
   - name: 動物全般
     href: "/makers/kaiyodo/genre/animals/"
     sourceId: kaiyodo/genre-animals
-    image: "img/animals.png"
+    image: "img/animals.jpg"
   - name: 古生物
     href: "/makers/kaiyodo/genre/paleontology/"
-    sourceId: kaiyodo/dinoland
-    image: coverImage
+    sourceId: kaiyodo/genre-paleontology
+    image: "img/paleontology.jpg"
   - name: 文化・歴史
     href: "/makers/kaiyodo/genre/culture/"
     sourceId: kaiyodo/capsuleq/nihon-no-doubutsu-1

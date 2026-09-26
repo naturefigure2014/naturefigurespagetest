@@ -6,8 +6,8 @@ pageEnglish: Aquatic Creatures
 pageDescription: 海洋堂の水棲生物フィギュアを、シリーズを横断して紹介します。
 titleHeading: 水棲生物 タイトル一覧
 english: KAIYODO
-heroSourceId: kaiyodo/aqualand
-heroImage: coverImage
+heroImage: "img/aquatic.jpg"
+coverImage: "img/aquatic.jpg"
 seriesSections:
   - name: すべて
     format: ジャンル
