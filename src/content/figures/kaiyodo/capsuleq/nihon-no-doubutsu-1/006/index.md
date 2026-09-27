@@ -4,7 +4,11 @@ description: カプセルQミュージアム「日本の動物コレクション
 titleId: kaiyodo/capsuleq/nihon-no-doubutsu-1
 figureId: "254"
 species: トウホクサンショウウオ
+speciesGroup: 両生類/イモリ・サンショウウオ類
 maker: 海洋堂
+sculptor: 松村しのぶ
+figureTopImage: anima_japI_025.jpg
+coverImage: anima_japI_025.jpg
 topics:
   - title: 全体
     images: []
