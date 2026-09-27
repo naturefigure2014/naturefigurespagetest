@@ -4,7 +4,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
 import { siteUrl } from "../../lib/site-url";
-
+/*
 export async function getStaticPaths() {
   const allEntries = await getCollection("figures");
   const allFigures = allEntries.filter(
@@ -12,14 +12,15 @@ export async function getStaticPaths() {
   );
   const speciesNames = [...new Set(allFigures.map((figure) => figure.data.species).filter(Boolean))];
   return speciesNames.map((species) => ({ params: { species } }));
-}
+}*/
 
 const allEntries = await getCollection("figures");
 const allFigures = allEntries.filter(
-  (item) => item.data.contentType !== "title" && item.data.species && item.data.speciesGroup === "霊長類"
+  (item) => item.data.contentType !== "title" && item.data.species
 );
 const speciesName = Astro.params.species ?? "";
 const figures = allFigures.filter((figure) => figure.data.species === speciesName);
+const speciesGroup = figures[0]?.data.speciesGroup ?? "分類未設定";
 const imageFor = (figure: (typeof allFigures)[number]) =>
   resolveFigureImage(
     figure.id,
@@ -44,6 +45,20 @@ const makerBadgeClass = (maker?: string) => {
     default: return "maker-default";
   }
 };
+
+export async function getStaticPaths() {
+  const allEntries = await getCollection("figures");
+  const speciesNames = [
+    ...new Set(
+      allEntries
+        .filter((item) => item.data.contentType !== "title")
+        .map((item) => item.data.species)
+        .filter((species): species is string => Boolean(species))
+    )
+  ];
+
+  return speciesNames.map((species) => ({ params: { species } }));
+}
 ---
 
 <BaseLayout title={`${speciesName} | NATURE FIGURE`}>
@@ -56,7 +71,7 @@ const makerBadgeClass = (maker?: string) => {
     </div>
 
     <section class="species-detail-hero">
-      <p class="eyebrow">霊長類</p>
+      <p class="eyebrow">{speciesGroup}</p>
       <h1>{speciesName}</h1>
     </section>
 
