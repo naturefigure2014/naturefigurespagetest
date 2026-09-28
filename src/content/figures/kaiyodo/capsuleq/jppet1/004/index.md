@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/jppet1
 figureId: "004"
-species: "4. 日本猫[黒]"
+species: "ネコ"
 speciesGroup: ""
 maker: "海洋堂"
 figureTopImage: "pet1_022.jpg"

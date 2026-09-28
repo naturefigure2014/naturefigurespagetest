@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/jppet1
 figureId: "001"
-species: "1. 紀州犬[白]"
+species: "イヌ"
 speciesGroup: ""
 maker: "海洋堂"
 figureTopImage: "pet1_001.jpg"

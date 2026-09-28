@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/manekineko2
 figureId: "006"
-species: "ニホンネコ(白/オッドアイ)"
+species: "ネコ"
 speciesGroup: ""
 maker: "海洋堂"
 figureTopImage: "manekineko2_017.jpg"

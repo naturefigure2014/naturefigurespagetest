@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/jppet1
 figureId: "003"
-species: "3. 紀州犬[胡麻毛]"
+species: "イヌ"
 speciesGroup: ""
 maker: "海洋堂"
 figureTopImage: "pet1_026.jpg"
