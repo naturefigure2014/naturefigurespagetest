@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/jppet1
 figureId: "007"
-species: "7. 飼いうさぎ[白]"
+species: "ウサギ"
 speciesGroup: ""
 maker: "海洋堂"
 figureTopImage: "pet1_019.jpg"

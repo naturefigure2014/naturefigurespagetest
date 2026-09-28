@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/jppet1
 figureId: "009"
-species: "9. 飼いうさぎ[パンダうさぎ]"
+species: "ウサギ"
 speciesGroup: ""
 maker: "海洋堂"
 figureTopImage: "pet1_004.jpg"
