@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yamori1
 figureId: "003"
-species: "ヒョウモントカゲモドキ(スーパーマックスノー)"
-speciesGroup: ""
+species: "ヒョウモントカゲモドキ"
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "yamori1_004.jpg"
 coverImage: "yamori1_004.jpg"

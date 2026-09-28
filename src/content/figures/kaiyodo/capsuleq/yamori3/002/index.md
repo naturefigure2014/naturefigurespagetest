@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yamori3
 figureId: "002"
-species: "ヒョウモントカゲモドキ(ブリザード)"
-speciesGroup: ""
+species: "ヒョウモントカゲモドキ"
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "yamori3_003.jpg"
 coverImage: "yamori3_003.jpg"

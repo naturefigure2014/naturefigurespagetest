@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/jppet1
 figureId: "010"
-species: "10. 銭亀（ゼニガメ）[通常色]"
-speciesGroup: ""
+species: "クサガメ"
+speciesGroup: "カメ類"
 maker: "海洋堂"
 figureTopImage: "pet1_007.jpg"
 coverImage: "pet1_007.jpg"

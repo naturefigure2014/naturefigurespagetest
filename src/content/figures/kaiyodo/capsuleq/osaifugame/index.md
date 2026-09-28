@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 開運！お財布亀"
+title: "開運！お財布亀"
 description: ""
 contentType: title
 kind: series

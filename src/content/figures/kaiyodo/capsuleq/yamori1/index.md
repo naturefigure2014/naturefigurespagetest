@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム ヤモリ大全I レオパードゲッコー"
+title: "ヤモリ大全I レオパードゲッコー"
 description: ""
 contentType: title
 kind: series

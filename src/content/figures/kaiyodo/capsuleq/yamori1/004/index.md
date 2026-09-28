@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yamori1
 figureId: "004"
-species: "ヒョウモントカゲモドキ(ワイルド)"
-speciesGroup: ""
+species: "ヒョウモントカゲモドキ"
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "yamori1_008.jpg"
 coverImage: "yamori1_008.jpg"

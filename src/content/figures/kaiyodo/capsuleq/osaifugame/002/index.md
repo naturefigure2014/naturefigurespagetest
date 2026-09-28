@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/osaifugame
 figureId: "002"
 species: "ワニガメ"
-speciesGroup: ""
+speciesGroup: "カメ類"
 maker: "海洋堂"
 figureTopImage: "osaifukame008.jpg"
 coverImage: "osaifukame008.jpg"

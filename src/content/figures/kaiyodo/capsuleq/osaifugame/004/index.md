@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/osaifugame
 figureId: "004"
 species: "モンキヨコクビガメ"
-speciesGroup: ""
+speciesGroup: "カメ類"
 maker: "海洋堂"
 figureTopImage: "osaifukame011.jpg"
 coverImage: "osaifukame011.jpg"

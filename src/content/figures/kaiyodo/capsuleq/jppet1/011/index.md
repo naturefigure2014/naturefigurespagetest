@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/jppet1
 figureId: "011"
-species: "11. 銭亀（ゼニガメ）[色彩変異]"
-speciesGroup: ""
+species: "クサガメ"
+speciesGroup: "カメ類"
 maker: "海洋堂"
 figureTopImage: "pet1_011.jpg"
 coverImage: "pet1_011.jpg"

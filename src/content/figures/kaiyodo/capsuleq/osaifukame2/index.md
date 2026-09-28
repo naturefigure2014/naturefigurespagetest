@@ -1,5 +1,5 @@
 ---
-title: "海洋堂 カプセルQミュージアム 福を呼ぶ お財布亀 Vol.2"
+title: "福を呼ぶ お財布亀 Vol.2"
 description: ""
 contentType: title
 kind: series
@@ -18,7 +18,7 @@ executiveProducer: 松村しのぶ
 releaseStart: "2021.01"
 price: "300円"
 coverImage: "img/osaifukame2_022.jpg"
-collectionImage: "img/osaifukame2_007.jpg"
+collectionImage: "img/osaifukame2_022.jpg"
 resources:
   displayPop:
     image: "img/osaifukame2DP.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "海洋堂 カプセルQミュージアム 日本ペット動物大全 第一集"
+title: "日本ペット動物大全 第一集"
 description: ""
 contentType: title
 kind: series
@@ -22,7 +22,7 @@ figureIds:
 releaseStart: "2013.03"
 price: "300円"
 coverImage: "img/pet1_030.jpg"
-collectionImage: "img/pet1_001.jpg"
+collectionImage: "img/pet1_030.jpg"
 resources:
   guide:
     image: "img/pet1book1.jpg"

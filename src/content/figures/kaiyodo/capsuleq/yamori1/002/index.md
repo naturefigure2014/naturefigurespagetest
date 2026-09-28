@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yamori1
 figureId: "002"
-species: "ヒョウモントカゲモドキ(ラプター)"
-speciesGroup: ""
+species: "ヒョウモントカゲモドキ"
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "yamori1_006.jpg"
 coverImage: "yamori1_006.jpg"

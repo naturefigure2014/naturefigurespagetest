@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yamori3
 figureId: "003"
-species: "ヒョウモントカゲモドキ(ボールドストライプ)"
-speciesGroup: ""
+species: "ヒョウモントカゲモドキ"
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "yamori3_005.jpg"
 coverImage: "yamori3_005.jpg"

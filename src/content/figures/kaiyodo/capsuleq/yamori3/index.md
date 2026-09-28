@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム ヤモリ大全3 人気ゲッコー入荷しました！"
+title: "ヤモリ大全3 人気ゲッコー入荷しました！"
 description: ""
 contentType: title
 kind: series

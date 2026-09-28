@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yamoriEX
 figureId: "002"
-species: "ヒョウモントカゲモドキ（トレンパーアルビノ）"
-speciesGroup: ""
+species: "ヒョウモントカゲモドキ"
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "yamoriEX001.jpg"
 coverImage: "yamoriEX001.jpg"

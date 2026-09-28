@@ -1,5 +1,5 @@
 ---
-title: "海洋堂 カプセルQ ヤモリ大全 エクストラカラーVer."
+title: "ヤモリ大全 エクストラカラーVer."
 description: ""
 contentType: title
 kind: series

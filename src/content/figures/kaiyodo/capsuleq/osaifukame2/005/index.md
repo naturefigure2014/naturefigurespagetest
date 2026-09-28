@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/osaifukame2
 figureId: "005"
-species: "ミシシッピアカミミガメ（アルビノ）"
-speciesGroup: ""
+species: "ミシシッピアカミミガメ"
+speciesGroup: "カメ類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 figureTopImage: "osaifukame2_004.jpg"

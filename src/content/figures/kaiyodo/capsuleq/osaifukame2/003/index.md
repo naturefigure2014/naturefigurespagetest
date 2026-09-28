@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/osaifukame2
 figureId: "003"
 species: "カブトニオイガメ"
-speciesGroup: ""
+speciesGroup: "カメ類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "osaifukame2_013.jpg"

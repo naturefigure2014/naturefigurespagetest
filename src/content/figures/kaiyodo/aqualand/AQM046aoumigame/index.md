@@ -4,7 +4,7 @@ description:
 titleId: kaiyodo/aqualand
 figureId: "AQM-046"
 species: アオウミガメ
-speciesGroup: 爬虫類/カメ類
+speciesGroup: カメ類
 contentType: figure
 maker: 海洋堂
 sculptor: 松村しのぶ

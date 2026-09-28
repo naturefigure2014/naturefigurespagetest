@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yamoriEX
 figureId: "001"
-species: "ヒョウモントカゲモドキ（ハイイエロー）"
-speciesGroup: ""
+species: "ヒョウモントカゲモドキ"
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "yamoriEX006.jpg"
 coverImage: "yamoriEX006.jpg"

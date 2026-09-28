@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yamoriEX
 figureId: "003"
-species: "ヒョウモントカゲモドキ（ブラックナイト）"
-speciesGroup: ""
+species: "ヒョウモントカゲモドキ"
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "yamoriEX011.jpg"
 coverImage: "yamoriEX011.jpg"
