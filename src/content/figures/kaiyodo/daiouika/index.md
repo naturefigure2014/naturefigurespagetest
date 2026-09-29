@@ -1,6 +1,6 @@
 ---
 title: "特別展『深海』会場特別先行販売 <ダイオウイカ> 精密ポリストーンフィギュア"
-description: "科博の夏の特別展「深海展」にて先行販売されたフィギュア。パッケージに「AQUATALES EXTRA」とあるように、ポリストーン版アクアテイルズの特別版という位置づけであるようです。ネットで画像検索をするとパッケージに「深海展」のロゴが無いものがあり、そちらが一般販売されたものなのでしょう。実際には限られた水族館の売店のみで販売されたとか。"
+description: ""
 contentType: figure
 kind: singleLineup
 figureTopImage: img/daiouika002.jpg
@@ -8,7 +8,7 @@ maker: 海洋堂
 sculptor: 菅谷　中
 executiveProducer: 松村しのぶ
 species: ダイオウイカ
-speciesGroup: "軟体動物/イカ類"
+speciesGroup: "イカ類"
 coverImage: "img/daiouika002_small.jpg"
 releaseStart: "2013年7月6日～10月6日"
 price: "2,500円"
@@ -41,4 +41,4 @@ topics:
 
 ## レビュー
 
-ここに造形、彩色、サイズ、実物との比較など、FIGURE全体のレビュー本文を記載します。
+科博の夏の特別展「深海展」にて先行販売されたフィギュア。パッケージに「AQUATALES EXTRA」とあるように、ポリストーン版アクアテイルズの特別版という位置づけであるようです。ネットで画像検索をするとパッケージに「深海展」のロゴが無いものがあり、そちらが一般販売されたものなのでしょう。実際には限られた水族館の売店のみで販売されたとか。
