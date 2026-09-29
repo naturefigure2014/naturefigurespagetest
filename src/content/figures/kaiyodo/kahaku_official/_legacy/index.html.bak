@@ -1,0 +1,460 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>科博所蔵品再現モデル</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>THE STUDY ROOM 国立科学博物館監修シリーズ<br />
+		科博所蔵品再現モデル</h4>
+		<table style="width: 100%">
+		<tr><td>
+			<a href="img/kahaku031.jpg">
+			<img height="283" src="img/kahaku031_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku031.jpg" --></a></td><td><a href="img/kahaku017.jpg">
+			<img height="283" src="img/kahaku017_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku017.jpg" --></a></td></tr>
+			<!--<tr>
+				<td class="th_asort_left" style="width: 50%" >ラインナップ				</td>
+				<td class="th_asort_right" style="width: 50%">&nbsp;</td>
+			</tr>
+			<tr>
+				<td class="waku_left" valign="top" style="width: 50%">
+				001.アサヒガニ<br />
+				002.マッコウクジラ(全身骨格)<br />
+				003.ボンゴ<br />
+				004.マンボウ<br />
+				005.ラフレシア<br />
+				006.三葉虫(セロウリネラ)<br />
+				</td>
+				<td class="waku_right" valign="top" style="width: 50%">
+				007.アルシノイテリウム(頭部骨格)<br />
+				008.トリケラトプス・ホリッドス<br />
+				009.ティラノサウルス・レックス<br />
+				010.アパトサウルス<br />
+				011.アファレンシス猿人"ルーシー"<br />
+				012.零式艦上戦闘機 </td>
+			</tr>-->
+		</table>
+			<p>
+			■概要<br />
+			販売開始：2004年11月　価格：950円<br />
+			所蔵・監修：国立科学博物館(動物研究部・武田正倫)　造形企画制作：海洋堂<br />
+			国立科学博物館とTHE STUDY ROOMで発売。ポリストーン製。<br />
+			2015年9月に行ったときは、まだ半分くらいは在庫があり、800円に値下げされていました。<br />
+			<br />
+			■再販<br />
+			ティラノサウルスとゼロ戦のみ、パッケージが変わって1350円で再販されました。<br />
+			<br />
+			■関連フィギュア<br />
+			<a href="../../kaiyodo_Capsule/kokuritsu_capsule">国立科学博物館カプセルミュージアム</a></p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/kahaku007_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/kahaku036_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/kahaku011_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/kahaku005_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/kahaku009_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/kahaku015_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/kahaku013_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/kahaku022_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/kahaku026_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/kahaku028_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/kahaku041_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td><td>&nbsp;</td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+		
+			<table style="width: 100%">
+
+
+										<tr>
+					<th id="1">001.アサヒガニ</th>				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku007.jpg">
+					<img height="283" src="img/kahaku007_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku007.jpg" --></a><a href="img/kahaku008.jpg"><img height="283" src="img/kahaku008_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku008.jpg" --></a></td>
+				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku001.jpg">
+					<img height="283" src="img/kahaku001_small.jpg" width="378" /></a></td>
+				</tr>
+				<tr>
+					<td  class="comment">
+					原型製作：菅谷　中</td>
+				</tr>
+														<tr>
+					<th id="2">002.マッコウクジラ(全身骨格)</th>				</tr>
+				<tr>
+					<td>
+					<a href="img/kahaku036.jpg">
+					<img height="283" src="img/kahaku036_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku036.jpg" --></a><a href="img/kahaku037.jpg"><img height="283" src="img/kahaku037_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku037.jpg" --></a></td>
+				</tr>
+
+				<tr>
+					<td>
+					<a href="img/kahaku038.jpg">
+					<img height="283" src="img/kahaku038_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku038.jpg" --></a><a href="img/kahaku039.jpg"><img height="283" src="img/kahaku039_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku039.jpg" --></a></td>
+				</tr>
+
+				<tr>
+					<td>
+					<a href="img/kahaku040.jpg">
+					<img height="283" src="img/kahaku040_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku040.jpg" --></a></td>
+				</tr>
+
+				<tr>
+					<td  class="comment">
+					原型製作：松本栄一郎<br />
+					<br />
+					このときの科博に展示してあったマッコウクジラは、2000年に静岡に打ちあがったマッコウクジラでした。<br />
+					2021年からは2005年に鹿児島に打ちあがった個体が、半身模型付き骨格標本として展示されています（2020年の<a href="../../blog/blog20190615.html">大哺乳類展２</a>で展示されたもの）。<br />
+					<br />
+					海洋堂のマッコウクジラといえば<a href="../../masterarts/furuta/index.html#makko">古田さんの大型モデル</a>を思い出しますが、本作は松本さん作りおろし。<br />
+					土台が生体の形をしているのにも注目。</td>
+				</tr>
+
+							<tr>
+					<th id="3">003.ボンゴ</th>				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku011.jpg">
+					<img height="283" src="img/kahaku011_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku011.jpg" --></a><a href="img/kahaku012.jpg"><img height="283" src="img/kahaku012_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku012.jpg" --></a></td>
+				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku020.jpg">
+					<img height="283" src="img/kahaku020_small.jpg" width="378" /></a></td>
+				</tr>
+				<tr>
+					<td  class="comment">
+					原型製作：松村しのぶ</td>
+				</tr>
+							<tr>
+					<th id="4">004.マンボウ</th>				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku005.jpg">
+					<img height="283" src="img/kahaku005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku005.jpg" --></a><a href="img/kahaku006.jpg"><img height="283" src="img/kahaku006_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku006.jpg" --></a></td>
+				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku002.jpg">
+					<img height="283" src="img/kahaku002_small.jpg" width="378" /></a></td>
+				</tr>
+				<tr>
+					<td  class="comment">
+					原型製作：山本聖士</td>
+				</tr>
+							<tr>
+					<th id="5">005.ラフレシア</th>				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku009.jpg">
+					<img height="283" src="img/kahaku009_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku009.jpg" --></a><a href="img/kahaku010.jpg"><img height="283" src="img/kahaku010_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku010.jpg" --></a></td>
+				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku003.jpg">
+					<img height="283" src="img/kahaku003_small.jpg" width="378" /></a></td>
+				</tr>
+				<tr>
+					<td  class="comment">
+					原型製作：山本聖士</td>
+				</tr>
+											<tr>
+					<th id="6">006.三葉虫(セロウリネラ)</th>				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku015.jpg">
+					<img height="283" src="img/kahaku015_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku015.jpg" --></a><a href="img/kahaku016.jpg"><img height="283" src="img/kahaku016_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku016.jpg" --></a></td>
+				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku019.jpg">
+					<img height="283" src="img/kahaku019_small.jpg" width="378" /></a></td>
+				</tr>
+				<tr>
+					<td  class="comment">
+					原型製作：田熊勝夫</td>
+				</tr>
+
+							<tr>
+					<th id="7">007.アルシノイテリウム(頭部骨格)</th>				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku013.jpg">
+					<img height="283" src="img/kahaku013_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku013.jpg" --></a><a href="img/kahaku014.jpg"><img height="283" src="img/kahaku014_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku014.jpg" --></a></td>
+				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku021.jpg">
+					<img height="283" src="img/kahaku021_small.jpg" width="378" /></a></td>
+				</tr>
+				<tr>
+					<td  class="comment">
+					原型製作：松村しのぶ<br />
+					<br />
+					角の太さが半端ないですね。頭部から胸までの骨格は海洋堂では他にあまり見かけないような気がします。</td>
+				</tr>
+
+							<tr>
+					<th id="8">008.トリケラトプス・ホリッドス</th>				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku022.jpg">
+					<img height="283" src="img/kahaku022_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku022.jpg" --></a><a href="img/kahaku023.jpg"><img height="283" src="img/kahaku023_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku023.jpg" --></a></td>
+				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku024.jpg">
+					<img height="283" src="img/kahaku024_small.jpg" width="378" /></a><a href="img/kahaku034.jpg"><img height="283" src="img/kahaku034_small.jpg" width="378" /></a></td>
+				</tr>
+				<tr>
+					<td  class="comment">
+					原型製作：山本聖士<br />
+					<br />
+					通称：レイモンド。右半身ほとんどが残っている奇跡の化石。前足、後ろ足が立体的に表現されており、とても良く出来ています。</td>
+				</tr>
+							<tr>
+					<th id="9">009.ティラノサウルス・レックス</th>				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku026.jpg">
+					<img height="283" src="img/kahaku026_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku026.jpg" --></a><a href="img/kahaku025.jpg"><img height="283" src="img/kahaku025_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku025.jpg" --></a></td>
+				</tr>
+				<tr>
+					<td>
+					<a href="img/kahaku027.jpg">
+					<img height="283" src="img/kahaku027_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku027.jpg" --></a><img height="227" src="img/kahaku_hako3.jpg" width="378" /></td>
+				</tr>
+				<tr>
+					<td class="comment">
+					原型製作：菅谷　中<br />
+					<br />
+					海洋堂にしては地味な塗装。造形はさすがの出来。こちらは再販されています（ページ下部）。</td>
+				</tr>
+							<tr>
+					<th id="10">010.アパトサウルス</th>				</tr>
+				<tr>
+					<td >
+					<a href="img/kahaku028.jpg">
+					<img height="283" src="img/kahaku028_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku028.jpg" --></a><a href="img/kahaku029.jpg"><img height="283" src="img/kahaku029_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku029.jpg" --></a></td>
+				</tr>
+				<tr>
+					<td>
+					<a href="img/kahaku030.jpg">
+					<img height="283" src="img/kahaku030_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku030.jpg" --></a><a href="img/kahaku033.jpg"><img height="283" src="img/kahaku033_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku033.jpg" --></a></td>
+				</tr>
+						
+				<tr>
+					<td class="comment">
+					原型製作：山本聖士<br />
+					<br />
+					ジオラマチックな土台もグッド。全体のシルエットも美しい。皮膚のシワやトゲも素晴らしい。</td>
+				</tr>
+						
+										<tr>
+					<th id="11">011.アファレンシス猿人"ルーシー"</th>				</tr>
+				<tr>
+					<td>
+					<a href="img/kahaku041.jpg">
+					<img height="283" src="img/kahaku041_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku041.jpg" --></a><a href="img/kahaku042.jpg"><img height="283" src="img/kahaku042_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku042.jpg" --></a></td>
+				</tr>
+				<tr>
+					<td>
+					<a href="img/kahaku043.jpg">
+					<img height="283" src="img/kahaku043_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku043.jpg" --></a><a href="img/kahaku044.jpg"><img height="283" src="img/kahaku044_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku044.jpg" --></a></td>
+				</tr>
+				<tr>
+					<td class="comment">
+					原型製作：田熊勝夫<br />
+					<br />
+					アファレンシス猿人（アウストラロピテクス・アファレンシス）の「ルーシー」と名づけられた化石が、復元されて展示されています。<br />
+					このポーズは「ルーシーがタイムマシンに乗せられ、来館者の前につれてこられた」という設定だそうです。<br />
+					塗装がパッケージと違うような・・・。</td>
+				</tr>
+
+						
+						<tr>
+					<th id="12">012.零式艦上戦闘機 </th>				</tr>
+				<tr>
+					<td class="comment">
+					　未入手<br />
+					<br />
+					原型製作：寺岡邦明</td>
+				</tr>
+						
+									<tr>
+					<th id="13">ティラノサウルス（再販）</th>				</tr>
+				<tr>
+					<td>
+					<a href="img/kahaku_sai002.jpg">
+					<img height="283" src="img/kahaku_sai002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku_sai002.jpg" --></a><a href="img/kahaku_sai003.jpg"><img height="283" src="img/kahaku_sai003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku_sai003.jpg" --></a></td>
+				</tr>
+							
+				<tr>
+					<td>
+					<a href="img/kahaku_sai001.jpg">
+					<img height="283" src="img/kahaku_sai001_small.jpg" width="378" /></a></td>
+				</tr>
+							
+				<tr>
+					<td class="comment">
+					左(下)が再販版。頭や足の茶色が薄くなっています。</td>
+				</tr>
+							
+				<tr>
+					<td>
+					<img height="229" src="img/kahaku_hako1.jpg" width="378" /><img height="230" src="img/kahaku_hako2.jpg" width="378" /></td>
+				</tr>
+							
+				<tr>
+					<td>
+					<img height="554" src="img/kahaku_book1.jpg" width="378" /></td>
+				</tr>
+							
+				<tr>
+					<td class="comment">
+					パッケージと解説書は一新。通し番号の「009」は削除されています。他のは再販しないようですね。<br />
+					デザインは<a href="../../kaiyodo_Capsule/kokuritsu_capsule">国立科学博物館カプセルミュージアム</a>に似ています。</td>
+				</tr>
+																	<tr>
+					<th id="">解説書</th>				</tr>
+				<tr>
+					<td>
+					<img height="266" src="img/kahaku_book2.jpg" width="378" /></td>
+				</tr>
+
+				<tr>
+					<td class="comment">
+					大きな解説書。博物館監修なだけあってとても細かいです。</td>
+				</tr>
+
+																	<tr>
+					<th id="">外箱(裏)</th>				</tr>
+				<tr>
+					<td>
+					<a href="img/kahaku004.jpg">
+					<img height="283" src="img/kahaku004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku004.jpg" --></a></td>
+				</tr>
+
+
+				<tr>
+					<td class="comment">
+					途中で販売元が変わったのか、シールが貼られています。<br />
+					<br />
+					"今後、第2、第3弾とシリーズを続けてまいります。ご期待ください。"</td>
+				</tr>
+				<!--
+				-->
+				<tr><th>販売場所（2005）</th></tr>
+				<tr><td>
+					<a href="img/kahaku2005.jpg">
+					<img height="283" src="img/kahaku2005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku2005.jpg" --></a></td></tr>
+				<!--
+				-->
+				<tr><td class="comment">販売当時、科博に連れて行ってもらいました。<br />
+					ギリギリおうちにデジカメがある時代。</td></tr>
+				<tr><th>販売場所（2019）</th></tr>
+				<tr><td>
+					<a href="img/kahaku2019_001.jpg">
+					<img height="283" src="img/kahaku2019_001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku2019_001.jpg" --></a><a href="img/kahaku2019_002.jpg"><img height="283" src="img/kahaku2019_002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/kahaku_official/img/kahaku2019_002.jpg" --></a></td></tr>
+							
+				<tr><td class="comment">かさばる箱は処分されていました・・・。</td></tr>
+							
+							</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
