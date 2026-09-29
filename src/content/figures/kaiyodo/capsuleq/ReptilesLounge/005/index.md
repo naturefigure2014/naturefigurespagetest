@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ReptilesLounge
 figureId: "005"
 species: "モロクトカゲ"
-speciesGroup: ""
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "ReptilesLounge008.jpg"
 coverImage: "ReptilesLounge008.jpg"
