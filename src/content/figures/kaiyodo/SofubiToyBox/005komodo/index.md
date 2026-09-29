@@ -1,7 +1,11 @@
 ---
-title: "ソフビトイボックス005コモドドラゴン"
+title: "005コモドドラゴン"
 description: ""
 contentType: figure
+kind: singleLineup
+series:
+  - sofbitoybox
+seriesName: ソフビトイボックス
 maker: "海洋堂"
 species: "コモドドラゴン"
 speciesGroup: "トカゲ類"
