@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ReptilesLounge
 figureId: "003"
 species: "エリマキトカゲ"
-speciesGroup: ""
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "ReptilesLounge005.jpg"
