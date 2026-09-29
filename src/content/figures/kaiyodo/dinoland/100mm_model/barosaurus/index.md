@@ -1,8 +1,8 @@
 ---
-title: "海洋堂DINOLAND 100mm恐竜シリーズ バロサウルス"
+title: "100mm恐竜シリーズ バロサウルス"
 description: ""
 titleId: kaiyodo/dinoland
-figureId: "100mm_model/barosaurus"
+figureId: ""
 species: "バロサウルス"
 speciesGroup: "古生物/竜脚類"
 contentType: figure
