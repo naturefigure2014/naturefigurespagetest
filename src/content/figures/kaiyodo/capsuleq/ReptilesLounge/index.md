@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム レプタイルズ・ラウンジ -現世のドラゴンたち-"
+title: "レプタイルズ・ラウンジ -現世のドラゴンたち-"
 description: ""
 contentType: title
 kind: series
