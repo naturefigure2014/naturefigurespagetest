@@ -1,8 +1,10 @@
 ---
 title: "ソフビトイボックス005コモドドラゴン"
-description: "????????????????????"
+description: ""
 contentType: figure
 maker: "海洋堂"
+species: "コモドドラゴン"
+speciesGroup: "トカゲ類"
 coverImage: "img/komodo006_small.jpg"
 topics:
   - title: ??
