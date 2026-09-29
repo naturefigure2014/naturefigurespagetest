@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ReptilesLounge
 figureId: "004"
 species: "ガラパゴスリクイグアナ"
-speciesGroup: ""
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 sculptor: "清水ゆう子"
 figureTopImage: "ReptilesLounge011.jpg"
