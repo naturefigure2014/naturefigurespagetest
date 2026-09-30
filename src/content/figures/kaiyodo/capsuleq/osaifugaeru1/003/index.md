@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/osaifugaeru1
 figureId: "003"
-species: "3. オタマジャクシの太陰図"
-speciesGroup: ""
+species: "オタマジャクシ"
+speciesGroup: "カエル類"
 maker: "海洋堂"
 sculptor: "山本聖士"
 figureTopImage: "osaifugaeru024.jpg"
