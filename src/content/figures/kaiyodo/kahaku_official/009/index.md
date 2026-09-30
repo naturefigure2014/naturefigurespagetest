@@ -1,5 +1,5 @@
 ---
-title: "009.ティラノサウルス・レックス"
+title: "ティラノサウルス・レックス"
 description: ""
 contentType: figure
 titleId: kaiyodo/kahaku_official

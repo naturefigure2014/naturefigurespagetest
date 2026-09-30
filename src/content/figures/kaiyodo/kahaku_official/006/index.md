@@ -1,5 +1,5 @@
 ---
-title: "006.三葉虫(セロウリネラ)"
+title: "三葉虫(セロウリネラ)"
 description: ""
 contentType: figure
 titleId: kaiyodo/kahaku_official

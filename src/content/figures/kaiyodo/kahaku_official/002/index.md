@@ -1,5 +1,5 @@
 ---
-title: "002.マッコウクジラ(全身骨格)"
+title: "マッコウクジラ(全身骨格)"
 description: ""
 contentType: figure
 titleId: kaiyodo/kahaku_official

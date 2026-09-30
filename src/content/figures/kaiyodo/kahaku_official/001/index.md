@@ -1,5 +1,5 @@
 ---
-title: "001.アサヒガニ"
+title: "アサヒガニ"
 description: ""
 contentType: figure
 titleId: kaiyodo/kahaku_official

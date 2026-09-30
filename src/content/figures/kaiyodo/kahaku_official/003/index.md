@@ -1,5 +1,5 @@
 ---
-title: "003.ボンゴ"
+title: "ボンゴ"
 description: ""
 contentType: figure
 titleId: kaiyodo/kahaku_official

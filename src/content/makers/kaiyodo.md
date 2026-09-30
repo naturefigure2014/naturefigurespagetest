@@ -70,13 +70,15 @@ seriesSections:
         image: coverImage
   - name: アクアテイルズ・水棲生物ミニチュア
     format: ガチャ
+  - name: AQUALAND
+    format: ガチャ
   - name: 動物園関連シリーズ
     format: ガチャ
   - name: ボトルキャップ動物フィギュア
     format: 食玩
   - name: 海洋堂ミュージアム関連フィギュア
     format: ミュージアム
-  - name: オフィシャルフィギュア
+  - name: 科博所蔵品再現モデル
     format: フィギュア
   - name: ARTPLA
     format: プラモデル
@@ -98,7 +100,7 @@ seriesSections:
     format: コレクション
   - name: 水生動物モデルコレクション【ＡＱＵＡＬＡＮＤ（アクアランド）】
     format: コレクション
-  - name: ＤＩＮＯＬＡＮＤ（ダイノランド）
+  - name: DINOLAND
     format: コレクション
   - name: 高知・四万十ファクトリー　オリジナルフィギュア
     format: オリジナル

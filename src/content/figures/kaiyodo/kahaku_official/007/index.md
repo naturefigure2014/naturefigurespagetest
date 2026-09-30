@@ -1,5 +1,5 @@
 ---
-title: "007.アルシノイテリウム(頭部骨格)"
+title: "アルシノイテリウム(頭部骨格)"
 description: ""
 contentType: figure
 titleId: kaiyodo/kahaku_official

@@ -1,5 +1,5 @@
 ---
-title: "011.アファレンシス猿人\"ルーシー\""
+title: "アファレンシス猿人\"ルーシー\""
 description: ""
 contentType: figure
 titleId: kaiyodo/kahaku_official

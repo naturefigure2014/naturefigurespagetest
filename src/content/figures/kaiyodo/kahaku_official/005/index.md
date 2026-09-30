@@ -1,5 +1,5 @@
 ---
-title: "005.ラフレシア"
+title: "ラフレシア"
 description: ""
 contentType: figure
 titleId: kaiyodo/kahaku_official

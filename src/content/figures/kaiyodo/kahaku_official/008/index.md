@@ -1,5 +1,5 @@
 ---
-title: "008.トリケラトプス・ホリッドス"
+title: "トリケラトプス・ホリッドス"
 description: ""
 contentType: figure
 titleId: kaiyodo/kahaku_official

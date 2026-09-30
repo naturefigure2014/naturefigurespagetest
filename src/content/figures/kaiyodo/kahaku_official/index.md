@@ -5,7 +5,7 @@ contentType: title
 kind: series
 maker: "海洋堂"
 series:
-  - capsuleq
+  - official
 seriesName: 科博所蔵品再現モデル
 figureIds:
   - kaiyodo/kahaku_official/001

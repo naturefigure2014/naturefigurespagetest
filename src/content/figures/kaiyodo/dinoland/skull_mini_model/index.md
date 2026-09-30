@@ -1,29 +1,23 @@
 ---
-title: "DINOLAND 頭骨ミニモデル"
+title: "海洋堂 DINOLAND 頭骨ミニモデル"
 description: ""
-titleId: kaiyodo/dinoland
-figureId: "skull_mini_model"
-species: "ティラノサウルス"
-speciesGroup: "古生物/獣脚類"
-contentType: figure
-maker: 海洋堂
-sculptor: "山崎　繁"
-coverImage: "img/skull_tyranno004_small.jpg"
-topics:
-  - title: ??
-    images:
-      - "img/skull_tyranno004_small.jpg"
-      - "img/skull_tyranno005_small.jpg"
-      - "img/skull_tyranno001_small.jpg"
-      - "img/skull_tyranno002_small.jpg"
-      - "img/skull_tyranno003_small.jpg"
-      - "img/allo004_small.jpg"
-      - "img/allo005_small.jpg"
-      - "img/allo002_small.jpg"
-      - "img/allo001_small.jpg"
-      - "img/allo003_small.jpg"
-      - "img/skull008_small.jpg"
-      - "img/skull001_small.jpg"
+contentType: title
+kind: series
+maker: "海洋堂"
+series:
+  - dinoland
+seriesName: DINOLAND
+figureIds:
+  - kaiyodo/dinoland/skull_mini_model/001
+  - kaiyodo/dinoland/skull_mini_model/002
+  - kaiyodo/dinoland/skull_mini_model/003
+  - kaiyodo/dinoland/skull_mini_model/004
+coverImage: "img/skull_tyranno004.jpg"
+collectionImage: "img/skull_tyranno004.jpg"
 ---
 
-????????????????????
+原型制作：山崎　繁<br />
+			DINOLANDの頭骨シリーズ。原型はすべて「ホネ師」山崎さんが担当。1996年のカタログに100mm恐竜とともに載っていました。<br />
+			当初はレジンキャスト完成品として販売(\1,800)され、後に未塗装品が「復刻版」としてヘッダー付きPP袋で販売されました。<br />
+			最近では各地で行われるイベントにおいて、海洋堂ブースの塗装体験で一部を入手することができます。<br />
+			関連：<a href="../100mm_model/index.html">DINOLAND100mm恐竜</a>

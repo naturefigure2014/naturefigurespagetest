@@ -1,21 +1,21 @@
 ---
-title: "海洋堂DINOLAND 100mm恐竜シリーズ ヴェロキラプトル"
+title: "100mm恐竜シリーズ ヴェロキラプトル"
 description: ""
 titleId: kaiyodo/dinoland
-figureId: "100mm_model/velociraptor"
+figureId: ""
 species: "ヴェロキラプトル"
 speciesGroup: "古生物/獣脚類"
 contentType: figure
 maker: 海洋堂
 sculptor: "松村しのぶ"
-coverImage: "../img/raptor003_small.jpg"
+coverImage: "img/raptor003.jpg"
 topics:
   - title: ??
     images:
-      - "../img/raptor003_small.jpg"
-      - "../img/raptor001_small.jpg"
-      - "../img/raptor002_small.jpg"
-      - "../img/raptor004_small.jpg"
+      - "img/raptor003.jpg"
+      - "img/raptor001.jpg"
+      - "img/raptor002.jpg"
+      - "img/raptor004.jpg"
 ---
 
 ????????????????????

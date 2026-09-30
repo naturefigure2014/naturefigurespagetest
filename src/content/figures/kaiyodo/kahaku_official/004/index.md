@@ -1,5 +1,5 @@
 ---
-title: "004.マンボウ"
+title: "マンボウ"
 description: ""
 contentType: figure
 titleId: kaiyodo/kahaku_official
