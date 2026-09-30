@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/osaifugaeru2
 figureId: "006"
-species: "イエアメガエル（ブルー）"
+species: "イエアメガエル"
 speciesGroup: ""
 maker: "海洋堂"
 sculptor: "田熊勝夫"
