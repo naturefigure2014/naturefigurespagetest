@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/osaifugaeru1
 figureId: "005"
-species: "5. リマニーヤドクガエル（赤）"
-speciesGroup: ""
+species: "リマニーヤドクガエル"
+speciesGroup: "カエル類"
 maker: "海洋堂"
 sculptor: "山本聖士"
 figureTopImage: "osaifugaeru009.jpg"
