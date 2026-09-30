@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/osaifugaeru1
 figureId: "002"
-species: "2. ニホンヒキガエル"
-speciesGroup: ""
+species: "ニホンヒキガエル"
+speciesGroup: "カエル類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "osaifugaeru019.jpg"
