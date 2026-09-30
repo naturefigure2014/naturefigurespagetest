@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yudokukikenn
 figureId: "001"
-species: "ヤドクガエル【イチゴヤドクガエル】"
-speciesGroup: ""
+species: "ヤドクガエル"
+speciesGroup: "カエル類"
 maker: "海洋堂"
 figureTopImage: "yudoku014.jpg"
 coverImage: "yudoku014.jpg"
