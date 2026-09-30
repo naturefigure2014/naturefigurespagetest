@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/osaifugaeru1
 figureId: "001"
-species: "1. ニホンアマガエル"
-speciesGroup: ""
+species: "ニホンアマガエル"
+speciesGroup: "カエル類"
 maker: "海洋堂"
 sculptor: "木下隆志"
 figureTopImage: "osaifugaeru014.jpg"
