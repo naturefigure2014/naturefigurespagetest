@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/fushigipet
 figureId: "002"
-species: "ヨツユビハリネズミ 立ちVer. (ベージュ)"
-speciesGroup: ""
+species: "ヨツユビハリネズミ"
+speciesGroup: "齧歯・兎類"
 maker: "海洋堂"
 figureTopImage: "fushigipet001.jpg"
 coverImage: "fushigipet001.jpg"
