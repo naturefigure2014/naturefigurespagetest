@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kumokore
 figureId: "006"
 species: "ミニブック"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "kumokore.jpg"
 coverImage: "kumokore.jpg"

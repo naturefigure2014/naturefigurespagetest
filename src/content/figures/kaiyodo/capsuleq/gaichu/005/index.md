@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/gaichu
 figureId: "005"
 species: "ヒトノミ"
-speciesGroup: ""
+speciesGroup: "その他昆虫"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "gaichu007.jpg"

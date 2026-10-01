@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/uokore
 figureId: "006"
 species: "(6) 新巻鮭"
-speciesGroup: ""
+speciesGroup: "その他魚類"
 maker: "海洋堂"
 sculptor: "村田明玄"
 figureTopImage: "uokore011.jpg"

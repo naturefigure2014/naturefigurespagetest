@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/birdgarden
 figureId: "004"
 species: "スジグロシロハラインコ"
-speciesGroup: ""
+speciesGroup: "オウム・インコ類"
 maker: "海洋堂"
 figureTopImage: "birdgarden009.jpg"
 coverImage: "birdgarden009.jpg"

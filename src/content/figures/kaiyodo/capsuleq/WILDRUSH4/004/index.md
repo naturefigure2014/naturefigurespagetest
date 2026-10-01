@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH4
 figureId: "004"
 species: "4. オランウータン"
-speciesGroup: ""
+speciesGroup: "霊長類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "WR4_013.jpg"

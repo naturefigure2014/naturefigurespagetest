@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/honekore2
 figureId: "005"
 species: "5. 戌（いぬ）イヌ"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 figureTopImage: "junishi2_013.jpg"

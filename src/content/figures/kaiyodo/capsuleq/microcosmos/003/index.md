@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/microcosmos
 figureId: "003"
 species: "ホウネンエビ"
-speciesGroup: ""
+speciesGroup: "その他甲殻類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "micro012.jpg"

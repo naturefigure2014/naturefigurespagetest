@@ -2,13 +2,13 @@
 import SpeciesSubgroupGrid from "../../SpeciesSubgroupGrid.astro";
 ---
 <SpeciesSubgroupGrid title="鳥類" icon="♠" groups={[
-  { name: "小鳥・身近な鳥", species: ["オオマシコ"], icon: "●" },
-  { name: "カラス・ハト類", icon: "◆" },
-  { name: "オウム・インコ類", icon: "◇" },
-  { name: "猛禽類", icon: "▲" },
-  { name: "キジ・ニワトリ類", icon: "♠" },
-  { name: "水鳥", species: ["マガン"], icon: "◈" },
-  { name: "海鳥", icon: "▽" },
-  { name: "ペンギン類", speciesGroups: ["鳥類/ペンギン類"], icon: "♟" },
-  { name: "その他", icon: "◌" }
+  { id: "birds-small-common", name: "小鳥・身近な鳥", species: ["オオマシコ"], speciesGroups: ["鳥類/小鳥・身近な鳥"], icon: "●" },
+  { id: "birds-crows-doves", name: "カラス・ハト類", speciesGroups: ["鳥類/カラス・ハト類"], icon: "◆" },
+  { id: "birds-parrots", name: "オウム・インコ類", speciesGroups: ["鳥類/オウム・インコ類"], icon: "◇" },
+  { id: "birds-raptors", name: "猛禽類", speciesGroups: ["鳥類/猛禽類"], icon: "▲" },
+  { id: "birds-pheasants-chickens", name: "キジ・ニワトリ類", speciesGroups: ["鳥類/キジ・ニワトリ類"], icon: "♠" },
+  { id: "birds-waterfowl", name: "水鳥", species: ["マガン"], speciesGroups: ["鳥類/水鳥"], icon: "◈" },
+  { id: "birds-seabirds", name: "海鳥", speciesGroups: ["鳥類/海鳥"], icon: "▽" },
+  { id: "birds-penguins", name: "ペンギン類", speciesGroups: ["鳥類/ペンギン類"], icon: "♟" },
+  { id: "birds-other", name: "その他", speciesGroups: ["鳥類/その他"], icon: "◌" }
 ]} />

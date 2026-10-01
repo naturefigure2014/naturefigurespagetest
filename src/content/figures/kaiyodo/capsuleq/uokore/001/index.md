@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/uokore
 figureId: "001"
 species: "(1) あじのひらき"
-speciesGroup: ""
+speciesGroup: "魚類/スズキ目の魚類"
 maker: "海洋堂"
 sculptor: "村田明玄"
 figureTopImage: "uokore008.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yamoriEX
 figureId: "004"
 species: "ナメハダタマオヤモリ"
-speciesGroup: ""
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "yamoriEX016.jpg"
 coverImage: "yamoriEX016.jpg"

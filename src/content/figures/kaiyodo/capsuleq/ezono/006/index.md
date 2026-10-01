@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ezono
 figureId: "006"
 species: "【EX】豚丼＆福ぶちょーストラップ"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "ezono012.jpg"
 coverImage: "ezono012.jpg"

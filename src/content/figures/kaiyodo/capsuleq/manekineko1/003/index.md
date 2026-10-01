@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/manekineko1
 figureId: "003"
 species: "スコティッシュフォールド(ブルー)"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "manekineko1_004.jpg"
 coverImage: "manekineko1_004.jpg"

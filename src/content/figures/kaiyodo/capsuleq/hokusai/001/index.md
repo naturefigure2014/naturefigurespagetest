@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hokusai
 figureId: "001"
 species: "1.神奈川沖浪裏"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "hokusai001.jpg"
 coverImage: "hokusai001.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kabuto
 figureId: "005"
 species: "ヤンバルテナガコガネ"
-speciesGroup: ""
+speciesGroup: "カブトムシ・クワガタ類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "kabuto011.jpg"

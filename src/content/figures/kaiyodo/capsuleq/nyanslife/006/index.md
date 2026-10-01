@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nyanslife
 figureId: "006"
 species: "キャットタワー"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "nyans021.jpg"
 coverImage: "nyans021.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yotsubato2
 figureId: "005"
 species: "よつばとエリマキキツネザル＋シマスカンク"
-speciesGroup: ""
+speciesGroup: "霊長類"
 maker: "海洋堂"
 figureTopImage: "yotsubatoshirokuro2_007.jpg"
 coverImage: "yotsubatoshirokuro2_007.jpg"

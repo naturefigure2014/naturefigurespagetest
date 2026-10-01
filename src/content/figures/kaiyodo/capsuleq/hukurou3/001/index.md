@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hukurou3
 figureId: "001"
 species: "ワシミミズク"
-speciesGroup: ""
+speciesGroup: "猛禽類"
 maker: "海洋堂"
 figureTopImage: "hukurou3_016.jpg"
 coverImage: "hukurou3_016.jpg"

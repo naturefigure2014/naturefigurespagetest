@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ooparts
 figureId: "001"
 species: "遮光器土偶"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "occult005.jpg"
 coverImage: "occult005.jpg"

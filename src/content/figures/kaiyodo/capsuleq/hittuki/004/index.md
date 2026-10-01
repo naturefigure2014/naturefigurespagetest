@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hittuki
 figureId: "004"
 species: "カイコガ(雄)"
-speciesGroup: ""
+speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 figureTopImage: "hittuki015.jpg"
 coverImage: "hittuki015.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/birdgarden
 figureId: "005"
 species: "オカメインコ(ルチノー)"
-speciesGroup: ""
+speciesGroup: "オウム・インコ類"
 maker: "海洋堂"
 figureTopImage: ""
 coverImage: ""

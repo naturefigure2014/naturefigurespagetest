@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/microcosmos
 figureId: "001"
 species: "ミジンコ"
-speciesGroup: ""
+speciesGroup: "その他甲殻類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "micro001.jpg"

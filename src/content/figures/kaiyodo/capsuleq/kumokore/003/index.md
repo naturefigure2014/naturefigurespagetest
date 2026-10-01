@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kumokore
 figureId: "003"
 species: "ヨダンハエトリ"
-speciesGroup: ""
+speciesGroup: "クモ類"
 maker: "海洋堂"
 figureTopImage: "kumokore011.jpg"
 coverImage: "kumokore011.jpg"

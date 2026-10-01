@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/manekineko1
 figureId: "006"
 species: "ベンガルトラ"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "manekineko1_007.jpg"
 coverImage: "manekineko1_007.jpg"

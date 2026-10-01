@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ooparts
 figureId: "004"
 species: "クリスタルスカル"
-speciesGroup: ""
+speciesGroup: "齧歯・兎類"
 maker: "海洋堂"
 figureTopImage: "occult011.jpg"
 coverImage: "occult011.jpg"

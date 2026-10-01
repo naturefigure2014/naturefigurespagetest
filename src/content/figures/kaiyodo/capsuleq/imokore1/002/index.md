@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore1
 figureId: "002"
 species: "アオバセセリ"
-speciesGroup: ""
+speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "imokore1_010.jpg"

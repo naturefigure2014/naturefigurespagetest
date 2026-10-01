@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kanitaizen
 figureId: "003"
 species: "ヘイケガニ"
-speciesGroup: ""
+speciesGroup: "カニ類"
 maker: "海洋堂"
 sculptor: "木下隆志"
 figureTopImage: "kani001.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore5
 figureId: "003"
 species: "モンシロチョウ"
-speciesGroup: ""
+speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "imokore5_007.jpg"

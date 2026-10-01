@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH1
 figureId: "004"
 species: "4. ライオン"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "樹山"
 figureTopImage: "WR1_001.jpg"

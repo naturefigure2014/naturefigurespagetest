@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yudokukikenn2
 figureId: "005"
 species: "アンドンクラゲ"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "yudoku2_017.jpg"

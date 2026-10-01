@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/gaichu
 figureId: "002"
 species: "クロゴキブリ"
-speciesGroup: ""
+speciesGroup: "その他昆虫"
 maker: "海洋堂"
 sculptor: "木下隆志"
 figureTopImage: "gaichu023.jpg"

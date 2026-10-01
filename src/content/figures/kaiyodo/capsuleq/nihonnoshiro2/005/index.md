@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nihonnoshiro2
 figureId: "005"
 species: "鬼瓦（松本城）"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 sculptor: "かたやまひろし"
 figureTopImage: "nihonnoshiro2_004.jpg"

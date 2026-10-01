@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/honekore2
 figureId: "001"
 species: "1. 午（うま）ウマ"
-speciesGroup: ""
+speciesGroup: "奇蹄類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "junishi2_004.jpg"

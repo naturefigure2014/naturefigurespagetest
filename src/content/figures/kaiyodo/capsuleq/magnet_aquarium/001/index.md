@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/magnet_aquarium
 figureId: "001"
 species: "1.クロマグロ【黒鮪】"
-speciesGroup: ""
+speciesGroup: "魚類/マグロ・カツオ類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "magnet020.jpg"

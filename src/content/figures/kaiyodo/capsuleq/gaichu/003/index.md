@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/gaichu
 figureId: "003"
 species: "ケジラミ"
-speciesGroup: ""
+speciesGroup: "その他昆虫"
 maker: "海洋堂"
 sculptor: "山本聖士"
 figureTopImage: "gaichu017.jpg"

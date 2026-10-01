@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/chinnzyu2
 figureId: "001"
 species: "ミーアキャット"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "chinnzyu2_013.jpg"
 coverImage: "chinnzyu2_013.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore5
 figureId: "002"
 species: "ツマグロヒョウモン"
-speciesGroup: ""
+speciesGroup: "魚類/マグロ・カツオ類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "imokore5_004.jpg"

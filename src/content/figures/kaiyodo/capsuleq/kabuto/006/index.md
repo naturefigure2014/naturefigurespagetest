@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kabuto
 figureId: "006"
 species: "梱包"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "kabuto020.jpg"
 coverImage: "kabuto020.jpg"

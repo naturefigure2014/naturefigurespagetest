@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/honekore2
 figureId: "003"
 species: "3. 申（さる）サル"
-speciesGroup: ""
+speciesGroup: "霊長類"
 maker: "海洋堂"
 sculptor: "木下隆志"
 figureTopImage: "junishi2_007.jpg"

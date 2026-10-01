@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hokusai
 figureId: "003"
 species: "3.北斎自画像"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "hokusai008.jpg"
 coverImage: "hokusai008.jpg"

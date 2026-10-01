@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kumokore
 figureId: "002"
 species: "コガネグモ"
-speciesGroup: ""
+speciesGroup: "クモ類"
 maker: "海洋堂"
 figureTopImage: "kumokore006.jpg"
 coverImage: "kumokore006.jpg"

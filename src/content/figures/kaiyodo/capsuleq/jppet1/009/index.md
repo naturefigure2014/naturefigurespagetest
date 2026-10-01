@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/jppet1
 figureId: "009"
 species: "ウサギ"
-speciesGroup: ""
+speciesGroup: "齧歯・兎類"
 maker: "海洋堂"
 figureTopImage: "pet1_004.jpg"
 coverImage: "pet1_004.jpg"

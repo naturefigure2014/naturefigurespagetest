@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH3
 figureId: "004"
 species: "ジャコウウシ"
-speciesGroup: ""
+speciesGroup: "偶蹄類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "WR3_011.jpg"

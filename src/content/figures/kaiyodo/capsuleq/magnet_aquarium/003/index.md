@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/magnet_aquarium
 figureId: "003"
 species: "3.ヒラメ【鮃】"
-speciesGroup: ""
+speciesGroup: "魚類/カレイ・ヒラメ類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "magnet014.jpg"

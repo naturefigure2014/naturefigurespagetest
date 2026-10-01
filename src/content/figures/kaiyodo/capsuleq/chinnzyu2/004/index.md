@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/chinnzyu2
 figureId: "004"
 species: "ハシビロコウ"
-speciesGroup: ""
+speciesGroup: "水鳥"
 maker: "海洋堂"
 figureTopImage: "chinnzyu2_004.jpg"
 coverImage: "chinnzyu2_004.jpg"

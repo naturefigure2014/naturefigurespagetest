@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore2
 figureId: "004"
 species: "クロアゲハ"
-speciesGroup: ""
+speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 figureTopImage: "imokore2_016.jpg"
 coverImage: "imokore2_016.jpg"

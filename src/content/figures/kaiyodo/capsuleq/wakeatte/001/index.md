@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/wakeatte
 figureId: "001"
 species: "メガテリウム"
-speciesGroup: ""
+speciesGroup: "古生物/古代の哺乳類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "wakeatte009.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yamori2
 figureId: "001"
 species: "クレステッドゲッコー(イエロー)"
-speciesGroup: ""
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "yamori2_008.jpg"
 coverImage: "yamori2_008.jpg"

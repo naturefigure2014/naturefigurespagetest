@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kosedai
 figureId: "002"
 species: "プテリゴトゥス"
-speciesGroup: ""
+speciesGroup: "古生物/古代の節足動物"
 maker: "海洋堂"
 figureTopImage: "kosedai012.jpg"
 coverImage: "kosedai012.jpg"

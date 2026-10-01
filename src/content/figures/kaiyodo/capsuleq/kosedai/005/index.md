@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kosedai
 figureId: "005"
 species: "オパビニア"
-speciesGroup: ""
+speciesGroup: "古生物/古代の節足動物"
 maker: "海洋堂"
 figureTopImage: "kosedai004.jpg"
 coverImage: "kosedai004.jpg"

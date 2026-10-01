@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/uokore
 figureId: "005"
 species: "(5) 干しエビ"
-speciesGroup: ""
+speciesGroup: "その他甲殻類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "uokore001.jpg"

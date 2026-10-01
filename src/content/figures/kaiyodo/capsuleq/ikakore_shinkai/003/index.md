@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ikakore_shinkai
 figureId: "003"
 species: "MIU深海生物と比較"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "ikakore_shinkai008.jpg"
 coverImage: "ikakore_shinkai008.jpg"

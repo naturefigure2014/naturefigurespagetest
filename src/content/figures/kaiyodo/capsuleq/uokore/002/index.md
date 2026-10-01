@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/uokore
 figureId: "002"
 species: "(2) たいのひらき"
-speciesGroup: ""
+speciesGroup: "魚類/スズキ目の魚類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 figureTopImage: "uokore004.jpg"

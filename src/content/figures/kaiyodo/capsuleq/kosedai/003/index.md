@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kosedai
 figureId: "003"
 species: "ユーステノプテロン"
-speciesGroup: ""
+speciesGroup: "古生物/古代の魚類"
 maker: "海洋堂"
 figureTopImage: "kosedai016.jpg"
 coverImage: "kosedai016.jpg"

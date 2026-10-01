@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hokusai
 figureId: "004"
 species: "4.お岩さん"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "hokusai010.jpg"
 coverImage: "hokusai010.jpg"

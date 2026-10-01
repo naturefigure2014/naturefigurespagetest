@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/honekore1
 figureId: "006"
 species: "6. 巳（み）アオダイショウ"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 sculptor: "山本聖士"
 figureTopImage: "junishi1_007.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/sango
 figureId: "002"
 species: "1-B. ウシとカイウサギ"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 sculptor: "山本聖士（ウシ）、田熊勝夫（カイウサギ）"
 figureTopImage: "sango008.jpg"

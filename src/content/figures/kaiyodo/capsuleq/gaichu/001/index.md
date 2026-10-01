@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/gaichu
 figureId: "001"
 species: "オオスズメバチ"
-speciesGroup: ""
+speciesGroup: "ハチ・アリ類"
 maker: "海洋堂"
 figureTopImage: "gaichu010.jpg"
 coverImage: "gaichu010.jpg"

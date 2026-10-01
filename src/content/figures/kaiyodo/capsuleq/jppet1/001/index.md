@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/jppet1
 figureId: "001"
 species: "イヌ"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "pet1_001.jpg"
 coverImage: "pet1_001.jpg"

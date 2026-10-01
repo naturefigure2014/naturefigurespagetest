@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nihonkitte
 figureId: "003"
 species: "見返り美人図"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 sculptor: "Studio蓮"
 figureTopImage: "kitte006.jpg"

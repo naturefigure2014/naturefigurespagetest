@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore4
 figureId: "002"
 species: "ナミアゲハ"
-speciesGroup: ""
+speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "imokore4_014.jpg"

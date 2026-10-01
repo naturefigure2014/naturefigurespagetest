@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hokusai
 figureId: "005"
 species: "5.雪中虎図"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "hokusai006.jpg"
 coverImage: "hokusai006.jpg"

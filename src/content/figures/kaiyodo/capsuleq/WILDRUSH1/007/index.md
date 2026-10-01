@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH1
 figureId: "007"
 species: "ミニブック"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "wildrush1book.jpg"
 coverImage: "wildrush1book.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/honekore2
 figureId: "006"
 species: "6. 亥（い）イノシシ"
-speciesGroup: ""
+speciesGroup: "偶蹄類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "junishi2_001.jpg"

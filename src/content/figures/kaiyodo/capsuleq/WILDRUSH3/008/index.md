@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH3
 figureId: "008"
 species: "miniQ版パッケージ"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "WR3_hako2.jpg"
 coverImage: "WR3_hako2.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH4
 figureId: "003"
 species: "3. アジアゾウ"
-speciesGroup: ""
+speciesGroup: "ゾウ類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 figureTopImage: "WR4_001.jpg"

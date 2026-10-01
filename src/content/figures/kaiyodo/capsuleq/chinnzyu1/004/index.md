@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/chinnzyu1
 figureId: "004"
 species: "カピバラ"
-speciesGroup: ""
+speciesGroup: "齧歯・兎類"
 maker: "海洋堂"
 sculptor: "菅谷中"
 figureTopImage: "chinju1_012.jpg"

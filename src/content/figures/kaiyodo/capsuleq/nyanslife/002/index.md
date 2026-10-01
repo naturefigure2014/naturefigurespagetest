@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nyanslife
 figureId: "002"
 species: "茶トラ白ぶち"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "nyans008.jpg"
 coverImage: "nyans008.jpg"

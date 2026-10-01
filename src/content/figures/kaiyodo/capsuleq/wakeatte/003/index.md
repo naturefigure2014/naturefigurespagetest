@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/wakeatte
 figureId: "003"
 species: "プラティベロドン"
-speciesGroup: ""
+speciesGroup: "古生物/古代の哺乳類"
 maker: "海洋堂"
 sculptor: "古田悟郎"
 figureTopImage: "wakeatte018.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kosedai
 figureId: "004"
 species: "ボスリオレピス"
-speciesGroup: ""
+speciesGroup: "古生物/古代の魚類"
 maker: "海洋堂"
 figureTopImage: "kosedai008.jpg"
 coverImage: "kosedai008.jpg"

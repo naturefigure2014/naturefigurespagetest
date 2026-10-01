@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kuwagata
 figureId: "003"
 species: "トカラノコギリクワガタ【赤褐色】"
-speciesGroup: ""
+speciesGroup: "カブトムシ・クワガタ類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: ""

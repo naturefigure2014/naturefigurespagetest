@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kopanda2
 figureId: "002"
 species: "わくわくセット"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "松村しのぶ（ころりんパンダ）、神尾直樹（タイヤ）"
 figureTopImage: "kopanda2_006.jpg"

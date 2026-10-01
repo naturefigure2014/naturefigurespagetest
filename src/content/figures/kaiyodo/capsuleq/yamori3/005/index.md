@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yamori3
 figureId: "005"
 species: "マダガスカルヒルヤモリ"
-speciesGroup: ""
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "yamori3_007.jpg"
 coverImage: "yamori3_007.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yudokukikenn
 figureId: "007"
 species: "ヒョウモンダコ"
-speciesGroup: ""
+speciesGroup: "タコ類"
 maker: "海洋堂"
 figureTopImage: "yudoku035.jpg"
 coverImage: "yudoku035.jpg"

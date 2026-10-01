@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ikakore2
 figureId: "005"
 species: "ホタルイカ"
-speciesGroup: ""
+speciesGroup: "イカ類"
 maker: "海洋堂"
 figureTopImage: "ikakore2_009.jpg"
 coverImage: "ikakore2_009.jpg"

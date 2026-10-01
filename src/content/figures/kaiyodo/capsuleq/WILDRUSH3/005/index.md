@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH3
 figureId: "005"
 species: "イッカク"
-speciesGroup: ""
+speciesGroup: "クジラ類"
 maker: "海洋堂"
 sculptor: "菅谷 中"
 figureTopImage: "WR3_021.jpg"

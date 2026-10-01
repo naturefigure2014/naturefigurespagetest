@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH2
 figureId: "004"
 species: "ジャガー"
-speciesGroup: ""
+speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "WR2_018.jpg"

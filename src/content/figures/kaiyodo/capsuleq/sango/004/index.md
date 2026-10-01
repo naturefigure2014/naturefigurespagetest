@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/sango
 figureId: "004"
 species: "2-B. ウマ"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: ""
 coverImage: ""

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH2
 figureId: "002"
 species: "オオアリクイ"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "吉良かずや"
 figureTopImage: "WR2_014.jpg"

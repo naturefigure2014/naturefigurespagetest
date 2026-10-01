@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/uokore
 figureId: "004"
 species: "(4) するめ"
-speciesGroup: ""
+speciesGroup: "イカ類"
 maker: "海洋堂"
 sculptor: "木下隆志"
 figureTopImage: "uokore005.jpg"

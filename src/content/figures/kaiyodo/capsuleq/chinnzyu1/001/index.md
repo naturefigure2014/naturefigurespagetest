@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/chinnzyu1
 figureId: "001"
 species: "ハシビロコウ"
-speciesGroup: ""
+speciesGroup: "水鳥"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "chinju1_009.jpg"

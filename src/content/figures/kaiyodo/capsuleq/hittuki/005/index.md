@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hittuki
 figureId: "005"
 species: "イエバエ"
-speciesGroup: ""
+speciesGroup: "その他昆虫"
 maker: "海洋堂"
 figureTopImage: "hittuki012.jpg"
 coverImage: "hittuki012.jpg"

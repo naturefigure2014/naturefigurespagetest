@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore2
 figureId: "002"
 species: "オオクワガタ"
-speciesGroup: ""
+speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 figureTopImage: "imokore2_005.jpg"
 coverImage: "imokore2_005.jpg"

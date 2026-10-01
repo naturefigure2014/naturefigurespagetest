@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hukurou
 figureId: "004"
 species: "アフリカオオコノハズク"
-speciesGroup: ""
+speciesGroup: "猛禽類"
 maker: "海洋堂"
 figureTopImage: "hukuro018.jpg"
 coverImage: "hukuro018.jpg"

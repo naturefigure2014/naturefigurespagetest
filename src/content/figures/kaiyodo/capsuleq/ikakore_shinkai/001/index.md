@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ikakore_shinkai
 figureId: "001"
 species: "全体"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "ikakore_shinkai003.jpg"
 coverImage: "ikakore_shinkai003.jpg"

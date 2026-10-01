@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/chinnzyu2
 figureId: "003"
 species: "コアリクイ(ベージュ)"
-speciesGroup: ""
+speciesGroup: "その他哺乳類"
 maker: "海洋堂"
 figureTopImage: "chinnzyu2_019.jpg"
 coverImage: "chinnzyu2_019.jpg"

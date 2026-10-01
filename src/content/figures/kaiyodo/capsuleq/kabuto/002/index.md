@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kabuto
 figureId: "002"
 species: "オキナワカブト"
-speciesGroup: ""
+speciesGroup: "カブトムシ・クワガタ類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 figureTopImage: "kabuto006.jpg"

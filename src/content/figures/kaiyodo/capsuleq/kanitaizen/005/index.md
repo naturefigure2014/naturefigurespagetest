@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kanitaizen
 figureId: "005"
 species: "ミナミコメツキガニ"
-speciesGroup: ""
+speciesGroup: "カニ類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "kani005.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore2
 figureId: "006"
 species: "キアゲハ"
-speciesGroup: ""
+speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 figureTopImage: "imokore2_025.jpg"
 coverImage: "imokore2_025.jpg"

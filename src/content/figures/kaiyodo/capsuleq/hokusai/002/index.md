@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hokusai
 figureId: "002"
 species: "2.河童"
-speciesGroup: ""
+speciesGroup: "妖怪"
 maker: "海洋堂"
 figureTopImage: "hokusai003.jpg"
 coverImage: "hokusai003.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hittuki
 figureId: "003"
 species: "アダンソンハエトリグモ"
-speciesGroup: ""
+speciesGroup: "クモ類"
 maker: "海洋堂"
 figureTopImage: "hittuki002.jpg"
 coverImage: "hittuki002.jpg"

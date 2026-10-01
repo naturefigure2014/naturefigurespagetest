@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kanndume
 figureId: "001"
 species: "缶詰"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "kanndume001.jpg"
 coverImage: "kanndume001.jpg"

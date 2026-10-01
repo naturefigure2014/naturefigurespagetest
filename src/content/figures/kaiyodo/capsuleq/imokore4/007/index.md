@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore4
 figureId: "007"
 species: "ワンフェス"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "blog20200209_115_2.jpg"
 coverImage: "blog20200209_115_2.jpg"

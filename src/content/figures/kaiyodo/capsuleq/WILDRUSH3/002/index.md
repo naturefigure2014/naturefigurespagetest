@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH3
 figureId: "002"
 species: "ホッキョクグマ"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "WR3_002.jpg"

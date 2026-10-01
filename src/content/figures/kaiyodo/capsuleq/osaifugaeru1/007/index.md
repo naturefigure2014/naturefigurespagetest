@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/osaifugaeru1
 figureId: "007"
 species: "巾着"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "osaifugaeru007.jpg"
 coverImage: "osaifugaeru007.jpg"

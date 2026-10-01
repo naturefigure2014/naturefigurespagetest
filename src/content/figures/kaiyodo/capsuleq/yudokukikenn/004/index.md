@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yudokukikenn
 figureId: "004"
 species: "アカズムカデ"
-speciesGroup: ""
+speciesGroup: "ムカデ・ヤスデ類"
 maker: "海洋堂"
 figureTopImage: "yudoku022.jpg"
 coverImage: "yudoku022.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yotsubato1
 figureId: "004"
 species: "よつばとホルスタイン"
-speciesGroup: ""
+speciesGroup: "偶蹄類"
 maker: "海洋堂"
 sculptor: "よつば・村田明玄／ホルスタイン・松村しのぶ"
 figureTopImage: ""

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nohmask2
 figureId: "003"
 species: "小面【こおもて】"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: ""
 coverImage: ""

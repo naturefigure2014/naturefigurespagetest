@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/osaifugaeru1
 figureId: "004"
 species: "4. アメフクラガエル"
-speciesGroup: ""
+speciesGroup: "カエル類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "osaifugaeru001.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kopanda2
 figureId: "004"
 species: "すくすくセット"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "kopanda2_012.jpg"

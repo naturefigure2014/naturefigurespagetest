@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nihonnoshiro1
 figureId: "005"
 species: "名古屋城"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "nihonnoshiro011.jpg"
 coverImage: "nihonnoshiro011.jpg"

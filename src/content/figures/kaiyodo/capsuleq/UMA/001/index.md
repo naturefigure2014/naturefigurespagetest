@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/UMA
 figureId: "001"
 species: "1. チュパカブラ"
-speciesGroup: ""
+speciesGroup: "UMA"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "uma001.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kopanda2
 figureId: "005"
 species: "ミニブック"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "kopanda2book.jpg"
 coverImage: "kopanda2book.jpg"

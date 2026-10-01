@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH1
 figureId: "005"
 species: "5. シロサイ"
-speciesGroup: ""
+speciesGroup: "奇蹄類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "WR1_009.jpg"

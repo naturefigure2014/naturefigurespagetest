@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nohmask2
 figureId: "002"
 species: "小飛出【ことびで】"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "nohmask2_002.jpg"
 coverImage: "nohmask2_002.jpg"

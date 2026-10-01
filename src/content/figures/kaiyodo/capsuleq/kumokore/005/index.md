@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kumokore
 figureId: "005"
 species: "アカイロトリノフンダマシ（黒）"
-speciesGroup: ""
+speciesGroup: "クモ類"
 maker: "海洋堂"
 figureTopImage: "kumokore024.jpg"
 coverImage: "kumokore024.jpg"

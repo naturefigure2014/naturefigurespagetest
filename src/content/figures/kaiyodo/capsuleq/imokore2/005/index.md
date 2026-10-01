@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore2
 figureId: "005"
 species: "セスジスズメ"
-speciesGroup: ""
+speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 figureTopImage: "imokore2_020.jpg"
 coverImage: "imokore2_020.jpg"

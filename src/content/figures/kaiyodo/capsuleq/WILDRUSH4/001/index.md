@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH4
 figureId: "001"
 species: "1. ベンガルトラ"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "WR4_005.jpg"

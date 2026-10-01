@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/chinnzyu1
 figureId: "005"
 species: "ハダカデバネズミ"
-speciesGroup: ""
+speciesGroup: "齧歯・兎類"
 maker: "海洋堂"
 sculptor: "山本聖士"
 figureTopImage: "chinju1_005.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH2
 figureId: "001"
 species: "スミレコンゴウインコ"
-speciesGroup: ""
+speciesGroup: "オウム・インコ類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "WR2_010.jpg"

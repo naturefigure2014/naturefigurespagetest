@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kopanda
 figureId: "004"
 species: "よちよち"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "panda002.jpg"
 coverImage: "panda002.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/vegecolle
 figureId: "004"
 species: "キャベツ"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "vege009.jpg"

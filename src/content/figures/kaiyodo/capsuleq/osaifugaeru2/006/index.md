@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/osaifugaeru2
 figureId: "006"
 species: "イエアメガエル"
-speciesGroup: ""
+speciesGroup: "カエル類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 figureTopImage: "osaflo2_014.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yudokukikenn2
 figureId: "001"
 species: "インディアンタイガーセンチピード"
-speciesGroup: ""
+speciesGroup: "ムカデ・ヤスデ類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "yudoku2_002.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yudokukikenn
 figureId: "008"
 species: "サンゴヘビ"
-speciesGroup: ""
+speciesGroup: "ヘビ類"
 maker: "海洋堂"
 figureTopImage: "yudoku040.jpg"
 coverImage: "yudoku040.jpg"

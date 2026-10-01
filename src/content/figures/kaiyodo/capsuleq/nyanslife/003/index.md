@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nyanslife
 figureId: "003"
 species: "白"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "nyans007.jpg"
 coverImage: "nyans007.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH3
 figureId: "006"
 species: "カプセル"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "WR3_017.jpg"
 coverImage: "WR3_017.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/gaichu
 figureId: "004"
 species: "キンバエ"
-speciesGroup: ""
+speciesGroup: "その他昆虫"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 figureTopImage: "gaichu027.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yotsubato2
 figureId: "006"
 species: "ミニブック"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "yotsuba2book.jpg"
 coverImage: "yotsuba2book.jpg"

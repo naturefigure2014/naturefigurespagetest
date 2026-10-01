@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/egypt
 figureId: "007"
 species: "ネコのミイラ"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "egypt005.jpg"
 coverImage: "egypt005.jpg"

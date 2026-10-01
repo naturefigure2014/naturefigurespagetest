@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yudokukikenn2
 figureId: "006"
 species: "梱包"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "yudoku2_019.jpg"
 coverImage: "yudoku2_019.jpg"

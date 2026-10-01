@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/microcosmos
 figureId: "004"
 species: "カニのゾエア幼生"
-speciesGroup: ""
+speciesGroup: "カニ類"
 maker: "海洋堂"
 sculptor: "木下隆志"
 figureTopImage: "micro005.jpg"

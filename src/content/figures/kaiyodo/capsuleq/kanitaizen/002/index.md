@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kanitaizen
 figureId: "002"
 species: "トラフカラッパ"
-speciesGroup: ""
+speciesGroup: "カニ類"
 maker: "海洋堂"
 sculptor: "山本聖士"
 figureTopImage: "kani007.jpg"

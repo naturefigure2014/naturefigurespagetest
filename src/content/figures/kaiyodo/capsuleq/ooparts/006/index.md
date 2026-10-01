@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ooparts
 figureId: "006"
 species: "黄金ジェット"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "occult003.jpg"
 coverImage: "occult003.jpg"

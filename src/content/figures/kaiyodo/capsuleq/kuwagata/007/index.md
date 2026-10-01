@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kuwagata
 figureId: "007"
 species: "ノコギリクワガタの蛹（さなぎ）"
-speciesGroup: ""
+speciesGroup: "カブトムシ・クワガタ類"
 maker: "海洋堂"
 sculptor: "木下隆志"
 figureTopImage: "kuwagata018.jpg"

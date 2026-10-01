@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yudokukikenn
 figureId: "006"
 species: "メキシカンレッドニータランチュラ"
-speciesGroup: ""
+speciesGroup: "偶蹄類"
 maker: "海洋堂"
 figureTopImage: "yudoku031.jpg"
 coverImage: "yudoku031.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/UMA
 figureId: "005"
 species: "5. カッパ"
-speciesGroup: ""
+speciesGroup: "妖怪"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "uma009.jpg"

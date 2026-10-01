@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hukurou2
 figureId: "004"
 species: "ウサギフクロウ"
-speciesGroup: ""
+speciesGroup: "猛禽類"
 maker: "海洋堂"
 sculptor: "菅谷中"
 figureTopImage: "hukurou2_015.jpg"

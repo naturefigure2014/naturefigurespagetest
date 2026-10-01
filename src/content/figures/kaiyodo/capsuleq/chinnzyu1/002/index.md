@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/chinnzyu1
 figureId: "002"
 species: "アルパカ(立ち)"
-speciesGroup: ""
+speciesGroup: "偶蹄類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "chinju1_003.jpg"

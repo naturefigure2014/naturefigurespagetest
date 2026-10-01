@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hukurou
 figureId: "005"
 species: "シロフクロウ"
-speciesGroup: ""
+speciesGroup: "猛禽類"
 maker: "海洋堂"
 figureTopImage: "hukuro004.jpg"
 coverImage: "hukuro004.jpg"

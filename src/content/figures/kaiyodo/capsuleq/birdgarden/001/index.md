@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/birdgarden
 figureId: "001"
 species: "ハルクインコンゴウ"
-speciesGroup: ""
+speciesGroup: "オウム・インコ類"
 maker: "海洋堂"
 figureTopImage: "birdgarden002.jpg"
 coverImage: "birdgarden002.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kopanda2
 figureId: "003"
 species: "ごくごくセット"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "松村しのぶ（よちよちパンダ）、神尾直樹（ミルク皿、哺乳瓶）"
 figureTopImage: "kopanda2_008.jpg"

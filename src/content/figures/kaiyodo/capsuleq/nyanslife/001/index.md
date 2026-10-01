@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nyanslife
 figureId: "001"
 species: "三毛"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "nyans001.jpg"
 coverImage: "nyans001.jpg"

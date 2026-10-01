@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kosedai
 figureId: "001"
 species: "トリアルツルス"
-speciesGroup: ""
+speciesGroup: "古生物/古代の節足動物"
 maker: "海洋堂"
 figureTopImage: "kosedai023.jpg"
 coverImage: "kosedai023.jpg"

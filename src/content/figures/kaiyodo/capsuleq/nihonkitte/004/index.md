@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nihonkitte
 figureId: "004"
 species: "富嶽三十六景 凱風快晴"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 sculptor: "ズン・ダー"
 figureTopImage: "kitte001.jpg"

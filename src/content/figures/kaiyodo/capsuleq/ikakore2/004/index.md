@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ikakore2
 figureId: "004"
 species: "ダイオウイカ"
-speciesGroup: ""
+speciesGroup: "イカ類"
 maker: "海洋堂"
 sculptor: "山本聖士"
 figureTopImage: "ikakore2_005.jpg"

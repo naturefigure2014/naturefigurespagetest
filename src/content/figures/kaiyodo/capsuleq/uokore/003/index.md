@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/uokore
 figureId: "003"
 species: "(3) ししゃも"
-speciesGroup: ""
+speciesGroup: "その他魚類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "uokore009.jpg"

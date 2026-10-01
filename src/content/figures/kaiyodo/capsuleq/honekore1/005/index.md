@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/honekore1
 figureId: "005"
 species: "5. 辰（たつ）リュウ（龍）"
-speciesGroup: ""
+speciesGroup: "幻獣"
 maker: "海洋堂"
 sculptor: "山本聖士"
 figureTopImage: "junishi1_010.jpg"

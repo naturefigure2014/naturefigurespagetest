@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kabukimen
 figureId: "004"
 species: "お軽（おかる）"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "kabuki005.jpg"
 coverImage: "kabuki005.jpg"

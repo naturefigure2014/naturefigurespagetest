@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kabuto
 figureId: "001"
 species: "カブトムシ"
-speciesGroup: ""
+speciesGroup: "カブトムシ・クワガタ類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 figureTopImage: "kabuto001.jpg"

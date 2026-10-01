@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH2
 figureId: "003"
 species: "カピバラ"
-speciesGroup: ""
+speciesGroup: "齧歯・兎類"
 maker: "海洋堂"
 sculptor: "菅谷 中"
 figureTopImage: "WR2_022.jpg"

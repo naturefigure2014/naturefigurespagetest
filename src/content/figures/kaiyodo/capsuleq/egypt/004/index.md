@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/egypt
 figureId: "004"
 species: "アメンヘテプ三世の座像"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "egypt008.jpg"
 coverImage: "egypt008.jpg"

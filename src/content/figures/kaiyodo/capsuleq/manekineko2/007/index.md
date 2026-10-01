@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/manekineko2
 figureId: "007"
 species: "ニホンネコ(キジトラ＆白)"
-speciesGroup: ""
+speciesGroup: "キジ・ニワトリ類"
 maker: "海洋堂"
 figureTopImage: ""
 coverImage: ""

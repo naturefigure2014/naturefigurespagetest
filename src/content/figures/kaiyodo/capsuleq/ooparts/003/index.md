@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ooparts
 figureId: "003"
 species: "アカンバロ恐竜土偶B"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "occult009.jpg"
 coverImage: "occult009.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore2
 figureId: "003"
 species: "ヒロオビトンボエダシャク"
-speciesGroup: ""
+speciesGroup: "トンボ類"
 maker: "海洋堂"
 figureTopImage: "imokore2_011.jpg"
 coverImage: "imokore2_011.jpg"

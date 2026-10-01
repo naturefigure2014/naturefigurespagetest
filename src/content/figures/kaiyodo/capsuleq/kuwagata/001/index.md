@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kuwagata
 figureId: "001"
 species: "オオクワガタ"
-speciesGroup: ""
+speciesGroup: "カブトムシ・クワガタ類"
 maker: "海洋堂"
 sculptor: "松村しのぶ/田熊勝夫"
 figureTopImage: "kuwagata005.jpg"

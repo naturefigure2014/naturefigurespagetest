@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/egypt
 figureId: "003"
 species: "ペエのホルス神像"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "egypt007.jpg"
 coverImage: "egypt007.jpg"

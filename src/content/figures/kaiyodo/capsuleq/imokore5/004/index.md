@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore5
 figureId: "004"
 species: "オオゴマダラ"
-speciesGroup: ""
+speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "imokore5_010.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ikakore_shinkai
 figureId: "004"
 species: "特別展 深海"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "ikakore_shinkai013.jpg"
 coverImage: "ikakore_shinkai013.jpg"

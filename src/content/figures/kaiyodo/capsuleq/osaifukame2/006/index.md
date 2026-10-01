@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/osaifukame2
 figureId: "006"
 species: "ミニブック"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "osaifukame2book1.jpg"
 coverImage: "osaifukame2book1.jpg"

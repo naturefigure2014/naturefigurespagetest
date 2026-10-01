@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yamoriEX
 figureId: "006"
 species: "レオパたち"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "yamoriEX027.jpg"
 coverImage: "yamoriEX027.jpg"

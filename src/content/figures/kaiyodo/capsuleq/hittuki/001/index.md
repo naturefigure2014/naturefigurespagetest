@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/hittuki
 figureId: "001"
 species: "ナミテントウ(2紋型)"
-speciesGroup: ""
+speciesGroup: "その他の甲虫類"
 maker: "海洋堂"
 figureTopImage: "hittuki017.jpg"
 coverImage: "hittuki017.jpg"

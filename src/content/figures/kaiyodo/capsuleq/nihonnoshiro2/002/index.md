@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nihonnoshiro2
 figureId: "002"
 species: "天守閣（安土城）"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 sculptor: "マツオカステン"
 figureTopImage: "nihonnoshiro2_001.jpg"

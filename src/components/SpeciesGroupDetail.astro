@@ -20,7 +20,8 @@ const figures = (await getCollection("figures")).filter(
     item.data.species &&
     groupPrefixes.some((prefix) =>
       item.data.speciesGroup === prefix ||
-      item.data.speciesGroup?.startsWith(`${prefix}/`)
+      item.data.speciesGroup?.startsWith(`${prefix}/`) ||
+      item.data.speciesGroup?.endsWith(`/${prefix}`)
     )
 );
 const imageFor = (figure: (typeof figures)[number]) =>

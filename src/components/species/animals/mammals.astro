@@ -3,14 +3,14 @@ import SpeciesSubgroupGrid from "../../SpeciesSubgroupGrid.astro";
 ---
 
 <SpeciesSubgroupGrid title="哺乳類" icon="♘" groups={[
-  { id: "primates", name: "霊長類", species: ["ニホンザル"], speciesGroups: ["霊長類"], icon: "●" },
-  { name: "食肉類", speciesGroups: ["食肉類"], icon: "♣" },
-  { name: "齧歯・兎類", species: ["トウホクノウサギ"], speciesGroups: ["齧歯・兎類"], icon: "◆" },
-  { name: "偶蹄類", speciesGroups: ["偶蹄類"], icon: "◈" },
-  { name: "奇蹄類", speciesGroups: ["奇蹄類"], icon: "◇" },
-  { name: "ゾウ類", speciesGroups: ["ゾウ類"], icon: "◉" },
-  { name: "クジラ・イルカ類", speciesGroups: ["クジラ類"], icon: "◒" },
-  { name: "コウモリ類", speciesGroups: ["コウモリ類"], icon: "▽" },
-  { name: "有袋類", speciesGroups: ["有袋類"], icon: "♧" },
-  { name: "その他", speciesGroups: ["その他哺乳類"], icon: "◌" }
+  { id: "mammals-primates", name: "霊長類", species: ["ニホンザル"], speciesGroups: ["霊長類"], icon: "●" },
+  { id: "mammals-carnivores", name: "食肉類", speciesGroups: ["食肉類"], icon: "♣" },
+  { id: "mammals-rodents-rabbits", name: "齧歯・兎類", species: ["トウホクノウサギ"], speciesGroups: ["齧歯・兎類"], icon: "◆" },
+  { id: "mammals-even-toed-ungulates", name: "偶蹄類", speciesGroups: ["偶蹄類"], icon: "◈" },
+  { id: "mammals-odd-toed-ungulates", name: "奇蹄類", speciesGroups: ["奇蹄類"], icon: "◇" },
+  { id: "mammals-elephants", name: "ゾウ類", speciesGroups: ["ゾウ類"], icon: "◉" },
+  { id: "mammals-whales-dolphins", name: "クジラ・イルカ類", speciesGroups: ["哺乳類/クジラ類"], icon: "◒" },
+  { id: "mammals-bats", name: "コウモリ類", speciesGroups: ["コウモリ類"], icon: "▽" },
+  { id: "mammals-marsupials", name: "有袋類", speciesGroups: ["有袋類"], icon: "♧" },
+  { id: "mammals-other", name: "その他", speciesGroups: ["その他哺乳類"], icon: "◌" }
 ]} />

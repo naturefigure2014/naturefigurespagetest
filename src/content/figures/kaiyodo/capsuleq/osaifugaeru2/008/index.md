@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/osaifugaeru2
 figureId: "008"
 species: "ペイントマスター（？）展示"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "blog20190728_021.jpg"
 coverImage: "blog20190728_021.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kabukimen
 figureId: "001"
 species: "忠信（ただのぶ）"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "kabuki009.jpg"
 coverImage: "kabuki009.jpg"

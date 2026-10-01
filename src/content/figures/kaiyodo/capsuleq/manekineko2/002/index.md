@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/manekineko2
 figureId: "002"
 species: "サーバル"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "manekineko2_013.jpg"
 coverImage: "manekineko2_013.jpg"

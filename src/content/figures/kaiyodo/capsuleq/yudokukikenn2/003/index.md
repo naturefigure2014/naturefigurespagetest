@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yudokukikenn2
 figureId: "003"
 species: "ファイアサラマンダー（黄）"
-speciesGroup: ""
+speciesGroup: "イモリ・サンショウウオ類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 figureTopImage: "yudoku2_004.jpg"

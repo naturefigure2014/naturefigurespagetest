@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/osaifugaeru2
 figureId: "009"
 species: "サンプル展示"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "20191201_103.jpg"
 coverImage: "20191201_103.jpg"

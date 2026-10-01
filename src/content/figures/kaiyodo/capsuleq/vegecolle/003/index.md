@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/vegecolle
 figureId: "003"
 species: "パプリカ 橙＆緑"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "vege005.jpg"

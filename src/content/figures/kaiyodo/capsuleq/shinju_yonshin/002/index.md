@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/shinju_yonshin
 figureId: "002"
 species: "朱雀"
-speciesGroup: ""
+speciesGroup: "幻獣"
 maker: "海洋堂"
 figureTopImage: "yonshin009.jpg"
 coverImage: "yonshin009.jpg"

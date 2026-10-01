@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/honekore1
 figureId: "001"
 species: "1. 子（ね）ドブネズミ"
-speciesGroup: ""
+speciesGroup: "齧歯・兎類"
 maker: "海洋堂"
 sculptor: "山本聖士"
 figureTopImage: "junishi1_013.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yotsubato2
 figureId: "002"
 species: "よつばとサバンナシマウマ"
-speciesGroup: ""
+speciesGroup: "奇蹄類"
 maker: "海洋堂"
 figureTopImage: "yotsubatoshirokuro2_005.jpg"
 coverImage: "yotsubatoshirokuro2_005.jpg"

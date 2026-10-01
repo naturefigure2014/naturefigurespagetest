@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH1
 figureId: "001"
 species: "1. ハシビロコウ"
-speciesGroup: ""
+speciesGroup: "水鳥"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "WR1_013.jpg"

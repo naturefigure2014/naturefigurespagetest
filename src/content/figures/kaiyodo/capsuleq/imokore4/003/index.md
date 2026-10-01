@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore4
 figureId: "003"
 species: "ヒメジャノメ"
-speciesGroup: ""
+speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "imokore4_006.jpg"

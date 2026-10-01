@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/ikakore2
 figureId: "001"
 species: "スジコウイカ"
-speciesGroup: ""
+speciesGroup: "イカ類"
 maker: "海洋堂"
 figureTopImage: "ikakore2_016.jpg"
 coverImage: "ikakore2_016.jpg"

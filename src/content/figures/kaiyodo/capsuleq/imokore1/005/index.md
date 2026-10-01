@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore1
 figureId: "005"
 species: "クロメンガタスズメ"
-speciesGroup: ""
+speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 figureTopImage: "imokore1_020.jpg"

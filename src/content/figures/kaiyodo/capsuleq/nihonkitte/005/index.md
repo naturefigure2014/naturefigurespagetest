@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nihonkitte
 figureId: "005"
 species: "鳥獣人物戯画"
-speciesGroup: ""
+speciesGroup: "その他鳥類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "kitte013.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/kopanda2
 figureId: "001"
 species: "すやすやセット"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "松村しのぶ（ころりんパンダ）、神尾直樹（かご）"
 figureTopImage: "kopanda2_001.jpg"

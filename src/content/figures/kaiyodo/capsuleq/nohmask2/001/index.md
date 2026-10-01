@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nohmask2
 figureId: "001"
 species: "黒色尉【こくしきじょう】"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "nohmask2_001.jpg"
 coverImage: "nohmask2_001.jpg"

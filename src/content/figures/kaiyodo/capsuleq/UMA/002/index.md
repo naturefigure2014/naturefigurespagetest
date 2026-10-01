@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/UMA
 figureId: "002"
 species: "2. ネッシー"
-speciesGroup: ""
+speciesGroup: "UMA"
 maker: "海洋堂"
 sculptor: "山本聖士"
 figureTopImage: "uma005.jpg"

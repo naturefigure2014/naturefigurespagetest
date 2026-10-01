@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/egypt
 figureId: "005"
 species: "カノポス壺（ドゥアムトエフ）"
-speciesGroup: ""
+speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "egypt021.jpg"
 coverImage: "egypt021.jpg"

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/UMA
 figureId: "004"
 species: "4. ツチノコ"
-speciesGroup: ""
+speciesGroup: "UMA"
 maker: "海洋堂"
 sculptor: "菅谷 中"
 figureTopImage: "uma007.jpg"

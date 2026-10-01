@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/honekore1
 figureId: "003"
 species: "3. 寅（とら）トラ"
-speciesGroup: ""
+speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "木下隆志"
 figureTopImage: "junishi1_004.jpg"

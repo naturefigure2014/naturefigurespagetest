@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/honekore1
 figureId: "002"
 species: "2. 丑（うし）ウシ"
-speciesGroup: ""
+speciesGroup: "偶蹄類"
 maker: "海洋堂"
 sculptor: "木下隆志"
 figureTopImage: "junishi1_016.jpg"
