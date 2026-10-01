@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム エジプトの秘宝1"
+title: "エジプトの秘宝1"
 description: ""
 contentType: title
 kind: series
@@ -20,7 +20,7 @@ figureIds:
 releaseStart: "2015.11"
 price: "400円"
 coverImage: "img/egypt023.jpg"
-collectionImage: "img/egypt018.jpg"
+collectionImage: "img/egypt023.jpg"
 resources:
   guide:
     image: "img/egyptbook.jpg"
