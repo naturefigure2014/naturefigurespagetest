@@ -1,10 +1,10 @@
 ---
-title: "1. 午（うま）ウマ"
+title: "午（うま）ウマ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/honekore2
 figureId: "001"
-species: "1. 午（うま）ウマ"
+species: "ウマ"
 speciesGroup: "奇蹄類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"

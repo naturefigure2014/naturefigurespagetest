@@ -1,10 +1,10 @@
 ---
-title: "1. 子（ね）ドブネズミ"
+title: "子（ね）ドブネズミ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/honekore1
 figureId: "001"
-species: "1. 子（ね）ドブネズミ"
+species: "ドブネズミ"
 speciesGroup: "齧歯・兎類"
 maker: "海洋堂"
 sculptor: "山本聖士"

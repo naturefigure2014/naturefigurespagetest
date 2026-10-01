@@ -1,10 +1,10 @@
 ---
-title: "3. アジアゾウ"
+title: "アジアゾウ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH4
 figureId: "003"
-species: "3. アジアゾウ"
+species: "アジアゾウ"
 speciesGroup: "ゾウ類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"

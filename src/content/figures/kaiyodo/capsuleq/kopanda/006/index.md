@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/kopanda
 figureId: "006"
-species: "ころりん"
+species: "ジャイアントパンダ"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "panda004.jpg"

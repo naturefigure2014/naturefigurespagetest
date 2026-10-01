@@ -45,6 +45,24 @@ const makerBadgeClass = (maker?: string) => {
     default: return "maker-default";
   }
 };
+const figureMetadata = (figure: (typeof allFigures)[number]) => {
+  const title = titleForFigure(figure);
+  const seriesName = title?.data.seriesName;
+  const firstSeriesName = Array.isArray(seriesName) ? seriesName[0] : seriesName;
+  const maker = title?.data.maker ?? figure.data.maker;
+  const releaseYear =
+    figure.data.releaseDate?.getFullYear().toString() ??
+    title?.data.releaseStart?.match(/^\d{4}/)?.[0] ??
+    "-";
+
+  return {
+    seriesName: firstSeriesName || "-",
+    sculptor: figure.data.sculptor || "-",
+    maker: maker || "-",
+    makerClass: makerBadgeClass(maker),
+    releaseYear
+  };
+};
 
 export async function getStaticPaths() {
   const allEntries = await getCollection("figures");
@@ -79,19 +97,25 @@ export async function getStaticPaths() {
       <h2>{speciesName}のフィギュア</h2>
       <p class="species-detail-count">{figures.length}種類のフィギュア</p>
       <div class="species-detail-grid">
-        {figures.map((figure) => (
-          <a class="species-detail-card" href={figureHref(figure)}>
-            <img src={imageFor(figure)} alt="" loading="lazy" />
-            <div>
-              <strong>{figure.data.title}</strong>
-              {titleForFigure(figure) && <small>{titleForFigure(figure)?.data.title}</small>}
-              <span class:list={["species-detail-maker", makerBadgeClass(titleForFigure(figure)?.data.maker ?? figure.data.maker)]}>
-                {titleForFigure(figure)?.data.maker ?? figure.data.maker ?? "メーカー"}
-              </span>
-              <b aria-hidden="true">›</b>
-            </div>
-          </a>
-        ))}
+        {figures.map((figure: (typeof allFigures)[number]) => {
+          const metadata = figureMetadata(figure);
+
+          return (
+            <a class="species-detail-card" href={figureHref(figure)}>
+              <img src={imageFor(figure)} alt="" loading="lazy" />
+              <div>
+                <strong>{figure.data.title}</strong>
+                <small>{metadata.seriesName}</small>
+                <small class="species-detail-sculptor">{metadata.sculptor}</small>
+                <div class="species-detail-meta">
+                  <span class:list={["species-detail-maker", metadata.makerClass]}>{metadata.maker}</span>
+                  <small class="species-detail-year">{metadata.releaseYear}</small>
+                </div>
+                <b aria-hidden="true">›</b>
+              </div>
+            </a>
+          );
+        })}
       </div>
     </section>
   </div>

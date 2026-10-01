@@ -1,10 +1,10 @@
 ---
-title: "2. コツメカワウソ"
+title: "コツメカワウソ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH4
 figureId: "002"
-species: "2. コツメカワウソ"
+species: "コツメカワウソ"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "菅谷 中"

@@ -1,10 +1,10 @@
 ---
-title: "4. オランウータン"
+title: "オランウータン"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH4
 figureId: "004"
-species: "4. オランウータン"
+species: "オランウータン"
 speciesGroup: "霊長類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

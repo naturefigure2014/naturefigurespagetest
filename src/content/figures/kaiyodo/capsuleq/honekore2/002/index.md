@@ -1,10 +1,10 @@
 ---
-title: "2. 未（ひつじ）ヒツジ"
+title: "未（ひつじ）ヒツジ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/honekore2
 figureId: "002"
-species: "2. 未（ひつじ）ヒツジ"
+species: "ヒツジ"
 speciesGroup: "偶蹄類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"

@@ -1,10 +1,10 @@
 ---
-title: "3. 寅（とら）トラ"
+title: "寅（とら）トラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/honekore1
 figureId: "003"
-species: "3. 寅（とら）トラ"
+species: "トラ"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "木下隆志"

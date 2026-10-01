@@ -1,10 +1,10 @@
 ---
-title: "6. 亥（い）イノシシ"
+title: "亥（い）イノシシ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/honekore2
 figureId: "006"
-species: "6. 亥（い）イノシシ"
+species: "イノシシ"
 speciesGroup: "偶蹄類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"

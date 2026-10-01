@@ -1,10 +1,10 @@
 ---
-title: "5. 辰（たつ）リュウ（龍）"
+title: "辰（たつ）リュウ（龍）"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/honekore1
 figureId: "005"
-species: "5. 辰（たつ）リュウ（龍）"
+species: "龍"
 speciesGroup: "幻獣"
 maker: "海洋堂"
 sculptor: "山本聖士"

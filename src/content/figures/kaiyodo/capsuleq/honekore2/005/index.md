@@ -1,10 +1,10 @@
 ---
-title: "5. 戌（いぬ）イヌ"
+title: "戌（いぬ）イヌ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/honekore2
 figureId: "005"
-species: "5. 戌（いぬ）イヌ"
+species: "イヌ"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"

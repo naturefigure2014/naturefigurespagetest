@@ -1,10 +1,10 @@
 ---
-title: "4. 卯（う）ノウサギ"
+title: "卯（う）ノウサギ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/honekore1
 figureId: "004"
-species: "4. 卯（う）ノウサギ"
+species: "ノウサギ"
 speciesGroup: "齧歯・兎類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"

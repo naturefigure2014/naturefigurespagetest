@@ -1,11 +1,11 @@
 ---
-title: "5. コモドドラゴン"
+title: "コモドドラゴン"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH4
 figureId: "005"
-species: "5. コモドドラゴン"
-speciesGroup: "幻獣"
+species: "コモドドラゴン"
+speciesGroup: "トカゲ類"
 maker: "海洋堂"
 sculptor: "菅谷 中"
 figureTopImage: "WR4_009.jpg"

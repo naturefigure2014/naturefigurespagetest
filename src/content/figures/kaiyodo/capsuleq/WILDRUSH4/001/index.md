@@ -1,10 +1,10 @@
 ---
-title: "1. ベンガルトラ"
+title: "ベンガルトラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH4
 figureId: "001"
-species: "1. ベンガルトラ"
+species: "ベンガルトラ"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

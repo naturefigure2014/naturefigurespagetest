@@ -1,10 +1,10 @@
 ---
-title: "2. 丑（うし）ウシ"
+title: "丑（うし）ウシ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/honekore1
 figureId: "002"
-species: "2. 丑（うし）ウシ"
+species: "ウシ"
 speciesGroup: "偶蹄類"
 maker: "海洋堂"
 sculptor: "木下隆志"

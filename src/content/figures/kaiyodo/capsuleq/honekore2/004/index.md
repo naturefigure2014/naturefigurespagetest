@@ -1,10 +1,10 @@
 ---
-title: "4. 酉（とり）ニワトリ"
+title: "酉（とり）ニワトリ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/honekore2
 figureId: "004"
-species: "4. 酉（とり）ニワトリ"
+species: "ニワトリ"
 speciesGroup: "キジ・ニワトリ類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"

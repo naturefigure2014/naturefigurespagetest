@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/kopanda2
 figureId: "005"
-species: "ミニブック"
+species: "ジャイアントパンダ"
 speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "kopanda2book.jpg"
