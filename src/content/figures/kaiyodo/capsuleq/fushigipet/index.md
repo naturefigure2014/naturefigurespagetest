@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム ふしぎペットコレクション"
+title: "ふしぎペットコレクション"
 description: ""
 contentType: title
 kind: series
