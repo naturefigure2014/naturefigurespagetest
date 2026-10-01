@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/fushigipet
 figureId: "005"
 species: "フクロモモンガ"
-speciesGroup: ""
+speciesGroup: "有袋類"
 maker: "海洋堂"
 figureTopImage: "fushigipet011.jpg"
 coverImage: "fushigipet011.jpg"
