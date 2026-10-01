@@ -21,6 +21,7 @@ const allFigures = allEntries.filter(
 const speciesName = Astro.params.species ?? "";
 const figures = allFigures.filter((figure) => figure.data.species === speciesName);
 const speciesGroup = figures[0]?.data.speciesGroup ?? "分類未設定";
+const speciesGroupBreadcrumb = speciesGroup.split("/").filter(Boolean).join(" › ");
 const imageFor = (figure: (typeof allFigures)[number]) =>
   resolveFigureImage(
     figure.id,
@@ -84,7 +85,7 @@ export async function getStaticPaths() {
     <div class="breadcrumb">
       <a href={siteUrl("/")}>ホーム</a><span>›</span>
       <a href={siteUrl("/species/")}>生きものから探す</a><span>›</span>
-      <a href={siteUrl("/species/mammals-primates/")}>霊長類</a><span>›</span>
+      <span>{speciesGroupBreadcrumb}</span><span>›</span>
       {speciesName}
     </div>
 
