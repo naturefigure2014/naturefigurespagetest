@@ -256,19 +256,12 @@ h2 { margin-top: 2.5rem; }
   display: grid;
   gap: 20px;
   align-items: start;
-}
-/* PC: 画像1枚は画像1/3・説明2/3 */
-.topic-body.has-images.single-image {
-  grid-template-columns: minmax(0, 33.3333%) minmax(0, calc(66.6667% - 20px));
-}
-/* PC: 画像2枚以上は画像2/3・説明1/3 */
-.topic-body.has-images.multiple-images {
-  grid-template-columns: minmax(0, 66.6667%) minmax(0, calc(33.3333% - 20px));
+  grid-template-columns: minmax(0, 1fr);
 }
 .topic-images { display: grid; gap: 5px; min-width: 0; }
 .topic-images.single { grid-template-columns: minmax(0, 1fr); }
 .topic-images.two { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-.topic-images.three-or-more { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.topic-images.three-or-more { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .topic-image-link { display: block; min-width: 0; cursor: zoom-in; }
 .topic-images img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block; border-radius: 3px; transition: opacity .15s ease, transform .15s ease; }
 .topic-image-link:hover img { opacity: .9; }
@@ -554,22 +547,12 @@ body.lightbox-open { overflow: hidden; }
   .figure-heading { margin-bottom: 5px; }
   .topic-card + .topic-card, .review-card, .review-card + .topic-card { margin-top: 4px; }
   .related-card, .work-callout { margin-top: 4px; }
-  .topic-body.has-images.multiple-images { grid-template-columns: 1fr; }
-  .topic-body.has-images.single-image { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .topic-images,
-  .topic-images.two,
-  .topic-images.three-or-more { width: 100%; grid-column: 1 / -1; grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .topic-body.single-image .topic-images { grid-column: auto; grid-template-columns: 1fr; }
-  .topic-body.single-image .topic-comment { grid-column: auto; }
-  .topic-body.multiple-images .topic-comment { grid-column: 1 / -1; }
   .basic-top { grid-template-columns: 100px minmax(0,1fr); }
   .figure-cover { width: 100px; height: auto; aspect-ratio: 4 / 3; }
 }
 @media (max-width: 520px) {
   .site-header { min-height: 56px; }
   .logo-subtitle { font-size: .48rem; }
-  .topic-images { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 5px; }
-  .topic-body.single-image .topic-images { grid-template-columns: 1fr; }
   .info-list { grid-template-columns: max-content 1fr; gap: 3px 8px; }
   .basic-top { grid-template-columns: 90px minmax(0,1fr); gap: 11px; }
   .figure-cover { width: 90px; height: auto; aspect-ratio: 4 / 3; }
