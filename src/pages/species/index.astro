@@ -128,8 +128,6 @@ const belongsToGroup = (figure: Figure, group: Group) => {
 };
 
 const groupFigures = (group: Group) => figures.filter((figure) => belongsToGroup(figure, group));
-const groupCount = (group: Group) =>
-  new Set(groupFigures(group).map((figure) => figure.data.species)).size;
 
 const groupImage = (group: Group) => {
   const figure = groupFigures(group)[0] ?? figureForSpecies(group.species);
@@ -179,7 +177,6 @@ const groupImage = (group: Group) => {
           <div class="species-group-grid">
             {category.groups.map((group) => {
               const image = groupImage(group);
-              const count = groupCount(group);
               return (
                 <a
                   class="species-group-card"
@@ -189,9 +186,8 @@ const groupImage = (group: Group) => {
                   {image ? <img src={image} alt="" loading="lazy" /> : <span class="species-group-placeholder">{group.name.slice(0, 1)}</span>}
                   <span class="species-group-content">
                     <strong>{group.name}</strong>
-                    <small>{count}種類</small>
+                    <span class="species-group-arrow" aria-hidden="true">›</span>
                   </span>
-                  <span class="species-group-arrow" aria-hidden="true">›</span>
                 </a>
               );
             })}

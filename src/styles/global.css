@@ -155,15 +155,14 @@ h2 { margin-top: 2.5rem; }
 .species-see-all { position: absolute; bottom: 0; right: 0; color: #287d68; font-size: .63rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
 .species-see-all span { margin-left: 4px; font-size: .9rem; }
 .species-group-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 9px; align-content: start; }
-.species-group-card { position: relative; display: grid; grid-template-columns: 58px minmax(0, 1fr) 10px; min-height: 59px; align-items: center; overflow: hidden; border: 1px solid #dceae5; border-radius: 7px; background: #fff; color: #2c6656; text-decoration: none; transition: transform .15s ease, box-shadow .15s ease; }
+.species-group-card { display: flex; flex-direction: column; overflow: hidden; border: 1px solid #dceae5; border-radius: 7px; background: #fff; color: #2c6656; text-decoration: none; transition: transform .15s ease, box-shadow .15s ease; }
 .species-group-card:hover { transform: translateY(-2px); box-shadow: 0 5px 14px rgba(32, 106, 79, .12); }
 .species-group-card[hidden] { display: none; }
-.species-group-card img, .species-group-placeholder { width: 58px; height: 40px; object-fit: contain; background: #f7fbf9; }
-.species-group-placeholder { display: grid; place-items: center; color: #9ab9ad; font-size: 1.15rem; }
-.species-group-content { min-width: 0; padding: 5px 3px 4px 8px; }
-.species-group-content strong { display: block; overflow: hidden; color: #236653; font-size: .68rem; line-height: 1.3; text-overflow: ellipsis; white-space: nowrap; }
-.species-group-content small { display: block; margin-top: 2px; color: #79a99c; font-size: .57rem; }
-.species-group-arrow { color: #428a75; font-size: 1.1rem; }
+.species-group-card img, .species-group-placeholder { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: #f7fbf9; }
+.species-group-placeholder { display: grid; place-items: center; color: #9ab9ad; font-size: 1.5rem; }
+.species-group-content { display: flex; align-items: center; gap: 4px; min-width: 0; padding: 8px 6px 9px; text-align: left; }
+.species-group-content strong { flex: 1; min-width: 0; overflow: hidden; color: #236653; font-size: .9rem; line-height: 1.3; text-overflow: ellipsis; white-space: nowrap; }
+.species-group-arrow { flex: 0 0 auto; color: #428a75; font-size: 1.1rem; line-height: 1; }
 
 /* SPECIES / MAMMALS */
 .mammals-page { max-width: 1120px; margin: 0 auto; }
@@ -675,9 +674,9 @@ body.lightbox-open { overflow: hidden; }
   .species-search input { font-size: .68rem; }
   .species-search button { min-width: 58px; padding-left: 10px; padding-right: 10px; }
   .species-category { padding: 11px; }
-  .species-group-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 7px; }
-  .species-group-card { grid-template-columns: 52px minmax(0, 1fr) 8px; min-height: 55px; }
-  .species-group-card img, .species-group-placeholder { width: 52px; height: 38px; }
+  .species-group-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 7px; }
+  .species-group-content { padding: 7px 4px; }
+  .species-group-content strong { font-size: .78rem; }
   .mammals-hero { min-height: 145px; }
   .mammals-hero-art { right: 0; font-size: 9rem; }
   .mammal-group-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px 8px; }
