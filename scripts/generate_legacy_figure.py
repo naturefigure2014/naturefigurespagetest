@@ -372,6 +372,7 @@ def write_title_page(
         f"title: {quoted(title)}",
         'description: ""',
         "contentType: title",
+        f"titleId: {title_id}",
         "kind: series",
         f"maker: {quoted(maker or '-')}",
         "figureIds:",
@@ -458,12 +459,14 @@ def write_single_figure_page(
     cover: str,
     main: Node,
 ):
+    title_id = figure_content_id(folder)
     lines = [
         "---",
         f"title: {quoted(title)}",
         'description: ""',
         "contentType: figure",
         "kind: singleLineup",
+        f"titleId: {title_id}",
         f"maker: {quoted(maker or '-')}",
     ]
     append_metadata(lines, metadata, (

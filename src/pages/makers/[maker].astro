@@ -104,23 +104,37 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
       <section class="maker-detail-section">
         <div class="maker-detail-section-heading"><span></span><h2>シリーズから探す</h2></div>
         {entry.data.seriesDescription && <p class="maker-detail-section-description">{entry.data.seriesDescription}</p>}
-        <h3 class="maker-detail-subheading">★ ピックアップ</h3>
-        <div class="maker-detail-card-grid maker-detail-card-grid--five">
-          {entry.data.pickups.map((card) => (
-            <a class="maker-detail-card" href={linkFor(card.href)}>
-              {imageFor(card.sourceId, card.image) ? <img src={imageFor(card.sourceId, card.image)} alt="" /> : <span class="maker-detail-card-placeholder">{card.name.slice(0, 1)}</span>}
-              <strong>{card.name}</strong>
-            </a>
-          ))}
+        <div class="maker-detail-series-list">
+          {entry.data.seriesSections.map((section) => {
+            const titles = titlesForSeries(section);
+            return (
+              <section class="maker-detail-series">
+                <header><div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div><a href={siteUrl(section.name === "カプセルQミュージアム" ? "/makers/kaiyodo/capsuleq/" : `/titles/?series=${encodeURIComponent(section.name)}`)}>▶すべてのタイトルを見る</a></header>
+                <div class="maker-detail-title-grid">
+                  {section.cards.map((card) => (
+                    <a class="maker-detail-card" href={linkFor(card.href)}>
+                      {imageFor(card.sourceId, card.image) ? <img src={imageFor(card.sourceId, card.image)} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
+                      <strong>{card.name}</strong>
+                    </a>
+                  ))}
+                  {titles.map((title) => {
+                    const image = resolveFigureImage(title.id, title.data.coverImage);
+                    return <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}><>{image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}<strong>{title.data.title}</strong></></a>;
+                  })}
+                </div>
+              </section>
+            );
+          })}
         </div>
       </section>
 
-      <section class="maker-detail-series-list">
-        {entry.data.seriesSections.map((section) => {
-          const titles = titlesForSeries(section);
-          return (
+      <section class="maker-detail-section">
+        <div class="maker-detail-section-heading"><span></span><h2>テーマから探す</h2></div>
+        {entry.data.freeThemesDescription && <p class="maker-detail-section-description">{entry.data.freeThemesDescription}</p>}
+        <div class="maker-detail-series-list">
+          {entry.data.freeThemesSections.map((section) => (
             <section class="maker-detail-series">
-              <header><div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div><a href={siteUrl(section.name === "カプセルQミュージアム" ? "/makers/kaiyodo/capsuleq/" : `/titles/?series=${encodeURIComponent(section.name)}`)}>▶すべてのタイトルを見る</a></header>
+              <header><div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div></header>
               <div class="maker-detail-title-grid">
                 {section.cards.map((card) => (
                   <a class="maker-detail-card" href={linkFor(card.href)}>
@@ -128,14 +142,10 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
                     <strong>{card.name}</strong>
                   </a>
                 ))}
-                {titles.map((title) => {
-                  const image = resolveFigureImage(title.id, title.data.coverImage);
-                  return <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}><>{image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}<strong>{title.data.title}</strong></></a>;
-                })}
               </div>
             </section>
-          );
-        })}
+          ))}
+        </div>
       </section>
     </div>
   </div>

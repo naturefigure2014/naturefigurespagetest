@@ -3,7 +3,6 @@ maker: 海洋堂
 english: KAIYODO
 heroImage: "img/kaiyodo_hero.png"
 genreDescription: さまざまなシリーズでリリースされた海洋堂製のフィギュアを、ジャンルごとに分けて紹介します。
-seriesDescription: 海洋堂のフィギュアを、シリーズごとに紹介します。
 genres:
   - name: 水棲生物
     href: "/makers/kaiyodo/genre/aquatic/"
@@ -17,27 +16,7 @@ genres:
   - name: 文化・歴史
     href: "/makers/kaiyodo/genre/culture/"
     image: "img/culture.png"
-pickups:
-  - name: カプセルQミュージアム
-    href: "/makers/kaiyodo/capsuleq/"
-    sourceId: kaiyodo/capsuleq/nihon-no-doubutsu-1
-    image: coverImage
-  - name: アクアランド
-    href: "#"
-    sourceId: kaiyodo/aqualand
-    image: coverImage
-  - name: アニマテイルズ
-    href: "#"
-    sourceId: kaiyodo/capsuleq/nihon-no-doubutsu-1
-    image: coverImage
-  - name: ダイノテイルズ
-    href: "#"
-    sourceId: kaiyodo/dinoland
-    image: coverImage
-  - name: ソフビトイボックス
-    href: "#"
-    sourceId: kaiyodo/SofubiToyBox/001Gorilla
-    image: coverImage
+seriesDescription: 海洋堂のフィギュアを、シリーズごとに紹介します。
 seriesSections:
   - name: カプセルQミュージアム
     format: ガチャ
@@ -59,14 +38,6 @@ seriesSections:
       - name: アニマテイルズ 深海の生き物
         href: "#"
         sourceId: kaiyodo/aqualand
-        image: coverImage
-      - name: アニマテイルズ 恐竜
-        href: "#"
-        sourceId: kaiyodo/dinoland
-        image: coverImage
-      - name: アニマテイルズ 特別版
-        href: "#"
-        sourceId: kaiyodo/dinoland
         image: coverImage
   - name: アクアテイルズ・水棲生物ミニチュア
     format: ガチャ
@@ -114,4 +85,25 @@ seriesSections:
     format: オリジナル
   - name: ご当地カプセルフィギュア
     format: ガチャ
+freeThemesDescription: ジャンルやシリーズにとらわれないテーマから、海洋堂のフィギュアを紹介します。
+freeThemesSections:
+  - name: 恐竜博限定フィギュア
+    format: ガチャ
+    cards:
+      - name: 「驚異の大恐竜博」(2004)
+        href: "/figures/kaiyodo/kyoryuhaku2004/"
+        sourceId: kaiyodo/kyoryuhaku2004
+        image: coverImage
+      - name: 世界の巨大恐竜博2006
+        href: "/figures/kaiyodo/kyoryuhaku2006/"
+        sourceId: kaiyodo/kyoryuhaku2006
+        image: coverImage
+      - name: アニマテイルズ 水辺の生き物
+        href: "#"
+        sourceId: kaiyodo/aqualand
+        image: coverImage
+      - name: アニマテイルズ 深海の生き物
+        href: "#"
+        sourceId: kaiyodo/aqualand
+        image: coverImage
 ---

@@ -114,11 +114,16 @@ const makers = defineCollection({
       sourceId: z.string().optional(),
       image: z.union([z.string(), z.number()]).optional()
     })).default([]),
-    pickups: z.array(z.object({
+    freeThemesDescription: z.string().optional(),
+    freeThemesSections: z.array(z.object({
       name: z.string(),
-      href: z.string().default("#"),
-      sourceId: z.string().optional(),
-      image: z.union([z.string(), z.number()]).optional()
+      format: z.string().optional(),
+      cards: z.array(z.object({
+        name: z.string(),
+        href: z.string().default("#"),
+        sourceId: z.string().optional(),
+        image: z.union([z.string(), z.number()]).optional()
+      })).default([])
     })).default([]),
     seriesSections: z.array(z.object({
       name: z.string(),

@@ -3,6 +3,7 @@ title: "世界の巨大恐竜博2006 世界最大級の竜脚類“スーパー�
 description: ""
 contentType: figure
 kind: singleLineup
+titleId: kaiyodo/kyoryuhaku2006
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "松村しのぶ"
@@ -17,7 +18,7 @@ genre:
 tags:
   - "-"
 figureTopImage: "img/kyoryuhaku2006_006.jpg"
-coverImage: "img/kyoryuhaku2006_006.jpg"
+coverImage: "img/kyoryuhaku2006.png"
 topics:
   - title: "全体"
     images:
@@ -26,9 +27,12 @@ topics:
       - "img/kyoryuhaku2006_004.jpg"
       - "img/kyoryuhaku2006_002.jpg"
       - "img/kyoryuhaku2006_005.jpg"
-      - "img/kyoryuhaku2006_hako.jpg"
     comment: |
       推定全長33メートルの巨体を150ミリで表現。ポーズは恐竜博2002のセイスモサウルスに似ています。骨格フィギュアにクリア素材を用いる手法は福井県立博物館オフィシャルモデルにも使われます。
+  - title: "パッケージ"
+    images:
+      - "img/kyoryuhaku2006_hako.jpg"
+    comment: |
 ---
 
 販売時期：2006年7月15日～9月10日　価格：1000円<br />
