@@ -1,0 +1,17 @@
+---
+import SpeciesGroupDetail from "../SpeciesGroupDetail.astro";
+
+interface Props {
+  title: string;
+  group: string;
+}
+
+const { title, group } = Astro.props;
+---
+
+<SpeciesGroupDetail
+  title={title}
+  group={group}
+  icon="◉"
+  description={`${title}のフィギュアを、生き物の種類から探せます。`}
+/>

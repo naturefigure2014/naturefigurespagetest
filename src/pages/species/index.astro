@@ -69,12 +69,12 @@ const categories: Category[] = [
     description: "恐竜以外の絶滅した生き物を探すことができます。",
     icon: "◉",
     groups: [
-      { name: "古代の哺乳類", species: [] },
-      { name: "古代の魚類", species: [] },
-      { name: "古代の両生類", species: [] },
-      { name: "古代の爬虫類", species: [] },
-      { name: "古代の節足動物", species: [] },
-      { name: "その他", species: [] }
+      { id: "paleontology-ancient-mammals", name: "古代の哺乳類", species: [] },
+      { id: "paleontology-ancient-fish", name: "古代の魚類", species: [] },
+      { id: "paleontology-ancient-amphibians", name: "古代の両生類", species: [] },
+      { id: "paleontology-ancient-reptiles", name: "古代の爬虫類", species: [] },
+      { id: "paleontology-ancient-arthropods", name: "古代の節足動物", species: [] },
+      { id: "paleontology-other", name: "その他", species: [] }
     ]
   },
   {
@@ -113,7 +113,13 @@ const categoryPrefixes: Record<string, string[]> = {
   pachycephalosaurs: ["古生物/堅頭竜類"],
   pterosaurs: ["古生物/翼竜"],
   "marine-reptiles": ["古生物/海生爬虫類"],
-  "other-dinosaurs": ["古生物/その他"]
+  "other-dinosaurs": ["古生物/その他"],
+  "paleontology-ancient-mammals": ["古生物/古代の哺乳類", "古代の哺乳類"],
+  "paleontology-ancient-fish": ["古生物/古代の魚類"],
+  "paleontology-ancient-amphibians": ["古生物/古代の両生類"],
+  "paleontology-ancient-reptiles": ["古生物/古代の爬虫類"],
+  "paleontology-ancient-arthropods": ["古生物/古代の節足動物", "古代の節足動物"],
+  "paleontology-other": ["古生物/未分類"]
 };
 
 const belongsToGroup = (figure: Figure, group: Group) => {

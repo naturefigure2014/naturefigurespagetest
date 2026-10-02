@@ -62,14 +62,16 @@ const heroImage = page.data.heroImage
         {page.data.pageTitle}
       </div>
 
-      <section class="maker-detail-hero">
-        <div>
-          <p class="eyebrow">{page.data.pageEnglish ?? page.data.english ?? "GENRE"}</p>
-          <h1>{page.data.pageTitle}</h1>
-          {page.data.pageDescription && <p>{page.data.pageDescription}</p>}
-        </div>
-        {heroImage && <img src={heroImage} alt="" />}
-      </section>
+      <div class="maker-detail-hero-wrap">
+        <section class="maker-detail-hero">
+          <div>
+            <p class="eyebrow">{page.data.pageEnglish ?? page.data.english ?? "GENRE"}</p>
+            <h1>{page.data.pageTitle}</h1>
+            {page.data.pageDescription && <p>{page.data.pageDescription}</p>}
+          </div>
+          {heroImage && <img src={heroImage} alt="" />}
+        </section>
+      </div>
 
       <section class="maker-detail-section">
         <div class="maker-detail-section-heading">

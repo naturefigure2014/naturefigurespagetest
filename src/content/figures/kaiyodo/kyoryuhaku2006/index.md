@@ -13,6 +13,7 @@ price: "1000円"
 salesPeriod: "2006.07.15-2006.09.10"
 genre:
   - paleontology
+  - dinosaur_exhibition
 tags:
   - "-"
 figureTopImage: "img/kyoryuhaku2006_006.jpg"
