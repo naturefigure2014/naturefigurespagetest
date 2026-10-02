@@ -172,7 +172,7 @@ def extract_resources(main: Node) -> dict[str, dict[str, str]]:
 
 def release_start(text: str) -> str | None:
     match = re.search(
-        r"(?:販売開始時期|発売開始|販売開始)\s*[：:：]?\s*"
+        r"(?:販売開始時期|発売開始時期|発売開始|販売開始)\s*[：:：]?\s*"
         r"((?:19|20)\d{2})(?:年|[./-])\s*(\d{1,2})(?:月|[./-])?",
         text,
     )
@@ -181,11 +181,100 @@ def release_start(text: str) -> str | None:
     return f"{match.group(1)}.{int(match.group(2)):02d}"
 
 
+def sales_period(text: str) -> str | None:
+    date = r"((?:19|20)\d{2})(?:年|[./-])\s*(\d{1,2})(?:月|[./-])\s*(\d{1,2})日?"
+    match = re.search(
+        rf"(?:販売時期|発売時期|販売期間|発売期間)\s*[：:：]?\s*"
+        rf"{date}\s*(?:～|〜|~|–|—|－|-|から)\s*{date}",
+        text,
+    )
+    if not match:
+        return None
+    start_year, start_month, start_day, end_year, end_month, end_day = match.groups()
+    return (
+        f"{start_year}.{int(start_month):02d}.{int(start_day):02d}-"
+        f"{end_year}.{int(end_month):02d}.{int(end_day):02d}"
+    )
+
+
 def extract_price(text: str) -> str | None:
     match = re.search(r"価格\s*[：:：]?\s*([^\s　]+)", text)
     if not match:
         return None
     return match.group(1)
+
+
+METADATA_LABELS = {
+    "maker": ("販売元", "発売元", "メーカー", "製造元"),
+    "sculptor": ("原型制作", "原形制作", "原型製作", "原形製作"),
+    "executiveProducer": ("製作総指揮", "総指揮"),
+    "seriesName": ("シリーズ名", "シリーズ"),
+    "species": ("種名", "生物名", "和名", "種類"),
+    "speciesGroup": ("種群", "種グループ", "分類"),
+    "scientificName": ("学名",),
+    "releaseDate": ("発売日", "販売日"),
+    "size": ("サイズ", "全高", "全長"),
+    "price": ("価格",),
+    "genre": ("ジャンル",),
+    "tags": ("タグ", "タグ情報"),
+}
+
+
+def metadata_text(nodes: list[Node]) -> str:
+    value = "\n".join(node.inner_html() for node in nodes)
+    value = re.sub(r"<br\s*/?>", "\n", value, flags=re.IGNORECASE)
+    value = re.sub(r"<[^>]+>", " ", value)
+    return html.unescape(value)
+
+
+def extract_metadata(text: str) -> dict[str, str]:
+    labels = sorted({label for values in METADATA_LABELS.values() for label in values}, key=len, reverse=True)
+    label_pattern = "|".join(re.escape(label) for label in labels)
+    metadata = {}
+    for field, field_labels in METADATA_LABELS.items():
+        names = "|".join(re.escape(label) for label in sorted(field_labels, key=len, reverse=True))
+        match = re.search(
+            rf"(?:^|[\s　])(?:{names})\s*[：:]\s*(.*?)(?=(?:[\s　]+(?:{label_pattern})\s*[：:]|[\r\n]|$))",
+            text,
+        )
+        if match:
+            value = normalize_text(match.group(1)).strip(" ,、")
+            if value:
+                if field == "releaseDate":
+                    date_match = re.search(r"((?:19|20)\d{2})年\s*(\d{1,2})月\s*(\d{1,2})日", value)
+                    if date_match:
+                        metadata[field] = f"{date_match.group(1)}-{int(date_match.group(2)):02d}-{int(date_match.group(3)):02d}"
+                else:
+                    metadata[field] = value
+    return metadata
+
+
+def yaml_field(name: str, value: str) -> str:
+    return f"{name}: {quoted(value)}"
+
+
+def append_metadata(lines: list[str], metadata: dict[str, str], fields: tuple[str, ...]):
+    for field in fields:
+        if field == "salesPeriod" and not metadata.get(field):
+            continue
+        if field in {"genre", "tags"}:
+            lines.append(f"{field}:")
+            value = metadata.get(field, "")
+            parts = [part.strip() for part in re.split(r"[,、/]", value) if part.strip()]
+            lines.extend(
+                f"  - {quoted(part)}"
+                for part in (parts or ["-"])
+            )
+        else:
+            lines.append(yaml_field(field, metadata.get(field) or "-"))
+
+
+def figure_content_id(folder: Path) -> str:
+    content_root = Path(__file__).resolve().parents[1] / "src" / "content" / "figures"
+    try:
+        return folder.resolve().relative_to(content_root.resolve()).as_posix()
+    except ValueError as error:
+        raise ValueError(f"Output folder must be inside {content_root}: {folder}") from error
 
 
 def commented_heading_text(raw_html: str) -> str | None:
@@ -257,11 +346,12 @@ def yaml_topics(topics: list[dict]) -> list[str]:
         return ["topics: []"]
     lines = ["topics:"]
     for topic in topics:
-        lines.extend(["  - title: \"\"", "    images:"])
+        lines.extend([f"  - title: {quoted(topic.get('title', ''))}", "    images:"])
         for image in topic["images"]:
             lines.append(f"      - {quoted(image)}")
-        lines.append("    comment: |")
-        lines.append(f"      {topic['comment']}" if topic["comment"] else "      ")
+        if topic.get("comment"):
+            lines.append("    comment: |")
+            lines.extend(f"      {line}" for line in topic["comment"].splitlines())
     return lines
 
 
@@ -273,31 +363,25 @@ def write_title_page(
     items: list[dict],
     cover: str,
     collection: str,
-    release: str | None,
-    price: str | None,
+    metadata: dict[str, str],
     resources: dict[str, dict[str, str]],
 ):
-    folder_name = folder.name
+    title_id = figure_content_id(folder)
     lines = [
         "---",
         f"title: {quoted(title)}",
         'description: ""',
         "contentType: title",
         "kind: series",
-        f"maker: {quoted(maker)}",
-        "series:",
-        "  - capsuleq",
-        "seriesName: カプセルQミュージアム",
+        f"maker: {quoted(maker or '-')}",
         "figureIds:",
     ]
-    lines.extend(f"  - kaiyodo/capsuleq/{folder_name}/{index:03d}" for index in range(1, len(items) + 1))
-    lines.extend([
-        "executiveProducer: 松村しのぶ" if "総指揮" in overview else None,
-        f"releaseStart: {quoted(release)}" if release else None,
-        f"price: {quoted(price)}" if price else None,
-        f"coverImage: {quoted(cover)}",
-        f"collectionImage: {quoted(collection)}",
-    ])
+    lines.extend(f"  - {title_id}/{index:03d}" for index in range(1, len(items) + 1))
+    append_metadata(lines, metadata, (
+        "executiveProducer", "seriesName", "releaseStart", "price", "species",
+        "speciesGroup", "salesPeriod", "genre", "tags",
+    ))
+    lines.extend([f"coverImage: {quoted(cover)}", f"collectionImage: {quoted(collection)}"])
     if resources:
         lines.append("resources:")
         for key in ("guide", "displayPop"):
@@ -313,23 +397,26 @@ def write_title_page(
     (folder / "index.md").write_text("\n".join(line for line in lines if line is not None), encoding="utf-8")
 
 
-def write_figure_page(folder: Path, item: dict, index: int, maker: str):
+def write_figure_page(folder: Path, item: dict, index: int, maker: str, metadata: dict[str, str]):
     figure_folder = folder / f"{index:03d}"
     figure_folder.mkdir(exist_ok=True)
     first_image = Path(item["topics"][0]["images"][0]).name if item["topics"] else ""
+    title_id = figure_content_id(folder)
     lines = [
         "---",
         f"title: {quoted(item['name'])}",
         'description: ""',
         "contentType: figure",
-        f"titleId: kaiyodo/capsuleq/{folder.name}",
+        f"titleId: {title_id}",
         f"figureId: {quoted(f'{index:03d}')}",
-        f"species: {quoted(item['name'])}",
-        'speciesGroup: ""',
-        f"maker: {quoted(maker)}",
+        f"maker: {quoted(maker or '-')}",
     ]
-    if item.get("sculptor"):
-        lines.append(f"sculptor: {quoted(item['sculptor'])}")
+    figure_metadata = {**metadata, **({"sculptor": item["sculptor"]} if item.get("sculptor") else {})}
+    figure_metadata.setdefault("species", item["name"])
+    append_metadata(lines, figure_metadata, (
+        "sculptor", "executiveProducer", "species", "speciesGroup",
+        "price", "releaseStart", "salesPeriod", "genre", "tags",
+    ))
     lines.extend([
         f"figureTopImage: {quoted(first_image)}",
         f"coverImage: {quoted(first_image)}",
@@ -343,7 +430,68 @@ def write_figure_page(folder: Path, item: dict, index: int, maker: str):
     (figure_folder / "index.md").write_text("\n".join(lines), encoding="utf-8")
 
 
-def generate(source: Path):
+def leading_topic(main: Node) -> dict | None:
+    images = []
+    comments = []
+    for row in direct_rows(main):
+        if row_heading(row):
+            break
+        row_images = node_images(row)
+        if row_images:
+            images.extend(row_images)
+        else:
+            comment = visible_without_images(row)
+            if comment:
+                comments.append(comment)
+    if not images and not comments:
+        return None
+    return make_topic(images, "\n".join(comments)) | {"title": "全体"}
+
+
+def write_single_figure_page(
+    folder: Path,
+    title: str,
+    maker: str,
+    overview: str,
+    items: list[dict],
+    metadata: dict[str, str],
+    cover: str,
+    main: Node,
+):
+    lines = [
+        "---",
+        f"title: {quoted(title)}",
+        'description: ""',
+        "contentType: figure",
+        "kind: singleLineup",
+        f"maker: {quoted(maker or '-')}",
+    ]
+    append_metadata(lines, metadata, (
+        "sculptor", "executiveProducer", "seriesName", "species", "speciesGroup",
+        "price", "releaseStart", "salesPeriod", "genre", "tags",
+    ))
+    lines.extend([f"figureTopImage: {quoted(cover)}", f"coverImage: {quoted(cover)}"])
+
+    topics = []
+    initial = leading_topic(main)
+    if initial:
+        topics.append(initial)
+    for item in items:
+        images = [image for topic in item["topics"] for image in topic["images"]]
+        comments = [topic["comment"] for topic in item["topics"] if topic.get("comment")]
+        if images or comments:
+            topics.append(make_topic(images, "\n".join(comments)) | {"title": item["name"]})
+    if not topics:
+        topics = [make_topic(node_images(main), overview) | {"title": "全体"}]
+    lines.extend(yaml_topics([
+        {**topic, "images": [f"img/{Path(image).name}" for image in topic["images"]]}
+        for topic in topics
+    ]))
+    lines.extend(["---", "", overview, ""])
+    (folder / "index.md").write_text("\n".join(lines), encoding="utf-8")
+
+
+def generate(source: Path, content_type: str):
     if source.parent.parent.name == "legacy-html":
         output_folder = Path.cwd().resolve()
     else:
@@ -360,13 +508,20 @@ def generate(source: Path):
     title = heading.text() if heading else commented_heading_text(raw_html) or source.stem
     paragraphs = list(content.descendants("p"))
     overview = paragraphs[0].inner_html().strip() if paragraphs else ""
-    maker_candidates = ("海洋堂", "バンダイ", "いきもん", "奇譚クラブ")
+    metadata_source = metadata_text(paragraphs)
+    metadata = extract_metadata(metadata_source)
+    maker_candidates = ("海洋堂", "バンダイ", "いきもん", "奇譚クラブ", "タカラトミー", "リーメント")
     maker_text = " ".join(paragraph.text() for paragraph in paragraphs)
-    maker = next((candidate for candidate in maker_candidates if candidate in maker_text), "海洋堂")
+    maker = metadata.get("maker") or next((candidate for candidate in maker_candidates if candidate in maker_text), "")
+    if maker and title.startswith(maker):
+        title = title[len(maker):].strip()
+    metadata.setdefault("maker", maker)
     items = extract_items(main)
     resources = extract_resources(main)
-    release = release_start(" ".join(paragraph.text() for paragraph in paragraphs))
-    price = extract_price(" ".join(paragraph.text() for paragraph in paragraphs))
+    metadata.setdefault("releaseStart", release_start(metadata_source) or "")
+    metadata.setdefault("salesPeriod", sales_period(metadata_source) or "")
+    metadata.setdefault("price", extract_price(metadata_source) or "")
+    metadata.setdefault("sculptor", extract_sculptor(metadata_source) or "")
     # Always resolve images relative to the working collection folder, since
     # the source HTML may have been relocated to _legacy/ or legacy-html/.
     image_dir = output_folder / "img"
@@ -381,23 +536,29 @@ def generate(source: Path):
     )
     cover = f"img/{Path(cover_source).name}" if cover_source else ""
     collection = f"img/{Path(collection_source).name}" if collection_source else cover
-    write_title_page(output_folder, title, maker, overview, items, cover, collection, release, price, resources)
-    for index, item in enumerate(items, 1):
-        for topic in item["topics"]:
-            for image in topic["images"]:
-                source_image = image_dir / Path(image).name
-                target_dir = output_folder / f"{index:03d}"
-                target_dir.mkdir(exist_ok=True)
-                target_image = target_dir / source_image.name
-                if source_image.is_file() and not target_image.exists():
-                    shutil.copy2(source_image, target_image)
-        write_figure_page(output_folder, item, index, maker)
-    print(f"Generated {output_folder / 'index.md'} and {len(items)} figure pages.")
+    if content_type == "title":
+        write_title_page(output_folder, title, maker, overview, items, cover, collection, metadata, resources)
+        title_id = figure_content_id(output_folder)
+        for index, item in enumerate(items, 1):
+            for topic in item["topics"]:
+                for image in topic["images"]:
+                    source_image = image_dir / Path(image).name
+                    target_dir = output_folder / f"{index:03d}"
+                    target_dir.mkdir(exist_ok=True)
+                    target_image = target_dir / source_image.name
+                    if source_image.is_file() and not target_image.exists():
+                        shutil.copy2(source_image, target_image)
+            write_figure_page(output_folder, item, index, maker, metadata)
+        print(f"Generated {output_folder / 'index.md'} and {len(items)} figure pages (titleId: {title_id}).")
+    else:
+        write_single_figure_page(output_folder, title, maker, overview, items, metadata, cover, main)
+        print(f"Generated {output_folder / 'index.md'} as a singleLineup figure.")
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("source", nargs="?", type=Path, default=Path("index.html"))
+    parser.add_argument("--content-type", choices=("title", "figure"), default="title")
     args = parser.parse_args()
     source = args.source.resolve()
     if not source.exists() and source.name == "index.html" and (source.parent / "_legacy" / "index.html.bak").exists():
@@ -407,7 +568,7 @@ def main():
         archived_source = repository_root / "legacy-html" / source.parent.name / "index.html"
         if archived_source.exists():
             source = archived_source
-    generate(source)
+    generate(source, args.content_type)
     if source.name == "index.html" and "legacy-html" not in source.parts:
         legacy_source = source.parent / "_legacy" / "index.html.bak"
         legacy_source.parent.mkdir(exist_ok=True)

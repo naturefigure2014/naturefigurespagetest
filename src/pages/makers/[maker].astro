@@ -68,23 +68,25 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
   <div class="maker-detail">
     <div class="maker-detail-content">
       <div class="breadcrumb"><a href={siteUrl("/")}>ホーム</a> / <a href={siteUrl("/makers/")}>メーカー・タイトルから探す</a> / {entry.data.maker}</div>
-      <div class="maker-detail-menu-wrap">
-        <button class="maker-detail-menu" type="button" aria-controls="maker-detail-sidebar" aria-expanded="false">☰ メーカーから探す</button>
-        <aside class="maker-detail-sidebar" id="maker-detail-sidebar">
-          <div class="maker-detail-sidebar-heading">メーカーから探す</div>
-          {["海洋堂", "ユージン", "タカラトミーアーツ", "いきもん", "バンダイ", "スタジオソータ", "エポック社", "その他"].map((name) => (
-            <a class:list={{ "is-current": name === entry.data.maker }} href={name === "海洋堂" ? siteUrl("/makers/kaiyodo/") : "#"}>{name}</a>
-          ))}
-        </aside>
-      </div>
-      <section class="maker-detail-hero">
-        <div>
-          <p class="eyebrow">{entry.data.english ?? "MAKER"}</p>
-          <h1>{entry.data.maker}</h1>
-          <p>海洋堂のフィギュアを、シリーズやジャンルから探せます。</p>
+      <div class="maker-detail-hero-wrap">
+        <div class="maker-detail-menu-wrap">
+          <button class="maker-detail-menu" type="button" aria-controls="maker-detail-sidebar" aria-expanded="false">☰ メーカーから探す</button>
+          <aside class="maker-detail-sidebar" id="maker-detail-sidebar">
+            <div class="maker-detail-sidebar-heading">メーカーから探す</div>
+            {["海洋堂", "ユージン", "タカラトミーアーツ", "いきもん", "バンダイ", "スタジオソータ", "エポック社", "その他"].map((name) => (
+              <a class:list={{ "is-current": name === entry.data.maker }} href={name === "海洋堂" ? siteUrl("/makers/kaiyodo/") : "#"}>{name}</a>
+            ))}
+          </aside>
         </div>
-        {imageFor(entry.data.heroSourceId, entry.data.heroImage) && <img src={imageFor(entry.data.heroSourceId, entry.data.heroImage)} alt="" />}
-      </section>
+        <section class="maker-detail-hero">
+          <div>
+            <p class="eyebrow">{entry.data.english ?? "MAKER"}</p>
+            <h1>{entry.data.maker}</h1>
+            <p>海洋堂のフィギュアを、シリーズやジャンルから探せます。</p>
+          </div>
+          {imageFor(entry.data.heroSourceId, entry.data.heroImage) && <img src={imageFor(entry.data.heroSourceId, entry.data.heroImage)} alt="" />}
+        </section>
+      </div>
 
       <section class="maker-detail-section">
         <div class="maker-detail-section-heading"><span></span><h2>ジャンルから探す</h2></div>

@@ -52,8 +52,13 @@ const figureMetadata = (figure: (typeof allFigures)[number]) => {
   const firstSeriesName = Array.isArray(seriesName) ? seriesName[0] : seriesName;
   const maker = title?.data.maker ?? figure.data.maker;
   const releaseYear =
-    figure.data.releaseDate?.getFullYear().toString() ??
+    (figure.data.releaseDate instanceof Date
+      ? figure.data.releaseDate.getFullYear().toString()
+      : undefined) ??
     title?.data.releaseStart?.match(/^\d{4}/)?.[0] ??
+    figure.data.releaseStart?.match(/^\d{4}/)?.[0] ??
+    title?.data.salesPeriod?.match(/^\d{4}/)?.[0] ??
+    figure.data.salesPeriod?.match(/^\d{4}/)?.[0] ??
     "-";
 
   return {

@@ -21,7 +21,12 @@ const figures = await getCollection("figures");
 const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
 const entryById = new Map(figures.map((item) => [normalizeId(item.id), item]));
 const genreEntries = figures.filter((item) => {
-  return item.data.contentType === "title" && item.data.genre.includes(page.data.genreSlug);
+  const isTitle = item.data.contentType === "title";
+  const isSingleLineupFigure = item.data.contentType === "figure" && item.data.kind === "singleLineup";
+
+  return item.data.maker === page.data.maker
+    && item.data.genre.includes(page.data.genreSlug)
+    && (isTitle || isSingleLineupFigure);
 });
 const titlesForSection = (section: (typeof page.data.seriesSections)[number]) => {
   if (section.titleIds.length > 0) {

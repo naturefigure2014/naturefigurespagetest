@@ -72,8 +72,10 @@ const collectionPhoto = entry.data.figureTopImage
   ? resolveFigureImage(entry.id, entry.data.figureTopImage)
   : undefined;
 
-const formatDate = (date: Date | undefined) =>
-  date ? date.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" }) : undefined;
+const formatDate = (date: Date | "-" | undefined) =>
+  date instanceof Date
+    ? date.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" })
+    : date;
 const titleSeriesNames = title?.data.seriesName
   ? (Array.isArray(title.data.seriesName) ? title.data.seriesName : [title.data.seriesName])
   : [];
@@ -199,6 +201,9 @@ const makerBadgeClass = (() => {
           {entry.data.title && <><dt>フィギュア名</dt><dd>{entry.data.title}</dd></>}
           {(title?.data.releaseStart ?? (entry.data.kind === "singleLineup" ? entry.data.releaseStart : undefined)) && (
             <><dt>販売開始</dt><dd>{title?.data.releaseStart ?? entry.data.releaseStart}</dd></>
+          )}
+          {(title?.data.salesPeriod ?? entry.data.salesPeriod) && (
+            <><dt>販売時期</dt><dd>{title?.data.salesPeriod ?? entry.data.salesPeriod}</dd></>
           )}
           {(title?.data.price ?? entry.data.price) && <><dt>価格</dt><dd>{title?.data.price ?? entry.data.price}</dd></>}
           {entry.data.sculptor && <><dt>原型制作</dt><dd>{entry.data.sculptor}</dd></>}

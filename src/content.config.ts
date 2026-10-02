@@ -29,6 +29,7 @@ const figures = defineCollection({
     genre: z.array(z.string()).default([]),
     seriesName: z.union([z.string(), z.array(z.string())]).optional(),
     releaseStart: z.string().optional(),
+    salesPeriod: z.string().regex(/^\d{4}\.\d{2}\.\d{2}-\d{4}\.\d{2}\.\d{2}$/).optional(),
     figureIds: z.array(z.string()).default([]),
     collectionImage: z.union([z.string(), z.number()]).optional(),
     // 個別フィギュアページ専用の集合写真（collectionImageより小さく表示）
@@ -55,7 +56,7 @@ const figures = defineCollection({
     species: z.string().optional(),
     speciesGroup: z.string().optional(),
     scientificName: z.string().optional(),
-    releaseDate: z.coerce.date().optional(),
+    releaseDate: z.union([z.coerce.date(), z.literal("-")]).optional(),
     size: z.string().optional(),
     price: z.string().optional(),
     // 画像は 1 / "001" / "001.jpg" / "/figures/.../001.jpg" のいずれでも指定可能。
