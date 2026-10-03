@@ -143,6 +143,34 @@ const groupImage = (group: Group) => {
     figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
   );
 };
+
+const placeholderLabels: Record<string, string> = {
+  mammals: "MAMMALS",
+  birds: "BIRDS",
+  reptiles: "REPTILES",
+  amphibians: "AMPHIBIANS",
+  fish: "FISH",
+  insects: "INSECTS",
+  crustaceans: "CRUSTACEANS",
+  "other-arthropods": "ARTHROPODS",
+  mollusks: "MOLLUSKS",
+  theropods: "THEROPODS",
+  sauropods: "SAUROPODS",
+  ornithopods: "ORNITHOPODS",
+  ceratopsians: "CERATOPSIANS",
+  thyreophorans: "THYREOPHORANS",
+  pachycephalosaurs: "PACHYCEPHALOSAURS",
+  pterosaurs: "PTEROSAURS",
+  "marine-reptiles": "MARINE REPTILES",
+  "other-dinosaurs": "DINOSAURS",
+  "paleontology-ancient-mammals": "ANCIENT MAMMALS",
+  "paleontology-ancient-fish": "ANCIENT FISH",
+  "paleontology-ancient-amphibians": "ANCIENT AMPHIBIANS",
+  "paleontology-ancient-reptiles": "ANCIENT REPTILES",
+  "paleontology-ancient-arthropods": "ANCIENT ARTHROPODS",
+  "paleontology-other": "PALEONTOLOGY",
+  other: "OTHER"
+};
 ---
 
 <BaseLayout title="SPECIES | NATURE FIGURE">
@@ -183,13 +211,14 @@ const groupImage = (group: Group) => {
           <div class="species-group-grid">
             {category.groups.map((group) => {
               const image = groupImage(group);
+              const placeholderLabel = group.id ? placeholderLabels[group.id] ?? "SPECIES" : "LEGENDARY";
               return (
                 <a
                   class="species-group-card"
                   href={siteUrl(group.id ? `/species/${group.id}/` : "/figures/")}
                   data-species={`${group.name} ${group.species.join(" ")}`}
                 >
-                  {image ? <img src={image} alt="" loading="lazy" /> : <span class="species-group-placeholder">{group.name.slice(0, 1)}</span>}
+                  {image ? <img src={image} alt="" loading="lazy" /> : <span class="species-group-placeholder" data-label={placeholderLabel} aria-hidden="true" />}
                   <span class="species-group-content">
                     <strong>{group.name}</strong>
                     <span class="species-group-arrow" aria-hidden="true">›</span>

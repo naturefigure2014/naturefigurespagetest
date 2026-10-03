@@ -119,22 +119,20 @@ h2 { margin-top: 2.5rem; }
 
 /* SPECIES */
 .species-page { max-width: 1120px; margin: 0 auto; }
-.species-hero { position: relative; min-height: 150px; margin: -8px -20px 18px; padding: 10px 20px 20px; overflow: hidden; background: linear-gradient(110deg, #f1fbf8 0%, #f4fbfa 54%, #e5f5f0 100%); border-radius: 0 0 12px 12px; }
+.species-hero { position: relative; min-height: 150px; margin: -8px -20px 18px; padding: 10px 20px 20px; overflow: hidden; background: #f2f7f4; border-radius: 0 0 6px 6px; }
 .species-hero-copy { position: relative; z-index: 1; }
 .species-hero h1 { margin: 8px 0 4px; font-size: clamp(1.7rem, 3.1vw, 2.35rem); }
 .species-hero p:not(.eyebrow) { margin: 0; color: #527268; font-size: .78rem; line-height: 1.65; }
-.species-hero-art { position: absolute; right: 11%; bottom: -30px; color: rgba(119, 187, 161, .2); font-size: 11rem; line-height: 1; transform: rotate(-18deg); }
-.species-search { display: flex; align-items: center; gap: 10px; min-height: 40px; margin: 0 0 10px; padding: 0 8px 0 13px; background: #fff; border: 1px solid #d9e9e4; border-radius: 8px; box-shadow: 0 3px 12px rgba(34, 102, 77, .04); }
+.species-hero-art { position: absolute; right: 11%; bottom: -30px; color: rgba(82, 139, 116, .12); font-size: 11rem; line-height: 1; transform: rotate(-18deg); }
+.species-search { display: flex; align-items: center; gap: 10px; min-height: 40px; margin: 0 0 10px; padding: 0 8px 0 13px; background: #fff; border: 1px solid #dce7e2; border-radius: 5px; }
+.species-search:focus-within { border-color: #8db9a6; }
 .species-search > span { color: #19706a; font-size: 1.35rem; line-height: 1; }
 .species-search input { min-width: 0; flex: 1; padding: 9px 0; border: 0; outline: 0; color: #315f54; font: inherit; font-size: .75rem; }
-.species-search button { min-width: 80px; padding: 9px 18px; border: 0; border-radius: 7px; background: #178766; color: #fff; font: inherit; font-size: .74rem; font-weight: 700; cursor: pointer; }
+.species-search button { min-width: 80px; padding: 9px 18px; border: 0; border-radius: 4px; background: #178766; color: #fff; font: inherit; font-size: .74rem; font-weight: 700; cursor: pointer; }
 .species-search button:hover { background: #116c52; }
+.species-search button:focus-visible { outline: 2px solid #176b55; outline-offset: 2px; }
 .species-search-status { min-height: 18px; margin: 0 4px 4px; color: #a05252; font-size: .72rem; }
-.species-category { display: grid; grid-template-columns: 195px minmax(0, 1fr); gap: 18px; margin-top: 12px; padding: 14px 14px 14px 15px; border: 1px solid #cae8df; border-radius: 9px; background: rgba(248, 255, 252, .92); }
-.species-category--paleontology,
-.species-category--paleontology-dinosaurs,
-.species-category--paleontology-other { border-color: #cce8f0; background: rgba(247, 252, 255, .94); }
-.species-category--mythical { border-color: #ddd2f0; background: rgba(253, 250, 255, .94); }
+.species-category { display: grid; grid-template-columns: 195px minmax(0, 1fr); gap: 18px; margin-top: 12px; padding: 14px 0 18px; border: 0; border-bottom: 1px solid #e3ebe7; border-radius: 0; background: transparent; }
 .species-category-intro { position: relative; display: flex; align-items: flex-start; gap: 10px; min-width: 0; padding: 2px 2px 30px; }
 .species-category-icon { display: grid; flex: 0 0 43px; width: 43px; height: 43px; place-items: center; border-radius: 50%; background: #289d78; color: #fff; font-size: 1.35rem; }
 .species-category--paleontology .species-category-icon,
@@ -154,15 +152,23 @@ h2 { margin-top: 2.5rem; }
 .species-category-description { max-width: 125px; margin: 0; color: #5d8378; font-size: .68rem; line-height: 1.65; }
 .species-see-all { position: absolute; bottom: 0; right: 0; color: #287d68; font-size: .63rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
 .species-see-all span { margin-left: 4px; font-size: .9rem; }
-.species-group-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 9px; align-content: start; }
-.species-group-card { display: flex; flex-direction: column; overflow: hidden; border: 1px solid #dceae5; border-radius: 7px; background: #fff; color: #2c6656; text-decoration: none; transition: transform .15s ease, box-shadow .15s ease; }
-.species-group-card:hover { transform: translateY(-2px); box-shadow: 0 5px 14px rgba(32, 106, 79, .12); }
+.species-group-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 10px; align-content: start; }
+.species-group-card { display: flex; flex-direction: column; overflow: hidden; border: 1px solid #e0e9e4; border-radius: 5px; background: #fff; color: #2c6656; text-decoration: none; transition: border-color .15s ease; }
+.species-group-card:hover { border-color: #a9cbbb; }
+.species-group-card:focus-visible { outline: 2px solid #32866a; outline-offset: 2px; }
 .species-group-card[hidden] { display: none; }
-.species-group-card img, .species-group-placeholder { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: #f7fbf9; }
-.species-group-placeholder { display: grid; place-items: center; color: #9ab9ad; font-size: 1.5rem; }
+.species-group-card img, .species-group-placeholder { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: #f6f8f5; }
+.species-group-placeholder { position: relative; isolation: isolate; overflow: hidden; }
+.species-group-placeholder::before { position: absolute; inset: 0; display: grid; place-items: center; padding: 6px; color: rgba(41, 112, 87, .25); content: attr(data-label); font-size: .72rem; font-weight: 700; line-height: 1.25; letter-spacing: .04em; text-align: center; overflow-wrap: anywhere; }
+.species-category--paleontology-dinosaurs .species-group-placeholder::before,
+.species-category--paleontology-other .species-group-placeholder::before { color: rgba(36, 119, 153, .2); }
 .species-group-content { display: flex; align-items: center; gap: 4px; min-width: 0; padding: 8px 6px 9px; text-align: left; }
 .species-group-content strong { flex: 1; min-width: 0; overflow: hidden; color: #236653; font-size: .9rem; line-height: 1.3; text-overflow: ellipsis; white-space: nowrap; }
-.species-group-arrow { flex: 0 0 auto; color: #428a75; font-size: 1.1rem; line-height: 1; }
+.species-category--paleontology-dinosaurs .species-group-content strong,
+.species-category--paleontology-other .species-group-content strong { color: #276f8b; }
+.species-group-arrow { flex: 0 0 auto; color: #9aafa5; font-size: 1rem; line-height: 1; }
+.species-category--paleontology-dinosaurs .species-group-arrow,
+.species-category--paleontology-other .species-group-arrow { color: #9bb7c2; }
 
 /* SPECIES / MAMMALS */
 .mammals-page { max-width: 1120px; margin: 0 auto; }
@@ -657,8 +663,8 @@ body.lightbox-open { overflow: hidden; }
   .species-search { gap: 6px; }
   .species-search input { font-size: .68rem; }
   .species-search button { min-width: 58px; padding-left: 10px; padding-right: 10px; }
-  .species-category { padding: 11px; }
-  .species-group-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 7px; }
+  .species-category { padding: 13px 0 16px; }
+  .species-group-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
   .species-group-content { padding: 7px 4px; }
   .species-group-content strong { font-size: .78rem; }
   .mammals-hero { min-height: 145px; }
