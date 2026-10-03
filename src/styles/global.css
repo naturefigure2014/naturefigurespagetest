@@ -119,19 +119,19 @@ h2 { margin-top: 2.5rem; }
 
 /* SPECIES */
 .species-page { max-width: 1120px; margin: 0 auto; }
-.species-hero { position: relative; min-height: 150px; margin: -8px -20px 18px; padding: 10px 20px 20px; overflow: hidden; background: #f2f7f4; border-radius: 0 0 6px 6px; }
+.species-hero { position: relative; min-height: 150px; margin: -8px -20px 9px; padding: 10px 20px 20px; overflow: hidden; background: #f2f7f4; border-radius: 0 0 6px 6px; }
 .species-hero-copy { position: relative; z-index: 1; }
 .species-hero h1 { margin: 8px 0 4px; font-size: clamp(1.7rem, 3.1vw, 2.35rem); }
 .species-hero p:not(.eyebrow) { margin: 0; color: #527268; font-size: .78rem; line-height: 1.65; }
 .species-hero-art { position: absolute; right: 11%; bottom: -30px; color: rgba(82, 139, 116, .12); font-size: 11rem; line-height: 1; transform: rotate(-18deg); }
-.species-search { display: flex; align-items: center; gap: 10px; min-height: 40px; margin: 0 0 10px; padding: 0 8px 0 13px; background: #fff; border: 1px solid #dce7e2; border-radius: 5px; }
+.species-search { display: flex; align-items: center; gap: 10px; min-height: 40px; margin: 0; padding: 0 8px 0 13px; background: #fff; border: 1px solid #dce7e2; border-radius: 5px; }
 .species-search:focus-within { border-color: #8db9a6; }
 .species-search > span { color: #19706a; font-size: 1.35rem; line-height: 1; }
 .species-search input { min-width: 0; flex: 1; padding: 9px 0; border: 0; outline: 0; color: #315f54; font: inherit; font-size: .75rem; }
 .species-search button { min-width: 80px; padding: 9px 18px; border: 0; border-radius: 4px; background: #178766; color: #fff; font: inherit; font-size: .74rem; font-weight: 700; cursor: pointer; }
 .species-search button:hover { background: #116c52; }
 .species-search button:focus-visible { outline: 2px solid #176b55; outline-offset: 2px; }
-.species-search-status { min-height: 18px; margin: 0 4px 4px; color: #a05252; font-size: .72rem; }
+.species-search-status { min-height: 0; margin: 0 4px; color: #a05252; font-size: .72rem; }
 .species-category { display: grid; grid-template-columns: 195px minmax(0, 1fr); gap: 18px; margin-top: 12px; padding: 14px 0 18px; border: 0; border-bottom: 1px solid #e3ebe7; border-radius: 0; background: transparent; }
 .species-category-intro { position: relative; display: flex; align-items: flex-start; gap: 10px; min-width: 0; padding: 2px 2px 30px; }
 .species-category-icon { display: grid; flex: 0 0 43px; width: 43px; height: 43px; place-items: center; border-radius: 50%; background: #289d78; color: #fff; font-size: 1.35rem; }
