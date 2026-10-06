@@ -3,6 +3,7 @@ import "../styles/global.css";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import { resolveFigureImage } from "../lib/figure-images";
+import { formatFigureId } from "../lib/figure-id";
 import { siteUrl } from "../lib/site-url";
 
 const { entry } = Astro.props;
@@ -73,9 +74,9 @@ const resourceSections = [
             );
             return (
               <a class="lineup-item" href={siteUrl(`/figures/${figure.id.replace(/\/index(?:\.md)?$/, "")}/`)}>
-                {image ? <img src={image} alt={figure.data.title} loading="lazy" /> : <span class="lineup-placeholder">{figure.data.figureId}</span>}
+                {image ? <img src={image} alt={figure.data.title} loading="lazy" /> : <span class="lineup-placeholder">{formatFigureId(figure.data.figureId)}</span>}
                 <span class="lineup-caption">
-                  <em>{figure.data.figureId}</em>
+                  <em>{formatFigureId(figure.data.figureId)}</em>
                   <strong>{figure.data.title}</strong>
                 </span>
               </a>

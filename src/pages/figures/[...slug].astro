@@ -3,6 +3,7 @@ import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
+import { formatFigureId } from "../../lib/figure-id";
 import { siteUrl } from "../../lib/site-url";
 
 export async function getStaticPaths() {
@@ -82,8 +83,9 @@ const titleSeriesNames = title?.data.seriesName
 const figureTitleContext = [titleSeriesNames[0], title?.data.title]
   .filter(Boolean)
   .join(" ");
-const figureHeading = entry.data.figureId
-  ? `${entry.data.figureId} ${entry.data.title}`
+const displayFigureId = formatFigureId(entry.data.figureId);
+const figureHeading = displayFigureId
+  ? `${displayFigureId} ${entry.data.title}`
   : entry.data.title;
 
 // メーカーごとのラベル色。海洋堂は青にしています。
@@ -197,8 +199,6 @@ const makerBadgeClass = (() => {
               <dd>{titleSeriesNames.map((name) => <div>{name}</div>)}</dd>
             </>
           )}
-          {entry.data.figureId && <><dt>番号</dt><dd>{entry.data.figureId}</dd></>}
-          {entry.data.title && <><dt>フィギュア名</dt><dd>{entry.data.title}</dd></>}
           {(title?.data.releaseStart ?? (entry.data.kind === "singleLineup" ? entry.data.releaseStart : undefined)) && (
             <><dt>販売開始</dt><dd>{title?.data.releaseStart ?? entry.data.releaseStart}</dd></>
           )}
@@ -208,7 +208,6 @@ const makerBadgeClass = (() => {
           {(title?.data.price ?? entry.data.price) && <><dt>価格</dt><dd>{title?.data.price ?? entry.data.price}</dd></>}
           {entry.data.sculptor && <><dt>原型制作</dt><dd>{entry.data.sculptor}</dd></>}
           {entry.data.executiveProducer && <><dt>製作総指揮</dt><dd>{entry.data.executiveProducer}</dd></>}
-          {entry.data.species && <><dt>種類</dt><dd>{entry.data.species}</dd></>}
         </dl>
 
         {entry.data.tags.length > 0 && (

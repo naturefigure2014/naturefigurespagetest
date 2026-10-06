@@ -254,7 +254,7 @@ h2 { margin-top: 2.5rem; }
 .figure-sidebar { position: static; }
 body:has(.detail-style) { background: #f8faf8; }
 .detail-style { --detail-block-gap: 2px; }
-.figure-layout.detail-style .figure-heading,
+.figure-layout.detail-style .figure-heading { margin-bottom: var(--detail-block-gap); padding: 0; background: transparent; }
 .title-layout.detail-style .title-heading { margin-bottom: var(--detail-block-gap); padding: 7px 9px; background: #2c7a55; }
 .figure-layout.detail-style .figure-heading h1,
 .title-layout.detail-style .title-heading h1 { color: #fff; }
@@ -262,6 +262,10 @@ body:has(.detail-style) { background: #f8faf8; }
 .title-layout.detail-style .title-heading .eyebrow { color: #fff; background: rgba(255,255,255,.16); border: 1px solid rgba(255,255,255,.45); }
 .figure-layout.detail-style .figure-heading .figure-title-context,
 .title-layout.detail-style .title-heading .title-series-label { color: #fff; }
+.figure-layout.detail-style .figure-heading > div { width: 100%; gap: 0; }
+.figure-layout.detail-style .figure-heading > div > p:first-child { width: 100%; margin: 0; padding: 6px 9px; background: #2c7a55; color: #fff; }
+.figure-layout.detail-style .figure-heading > div > p:first-child.maker-badge { border: 0; border-radius: 0; }
+.figure-layout.detail-style .figure-heading h1 { align-self: stretch; margin: 0; padding: 10px 9px; background: #eaf3ee; color: #173d30; }
 .figure-layout.detail-style .figure-group-photo,
 .title-layout.detail-style .title-collection-photo { margin-bottom: var(--detail-block-gap); }
 .figure-layout.detail-style .topic-card,
@@ -273,15 +277,11 @@ body:has(.detail-style) { background: #f8faf8; }
 .title-layout.detail-style .title-section-header h2 { display: flex; flex: 1; align-items: center; gap: 10px; padding: 4px 8px; background: #fff; }
 .figure-layout.detail-style .topic-card-header h2::before,
 .figure-layout.detail-style .related-card > h2::before,
-.title-layout.detail-style .title-section-header h2::before,
-.detail-style .review-body h2::before,
-.detail-style .review-body h3::before { content: ""; display: inline-block; width: 4px; height: 1.15em; flex: 0 0 4px; background: #2c7a55; }
-.figure-layout.detail-style .related-card > h2,
-.detail-style .review-body h2,
-.detail-style .review-body h3 { padding: 4px 8px; background: #fff; }
+.title-layout.detail-style .title-section-header h2::before { content: ""; display: inline-block; width: 4px; height: 1.15em; flex: 0 0 4px; background: #2c7a55; }
+.figure-layout.detail-style .related-card > h2 { padding: 4px 8px; background: #fff; }
 .figure-layout.detail-style .related-card > h2 { display: flex; align-items: center; gap: 10px; }
 .detail-style .review-body h2,
-.detail-style .review-body h3 { margin: 14px 0 10px; }
+.detail-style .review-body h3 { margin: 14px 0 10px; padding: 0; background: transparent; font-weight: 700; }
 .figure-layout.detail-style .review-card,
 .figure-layout.detail-style .topic-card + .topic-card,
 .figure-layout.detail-style .review-card + .topic-card,
