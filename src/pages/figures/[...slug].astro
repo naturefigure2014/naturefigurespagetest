@@ -80,13 +80,8 @@ const formatDate = (date: Date | "-" | undefined) =>
 const titleSeriesNames = title?.data.seriesName
   ? (Array.isArray(title.data.seriesName) ? title.data.seriesName : [title.data.seriesName])
   : [];
-const figureTitleContext = [titleSeriesNames[0], title?.data.title]
-  .filter(Boolean)
-  .join(" ");
-const displayFigureId = formatFigureId(entry.data.figureId);
-const figureHeading = displayFigureId
-  ? `${displayFigureId} ${entry.data.title}`
-  : entry.data.title;
+const hasCustomTitle = Boolean(title?.data.title1 || title?.data.title2);
+const figureHeading = `${formatFigureId(entry.data.figureId) ?? ""} ${entry.data.title}`.trim();
 
 // メーカーごとのラベル色。海洋堂は青にしています。
 const makerBadgeClass = (() => {
@@ -113,10 +108,24 @@ const makerBadgeClass = (() => {
         <div>
           {title
             ? (
-              <p class="figure-context">
-                {entry.data.maker && <span class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker}</span>}
-                {figureTitleContext && <span class="figure-title-context">{figureTitleContext}</span>}
-              </p>
+              <div class="figure-title-banner">
+                <p class="figure-context">
+                  {entry.data.maker && <span class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker}</span>}
+                  {titleSeriesNames[0] && <span class="figure-title-context">{titleSeriesNames[0]}</span>}
+                </p>
+                <div class="figure-series-title" aria-label={hasCustomTitle
+                  ? [title.data.title1, title.data.title2].filter(Boolean).join(" ")
+                  : title.data.title}>
+                  {hasCustomTitle
+                    ? (
+                      <>
+                        {title.data.title1 && <span class="title-part1">{title.data.title1}</span>}
+                        {title.data.title2 && <span class="title-part2">{title.data.title2}</span>}
+                      </>
+                    )
+                    : title.data.title}
+                </div>
+              </div>
             )
             : <p class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</p>}
           <h1>{figureHeading}</h1>

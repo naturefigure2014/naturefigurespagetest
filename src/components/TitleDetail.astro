@@ -25,6 +25,7 @@ const lineup = figures
   .sort((a, b) => (a.data.figureId ?? "").localeCompare(b.data.figureId ?? "", undefined, { numeric: true }));
 
 const makerBadgeClass = entry.data.maker === "海洋堂" ? "maker-kaiyodo" : "maker-default";
+const hasCustomTitle = Boolean(entry.data.title1 || entry.data.title2);
 const collectionPhoto = entry.data.collectionImage
   ? resolveFigureImage(entry.id, entry.data.collectionImage)
   : undefined;
@@ -45,7 +46,16 @@ const resourceSections = [
           <p class:list={["eyebrow", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</p>
           {seriesNames[0] && <span class="title-series-label">{seriesNames[0]}</span>}
         </div>
-        <h1>{entry.data.title}</h1>
+        <h1>
+          {hasCustomTitle
+            ? (
+              <>
+                {entry.data.title1 && <span class="title-part1">{entry.data.title1}</span>}
+                {entry.data.title2 && <span class="title-part2">{entry.data.title2}</span>}
+              </>
+            )
+            : entry.data.title}
+        </h1>
         {entry.data.description && <p class="title-lead">{entry.data.description}</p>}
       </header>
 

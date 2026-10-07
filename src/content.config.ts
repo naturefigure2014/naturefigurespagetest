@@ -15,6 +15,8 @@ const figures = defineCollection({
   schema: z.object({
     ...common,
     contentType: z.enum(["figure", "title"]).default("figure"),
+    title1: z.string().optional(),
+    title2: z.string().optional(),
     kind: z.enum(["series", "singleLineup", "collection", "product"]).optional(),
     // titleId is the full TITLE content id, e.g.
     // kaiyodo/capsuleq/nihon-no-doubutsu-1

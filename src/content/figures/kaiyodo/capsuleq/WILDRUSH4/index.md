@@ -1,5 +1,7 @@
 ---
 title: "WILD RUSH ワイルド・ラッシュ　真・世界動物誌　第4章　アジア・熱帯編"
+title1: "WILD RUSH ワイルド・ラッシュ　真・世界動物誌"
+title2: "第4章　アジア・熱帯編"
 description: ""
 contentType: title
 kind: series
