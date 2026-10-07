@@ -81,6 +81,8 @@ const titleSeriesNames = title?.data.seriesName
   ? (Array.isArray(title.data.seriesName) ? title.data.seriesName : [title.data.seriesName])
   : [];
 const hasCustomTitle = Boolean(title?.data.title1 || title?.data.title2);
+const isSingleLineup = entry.data.kind === "singleLineup";
+const hasEntryCustomTitle = Boolean(entry.data.title1 || entry.data.title2);
 const figureHeading = `${formatFigureId(entry.data.figureId) ?? ""} ${entry.data.title}`.trim();
 
 // メーカーごとのラベル色。海洋堂は青にしています。
@@ -127,8 +129,26 @@ const makerBadgeClass = (() => {
                 </div>
               </div>
             )
-            : <p class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</p>}
-          <h1>{figureHeading}</h1>
+            : isSingleLineup
+              ? (
+                <div class="figure-title-banner single-lineup-title-banner">
+                  <p class="figure-context">
+                    <span class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</span>
+                  </p>
+                  <h1>
+                    {hasEntryCustomTitle
+                      ? (
+                        <>
+                          {entry.data.title1 && <span class="title-part1">{entry.data.title1}</span>}
+                          {entry.data.title2 && <span class="title-part2">{entry.data.title2}</span>}
+                        </>
+                      )
+                      : entry.data.title}
+                  </h1>
+                </div>
+              )
+              : <p class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</p>}
+          {!isSingleLineup && <h1>{figureHeading}</h1>}
           {entry.data.releaseDate && (
             <p class="figure-date">◷ {formatDate(entry.data.releaseDate)}</p>
           )}
