@@ -108,7 +108,7 @@ topics:
 公式サイトではそういう点をもっとアピールすべきだと思います。
 
 ### カラバリ
-			<a href="https://kaiyodo.co.jp/items/revoltech/rg008/" target="_blank">
+<a href="https://kaiyodo.co.jp/items/revoltech/rg008/" target="_blank">
 			RG008としてホワイトアイ仕様</a>も同時リリース（直営店限定）。これまでのカラバリで一番地味なマイナーチェンジとなります。正直、両方買おうとはならない・・・。<br />
 構造上難しいかもしれませんが、他社フィギュアメーカーのように「公式通販で買うと限定付け替えパーツ付属」とかだとうれしいっす。
 
