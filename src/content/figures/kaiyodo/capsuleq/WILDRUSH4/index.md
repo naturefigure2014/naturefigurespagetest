@@ -26,6 +26,19 @@ releaseStart: "2019.12"
 price: "400円"
 coverImage: "img/WR4.png"
 collectionImage: "img/WR4_027.jpg"
+resources:
+  capsule:
+    image: "img/WR4_021.jpg"
+    description: "今回はメロンみたいな色。"
+  guide:
+    image: "img/WR4_book.jpg"
+    description: ""
+topics:
+  - title: "デコマス"
+    images:
+      - "img/WR4_026.jpg"
+    comment: |
+      ワンフェス2019夏に展示されていたデコマスたち。これを見るとトラの塗装が惜しいですね。 
 ---
 
 販売開始：2019年12月　販売元：海洋堂　価格：400円　造形総指揮：松村しのぶ<br />

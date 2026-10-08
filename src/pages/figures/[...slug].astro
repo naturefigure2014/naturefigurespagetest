@@ -77,8 +77,9 @@ const formatDate = (date: Date | "-" | undefined) =>
   date instanceof Date
     ? date.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" })
     : date;
-const titleSeriesNames = title?.data.seriesName
-  ? (Array.isArray(title.data.seriesName) ? title.data.seriesName : [title.data.seriesName])
+const rawSeriesName = title?.data.seriesName ?? (entry.data.kind === "singleLineup" ? entry.data.seriesName : undefined);
+const titleSeriesNames = rawSeriesName
+  ? (Array.isArray(rawSeriesName) ? rawSeriesName : [rawSeriesName])
   : [];
 const freeTags = [...new Map(
   [...(title?.data.freetag ?? []), ...entry.data.freetag]
@@ -138,6 +139,7 @@ const makerBadgeClass = (() => {
                 <div class="figure-title-banner single-lineup-title-banner">
                   <p class="figure-context">
                     <span class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</span>
+                    {titleSeriesNames[0] && <span class="figure-title-context">{titleSeriesNames[0]}</span>}
                   </p>
                   <h1>
                     {hasEntryCustomTitle

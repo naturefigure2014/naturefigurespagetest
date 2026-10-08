@@ -2,6 +2,7 @@ r"""Generate current Astro content from a legacy Nature Figure index.html.
 
 Run this script from a legacy collection directory, for example:
     python C:\astro\7\scripts\generate_legacy_figure.py
+    python C:\astro\7\scripts\generate_legacy_figure.py --content-type figure
 """
 
 from __future__ import annotations
@@ -147,8 +148,10 @@ def extract_resources(main: Node) -> dict[str, dict[str, str]]:
     resources: dict[str, dict[str, str]] = {}
     labels = {
         "解説書": "guide",
+        "ミニブック": "guide",
         "ディスプレイポップ": "displayPop",
         "DP": "displayPop",
+        "カプセル": "capsule",
     }
     active: str | None = None
     for row in direct_rows(main):
@@ -167,12 +170,19 @@ def extract_resources(main: Node) -> dict[str, dict[str, str]]:
                 "image": images[0],
                 "description": visible_without_images(cells[0]),
             }
+        elif active in resources:
+            comment = visible_without_images(row)
+            if comment:
+                description = resources[active]["description"]
+                resources[active]["description"] = " ".join(
+                    part for part in (description, comment) if part
+                )
     return resources
 
 
 def release_start(text: str) -> str | None:
     match = re.search(
-        r"(?:販売開始時期|発売開始時期|発売開始|販売開始)\s*[：:：]?\s*"
+        r"(?:販売開始時期|発売開始時期|発売開始|販売開始|発売日)\s*[：:：]?\s*"
         r"((?:19|20)\d{2})(?:年|[./-])\s*(\d{1,2})(?:月|[./-])?",
         text,
     )
@@ -309,7 +319,7 @@ def extract_items(main: Node, limit: int = 12):
         headings = list(row.descendants("th"))
         if headings:
             heading = normalize_text(headings[0].text())
-            if heading in {"解説書", "ディスプレイポップ", "DP", "ミニパンフ", "ブックレット"}:
+            if heading in {"解説書", "ミニブック", "ディスプレイポップ", "DP", "ミニパンフ", "ブックレット", "カプセル"}:
                 break
             if len(items) >= limit:
                 break
@@ -385,7 +395,7 @@ def write_title_page(
     lines.extend([f"coverImage: {quoted(cover)}", f"collectionImage: {quoted(collection)}"])
     if resources:
         lines.append("resources:")
-        for key in ("guide", "displayPop"):
+        for key in ("guide", "displayPop", "capsule"):
             resource = resources.get(key)
             if resource:
                 lines.extend([
@@ -449,6 +459,37 @@ def leading_topic(main: Node) -> dict | None:
     return make_topic(images, "\n".join(comments)) | {"title": "全体"}
 
 
+def sequential_topics(main: Node) -> list[dict]:
+    """Scan collection_page_main top to bottom: consecutive images form one
+    topic, the first text row after them closes it, and the next image row
+    starts a new topic.
+    """
+    resource_headings = {"解説書", "ミニブック", "ディスプレイポップ", "DP", "ミニパンフ", "ブックレット", "カプセル"}
+    topics: list[dict] = []
+    current: dict | None = None
+    for row in direct_rows(main):
+        heading = row_heading(row)
+        if heading in resource_headings:
+            break
+        if heading:
+            continue
+        row_images = node_images(row)
+        if row_images:
+            if current is None or current["comment"]:
+                current = {"title": "", "images": [], "comment": ""}
+                topics.append(current)
+            current["images"].extend(row_images)
+            continue
+        comment = visible_without_images(row)
+        if not comment:
+            continue
+        if current is None:
+            current = {"title": "", "images": [], "comment": ""}
+            topics.append(current)
+        current["comment"] = comment
+    return topics
+
+
 def write_single_figure_page(
     folder: Path,
     title: str,
@@ -475,15 +516,7 @@ def write_single_figure_page(
     ))
     lines.extend([f"figureTopImage: {quoted(cover)}", f"coverImage: {quoted(cover)}"])
 
-    topics = []
-    initial = leading_topic(main)
-    if initial:
-        topics.append(initial)
-    for item in items:
-        images = [image for topic in item["topics"] for image in topic["images"]]
-        comments = [topic["comment"] for topic in item["topics"] if topic.get("comment")]
-        if images or comments:
-            topics.append(make_topic(images, "\n".join(comments)) | {"title": item["name"]})
+    topics = sequential_topics(main)
     if not topics:
         topics = [make_topic(node_images(main), overview) | {"title": "全体"}]
     lines.extend(yaml_topics([
