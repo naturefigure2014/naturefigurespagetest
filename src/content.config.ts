@@ -26,6 +26,10 @@ const figures = defineCollection({
     maker: z.string().optional(),
     sculptor: z.string().optional(),
     executiveProducer: z.string().optional(),
+    freetag: z.array(z.object({
+      label: z.string(),
+      value: z.string()
+    })).default([]),
     series: z.array(z.string()).default([]),
     // TITLE横断のジャンル分類（例: aquatic, animals, paleontology, culture）。
     genre: z.array(z.string()).default([]),

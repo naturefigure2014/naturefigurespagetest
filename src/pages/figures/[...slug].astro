@@ -80,6 +80,10 @@ const formatDate = (date: Date | "-" | undefined) =>
 const titleSeriesNames = title?.data.seriesName
   ? (Array.isArray(title.data.seriesName) ? title.data.seriesName : [title.data.seriesName])
   : [];
+const freeTags = [...new Map(
+  [...(title?.data.freetag ?? []), ...entry.data.freetag]
+    .map((tag) => [tag.label, tag] as const)
+).values()];
 const hasCustomTitle = Boolean(title?.data.title1 || title?.data.title2);
 const isSingleLineup = entry.data.kind === "singleLineup";
 const hasEntryCustomTitle = Boolean(entry.data.title1 || entry.data.title2);
@@ -214,28 +218,23 @@ const makerBadgeClass = (() => {
 
     <aside class="figure-sidebar">
       <section class="sidebar-card basic-card">
-        <div class="basic-heading">
-          <h2>基本情報</h2>
-        </div>
+        <h2 class="basic-heading">基本情報</h2>
         <dl class="info-list">
-          {(title?.data.maker ?? entry.data.maker) && <><dt>メーカー名</dt><dd>{title?.data.maker ?? entry.data.maker}</dd></>}
-          {title && titleHref
-            ? <><dt>タイトル</dt><dd><a href={titleHref}>{title.data.title}</a></dd></>
-            : entry.data.kind !== "singleLineup" && entry.data.title && <><dt>タイトル</dt><dd>{entry.data.title}</dd></>}
-          {titleSeriesNames.length > 0 && (
-            <>
-              <dt>シリーズ</dt>
-              <dd>{titleSeriesNames.map((name) => <div>{name}</div>)}</dd>
-            </>
+          {(title?.data.salesPeriod ?? entry.data.salesPeriod) && (
+            <><dt>販売時期</dt><dd>{title?.data.salesPeriod ?? entry.data.salesPeriod}</dd></>
           )}
           {(title?.data.releaseStart ?? (entry.data.kind === "singleLineup" ? entry.data.releaseStart : undefined)) && (
             <><dt>販売開始</dt><dd>{title?.data.releaseStart ?? entry.data.releaseStart}</dd></>
           )}
-          {(title?.data.salesPeriod ?? entry.data.salesPeriod) && (
-            <><dt>販売時期</dt><dd>{title?.data.salesPeriod ?? entry.data.salesPeriod}</dd></>
-          )}
           {(title?.data.price ?? entry.data.price) && <><dt>価格</dt><dd>{title?.data.price ?? entry.data.price}</dd></>}
           {entry.data.sculptor && <><dt>原型制作</dt><dd>{entry.data.sculptor}</dd></>}
+          {titleSeriesNames.length > 0 && (
+            <>
+              <dt>シリーズ名</dt>
+              <dd class="series-names">{titleSeriesNames.map((name) => <span>{name}</span>)}</dd>
+            </>
+          )}
+          {freeTags.map(({ label, value }) => <><dt>{label}</dt><dd>{value}</dd></>)}
           {entry.data.executiveProducer && <><dt>製作総指揮</dt><dd>{entry.data.executiveProducer}</dd></>}
         </dl>
 

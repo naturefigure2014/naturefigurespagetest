@@ -5,6 +5,9 @@ contentType: title
 titleId: kaiyodo/kyoryuhaku2004
 kind: series
 maker: "海洋堂"
+freetag:
+  - label: "造形企画制作"
+    value: "海洋堂"
 figureIds:
   - kaiyodo/kyoryuhaku2004/001
   - kaiyodo/kyoryuhaku2004/002
