@@ -22,11 +22,7 @@ tags:
 figureTopImage: "img/giraffa021.jpg"
 coverImage: "img/giraffa021.jpg"
 topics:
-  - title: ""
-    images: []
-    comment: |
-      ■本体
-  - title: ""
+  - title: "本体"
     images:
       - "img/giraffa028.jpg"
       - "img/giraffa029.jpg"
@@ -34,50 +30,48 @@ topics:
       - "img/giraffa007.jpg"
     comment: |
       東南アジアに棲む世界最大のクワガタ。実物と同じく、光沢のある黒で仕上げられています。 当然、脚は立体的なつくりとなっています。
-  - title: ""
+  - title: "上面・背面"
     images:
       - "img/giraffa031.jpg"
       - "img/giraffa032.jpg"
     comment: |
       完全な黒ではなく、光が当たると若干 褐色が見える絶妙な塗装。ナスみたいです。
-  - title: ""
+  - title: "腹部"
     images:
       - "img/giraffa034.jpg"
       - "img/giraffa015.jpg"
     comment: |
       脚は付け根のリボジョイント、関節はヒンジになっています。 跗節（ふせつ）は取り外せるようですが、特に外す必要はないです。 また、頭の可動は普通の球体ジョイントでは実現が出来ないため、こだわりの仕組みとなっているとのこと。
-  - title: ""
+  - title: "頭部"
     images:
       - "img/giraffa033.jpg"
       - "img/giraffa011.jpg"
     comment: |
       大アゴは左右が連携して開閉します。どういう仕組みなんだ・・・。 ベースパーツを差し込む穴は、普段はカバーで隠す仕様になっており、こだわりを感じる。
-  - title: ""
+  - title: "飛翔形態への付け替え"
     images:
       - "img/giraffa020.jpg"
     comment: |
       飛翔姿への変更は、背中側の腹部パーツをまるごと取りかえるとできます。 ワンステップで行けるのはうれしい。
-  - title: ""
+  - title: "飛翔形態1"
     images:
       - "img/giraffa021.jpg"
       - "img/giraffa022.jpg"
     comment: |
       腹部はグラデーションのかかった塗装。
-  - title: ""
+  - title: "飛翔形態2"
     images:
       - "img/giraffa023.jpg"
       - "img/giraffa024.jpg"
     comment: |
-      ■パッケージ
-  - title: ""
+  - title: "パッケージ"
     images:
       - "img/giraffa027.jpg"
       - "img/giraffa003.jpg"
       - "img/giraffa002.jpg"
       - "img/giraffa001.jpg"
     comment: |
-      ■旧キットと比較
-  - title: ""
+  - title: "旧キットと比較"
     images:
       - "img/giraffa017.jpg"
       - "img/giraffa019.jpg"
@@ -87,8 +81,8 @@ topics:
     images:
       - "img/giraffa035.jpg"
     comment: |
-      ■リリース前
-  - title: ""
+      旧キットはHobby Japan '92年1月号　真・世界動物誌　「採れたて特急便」No.1に掲載。
+  - title: "リリース前"
     images:
       - "img/blog20190210_022.jpg"
       - "img/blog20190210_021.jpg"
@@ -98,8 +92,7 @@ topics:
     images:
       - "img/blog20190728_015.jpg"
     comment: |
-      ■リボジオの昆虫たち
-  - title: ""
+  - title: "リボジオの昆虫たち"
     images:
       - "img/giraffa026.jpg"
     comment: |
