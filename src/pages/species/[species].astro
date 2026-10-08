@@ -22,11 +22,6 @@ const speciesName = Astro.params.species ?? "";
 const figures = allFigures.filter((figure) => figure.data.species === speciesName);
 const speciesGroup = figures[0]?.data.speciesGroup ?? "分類未設定";
 const speciesGroupBreadcrumb = speciesGroup.split("/").filter(Boolean).join(" › ");
-const imageFor = (figure: (typeof allFigures)[number]) =>
-  resolveFigureImage(
-    figure.id,
-    figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
-  );
 const figureHref = (figure: (typeof allFigures)[number]) =>
   siteUrl(`/figures/${figure.id.replace(/\/index(?:\.md)?$/, "")}/`);
 const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
@@ -34,8 +29,42 @@ const titleForFigure = (figure: (typeof allFigures)[number]) =>
   allEntries.find(
     (entry) =>
       entry.data.contentType === "title" &&
-      normalizeId(entry.id) === normalizeId(figure.data.titleId ?? "")
+      (
+        normalizeId(entry.id) === normalizeId(figure.data.titleId ?? "") ||
+        entry.data.figureIds.some(
+          (figureId) => normalizeId(figureId) === normalizeId(figure.id)
+        )
+      )
   );
+const imageForFigure = (figure: (typeof allFigures)[number]) => {
+  const imageRefs = [
+    figure.data.coverImage,
+    ...figure.data.topics.flatMap((topic) => topic.images)
+  ];
+  return imageRefs
+    .map((ref) => resolveFigureImage(figure.id, ref))
+    .find((image) => image !== undefined);
+};
+const imageFor = (figure: (typeof allFigures)[number]) => {
+  const figureImage = imageForFigure(figure);
+  if (figureImage) return figureImage;
+
+  const title = titleForFigure(figure);
+  if (!title) return undefined;
+
+  const titleImage = [title.data.collectionImage, title.data.coverImage]
+    .map((ref) => resolveFigureImage(title.id, ref))
+    .find((image) => image !== undefined);
+  if (titleImage) return titleImage;
+
+  return title.data.figureIds
+    .map((figureId) =>
+      allFigures.find((item) => normalizeId(item.id) === normalizeId(figureId))
+    )
+    .filter((item): item is (typeof allFigures)[number] => item !== undefined)
+    .map(imageForFigure)
+    .find((image) => image !== undefined);
+};
 const makerBadgeClass = (maker?: string) => {
   switch (maker) {
     case "海洋堂": return "maker-kaiyodo";

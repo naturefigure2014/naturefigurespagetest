@@ -5,7 +5,8 @@ import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
 import { siteUrl } from "../../lib/site-url";
 
-const figures = (await getCollection("figures")).filter(
+const entries = await getCollection("figures");
+const figures = entries.filter(
   (item) => item.data.contentType !== "title" && item.data.species
 );
 
@@ -95,16 +96,77 @@ const categories: Category[] = [
 const figureForSpecies = (names: string[]): Figure | undefined =>
   figures.find((figure) => names.includes(figure.data.species ?? ""));
 
+const imageForFigure = (figure: Figure) => {
+  const imageRefs = [
+    figure.data.coverImage,
+    ...figure.data.topics.flatMap((topic) => topic.images)
+  ];
+  const figureImage = imageRefs
+    .map((ref) => resolveFigureImage(figure.id, ref))
+    .find((image) => image !== undefined);
+  if (figureImage) return figureImage;
+
+  const figureId = figure.id.replace(/\/index(?:\.md)?$/, "");
+  const title = entries.find(
+    (entry) =>
+      entry.data.contentType === "title" &&
+      (
+        entry.data.figureIds.some(
+          (id) => id.replace(/\/index(?:\.md)?$/, "") === figureId
+        ) ||
+        (figure.data.titleId ?? "").replace(/\/index(?:\.md)?$/, "") ===
+          entry.id.replace(/\/index(?:\.md)?$/, "")
+      )
+  );
+  if (!title) return undefined;
+
+  const titleImage = [title.data.collectionImage, title.data.coverImage]
+    .map((ref) => resolveFigureImage(title.id, ref))
+    .find((image) => image !== undefined);
+  if (titleImage) return titleImage;
+
+  return title.data.figureIds
+    .map((id) => {
+      const relatedFigure = figures.find(
+        (item) => item.id.replace(/\/index(?:\.md)?$/, "") === id.replace(/\/index(?:\.md)?$/, "")
+      );
+      if (!relatedFigure) return undefined;
+
+      return [
+        relatedFigure.data.coverImage,
+        ...relatedFigure.data.topics.flatMap((topic) => topic.images)
+      ]
+        .map((ref) => resolveFigureImage(relatedFigure.id, ref))
+        .find((image) => image !== undefined);
+    })
+    .find((image) => image !== undefined);
+};
+
 const categoryPrefixes: Record<string, string[]> = {
   mammals: ["哺乳類", "霊長類"],
   birds: ["鳥類"],
-  reptiles: ["爬虫類"],
+  reptiles: ["爬虫類", "ヘビ類", "トカゲ類", "カメ類", "ワニ類"],
   amphibians: ["両生類","カエル類"],
   fish: ["魚類"],
-  insects: ["昆虫"],
+  insects: [
+    "昆虫",
+    "カブトムシ・クワガタ類",
+    "その他の甲虫類",
+    "チョウ・ガ類",
+    "ハチ・アリ類",
+    "バッタ・コオロギ類",
+    "カマキリ・ナナフシ類",
+    "トンボ類",
+    "その他昆虫"
+  ],
   crustaceans: ["甲殻類"],
-  "other-arthropods": ["その他節足動物"],
-  mollusks: ["軟体動物"],
+  "other-arthropods": [
+    "その他節足動物",
+    "クモ類",
+    "ムカデ・ヤスデ類",
+    "サソリ類"
+  ],
+  mollusks: ["軟体動物", "イカ類", "タコ類"],
   theropods: ["古生物/獣脚類"],
   sauropods: ["古生物/竜脚類"],
   ornithopods: ["古生物/鳥脚類"],
@@ -119,12 +181,14 @@ const categoryPrefixes: Record<string, string[]> = {
   "paleontology-ancient-amphibians": ["古生物/古代の両生類"],
   "paleontology-ancient-reptiles": ["古生物/古代の爬虫類"],
   "paleontology-ancient-arthropods": ["古生物/古代の節足動物", "古代の節足動物"],
-  "paleontology-other": ["古生物/未分類"]
+  "paleontology-other": ["古生物/未分類", "古生物/その他"]
 };
 
 const belongsToGroup = (figure: Figure, group: Group) => {
   const speciesGroup = figure.data.speciesGroup ?? "";
-  const prefixes = group.id ? categoryPrefixes[group.id] ?? [] : [];
+  const prefixes = group.id
+    ? categoryPrefixes[group.id] ?? []
+    : [group.name];
   return (
     group.species.includes(figure.data.species ?? "") ||
     prefixes.some((prefix) =>
@@ -136,12 +200,10 @@ const belongsToGroup = (figure: Figure, group: Group) => {
 const groupFigures = (group: Group) => figures.filter((figure) => belongsToGroup(figure, group));
 
 const groupImage = (group: Group) => {
-  const figure = groupFigures(group)[0] ?? figureForSpecies(group.species);
-  if (!figure) return undefined;
-  return resolveFigureImage(
-    figure.id,
-    figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
-  );
+  const candidates = [...groupFigures(group)];
+  const example = figureForSpecies(group.species);
+  if (example && !candidates.includes(example)) candidates.push(example);
+  return candidates.map(imageForFigure).find((image) => image !== undefined);
 };
 
 const placeholderLabels: Record<string, string> = {

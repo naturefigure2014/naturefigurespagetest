@@ -1,12 +1,12 @@
 ---
-title: "THE STUDY ROOM 国立科学博物館監修シリーズ 科博所蔵品再現モデル"
+title: "科博所蔵品再現モデル"
 description: ""
 contentType: title
 kind: series
 maker: "海洋堂"
 series:
   - official
-seriesName: 科博所蔵品再現モデル
+seriesName: THE STUDY ROOM 国立科学博物館監修シリーズ
 figureIds:
   - kaiyodo/kahaku_official/001
   - kaiyodo/kahaku_official/002
