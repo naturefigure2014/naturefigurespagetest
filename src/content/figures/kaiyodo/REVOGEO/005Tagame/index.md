@@ -25,11 +25,7 @@ resources:
   package:
     image: "img/tagame026.jpg"
 topics:
-  - title: ""
-    images: []
-    comment: |
-      ■タガメ本体
-  - title: ""
+  - title: "本体"
     images:
       - "img/tagame001.jpg"
       - "img/tagame002.jpg"
