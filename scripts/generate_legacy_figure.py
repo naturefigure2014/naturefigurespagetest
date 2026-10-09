@@ -144,8 +144,7 @@ def row_heading(row: Node) -> str:
     return normalize_text(headings[0].text()) if headings else ""
 
 
-def extract_resources(main: Node) -> dict[str, dict[str, str]]:
-    resources: dict[str, dict[str, str]] = {}
+def resource_key_for_heading(heading: str) -> str | None:
     labels = {
         "解説書": "guide",
         "ミニブック": "guide",
@@ -153,11 +152,20 @@ def extract_resources(main: Node) -> dict[str, dict[str, str]]:
         "DP": "displayPop",
         "カプセル": "capsule",
     }
+    if heading in labels:
+        return labels[heading]
+    if "パッケージ" in heading or "箱" in heading:
+        return "package"
+    return None
+
+
+def extract_resources(main: Node) -> dict[str, dict[str, str]]:
+    resources: dict[str, dict[str, str]] = {}
     active: str | None = None
     for row in direct_rows(main):
         heading = row_heading(row)
         if heading:
-            active = labels.get(heading)
+            active = resource_key_for_heading(heading)
             continue
         if not active:
             continue
@@ -312,6 +320,7 @@ def extract_sculptor(inner_html: str) -> str | None:
 
 
 def extract_items(main: Node, limit: int = 12):
+    resource_headings = {"解説書", "ミニブック", "ディスプレイポップ", "DP", "ミニパンフ", "ブックレット", "カプセル"}
     rows = direct_rows(main)
     items = []
     current = None
@@ -319,7 +328,7 @@ def extract_items(main: Node, limit: int = 12):
         headings = list(row.descendants("th"))
         if headings:
             heading = normalize_text(headings[0].text())
-            if heading in {"解説書", "ミニブック", "ディスプレイポップ", "DP", "ミニパンフ", "ブックレット", "カプセル"}:
+            if heading in resource_headings or resource_key_for_heading(heading):
                 break
             if len(items) >= limit:
                 break
@@ -395,7 +404,7 @@ def write_title_page(
     lines.extend([f"coverImage: {quoted(cover)}", f"collectionImage: {quoted(collection)}"])
     if resources:
         lines.append("resources:")
-        for key in ("guide", "displayPop", "capsule"):
+        for key in ("guide", "displayPop", "capsule", "package"):
             resource = resources.get(key)
             if resource:
                 lines.extend([
@@ -469,7 +478,7 @@ def sequential_topics(main: Node) -> list[dict]:
     current: dict | None = None
     for row in direct_rows(main):
         heading = row_heading(row)
-        if heading in resource_headings:
+        if heading in resource_headings or resource_key_for_heading(heading):
             break
         if heading:
             continue
@@ -499,6 +508,7 @@ def write_single_figure_page(
     metadata: dict[str, str],
     cover: str,
     main: Node,
+    resources: dict[str, dict[str, str]],
 ):
     title_id = figure_content_id(folder)
     lines = [
@@ -515,6 +525,16 @@ def write_single_figure_page(
         "price", "releaseStart", "salesPeriod", "genre", "tags",
     ))
     lines.extend([f"figureTopImage: {quoted(cover)}", f"coverImage: {quoted(cover)}"])
+    package = resources.get("package")
+    if package:
+        package_image = f"img/{Path(package['image']).name}"
+        lines.extend([
+            "resources:",
+            "  package:",
+            f"    image: {quoted(package_image)}",
+        ])
+        if package["description"]:
+            lines.extend(["    description: |", f"      {package['description']}"])
 
     topics = sequential_topics(main)
     if not topics:
@@ -587,7 +607,7 @@ def generate(source: Path, content_type: str):
             write_figure_page(output_folder, item, index, maker, metadata)
         print(f"Generated {output_folder / 'index.md'} and {len(items)} figure pages (titleId: {title_id}).")
     else:
-        write_single_figure_page(output_folder, title, maker, overview, items, metadata, cover, main)
+        write_single_figure_page(output_folder, title, maker, overview, items, metadata, cover, main, resources)
         print(f"Generated {output_folder / 'index.md'} as a singleLineup figure.")
 
 
