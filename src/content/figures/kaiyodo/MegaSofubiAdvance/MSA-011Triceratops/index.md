@@ -1,24 +1,80 @@
 ---
-title: "メガソフビアドバンス011トリケラトプス"
-description: "????????????????????"
+title: "MSA-011 トリケラトプス"
+description: ""
 contentType: figure
+kind: singleLineup
+titleId: kaiyodo/MegaSofubiAdvance/MSA-011Triceratops
 maker: "海洋堂"
-coverImage: "img/tricera016_small.jpg"
+sculptor: "松村しのぶ 塗装設計：古田悟郎"
+executiveProducer: "-"
+seriesName: "メガソフビアドバンス"
+species: "トリケラトプス"
+speciesGroup: "角竜類"
+price: "14,904円 企画制作：海洋堂"
+releaseStart: "2016.07"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "img/tricera016.jpg"
+coverImage: "img/tricera016.jpg"
 topics:
-  - title: ??
+  - title: ""
     images:
-      - "img/tricera016_small.jpg"
-      - "img/tricera015_small.jpg"
-      - "img/tricera003_small.jpg"
-      - "img/tricera002_small.jpg"
-      - "img/tricera006_small.jpg"
-      - "img/tricera007_small.jpg"
-      - "img/tricera018_small.jpg"
-      - "img/tricera017_small.jpg"
-      - "img/tricera019_small.jpg"
-      - "img/tricera010_small.jpg"
-      - "img/tricera011_small.jpg"
-      - "img/tricera013_small.jpg"
+      - "img/tricera016.jpg"
+      - "img/tricera015.jpg"
+      - "img/tricera003.jpg"
+      - "img/tricera002.jpg"
+    comment: |
+      これぞ松村流のトリケラトプス。よくよく考えると、松村さんのトリケラトプスってほとんど製品化されていないんですよね。松村流のトリケラトプスとして、過去作にも見られるポイントが2点。 ①「口裂け」タイプ Dino Press Vol.3(2001)に記載のとおり、松村さんはかねてからホホのついた草食恐竜の復元に疑問を持っていました。哺乳類が乳を吸うために獲得したホホを、草食恐竜がなぜ獲得したか？ホホがないと、口に含んだ食べ物をこぼしてしまうのか？などなど。それをテーマに同誌では「口裂けタイプ」のステゴサウルスとランベオサウルスのヘッドモデルを造形。 今回のトリケラトプスも、口裂けタイプで造形されています。 ②ツノとフリルの境界 WILD RUSH 第80回ではトリケラトプスを制作していますが、そのトリケラトプスは、「ツノとフリルの境界はなく、オオアタマガメのように、頭部は一枚のウロコで形成されていた」というテーマで造形されています。 今回は眼～鼻孔の間で細かいウロコが造形されていますが、フリル～ツノは境界線がありません。 また、今では当たり前の、前脚の外向き表現も盛り込まれています。
+  - title: ""
+    images:
+      - "img/tricera006.jpg"
+      - "img/tricera007.jpg"
+    comment: |
+      ディテールチェック。口内や肛門の作りこみも細かい。クチバシには模様があります。
+  - title: ""
+    images:
+      - "img/tricera018.jpg"
+      - "img/tricera017.jpg"
+    comment: |
+      幅の広い骨盤でどっしりした印象。逆に、ティラノサウルスは前から見ると薄いんですよね。
+  - title: ""
+    images:
+      - "img/tricera019.jpg"
+    comment: |
+      しばらくは海洋堂のトリケラトプスのスタンダードモデルとして君臨し続けるでしょう。
+  - title: ""
+    images:
+      - "img/tricera010.jpg"
+      - "img/tricera011.jpg"
+      - "img/tricera013.jpg"
+      - "img/tricera012.jpg"
+      - "img/tricera014.jpg"
+    comment: |
+      パッケージはアフリカゾウと同じくカラー印刷。「370 mm」を強調しています。
+  - title: ""
+    images:
+      - "img/tricera001.jpg"
+    comment: |
+      海洋堂、高価格帯のネイチャーフィギュアたち。購入層は限られるので「バカ売れ」することはないと思うが、それでもこのスタンスは続けて欲しい。欲しい人は少なくともここに一人います。
+  - title: ""
+    images:
+      - "img/20160209_797682.jpg"
+    comment: |
+      ワンフェス海洋堂ブースで販売する、会場限定アイテムの追加情報です！メガソフビアドバンス アフリカゾウの、ソフビキット版(¥7000)と、トリケラトプスのソフビキット(¥5000)！！#WF2016W価格は税込です。 pic.twitter.com/Znn9AXegvR— 【公式】海洋堂 (@kaiyodo_PR) 2016年1月26日
 ---
 
-????????????????????
+販売開始時期：2016年7月　価格：14,904円　企画制作：海洋堂<br />
+			原型制作：松村しのぶ　塗装設計：古田悟郎<br />
+			公式サイト：<a href="https://www.kyd-store.jp/fs/figure/mega-sofubi-advance_t_n/ma011">こちら</a><br />
+			■原型について<br />
+			メガソフビアドバンスの「シロナガスクジラ」や「<a href="../MSA-007AfricanElephant">アフリカゾウ</a>」は過去の原型を量産化したものでしたが、今回のトリケラトプスは造り下ろしのようです。日々研究が進む恐竜学なので、過去作の流用では海洋堂のコンセプトに反するのでしょう。<br />
+			■ラインナップのチョイスについて<br />
+			なぜメガソフビ最初の恐竜がトリケラトプスなのか？これは、現在も発売中の「<a href="../../dinotales_sofubi/2012">ダイノテイルズコレクション</a>」のティラノサウルスがあるからでしょう。（そろそろ販売終了しそうな気がします。）<br />
+			「ダイノテイルズコレクション」もサイズだけなら「メガソフビ」ですので、こちらのシリーズにはティラノサウルスに次ぐ人気種、トリケラトプスが選ばれたのでしょう。<br />
+			（記載はありませんが、このトリケラトプスもおそらく1/20サイズだと思います。）<br />
+			■メガソフビアドバンスの特徴<br />
+			「ダイノテイルズコレクション」のティラノサウルスは一部、原型（過去作）の造形を表現しきれいていませんでいた。これに対するアンサーとしての「原型に忠実な再現度がアドバンス！（パッケージ裏）」なのでしょう。<br />
+			<br />
+			ワンフェス2016冬では未塗装組み立てキット版（\5,000）が発売されました。<br />
