@@ -18,6 +18,10 @@ tags:
   - "-"
 figureTopImage: "img/chojugiga020.jpg"
 coverImage: "img/chojugiga020.jpg"
+resources:
+  package:
+    image: "img/chojugiga011.jpg"
+    description: "フレーム切手セットのボックス。両面に鳥獣戯画の絵が印刷されています。"
 topics:
   - title: "フィギュア本体"
     images:

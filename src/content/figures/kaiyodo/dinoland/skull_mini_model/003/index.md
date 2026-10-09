@@ -9,6 +9,10 @@ speciesGroup: ""
 maker: "海洋堂"
 figureTopImage: "skull002.jpg"
 coverImage: "skull002.jpg"
+resources:
+  package:
+    image: "dinoland_pack007.jpg"
+    description: "2種類のパッケージ。どちらもスミイレがしてありました。"
 topics:
   - title: ""
     images:

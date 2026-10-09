@@ -21,6 +21,10 @@ tags:
   - "-"
 figureTopImage: "img/akategani002.jpg"
 coverImage: "img/akategani002.jpg"
+resources:
+  package:
+    image: "img/akategani009.jpg"
+    description: "パッケージは前回から変更無し。"
 topics:
   - title: ""
     images:

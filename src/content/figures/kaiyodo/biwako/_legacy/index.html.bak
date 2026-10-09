@@ -1,0 +1,250 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>琵琶湖ネイチャーミュージアム</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>海洋堂フィギュアミュージアム黒壁<br />
+		長浜黒壁文化考現学　琵琶湖ネイチャーミュージアム</h4>
+		<table width="100%">
+			<tr>
+				<td>
+				<img height="269" src="img/biwako001.jpg" width="760" /></td>
+			</tr>
+			</table>
+			<p>
+			■概要<br />
+			企画・販売：龍遊館　製造：海洋堂　原型製作：松村しのぶ<br />
+			販売開始：2005年？　価格：840円<br />
+			滋賀の海洋堂フィギュアミュージアム黒壁にて販売されました。<br />
+			ラインナップは琵琶湖に生息する生き物で構成されています。<br />
+			過去のシリーズのものと同じ原型を使っていますが、素材がポリストーンとなり、造形や塗装のディテールが上がっています。<br />
+			コハクチョウのみ2020年になっても売っていました。<br />
+			<br />
+			■関連フィギュア<br />
+			<a href="../toyotomi/index.html">長浜黒壁文化考現学 豊臣秀吉の兜</a></p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/biwako002_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/biwako008_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/biwako012_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/biwako015_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/biwako020_small.jpg" width="146" /></a></td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+		
+			<table style="width: 100%">
+<tr>
+<th id="">箱</th></tr>
+<tr>
+<td><img height="278" src="img/biwakohako.jpg" width="756" /></td>
+</tr>
+<tr>
+<td class="comment">スリーブタイプのパッケージ。生き物の解説は製品のどこにも書いてありません。残念。</td>
+</tr>
+
+<tr>
+<th id="1">ニホンアマガエル</th></tr>
+<tr>
+<td><a href="img/biwako002.jpg">
+<img height="283" src="img/biwako002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako002.jpg" --></a><a href="img/biwako003.jpg"><img height="283" src="img/biwako003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako003.jpg" --></a></td>
+</tr>
+
+<tr>
+<td><a href="img/biwako004.jpg">
+<img height="283" src="img/biwako004_small.jpg" width="378" /></a></td>
+</tr>
+
+<tr>
+<td class="comment">分割線が無く、絶妙な黄緑～黄色の体色も美しいです。</td>
+</tr>
+
+<tr>
+<td><a href="img/biwako004.jpg">
+<!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako004.jpg" --></a><a href="img/biwako005.jpg">
+<img height="283" src="img/biwako005_small.jpg" width="378" /></a><a href="img/biwako006.jpg"><img height="283" src="img/biwako006_small.jpg" width="378" /></a></td>
+</tr>
+
+<tr>
+<td><a href="img/biwako007.jpg">
+<img height="283" src="img/biwako007_small.jpg" width="378" /></a></td>
+</tr>
+
+<tr>
+<td class="comment"><a href="../../anima/chocoegg_classic/index.html">チョコエッグ・クラシックのもの</a>と比較。脚の模様が無くなりました。腹の塗装はかなり本物に近いように感じます。胴体に走る黒い帯の表現もクオリティアップ。</td>
+</tr>
+
+<tr>
+<th id="2">オオクチバス</th></tr>
+<tr>
+<td><a href="img/biwako008.jpg">
+<img height="283" src="img/biwako008_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako008.jpg" --></a><a href="img/biwako009.jpg"><img height="283" src="img/biwako009_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako009.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment">ヒレや台座はクリアパーツを使用しています。胴体もポリストーンじゃないのかな？</td>
+</tr>
+
+<tr>
+<td><a href="img/biwako010.jpg">
+<img height="283" src="img/biwako010_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako010.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment"><a href="../../anima/chocoegg_classic/index.html">
+チョコエッグ・クラシック</a>(真ん中)と<a href="../../anima/anima_jap3">日本の動物3</a>(右)と比較。体色は今回が一番はっきりしています。</td>
+</tr>
+
+<tr>
+<th id="3">ビワコオオナマズ</th></tr>
+<tr>
+<td><a href="img/biwako012.jpg">
+<img height="283" src="img/biwako012_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako012.jpg" --></a><a href="img/biwako011.jpg"><img height="283" src="img/biwako011_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako011.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment">行きつけのショップで入手。店主に聞いたところ、現地で入荷してきたそうです。<br />
+<br />
+支柱は針金のような素材です。模様がいい出来です。</td>
+</tr>
+
+<tr>
+<td><a href="img/biwako013.jpg">
+<img height="283" src="img/biwako013_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako013.jpg" --></a><a href="img/biwako014.jpg"><img height="283" src="img/biwako014_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako014.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment"><a href="../../anima/chocoegg_classic/index.html">チョコエッグ・クラシック</a>(真ん中)と<a href="../../anima/anima_jap2">日本の動物2</a>と比較。模様が追加されたのが大きな違いでしょうか。分割線がなくなったのも良い。</td>
+</tr>
+
+<tr>
+<th id="4">コハクチョウ</th></tr>
+<tr>
+<td><a href="img/biwako015.jpg">
+<img height="283" src="img/biwako015_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako015.jpg" --></a><a href="img/biwako016.jpg"><img height="283" src="img/biwako016_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako016.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment">こちらのみ週天からラインナップ。</td>
+</tr>
+
+<tr>
+<td><a href="img/biwako017.jpg">
+<img height="283" src="img/biwako017_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako017.jpg" --></a><a href="img/biwako018.jpg"><img height="283" src="img/biwako018_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako018.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment"><a href="../../anima/syutenn">週天</a>と比較。顔の塗装が若干変更。体色もクリーム色が強くなり、土台も塗装が変更。</td>
+</tr>
+
+<tr>
+<th id="5">オオワシ</th></tr>
+<tr>
+<td><a href="img/biwako020.jpg">
+<img height="283" src="img/biwako020_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako020.jpg" --></a><a href="img/biwako019.jpg"><img height="283" src="img/biwako019_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako019.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment">鋭いくちばし、造形による羽根の表現、お見事です。</td>
+</tr>
+
+<tr>
+<td><a href="img/biwako021.jpg">
+<img height="283" src="img/biwako021_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako021.jpg" --></a><a href="img/biwako022.jpg"><img height="283" src="img/biwako022_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/biwako/img/biwako022.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment"><a href="../../anima/wagaten3">わが天</a>(真ん中)、<a href="../../anima/anima_jap5">日本の動物5</a>(右)と比較。今まで塗装による表現が強かった羽根は、造形による表現が強調されています。</td>
+</tr>
+
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

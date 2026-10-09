@@ -7,6 +7,7 @@ figureId: "006"
 species: "三葉虫"
 speciesGroup: "古代の節足動物"
 maker: "海洋堂"
+sculptor: "田熊勝夫"
 figureTopImage: "kahaku015.jpg"
 coverImage: "kahaku015.jpg"
 topics:
@@ -20,5 +21,4 @@ topics:
     images:
       - "kahaku019.jpg"
     comment: |
-      原型製作：田熊勝夫
 ---

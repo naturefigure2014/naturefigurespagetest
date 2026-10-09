@@ -7,6 +7,7 @@ figureId: "007"
 species: "アルシノイテリウム"
 speciesGroup: "古代の哺乳類"
 maker: "海洋堂"
+sculptor: "松村しのぶ"
 figureTopImage: "kahaku013.jpg"
 coverImage: "kahaku013.jpg"
 topics:
@@ -20,5 +21,5 @@ topics:
     images:
       - "kahaku021.jpg"
     comment: |
-      原型製作：松村しのぶ 角の太さが半端ないですね。頭部から胸までの骨格は海洋堂では他にあまり見かけないような気がします。
+      角の太さが半端ないですね。頭部から胸までの骨格は海洋堂では他にあまり見かけないような気がします。
 ---

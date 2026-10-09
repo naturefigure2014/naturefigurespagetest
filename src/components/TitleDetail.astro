@@ -33,6 +33,7 @@ const resourceSections = [
   ["解説書", "guide", entry.data.resources.guide],
   ["ディスプレイポップ", "display-pop", entry.data.resources.displayPop],
   ["カプセル", "capsule", entry.data.resources.capsule],
+  ["パッケージ", "package", entry.data.resources.package],
   ["販売場所", "sales-location", entry.data.resources.salesLocation]
 ] as const;
 ---
@@ -51,7 +52,8 @@ const resourceSections = [
             ? (
               <>
                 {entry.data.title1 && <span class="title-part1">{entry.data.title1}</span>}
-                {entry.data.title2 && <span class="title-part2">{entry.data.title2}</span>}
+                {entry.data.title1 && entry.data.title2 && <wbr />}
+                {entry.data.title2 && <span class:list={["title-part2", { "title-part2-after": entry.data.title1 }]}>{entry.data.title2}</span>}
               </>
             )
             : entry.data.title}

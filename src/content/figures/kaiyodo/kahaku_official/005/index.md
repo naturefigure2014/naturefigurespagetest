@@ -7,6 +7,7 @@ figureId: "005"
 species: "ラフレシア"
 speciesGroup: ""
 maker: "海洋堂"
+sculptor: "山本聖士"
 figureTopImage: "kahaku009.jpg"
 coverImage: "kahaku009.jpg"
 topics:
@@ -20,5 +21,4 @@ topics:
     images:
       - "kahaku003.jpg"
     comment: |
-      原型製作：山本聖士
 ---

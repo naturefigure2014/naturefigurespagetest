@@ -19,6 +19,9 @@ tags:
   - "-"
 figureTopImage: "img/kyoryuhaku2006_006.jpg"
 coverImage: "img/kyoryuhaku2006.png"
+resources:
+  package:
+    image: "img/kyoryuhaku2006_hako.jpg"
 topics:
   - title: "全体"
     images:

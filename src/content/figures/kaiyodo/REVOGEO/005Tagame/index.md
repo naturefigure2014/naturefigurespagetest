@@ -21,6 +21,9 @@ tags:
   - "-"
 figureTopImage: "img/tagame021.jpg"
 coverImage: "img/tagame021.jpg"
+resources:
+  package:
+    image: "img/tagame026.jpg"
 topics:
   - title: ""
     images: []

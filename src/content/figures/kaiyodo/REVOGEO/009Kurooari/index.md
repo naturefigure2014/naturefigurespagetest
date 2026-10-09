@@ -21,6 +21,9 @@ tags:
   - "-"
 figureTopImage: "img/kurooari001.jpg"
 coverImage: "img/kurooari001.jpg"
+resources:
+  package:
+    image: "img/kurooari028.jpg"
 topics:
   - title: ""
     images: []

@@ -7,6 +7,7 @@ figureId: "003"
 species: "ボンゴ"
 speciesGroup: "偶蹄類"
 maker: "海洋堂"
+sculptor: "松村しのぶ"
 figureTopImage: "kahaku011.jpg"
 coverImage: "kahaku011.jpg"
 topics:
@@ -20,5 +21,4 @@ topics:
     images:
       - "kahaku020.jpg"
     comment: |
-      原型製作：松村しのぶ
 ---

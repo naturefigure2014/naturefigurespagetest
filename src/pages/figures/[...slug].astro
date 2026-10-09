@@ -127,7 +127,8 @@ const makerBadgeClass = (() => {
                     ? (
                       <>
                         {title.data.title1 && <span class="title-part1">{title.data.title1}</span>}
-                        {title.data.title2 && <span class="title-part2">{title.data.title2}</span>}
+                        {title.data.title1 && title.data.title2 && <wbr />}
+                        {title.data.title2 && <span class:list={["title-part2", { "title-part2-after": title.data.title1 }]}>{title.data.title2}</span>}
                       </>
                     )
                     : title.data.title}
@@ -146,7 +147,8 @@ const makerBadgeClass = (() => {
                       ? (
                         <>
                           {entry.data.title1 && <span class="title-part1">{entry.data.title1}</span>}
-                          {entry.data.title2 && <span class="title-part2">{entry.data.title2}</span>}
+                          {entry.data.title1 && entry.data.title2 && <wbr />}
+                          {entry.data.title2 && <span class:list={["title-part2", { "title-part2-after": entry.data.title1 }]}>{entry.data.title2}</span>}
                         </>
                       )
                       : entry.data.title}
@@ -234,6 +236,12 @@ const makerBadgeClass = (() => {
             <>
               <dt>シリーズ名</dt>
               <dd class="series-names">{titleSeriesNames.map((name) => <span>{name}</span>)}</dd>
+            </>
+          )}
+          {title && titleHref && (
+            <>
+              <dt>収録タイトル</dt>
+              <dd><a href={titleHref}>{title.data.title}</a></dd>
             </>
           )}
           {freeTags.map(({ label, value }) => <><dt>{label}</dt><dd>{value}</dd></>)}

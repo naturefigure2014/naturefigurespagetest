@@ -7,6 +7,7 @@ figureId: "001"
 species: "アサヒガニ"
 speciesGroup: "カニ類"
 maker: "海洋堂"
+sculptor: "菅谷　中"
 figureTopImage: "kahaku007.jpg"
 coverImage: "kahaku007.jpg"
 topics:
@@ -20,5 +21,4 @@ topics:
     images:
       - "kahaku001.jpg"
     comment: |
-      原型製作：菅谷 中
 ---

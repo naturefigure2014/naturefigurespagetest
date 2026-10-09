@@ -21,6 +21,10 @@ tags:
   - "-"
 figureTopImage: "img/suzumebachi_header.png"
 coverImage: "img/suzumebachi_header.png"
+resources:
+  package:
+    image: "img/suzumebachi017.jpg"
+    description: "今回は裏面に製品写真が載せられています。"
 topics:
   - title: ""
     images:

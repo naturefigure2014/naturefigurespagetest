@@ -10,6 +10,10 @@ executiveProducer: 松村しのぶ
 species: ダイオウイカ
 speciesGroup: "イカ類"
 coverImage: "img/daiouika002_small.jpg"
+resources:
+  package:
+    image: "img/daiouikahako.jpg"
+    description: "パッケージデザインはポリストーン版アクアテイルズと同じ。"
 releaseStart: "2013年7月6日～10月6日"
 price: "2,500円"
 topics:

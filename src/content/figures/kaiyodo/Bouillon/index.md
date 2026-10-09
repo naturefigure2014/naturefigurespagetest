@@ -9,6 +9,10 @@ price: "各3,200円"
 releaseStart: "2011.04"
 figureTopImage: "img/Bouillon004.jpg"
 coverImage: "img/Bouillon005.jpg"
+resources:
+  package:
+    image: "img/Bouillon017.jpg"
+    description: "ふたの裏には糸井さんのサインが印刷されています。いつものスポンジのような梱包材です。"
 topics:
   - title: "【まってる】"
     images:

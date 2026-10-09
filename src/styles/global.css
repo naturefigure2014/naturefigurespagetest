@@ -258,18 +258,14 @@ body:has(.detail-style) { background: #f8faf8; }
 .title-layout.detail-style .title-heading { margin-bottom: var(--detail-block-gap); padding: 7px 9px; background: #2c7a55; border-radius: 4px; }
 .figure-layout.detail-style .figure-heading h1,
 .title-layout.detail-style .title-heading h1 { color: #fff; font-size: clamp(.93rem, 1.87vw, 1.45rem); margin: 3px 0 2px; }
-.title-layout.detail-style .title-heading h1 .title-part1,
-.title-layout.detail-style .title-heading h1 .title-part2,
-.figure-layout.detail-style .figure-series-title .title-part1,
-.figure-layout.detail-style .figure-series-title .title-part2 { display: block; }
+.title-layout.detail-style .title-heading h1 .title-part2-after,
+.figure-layout.detail-style .figure-title-banner .title-part2-after { margin-inline-start: .5em; }
 .title-layout.detail-style .title-heading h1 .title-part2 { color: #f5e6b8; font-size: .8em; font-style: normal; }
 .figure-layout.detail-style .figure-series-title .title-part2 { color: #f5e6b8; font-size: inherit; font-style: normal; }
 .figure-layout.detail-style .figure-title-banner { align-self: stretch; width: 100%; margin-bottom: 3px; padding: 7px 9px; border-radius: 4px; background: #2c7a55; color: #fff; }
 .figure-layout.detail-style .figure-title-banner.single-lineup-title-banner { margin-bottom: var(--detail-block-gap); }
 .figure-layout.detail-style .figure-title-banner.single-lineup-title-banner h1 { display: block; margin: 3px 0 2px; padding: 0; border-radius: 0; background: transparent; color: #fff; font-size: clamp(.93rem, 1.87vw, 1.45rem); }
 .figure-layout.detail-style .figure-title-banner.single-lineup-title-banner h1::before { display: none; }
-.figure-layout.detail-style .single-lineup-title-banner .title-part1,
-.figure-layout.detail-style .single-lineup-title-banner .title-part2 { display: block; }
 .figure-layout.detail-style .single-lineup-title-banner .title-part2 { color: #f5e6b8; font-size: .8em; font-style: normal; }
 .figure-layout.detail-style .figure-title-banner .figure-context { margin: 0 0 3px; color: #fff; }
 .figure-layout.detail-style .figure-title-banner .figure-series-title { color: #fff; font-size: .945rem; font-weight: 700; line-height: 1.25; }
@@ -513,6 +509,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
       "guide"
       "display-pop"
       "capsule"
+      "package"
       "sales-location"
       "related-post"
       "related"
@@ -528,6 +525,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
   .title-main > .title-resource-guide { grid-area: guide; }
   .title-main > .title-resource-display-pop { grid-area: display-pop; }
   .title-main > .title-resource-capsule { grid-area: capsule; }
+  .title-main > .title-resource-package { grid-area: package; }
   .title-main > .title-resource-sales-location { grid-area: sales-location; }
   .title-main > .title-related-post-section { grid-area: related-post; }
   .title-sidebar > :not(.title-basic-card) { grid-area: related; }

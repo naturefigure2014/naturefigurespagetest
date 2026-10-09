@@ -53,6 +53,10 @@ const figures = defineCollection({
         image: z.union([z.string(), z.number()]).optional(),
         description: z.string().optional()
       }).optional(),
+      package: z.object({
+        image: z.union([z.string(), z.number()]).optional(),
+        description: z.string().optional()
+      }).optional(),
       salesLocation: z.object({
         image: z.union([z.string(), z.number()]).optional(),
         description: z.string().optional()

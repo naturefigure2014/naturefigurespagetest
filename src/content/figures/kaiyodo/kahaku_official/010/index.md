@@ -7,6 +7,7 @@ figureId: "010"
 species: "アパトサウルス"
 speciesGroup: "竜脚類"
 maker: "海洋堂"
+sculptor: "山本聖士"
 figureTopImage: "kahaku028.jpg"
 coverImage: "kahaku028.jpg"
 topics:
@@ -21,5 +22,5 @@ topics:
       - "kahaku030.jpg"
       - "kahaku033.jpg"
     comment: |
-      原型製作：山本聖士 ジオラマチックな土台もグッド。全体のシルエットも美しい。皮膚のシワやトゲも素晴らしい。
+      ジオラマチックな土台もグッド。全体のシルエットも美しい。皮膚のシワやトゲも素晴らしい。
 ---

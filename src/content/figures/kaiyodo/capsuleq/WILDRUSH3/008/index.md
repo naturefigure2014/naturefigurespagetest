@@ -9,6 +9,10 @@ speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "WR3_hako2.jpg"
 coverImage: "WR3_hako2.jpg"
+resources:
+  package:
+    image: "WR3_hako2.jpg"
+    description: "パッケージ上面が「miniQ」から「海洋堂」に変更されています。"
 topics:
   - title: ""
     images:

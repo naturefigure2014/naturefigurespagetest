@@ -21,6 +21,10 @@ tags:
   - "-"
 figureTopImage: "img/sasori008.jpg"
 coverImage: "img/sasori008.jpg"
+resources:
+  package:
+    image: "img/sasori001.jpg"
+    description: "本のような作りで、表紙は地球を意識したデザイン。"
 topics:
   - title: ""
     images:

@@ -21,6 +21,9 @@ tags:
   - "-"
 figureTopImage: "img/giraffa021.jpg"
 coverImage: "img/giraffa021.jpg"
+resources:
+  package:
+    image: "img/giraffa023.jpg"
 topics:
   - title: ""
     images: []

@@ -1,6 +1,8 @@
 ---
 title: 日本の動物コレクション I 東北/北限のサル
-description: カプセルQミュージアム「日本の動物コレクション1」。
+title1: 日本の動物コレクション I
+title2: 東北/北限のサル
+description: ""
 contentType: title
 kind: series
 maker: 海洋堂
