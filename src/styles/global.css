@@ -1,4 +1,4 @@
-﻿:root {
+:root {
   font-family: "Noto Sans JP", sans-serif;
   color: #29463c;
   background: #f6faf8;
@@ -40,7 +40,7 @@ h2 { margin-top: 2.5rem; }
 .meta { color: #687c73; font-size: .9rem; }
 .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
 .card { display: block; background: #fff; border: 1px solid #dfe8e4; border-radius: 10px; text-decoration: none; overflow: hidden; }
-.card-image, .thumb { width: 100%; aspect-ratio: 4 / 3; object-fit: contain; display: block; }
+.card-image, .thumb { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block; }
 .thumb { background: #e7eee9; display: grid; place-items: center; color: #71847b; }
 .body { padding: 18px; }
 .card h3 { margin: .35rem 0 .4rem; }
@@ -101,7 +101,7 @@ h2 { margin-top: 2.5rem; }
 }
 .home-figure-card img, .home-figure-placeholder,
 .home-blog-card img, .home-blog-placeholder {
-  display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: contain;
+  display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover;
 }
 .home-figure-placeholder, .home-blog-placeholder {
   display: grid; place-items: center; background: #e7eee9; color: #71847b; font-size: .8rem; text-align: center; line-height: 1.4;
@@ -157,7 +157,7 @@ h2 { margin-top: 2.5rem; }
 .species-group-card:hover { border-color: #a9cbbb; }
 .species-group-card:focus-visible { outline: 2px solid #32866a; outline-offset: 2px; }
 .species-group-card[hidden] { display: none; }
-.species-group-card img, .species-group-placeholder { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: contain; background: #f6f8f5; }
+.species-group-card img, .species-group-placeholder { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: #f6f8f5; }
 .species-group-placeholder { position: relative; isolation: isolate; overflow: hidden; }
 .species-group-placeholder::before { position: absolute; inset: 0; display: grid; place-items: center; padding: 6px; color: rgba(41, 112, 87, .25); content: attr(data-label); font-size: .72rem; font-weight: 700; line-height: 1.25; letter-spacing: .04em; text-align: center; overflow-wrap: anywhere; }
 .species-category--paleontology-dinosaurs .species-group-placeholder::before,
@@ -201,7 +201,7 @@ h2 { margin-top: 2.5rem; }
 .primates-section h2 { margin: 0 0 10px; color: #29463c; font-size: 1rem; }
 .primates-featured { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; }
 .primate-feature-card { overflow: hidden; border: 1px solid #dce8df; border-radius: 8px; background: #fff; color: #29463c; text-decoration: none; box-shadow: 0 2px 8px rgba(45, 83, 48, .06); }
-.primate-feature-card > img { display: block; width: 100%; height: 130px; object-fit: contain; }
+.primate-feature-card > img { display: block; width: 100%; height: 130px; object-fit: cover; }
 .primate-feature-body { position: relative; padding: 8px 34px 10px 12px; }
 .primate-feature-body strong, .primate-feature-body em, .primate-feature-body small { display: block; }
 .primate-feature-body strong { color: #1c6380; font-size: .78rem; }
@@ -210,7 +210,7 @@ h2 { margin-top: 2.5rem; }
 .primate-feature-body > span { position: absolute; right: 12px; bottom: 14px; color: #5b8b9c; font-size: 1.35rem; }
 .primate-list { display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 26px; }
 .primate-list-item { display: grid; grid-template-columns: 47px minmax(0, 1fr) 12px; gap: 9px; align-items: center; min-height: 57px; border-bottom: 1px solid #dfe9e4; color: #42665b; text-decoration: none; }
-.primate-list-item img { width: 47px; height: 39px; border-radius: 5px; object-fit: contain; background: #eef5ef; }
+.primate-list-item img { width: 47px; height: 39px; border-radius: 5px; object-fit: cover; background: #eef5ef; }
 .primate-list-item strong, .primate-list-item small { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .primate-list-item strong { font-size: .72rem; }
 .primate-list-item small { color: #78958a; font-size: .58rem; }
@@ -227,7 +227,7 @@ h2 { margin-top: 2.5rem; }
 .species-detail-count { margin: 3px 0 14px; color: #779188; font-size: .75rem; }
 .species-detail-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 15px 12px; }
 .species-detail-card { display: block; overflow: hidden; border: 1px solid #dce8df; border-radius: 8px; background: #fff; color: #29463c; text-decoration: none; }
-.species-detail-card > img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: contain; background: #f4f8f4; }
+.species-detail-card > img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: #f4f8f4; }
 .species-detail-card > div { position: relative; padding: 10px 32px 10px 12px; }
 .species-detail-card strong, .species-detail-card small { display: block; }
 .species-detail-card strong { color: #1c6380; font-size: .82rem; }
@@ -332,7 +332,7 @@ body:has(.detail-style) { background: #f8faf8; }
 .topic-images.two { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .topic-images.three-or-more { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .topic-image-link { display: block; min-width: 0; cursor: zoom-in; }
-.topic-images img { width: 100%; aspect-ratio: 4 / 3; object-fit: contain; display: block; border-radius: 3px; transition: opacity .15s ease, transform .15s ease; }
+.topic-images img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block; border-radius: 3px; transition: opacity .15s ease, transform .15s ease; }
 .topic-image-link:hover img { opacity: .9; }
 .topic-comment { margin: 0; color: #4e655b; font-size: .86rem; line-height: 1.8; white-space: pre-line; }
 .topic-body:not(.has-images) .topic-comment { padding: 2px 4px 4px; }
@@ -347,7 +347,7 @@ body:has(.detail-style) { background: #f8faf8; }
 }
 .basic-heading { padding: 8px 2px 0; color: #1d5364; font-size: .78rem; font-weight: 700; line-height: 1.5; }
 .basic-top { display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 15px; align-items: start; }
-.figure-cover { width: 112px; height: auto; aspect-ratio: 4 / 3; object-fit: contain; border-radius: 6px; display: block; background: #e8eeeb; }
+.figure-cover { width: 112px; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px; display: block; background: #e8eeeb; }
 .info-list { display: grid; grid-template-columns: max-content 1fr; gap: 5px 10px; margin: 5px 0 0; font-size: .73rem; line-height: 1.6; }
 .info-list dt { color: #61756d; }
 .info-list dd { margin: 0; color: #526860; }
@@ -360,7 +360,7 @@ body:has(.detail-style) { background: #f8faf8; }
 .related-card h2 { margin: 0 0 8px; font-size: .91rem; color: #23483a; }
 .related-item { display: grid; grid-template-columns: 55px minmax(0,1fr) 15px; gap: 10px; align-items: center; min-height: 58px; padding: 7px 4px; border-top: 1px solid #edf1ef; text-decoration: none; }
 .related-item:first-of-type { border-top: 0; }
-.related-item img, .related-placeholder { width: 55px; height: 45px; object-fit: contain; border-radius: 4px; background: #e8eeeb; display: grid; place-items: center; color: #6e8279; font-size: .55rem; font-weight: 800; }
+.related-item img, .related-placeholder { width: 55px; height: 45px; object-fit: cover; border-radius: 4px; background: #e8eeeb; display: grid; place-items: center; color: #6e8279; font-size: .55rem; font-weight: 800; }
 .related-item strong { display: block; color: #294d40; font-size: .75rem; line-height: 1.4; }
 .related-item small { display: block; color: #73857e; font-size: .64rem; margin-top: 2px; }
 .related-item b { color: #668077; font-size: 1.2rem; font-weight: 400; text-align: right; }
@@ -392,7 +392,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-directory-heading a span { margin-left: 4px; font-size: .9rem; }
 .maker-pickup-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 9px; }
 .maker-pickup-card { position: relative; display: block; min-width: 0; overflow: hidden; border: 1px solid #dbe7e2; border-radius: 7px; color: inherit; background: #fff; text-decoration: none; }
-.maker-pickup-card img, .maker-pickup-placeholder { width: 100%; aspect-ratio: 4 / 3; object-fit: contain; display: grid; place-items: center; background: linear-gradient(135deg, #e4f1eb, #cddfd6); color: #54806d; font-size: .72rem; font-weight: 800; }
+.maker-pickup-card img, .maker-pickup-placeholder { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: grid; place-items: center; background: linear-gradient(135deg, #e4f1eb, #cddfd6); color: #54806d; font-size: .72rem; font-weight: 800; }
 .maker-pickup-caption { display: block; min-height: 54px; padding: 7px 24px 7px 8px; }
 .maker-pickup-caption strong { display: block; color: #294d40; font-size: .72rem; line-height: 1.35; }
 .maker-pickup-caption small { display: inline-block; margin-top: 5px; padding: 2px 8px; border-radius: 99px; color: #4a83a2; background: #eef7fb; font-size: .58rem; }
@@ -428,7 +428,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-detail-card-grid { display: grid; gap: 12px; }
 .maker-detail-card-grid--five { grid-template-columns: repeat(5, minmax(0, 1fr)); }
 .maker-detail-card { overflow: hidden; border: 1px solid #dbe7e2; border-radius: 7px; color: #294d40; background: #fff; text-decoration: none; }
-.maker-detail-card img, .maker-detail-card-placeholder { display: grid; width: 100%; aspect-ratio: 4 / 3; place-items: center; object-fit: contain; color: #5b836e; background: linear-gradient(135deg, #e4f1eb, #cddfd6); font-size: 2rem; }
+.maker-detail-card img, .maker-detail-card-placeholder { display: grid; width: 100%; aspect-ratio: 4 / 3; place-items: center; object-fit: cover; color: #5b836e; background: linear-gradient(135deg, #e4f1eb, #cddfd6); font-size: 2rem; }
 .maker-detail-card strong { display: block; padding: 10px; font-size: .78rem; line-height: 1.35; }
 .maker-detail-description { margin-top: 16px; padding: 14px 16px; border-left: 3px solid #6a9c7d; color: #4d675a; background: #f1f8f3; font-size: .84rem; line-height: 1.8; }
 .maker-detail-description > :first-child { margin-top: 0; }
@@ -462,7 +462,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .related-post-body { overflow-x: auto; }
 .lineup-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 5px; padding: 10px; }
 .lineup-item { display: block; min-width: 0; color: inherit; text-decoration: none; background: #f2f5f3; border-radius: 4px; overflow: hidden; }
-.lineup-item img, .lineup-placeholder { width: 100%; aspect-ratio: 4 / 3; object-fit: contain; display: grid; place-items: center; background: #e7eee9; color: #71847b; }
+.lineup-item img, .lineup-placeholder { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: grid; place-items: center; background: #e7eee9; color: #71847b; }
 .lineup-caption { display: block; padding: 7px 8px 8px; }
 .lineup-caption strong { display: block; color: #294d40; font-size: .76rem; line-height: 1.4; }
 .lineup-caption em { display: block; color: #1976b9; font-size: .65rem; font-style: normal; font-weight: 800; }
@@ -688,7 +688,7 @@ body.lightbox-open { overflow: hidden; }
 .blog-tags { display: flex; flex-wrap: wrap; gap: 5px; }
 .blog-tags span { padding: 3px 8px; border-radius: 999px; background: #edf3ef; color: #587066; font-size: .68rem; line-height: 1.2; }
 .blog-card-media { position: relative; min-height: 128px; overflow: hidden; border-radius: 7px; background: #e4ebe7; }
-.blog-card-media img, .blog-placeholder { width: 100%; height: 100%; min-height: 128px; object-fit: contain; display: block; }
+.blog-card-media img, .blog-placeholder { width: 100%; height: 100%; min-height: 128px; object-fit: cover; display: block; }
 .blog-placeholder { display: grid; place-items: center; background: linear-gradient(135deg, #dcebe3, #b9d0c3); color: #35614d; text-align: center; letter-spacing: .16em; font-size: .7rem; font-weight: 800; }
 .blog-arrow { position: absolute; right: 8px; top: 50%; transform: translateY(-50%); width: 28px; height: 28px; display: grid; place-items: center; border-radius: 50%; background: rgba(255,255,255,.88); color: #286044; font-size: 1.35rem; opacity: 0; transition: opacity .15s ease; }
 .blog-card:hover .blog-arrow { opacity: 1; }
