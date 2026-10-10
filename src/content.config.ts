@@ -23,7 +23,7 @@ const figures = defineCollection({
     titleId: z.string().optional(),
     // This is the stable lineup/figure ID inside a TITLE: 001, 002, ...
     figureId: z.string().optional(),
-    maker: z.string().optional(),
+    maker: z.union([z.string(), z.array(z.string())]).optional(),
     sculptor: z.string().optional(),
     executiveProducer: z.string().optional(),
     freetag: z.array(z.object({
@@ -138,6 +138,7 @@ const makers = defineCollection({
     seriesSections: z.array(z.object({
       name: z.string(),
       format: z.string().optional(),
+      showAllFigures: z.boolean().default(false),
       titleIds: z.array(z.string()).default([]),
       cards: z.array(z.object({
         name: z.string(),

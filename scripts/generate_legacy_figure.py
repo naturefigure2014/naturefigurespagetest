@@ -190,7 +190,7 @@ def extract_resources(main: Node) -> dict[str, dict[str, str]]:
 
 def release_start(text: str) -> str | None:
     match = re.search(
-        r"(?:販売開始時期|発売開始時期|発売開始|販売開始|発売日)\s*[：:：]?\s*"
+        rf"(?:{'|'.join(map(re.escape, RELEASE_START_LABELS))})\s*[：:：]?\s*"
         r"((?:19|20)\d{2})(?:年|[./-])\s*(\d{1,2})(?:月|[./-])?",
         text,
     )
@@ -202,7 +202,7 @@ def release_start(text: str) -> str | None:
 def sales_period(text: str) -> str | None:
     date = r"((?:19|20)\d{2})(?:年|[./-])\s*(\d{1,2})(?:月|[./-])\s*(\d{1,2})日?"
     match = re.search(
-        rf"(?:販売時期|発売時期|販売期間|発売期間)\s*[：:：]?\s*"
+        rf"(?:{'|'.join(map(re.escape, SALES_PERIOD_LABELS))})\s*[：:：]?\s*"
         rf"{date}\s*(?:～|〜|~|–|—|－|-|から)\s*{date}",
         text,
     )
@@ -220,6 +220,10 @@ def extract_price(text: str) -> str | None:
     if not match:
         return None
     return match.group(1)
+
+
+RELEASE_START_LABELS = ("販売開始時期", "発売開始時期", "発売開始", "販売開始", "発売日")
+SALES_PERIOD_LABELS = ("販売時期", "発売時期", "販売期間", "発売期間")
 
 
 METADATA_LABELS = {
@@ -267,8 +271,37 @@ def extract_metadata(text: str) -> dict[str, str]:
     return metadata
 
 
+def extract_freetags(text: str) -> list[dict[str, str]]:
+    known_labels = {
+        label
+        for field_labels in METADATA_LABELS.values()
+        for label in field_labels
+    } | set(RELEASE_START_LABELS) | set(SALES_PERIOD_LABELS)
+    freetags: list[dict[str, str]] = []
+    pair_pattern = re.compile(
+        r"(?:^|[\s　])([^：:\r\n]+?)\s*[：:]\s*"
+        r"(.*?)(?=(?:[\s　]+[^：:\r\n]+?\s*[：:])|[\r\n]|$)"
+    )
+    for match in pair_pattern.finditer(text):
+        label = normalize_text(match.group(1))
+        value = normalize_text(match.group(2))
+        if label and value and label not in known_labels:
+            freetags.append({"label": label, "value": value})
+    return freetags
+
+
 def yaml_field(name: str, value: str) -> str:
     return f"{name}: {quoted(value)}"
+
+
+def append_freetags(lines: list[str], freetags: list[dict[str, str]]):
+    if not freetags:
+        return
+    lines.append("freetag:")
+    lines.extend(
+        f"  - label: {quoted(freetag['label'])}\n    value: {quoted(freetag['value'])}"
+        for freetag in freetags
+    )
 
 
 def append_metadata(lines: list[str], metadata: dict[str, str], fields: tuple[str, ...]):
@@ -383,6 +416,7 @@ def write_title_page(
     cover: str,
     collection: str,
     metadata: dict[str, str],
+    freetags: list[dict[str, str]],
     resources: dict[str, dict[str, str]],
 ):
     title_id = figure_content_id(folder)
@@ -401,6 +435,7 @@ def write_title_page(
         "executiveProducer", "seriesName", "releaseStart", "price", "species",
         "speciesGroup", "salesPeriod", "genre", "tags",
     ))
+    append_freetags(lines, freetags)
     lines.extend([f"coverImage: {quoted(cover)}", f"collectionImage: {quoted(collection)}"])
     if resources:
         lines.append("resources:")
@@ -506,6 +541,7 @@ def write_single_figure_page(
     overview: str,
     items: list[dict],
     metadata: dict[str, str],
+    freetags: list[dict[str, str]],
     cover: str,
     main: Node,
     resources: dict[str, dict[str, str]],
@@ -524,6 +560,7 @@ def write_single_figure_page(
         "sculptor", "executiveProducer", "seriesName", "species", "speciesGroup",
         "price", "releaseStart", "salesPeriod", "genre", "tags",
     ))
+    append_freetags(lines, freetags)
     lines.extend([f"figureTopImage: {quoted(cover)}", f"coverImage: {quoted(cover)}"])
     package = resources.get("package")
     if package:
@@ -577,7 +614,8 @@ def generate(source: Path, content_type: str):
     metadata.setdefault("releaseStart", release_start(metadata_source) or "")
     metadata.setdefault("salesPeriod", sales_period(metadata_source) or "")
     metadata.setdefault("price", extract_price(metadata_source) or "")
-    metadata.setdefault("sculptor", extract_sculptor(metadata_source) or "")
+    metadata.setdefault("sculptor", extract_sculptor(metadata_source) or "-")
+    freetags = extract_freetags(metadata_source)
     # Always resolve images relative to the working collection folder, since
     # the source HTML may have been relocated to _legacy/ or legacy-html/.
     image_dir = output_folder / "img"
@@ -593,7 +631,7 @@ def generate(source: Path, content_type: str):
     cover = f"img/{Path(cover_source).name}" if cover_source else ""
     collection = f"img/{Path(collection_source).name}" if collection_source else cover
     if content_type == "title":
-        write_title_page(output_folder, title, maker, overview, items, cover, collection, metadata, resources)
+        write_title_page(output_folder, title, maker, overview, items, cover, collection, metadata, freetags, resources)
         title_id = figure_content_id(output_folder)
         for index, item in enumerate(items, 1):
             for topic in item["topics"]:
@@ -607,7 +645,7 @@ def generate(source: Path, content_type: str):
             write_figure_page(output_folder, item, index, maker, metadata)
         print(f"Generated {output_folder / 'index.md'} and {len(items)} figure pages (titleId: {title_id}).")
     else:
-        write_single_figure_page(output_folder, title, maker, overview, items, metadata, cover, main, resources)
+        write_single_figure_page(output_folder, title, maker, overview, items, metadata, freetags, cover, main, resources)
         print(f"Generated {output_folder / 'index.md'} as a singleLineup figure.")
 
 

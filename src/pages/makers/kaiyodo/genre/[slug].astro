@@ -4,6 +4,7 @@ import BaseLayout from "../../../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../../../lib/figure-images";
 import { resolveMakerImage } from "../../../../lib/maker-images";
+import { makerNames } from "../../../../lib/maker";
 import { siteUrl } from "../../../../lib/site-url";
 
 export async function getStaticPaths() {
@@ -24,7 +25,7 @@ const genreEntries = figures.filter((item) => {
   const isTitle = item.data.contentType === "title";
   const isSingleLineupFigure = item.data.contentType === "figure" && item.data.kind === "singleLineup";
 
-  return item.data.maker === page.data.maker
+  return makerNames(item.data.maker).includes(page.data.maker)
     && item.data.genre.includes(page.data.genreSlug)
     && (isTitle || isSingleLineupFigure);
 });

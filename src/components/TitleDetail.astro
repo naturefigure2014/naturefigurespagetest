@@ -4,6 +4,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import { resolveFigureImage } from "../lib/figure-images";
 import { formatFigureId } from "../lib/figure-id";
+import { makerBadgeClass, makerNames } from "../lib/maker";
 import { siteUrl } from "../lib/site-url";
 
 const { entry } = Astro.props;
@@ -24,7 +25,7 @@ const lineup = figures
   })
   .sort((a, b) => (a.data.figureId ?? "").localeCompare(b.data.figureId ?? "", undefined, { numeric: true }));
 
-const makerBadgeClass = entry.data.maker === "海洋堂" ? "maker-kaiyodo" : "maker-default";
+const titleMakers = makerNames(entry.data.maker);
 const hasCustomTitle = Boolean(entry.data.title1 || entry.data.title2);
 const collectionPhoto = entry.data.collectionImage
   ? resolveFigureImage(entry.id, entry.data.collectionImage)
@@ -44,7 +45,9 @@ const resourceSections = [
     <article class="title-main">
       <header class="title-heading">
         <div class="title-heading-meta">
-          <p class:list={["eyebrow", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</p>
+          {titleMakers.length > 0
+            ? titleMakers.map((maker) => <span class:list={["eyebrow", makerBadgeClass(maker)]}>{maker}</span>)
+            : <span class:list={["eyebrow", "maker-default"]}>メーカー</span>}
           {seriesNames[0] && <span class="title-series-label">{seriesNames[0]}</span>}
         </div>
         <h1>

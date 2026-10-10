@@ -4,6 +4,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
 import { formatFigureId } from "../../lib/figure-id";
+import { makerBadgeClass, makerNames } from "../../lib/maker";
 import { siteUrl } from "../../lib/site-url";
 
 export async function getStaticPaths() {
@@ -90,17 +91,7 @@ const isSingleLineup = entry.data.kind === "singleLineup";
 const hasEntryCustomTitle = Boolean(entry.data.title1 || entry.data.title2);
 const figureHeading = `${formatFigureId(entry.data.figureId) ?? ""} ${entry.data.title}`.trim();
 
-// メーカーごとのラベル色。海洋堂は青にしています。
-const makerBadgeClass = (() => {
-  switch (entry.data.maker) {
-    case "海洋堂": return "maker-kaiyodo";
-    case "バンダイ": return "maker-bandai";
-    case "タカラトミー": return "maker-takaratomy";
-    case "リーメント": return "maker-re-ment";
-    case "奇譚クラブ": return "maker-kitan-club";
-    default: return "maker-default";
-  }
-})();
+const entryMakers = makerNames(entry.data.maker);
 ---
 <BaseLayout title={`${entry.data.title} | NATURE FIGURE`} description={entry.data.description}>
   <div class="breadcrumb">
@@ -117,7 +108,7 @@ const makerBadgeClass = (() => {
             ? (
               <div class="figure-title-banner">
                 <p class="figure-context">
-                  {entry.data.maker && <span class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker}</span>}
+                  {entryMakers.map((maker) => <span class:list={["eyebrow", "maker-badge", makerBadgeClass(maker)]}>{maker}</span>)}
                   {titleSeriesNames[0] && <span class="figure-title-context">{titleSeriesNames[0]}</span>}
                 </p>
                 <div class="figure-series-title" aria-label={hasCustomTitle
@@ -139,7 +130,9 @@ const makerBadgeClass = (() => {
               ? (
                 <div class="figure-title-banner single-lineup-title-banner">
                   <p class="figure-context">
-                    <span class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</span>
+                    {entryMakers.length > 0
+                      ? entryMakers.map((maker) => <span class:list={["eyebrow", "maker-badge", makerBadgeClass(maker)]}>{maker}</span>)
+                      : <span class:list={["eyebrow", "maker-badge", "maker-default"]}>メーカー</span>}
                     {titleSeriesNames[0] && <span class="figure-title-context">{titleSeriesNames[0]}</span>}
                   </p>
                   <h1>
@@ -155,7 +148,13 @@ const makerBadgeClass = (() => {
                   </h1>
                 </div>
               )
-              : <p class:list={["eyebrow", "maker-badge", makerBadgeClass]}>{entry.data.maker ?? "メーカー"}</p>}
+              : (
+                <p class="figure-context">
+                  {entryMakers.length > 0
+                    ? entryMakers.map((maker) => <span class:list={["eyebrow", "maker-badge", makerBadgeClass(maker)]}>{maker}</span>)
+                    : <span class:list={["eyebrow", "maker-badge", "maker-default"]}>メーカー</span>}
+                </p>
+              )}
           {!isSingleLineup && <h1>{figureHeading}</h1>}
           {entry.data.releaseDate && (
             <p class="figure-date">◷ {formatDate(entry.data.releaseDate)}</p>
@@ -262,7 +261,7 @@ const makerBadgeClass = (() => {
             {titleImage ? <img src={titleImage} alt="" /> : <span class="related-placeholder">TITLE</span>}
             <span>
               <strong>{title.data.title}</strong>
-              <small>{title.data.maker ?? ""}</small>
+              <small>{makerNames(title.data.maker).join("・")}</small>
             </span>
             <b>›</b>
           </a>
@@ -276,7 +275,7 @@ const makerBadgeClass = (() => {
             {titleImage ? <img src={titleImage} alt="" /> : <span class="related-placeholder">TITLE</span>}
             <span>
               <strong>{title.data.title}</strong>
-              <small>{title.data.maker ?? ""}</small>
+              <small>{makerNames(title.data.maker).join("・")}</small>
             </span>
             <b>›</b>
           </a>

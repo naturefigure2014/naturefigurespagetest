@@ -61,6 +61,7 @@ seriesSections:
     format: ソフビ
   - name: ソフビトイボックス
     format: ソフビ
+    showAllFigures: true
   - name: miniQ
     format: ガチャ
   - name: naturetales・Dinotalesシリーズ

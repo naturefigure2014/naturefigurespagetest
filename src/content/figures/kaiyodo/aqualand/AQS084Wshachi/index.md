@@ -4,7 +4,7 @@ description:
 titleId: kaiyodo/aqualand
 figureId: "AQS-084W"
 species: シャチ
-speciesGroup: 哺乳類/クジラ類
+speciesGroup: クジラ・イルカ類
 contentType: figure
 maker: 海洋堂
 sculptor: 木下隆志

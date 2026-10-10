@@ -3,6 +3,7 @@ import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
+import { makerBadgeClass, makerNames } from "../../lib/maker";
 import { siteUrl } from "../../lib/site-url";
 /*
 export async function getStaticPaths() {
@@ -65,21 +66,11 @@ const imageFor = (figure: (typeof allFigures)[number]) => {
     .map(imageForFigure)
     .find((image) => image !== undefined);
 };
-const makerBadgeClass = (maker?: string) => {
-  switch (maker) {
-    case "海洋堂": return "maker-kaiyodo";
-    case "バンダイ": return "maker-bandai";
-    case "タカラトミー": return "maker-takaratomy";
-    case "リーメント": return "maker-re-ment";
-    case "奇譚クラブ": return "maker-kitan-club";
-    default: return "maker-default";
-  }
-};
 const figureMetadata = (figure: (typeof allFigures)[number]) => {
   const title = titleForFigure(figure);
   const seriesName = title?.data.seriesName;
   const firstSeriesName = Array.isArray(seriesName) ? seriesName[0] : seriesName;
-  const maker = title?.data.maker ?? figure.data.maker;
+  const makers = makerNames(title?.data.maker ?? figure.data.maker);
   const releaseYear =
     (figure.data.releaseDate instanceof Date
       ? figure.data.releaseDate.getFullYear().toString()
@@ -93,8 +84,8 @@ const figureMetadata = (figure: (typeof allFigures)[number]) => {
   return {
     seriesName: firstSeriesName || "-",
     sculptor: figure.data.sculptor || "-",
-    maker: maker || "-",
-    makerClass: makerBadgeClass(maker),
+    maker: makers.length > 0 ? makers.join("・") : "-",
+    makerClass: makerBadgeClass(makers[0] ?? ""),
     releaseYear
   };
 };

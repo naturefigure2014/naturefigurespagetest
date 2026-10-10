@@ -4,6 +4,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
 import { resolveMakerImage } from "../../lib/maker-images";
+import { makerNames } from "../../lib/maker";
 import { siteUrl } from "../../lib/site-url";
 
 export async function getStaticPaths() {
@@ -58,9 +59,18 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
       .filter((item): item is (typeof titleEntries)[number] => Boolean(item))
       .slice(0, section.maxTitles);
   }
-  return titleEntries
-    .filter((item) => item.data.maker === entry.data.maker && seriesNames(item).includes(section.name))
+  const titles = titleEntries
+    .filter((item) => makerNames(item.data.maker).includes(entry.data.maker) && seriesNames(item).includes(section.name))
     .slice(0, section.maxTitles);
+  const figuresInSeries = section.showAllFigures
+    ? figures.filter((item) =>
+        item.data.contentType !== "title" &&
+        makerNames(item.data.maker).includes(entry.data.maker) &&
+        seriesNames(item).includes(section.name)
+      )
+    : [];
+
+  return [...titles, ...figuresInSeries];
 };
 ---
 

@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/imokore2
 figureId: "001"
 species: "シャチホコガ"
-speciesGroup: "クジラ類"
+speciesGroup: "クジラ・イルカ類"
 maker: "海洋堂"
 figureTopImage: "imokore2_001.jpg"
 coverImage: "imokore2_001.jpg"

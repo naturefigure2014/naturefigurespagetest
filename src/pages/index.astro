@@ -3,6 +3,7 @@ import "../styles/global.css";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../lib/figure-images";
+import { makerNames } from "../lib/maker";
 import { siteUrl } from "../lib/site-url";
 
 const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
@@ -88,7 +89,7 @@ const recentPosts = (await getCollection("blog"))
             <span class="home-figure-badge">NEW</span>
             <span class="home-figure-caption">
               <strong>{item.data.title}</strong>
-              {(item.data.speciesGroup || item.data.maker) && <small>{item.data.speciesGroup || item.data.maker}</small>}
+              {(item.data.speciesGroup || item.data.maker) && <small>{item.data.speciesGroup || makerNames(item.data.maker).join("・")}</small>}
             </span>
           </a>
         );

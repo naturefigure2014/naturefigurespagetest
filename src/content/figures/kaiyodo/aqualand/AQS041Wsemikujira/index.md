@@ -4,7 +4,7 @@ description:
 titleId: kaiyodo/aqualand
 figureId: "AQS-041W"
 species: セミクジラ
-speciesGroup: 哺乳類/クジラ類
+speciesGroup: クジラ・イルカ類
 contentType: figure
 maker: 海洋堂
 sculptor: 松村しのぶ
