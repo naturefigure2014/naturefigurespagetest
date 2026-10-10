@@ -346,7 +346,7 @@ def make_topic(images: list[str], comment: str = "") -> dict:
 
 
 def extract_sculptor(inner_html: str) -> str | None:
-    match = re.search(r"(?:原型制作|原形制作)\s*[：:]\s*([^<]+)", inner_html)
+    match = re.search(r"(?:原型制作|原形制作|原型製作|原形製作)\s*[：:]\s*([^<]+)", inner_html)
     if not match:
         return None
     return normalize_text(match.group(1)) or None
@@ -377,16 +377,17 @@ def extract_items(main: Node, limit: int = 12):
         # image layouts), so gather images/text across the whole row rather
         # than only the first cell.
         images = node_images(row)
+        # Extract the sculptor name from the raw HTML (still containing
+        # <br /> tags) before it collapses into a single space, so the
+        # name does not swallow the rest of the comment text. Rows may mix
+        # images and the comment cell.
+        if "sculptor" not in current:
+            sculptor = extract_sculptor(row.inner_html())
+            if sculptor:
+                current["sculptor"] = sculptor
         if images:
             current["topics"].append(make_topic(images))
         else:
-            # Extract the sculptor name from the raw HTML (still containing
-            # <br /> tags) before it collapses into a single space, so the
-            # name does not swallow the rest of the comment text.
-            if "sculptor" not in current:
-                sculptor = extract_sculptor(row.inner_html())
-                if sculptor:
-                    current["sculptor"] = sculptor
             comment = visible_without_images(row)
             if comment and current["topics"]:
                 current["topics"][-1]["comment"] = comment
