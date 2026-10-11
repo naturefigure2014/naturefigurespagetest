@@ -565,14 +565,11 @@ def write_single_figure_page(
     main: Node,
     resources: dict[str, dict[str, str]],
 ):
-    title_id = figure_content_id(folder)
     lines = [
         "---",
         f"title: {quoted(title)}",
         'description: ""',
         "contentType: figure",
-        "kind: singleLineup",
-        f"titleId: {title_id}",
         f"maker: {quoted(maker or '-')}",
     ]
     append_metadata(lines, metadata, (
@@ -665,7 +662,7 @@ def generate(source: Path, content_type: str):
         print(f"Generated {output_folder / 'index.md'} and {len(items)} figure pages (titleId: {title_id}).")
     else:
         write_single_figure_page(output_folder, title, maker, overview, items, metadata, freetags, cover, main, resources)
-        print(f"Generated {output_folder / 'index.md'} as a singleLineup figure.")
+        print(f"Generated {output_folder / 'index.md'} as a figure.")
 
 
 def main():
