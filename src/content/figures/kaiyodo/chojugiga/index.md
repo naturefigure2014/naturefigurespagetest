@@ -2,13 +2,13 @@
 title: "美術作品立体図鑑「鳥獣戯画」フレーム切手セット"
 description: ""
 contentType: figure
-kind: singleLineup
+
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 seriesName: "-"
-species: "-"
-speciesGroup: "-"
+species: "ニホンアマガエル"
+speciesGroup: "カエル類"
 releaseDate: "-"
 price: "7,900円（フレーム切手セット）/3,870円（切手無し）"
 releaseStart: "2018.01"

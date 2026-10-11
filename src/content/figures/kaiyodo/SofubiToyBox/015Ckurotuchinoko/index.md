@@ -2,8 +2,6 @@
 title: "黒ツチノコ （槌の子/黒）"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/015Ckurotuchinoko
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

@@ -2,8 +2,6 @@
 title: "コモドドラゴン (コモドオオトカゲ)"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/005komodo
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

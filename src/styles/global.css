@@ -286,6 +286,7 @@ body:has(.detail-style) { background: #f8faf8; }
 .figure-layout.detail-style .figure-heading h1 { display: flex; align-self: stretch; align-items: center; flex-wrap: wrap; gap: 10px; margin: 0; padding: 10px 9px; border-radius: 4px; background: #eaf3ee; color: #173d30; font-size: clamp(1.4rem, 3vw, 2rem); }
 .figure-layout.detail-style .figure-heading h1::before { content: ""; display: inline-block; width: 6px; height: 1.15em; flex: 0 0 6px; background: #2c7a55; }
 .figure-layout.detail-style .figure-id-label { flex: 0 0 auto; padding: 3px 6px; border-radius: 3px; background: #2c7a55; color: #fff; font-size: .64em; font-weight: 700; line-height: 1.2; white-space: nowrap; }
+.figure-layout.detail-style .single-lineup-title-banner .figure-id-label { border: 1px solid rgba(255,255,255,.55); background: rgba(255,255,255,.16); }
 .figure-layout.detail-style .figure-name { min-width: 0; font-size: inherit; font-weight: 700; line-height: 1.25; }
 .figure-layout.detail-style .figure-group-photo,
 .title-layout.detail-style .title-collection-photo { margin-bottom: var(--detail-block-gap); }

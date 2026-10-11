@@ -2,7 +2,7 @@
 title: "特別展『深海』会場特別先行販売 <ダイオウイカ> 精密ポリストーンフィギュア"
 description: ""
 contentType: figure
-kind: singleLineup
+
 figureTopImage: img/daiouika002.jpg
 maker: 海洋堂
 sculptor: 菅谷　中

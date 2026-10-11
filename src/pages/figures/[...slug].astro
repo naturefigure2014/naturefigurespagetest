@@ -78,7 +78,8 @@ const formatDate = (date: Date | "-" | undefined) =>
   date instanceof Date
     ? date.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" })
     : date;
-const rawSeriesName = title?.data.seriesName ?? (entry.data.kind === "singleLineup" ? entry.data.seriesName : undefined);
+const rawSeriesName = title?.data.seriesName;
+const ownSeriesName = [entry.data.seriesName ?? []].flat().filter(Boolean).join(" ");
 const titleSeriesNames = rawSeriesName
   ? (Array.isArray(rawSeriesName) ? rawSeriesName : [rawSeriesName])
   : [];
@@ -87,8 +88,6 @@ const freeTags = [...new Map(
     .map((tag) => [tag.label, tag] as const)
 ).values()];
 const hasCustomTitle = Boolean(title?.data.title1 || title?.data.title2);
-const isSingleLineup = entry.data.kind === "singleLineup";
-const hasEntryCustomTitle = Boolean(entry.data.title1 || entry.data.title2);
 const figureId = formatFigureId(entry.data.figureId);
 
 const entryMakers = makerNames(entry.data.maker);
@@ -126,26 +125,15 @@ const entryMakers = makerNames(entry.data.maker);
                 </div>
               </div>
             )
-            : isSingleLineup
+            : ownSeriesName
               ? (
-                <div class="figure-title-banner single-lineup-title-banner">
+                <div class="figure-title-banner">
                   <p class="figure-context">
                     {entryMakers.length > 0
                       ? entryMakers.map((maker) => <span class:list={["eyebrow", "maker-badge", makerBadgeClass(maker)]}>{maker}</span>)
                       : <span class:list={["eyebrow", "maker-badge", "maker-default"]}>メーカー</span>}
-                    {titleSeriesNames[0] && <span class="figure-title-context">{titleSeriesNames[0]}</span>}
+                    <span class="figure-title-context">{ownSeriesName}</span>
                   </p>
-                  <h1>
-                    {hasEntryCustomTitle
-                      ? (
-                        <>
-                          {entry.data.title1 && <span class="title-part1">{entry.data.title1}</span>}
-                          {entry.data.title1 && entry.data.title2 && <wbr />}
-                          {entry.data.title2 && <span class:list={["title-part2", { "title-part2-after": entry.data.title1 }]}>{entry.data.title2}</span>}
-                        </>
-                      )
-                      : entry.data.title}
-                  </h1>
                 </div>
               )
               : (
@@ -155,12 +143,10 @@ const entryMakers = makerNames(entry.data.maker);
                     : <span class:list={["eyebrow", "maker-badge", "maker-default"]}>メーカー</span>}
                 </p>
               )}
-          {!isSingleLineup && (
-            <h1>
-              {figureId && <span class="figure-id-label">{figureId}</span>}
-              <span class="figure-name">{entry.data.title}</span>
-            </h1>
-          )}
+          <h1>
+            {figureId && <span class="figure-id-label">{figureId}</span>}
+            <span class="figure-name">{entry.data.title}</span>
+          </h1>
           {entry.data.releaseDate && (
             <p class="figure-date">◷ {formatDate(entry.data.releaseDate)}</p>
           )}
@@ -231,7 +217,7 @@ const entryMakers = makerNames(entry.data.maker);
           {(title?.data.salesPeriod ?? entry.data.salesPeriod) && (
             <><dt>販売時期</dt><dd>{title?.data.salesPeriod ?? entry.data.salesPeriod}</dd></>
           )}
-          {(title?.data.releaseStart ?? (entry.data.kind === "singleLineup" ? entry.data.releaseStart : undefined)) && (
+          {(title?.data.releaseStart ?? entry.data.releaseStart) && (
             <><dt>販売開始</dt><dd>{title?.data.releaseStart ?? entry.data.releaseStart}</dd></>
           )}
           {(title?.data.price ?? entry.data.price) && <><dt>価格</dt><dd>{title?.data.price ?? entry.data.price}</dd></>}

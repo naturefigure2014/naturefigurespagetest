@@ -2,8 +2,6 @@
 title: "パンダ ジャイアントパンダ"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/003Panda
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

@@ -2,8 +2,6 @@
 title: "ティラノサウルス（クラシックカラー）"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/018Ctyrannosaurus
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

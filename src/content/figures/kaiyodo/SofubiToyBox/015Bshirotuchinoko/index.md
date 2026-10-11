@@ -2,8 +2,6 @@
 title: "白ツチノコ （槌の子/アルビノ）"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/015Bshirotuchinoko
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

@@ -2,8 +2,6 @@
 title: "オオサンショウウオ 暗色 (大山椒魚 暗色)"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/010Boosansyouo
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

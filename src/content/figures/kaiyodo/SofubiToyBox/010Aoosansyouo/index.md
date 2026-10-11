@@ -2,8 +2,6 @@
 title: "オオサンショウウオ 明色 (大山椒魚 明色)"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/010Aoosansyouo
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

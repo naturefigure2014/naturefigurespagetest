@@ -2,8 +2,6 @@
 title: "ダンゴムシ オカダンゴムシ"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/012Adangomushi
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

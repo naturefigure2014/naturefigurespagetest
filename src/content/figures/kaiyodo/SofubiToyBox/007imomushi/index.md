@@ -2,8 +2,6 @@
 title: "イモムシ (ナミアゲハ５令幼虫)"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/007imomushi
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

@@ -2,8 +2,6 @@
 title: "クジラ ザトウクジラ 海中イメージ"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/013Bzatoukujira
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

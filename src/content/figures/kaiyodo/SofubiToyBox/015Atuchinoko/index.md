@@ -2,8 +2,6 @@
 title: "ツチノコ 槌の子"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/015Atuchinoko
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

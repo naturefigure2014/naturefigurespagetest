@@ -2,8 +2,6 @@
 title: "クジラ ザトウクジラ"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/013Azatoukujira
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

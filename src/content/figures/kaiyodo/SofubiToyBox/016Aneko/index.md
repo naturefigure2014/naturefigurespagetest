@@ -2,8 +2,6 @@
 title: "ネコ マンチカン"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/016Aneko
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

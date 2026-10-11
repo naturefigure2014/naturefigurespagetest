@@ -2,8 +2,6 @@
 title: "ティラノサウルス"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/018Atyrannosaurus
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"

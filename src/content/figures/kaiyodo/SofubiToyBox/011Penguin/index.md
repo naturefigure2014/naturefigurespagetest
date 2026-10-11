@@ -2,8 +2,6 @@
 title: "ペンギン フンボルトペンギン"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/SofubiToyBox/011Penguin
 maker:
   - "海洋堂"
   - "ユニオンクリエイティブ"
