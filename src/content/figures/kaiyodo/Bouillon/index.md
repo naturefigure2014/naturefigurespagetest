@@ -49,14 +49,18 @@ topics:
 ---
 
 【海洋堂×ほぼ日刊イトイ新聞　ちいさなブイヨン】<br />
-			<span class="font_Bold">■概要</span><br />
-			販売開始：2011年4月21日　原型製作：松村しのぶ　価格：各3,200円<br />
-			販売場所：ほぼ日刊イトイ新聞公式サイト、全国のLOFT<br />
-			<a href="http://kaiyodo.co.jp/products/bouillon.html" target="_blank">
-			商品ページ（海洋堂）</a>、<a href="https://www.1101.com/store/bouillon/figure/" target="_blank">商品ページ（ほぼ日刊イトイ新聞）</a>、<a href="https://www.1101.com/kaiyodo/index.html" target="_blank">松村さんと糸井さんの対談</a><br />
-			コピーライターの糸井重里さんが運営するサイト「<a href="https://www.1101.com/home.html" target="_blank">ほぼ日刊イトイ新聞</a>」と海洋堂のコラボ企画。<br />
-			サイトの「気まぐれカメラ」に登場していた、糸井さんの愛犬の「ブイヨン」（ジャック・ラッセル・テリア）を再現したフィギュアとなっています。<br />
-			<span class="font_Bold">■仕様</span><br />
-			素材はポリストーン製。<br />
-			当時としてはなかなか高価格だったためか、現在オークション等でもあまり見ないように感じます。<br />
-			かつてソフビトイボックスでもジャック・ラッセル・テリアが計画されていましたが、<a href="https://twitter.com/zooinmyhouse/status/965086822685528064" target="_blank">よくよく見てみると</a>完全にブイヨンですね（ぴんと立った耳や首輪）。
+
+### 概要
+
+販売開始：2011年4月21日　原型製作：松村しのぶ　価格：各3,200円<br />
+販売場所：ほぼ日刊イトイ新聞公式サイト、全国のLOFT<br />
+<a href="http://kaiyodo.co.jp/products/bouillon.html" target="_blank">
+商品ページ（海洋堂）</a>、<a href="https://www.1101.com/store/bouillon/figure/" target="_blank">商品ページ（ほぼ日刊イトイ新聞）</a>、<a href="https://www.1101.com/kaiyodo/index.html" target="_blank">松村さんと糸井さんの対談</a><br />
+コピーライターの糸井重里さんが運営するサイト「<a href="https://www.1101.com/home.html" target="_blank">ほぼ日刊イトイ新聞</a>」と海洋堂のコラボ企画。<br />
+サイトの「気まぐれカメラ」に登場していた、糸井さんの愛犬の「ブイヨン」（ジャック・ラッセル・テリア）を再現したフィギュアとなっています。<br />
+
+### 仕様
+
+素材はポリストーン製。<br />
+当時としてはなかなか高価格だったためか、現在オークション等でもあまり見ないように感じます。<br />
+かつてソフビトイボックスでもジャック・ラッセル・テリアが計画されていましたが、<a href="https://twitter.com/zooinmyhouse/status/965086822685528064" target="_blank">よくよく見てみると</a>完全にブイヨンですね（ぴんと立った耳や首輪）。

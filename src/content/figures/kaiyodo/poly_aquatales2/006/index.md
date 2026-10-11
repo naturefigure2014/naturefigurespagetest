@@ -4,11 +4,11 @@ description: ""
 contentType: figure
 titleId: kaiyodo/poly_aquatales2
 figureId: "006"
-maker: "海洋堂 制作総指揮：松村しのぶ"
+maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "イトウ"
-speciesGroup: 魚類/その他
+speciesGroup: その他魚類
 price: "1900円"
 releaseStart: "2013.07"
 genre:

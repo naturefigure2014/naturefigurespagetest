@@ -22,9 +22,12 @@ coverImage: "img/ikakore_shinkai016.jpg"
 collectionImage: "img/ikakore_shinkai003.jpg"
 ---
 
-<span class="font_Bold">■概要</span><br />
-			販売開始：2013年1月　販売元：海洋堂　価格：300円　造形総指揮：松村しのぶ<br />
-			公式サイト：コチラ<br />
-			<span class="font_Bold">■関連サイト</span><br />
-			現地に行かれた方のブログ：<a href="https://ameblo.jp/oasysasa/entry-11583337545.html" target="_blank">『深海 
-			特別展』のお土産 | おあしすの徒然日記</a><br />
+### 概要
+
+販売開始：2013年1月　販売元：海洋堂　価格：300円　造形総指揮：松村しのぶ<br />
+公式サイト：コチラ<br />
+
+### 関連サイト
+
+現地に行かれた方のブログ：<a href="https://ameblo.jp/oasysasa/entry-11583337545.html" target="_blank">『深海
+特別展』のお土産 | おあしすの徒然日記</a><br />

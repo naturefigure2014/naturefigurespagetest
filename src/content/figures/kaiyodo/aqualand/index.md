@@ -1,12 +1,12 @@
 ---
-title: 水生生物モデルコレクション[アクアランド]
+title: 水生動物モデルコレクション[アクアランド]
 description: 
 contentType: title
 kind: series
 maker: 海洋堂
 series:
   - aqualand
-seriesName: AQUALAND
+seriesName: ""
 genre:
   - aquatic
 releaseStart: "1990"

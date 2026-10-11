@@ -4,11 +4,11 @@ description: ""
 contentType: figure
 titleId: kaiyodo/poly_aquatales2
 figureId: "002"
-maker: "海洋堂 制作総指揮：松村しのぶ"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "マンタ"
-speciesGroup: 魚類/サメ・エイ類
+speciesGroup: サメ・エイ類
 price: "1900円"
 releaseStart: "2013.07"
 genre:

@@ -89,7 +89,7 @@ const freeTags = [...new Map(
 const hasCustomTitle = Boolean(title?.data.title1 || title?.data.title2);
 const isSingleLineup = entry.data.kind === "singleLineup";
 const hasEntryCustomTitle = Boolean(entry.data.title1 || entry.data.title2);
-const figureHeading = `${formatFigureId(entry.data.figureId) ?? ""} ${entry.data.title}`.trim();
+const figureId = formatFigureId(entry.data.figureId);
 
 const entryMakers = makerNames(entry.data.maker);
 ---
@@ -155,7 +155,12 @@ const entryMakers = makerNames(entry.data.maker);
                     : <span class:list={["eyebrow", "maker-badge", "maker-default"]}>メーカー</span>}
                 </p>
               )}
-          {!isSingleLineup && <h1>{figureHeading}</h1>}
+          {!isSingleLineup && (
+            <h1>
+              {figureId && <span class="figure-id-label">{figureId}</span>}
+              <span class="figure-name">{entry.data.title}</span>
+            </h1>
+          )}
           {entry.data.releaseDate && (
             <p class="figure-date">◷ {formatDate(entry.data.releaseDate)}</p>
           )}

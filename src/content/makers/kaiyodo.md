@@ -70,8 +70,9 @@ seriesSections:
     format: ガチャ
   - name: 自然史モデルコレクション
     format: コレクション
-  - name: 水生動物モデルコレクション【ＡＱＵＡＬＡＮＤ（アクアランド）】
+  - name: 水生動物モデルコレクション[アクアランド]
     format: コレクション
+    showAllFigures: true
   - name: DINOLAND
     format: コレクション
   - name: 高知・四万十ファクトリー　オリジナルフィギュア

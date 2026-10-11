@@ -4,11 +4,11 @@ description: ""
 contentType: figure
 titleId: kaiyodo/poly_aquatales1
 figureId: "002"
-maker: "海洋堂 制作総指揮：松村しのぶ"
+maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "シーラカンス(幼魚)"
-speciesGroup: 魚類/その他
+speciesGroup: 古代魚類
 price: "1900円"
 releaseStart: "2013.04"
 genre:

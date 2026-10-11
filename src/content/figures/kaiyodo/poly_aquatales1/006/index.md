@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/poly_aquatales1
 figureId: "006"
-maker: "海洋堂 制作総指揮：松村しのぶ"
+maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "ノコギリガザミ"

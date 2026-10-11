@@ -21,8 +21,9 @@ coverImage: "img/nihonnoshiro2_013.jpg"
 collectionImage: "img/nihonnoshiro2_011.jpg"
 ---
 
-<span class="font_Bold">■概要</span><br />
-			販売開始：2017年8月　販売元：海洋堂　価格：400円　公式サイト：<a href="https://kaiyodo.co.jp/items/capsule/jp-castle-vol-2/" target="_blank">コチラ</a><br />
-			城フィギュアといえば天守閣、という固定観念をとっぱらった日本の城名鑑第２弾。<br />
-			<a href="../nihonnoshiro1/index.html">前作はコチラ</a>。<br />
-			俯瞰風景や装飾品をテーマにしています。<br />
+### 概要
+
+販売開始：2017年8月　販売元：海洋堂　価格：400円　公式サイト：<a href="https://kaiyodo.co.jp/items/capsule/jp-castle-vol-2/" target="_blank">コチラ</a><br />
+城フィギュアといえば天守閣、という固定観念をとっぱらった日本の城名鑑第２弾。<br />
+<a href="../nihonnoshiro1/index.html">前作はコチラ</a>。<br />
+俯瞰風景や装飾品をテーマにしています。<br />

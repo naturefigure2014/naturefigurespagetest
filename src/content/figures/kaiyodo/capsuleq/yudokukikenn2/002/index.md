@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/yudokukikenn2
 figureId: "002"
 species: "ポルカドットスティングレイ"
-speciesGroup: "魚類/サメ・エイ類"
+speciesGroup: "サメ・エイ類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "yudoku2_012.jpg"

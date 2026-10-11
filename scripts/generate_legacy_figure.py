@@ -399,13 +399,31 @@ def yaml_topics(topics: list[dict]) -> list[str]:
         return ["topics: []"]
     lines = ["topics:"]
     for topic in topics:
-        lines.extend([f"  - title: {quoted(topic.get('title', ''))}", "    images:"])
-        for image in topic["images"]:
+        images = topic["images"]
+        lines.extend([
+            f"  - title: {quoted(topic.get('title', ''))}",
+            "    images:" if images else "    images: []",
+        ])
+        for image in images:
             lines.append(f"      - {quoted(image)}")
         if topic.get("comment"):
             lines.append("    comment: |")
             lines.extend(f"      {line}" for line in topic["comment"].splitlines())
     return lines
+
+
+def overview_to_markdown(overview: str) -> str:
+    """Turn <span class="font_Bold">■X</span> into "### X" and strip line indentation."""
+    text = re.sub(
+        r'<span class="font_Bold">\s*■\s*(.*?)\s*</span>(?:\s*<br\s*/?>)?',
+        lambda m: f"\n### {m.group(1)}\n",
+        overview,
+        flags=re.S,
+    )
+    lines = [line.strip() for line in text.splitlines()]
+    text = "\n".join(lines)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
 
 
 def write_title_page(
@@ -449,7 +467,7 @@ def write_title_page(
                 ])
                 if resource["description"]:
                     lines.extend(["    description: |", f"      {resource['description']}"])
-    lines.extend(["---", "", overview, ""])
+    lines.extend(["---", "", overview_to_markdown(overview), ""])
     (folder / "index.md").write_text("\n".join(line for line in lines if line is not None), encoding="utf-8")
 
 
@@ -581,7 +599,7 @@ def write_single_figure_page(
         {**topic, "images": [f"img/{Path(image).name}" for image in topic["images"]]}
         for topic in topics
     ]))
-    lines.extend(["---", "", overview, ""])
+    lines.extend(["---", "", overview_to_markdown(overview), ""])
     (folder / "index.md").write_text("\n".join(lines), encoding="utf-8")
 
 

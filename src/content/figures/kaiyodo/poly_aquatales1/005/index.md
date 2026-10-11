@@ -4,11 +4,11 @@ description: ""
 contentType: figure
 titleId: kaiyodo/poly_aquatales1
 figureId: "005"
-maker: "海洋堂 制作総指揮：松村しのぶ"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "バショウカジキ"
-speciesGroup: 魚類/スズキ目の魚類
+speciesGroup: スズキ目の魚類
 price: "1900円"
 releaseStart: "2013.04"
 genre:
