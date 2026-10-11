@@ -2,8 +2,7 @@
 title: "タガメ"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/REVOGEO/005Tagame
+
 maker: "海洋堂"
 sculptor: "吉良かずや 可動加工：大津敦哉 塗装設計：古田悟郎"
 executiveProducer: "松村しのぶ"

@@ -2,7 +2,7 @@
 title: "【海洋堂×ほぼ日刊イトイ新聞　ちいさなブイヨン】"
 description: ""
 contentType: figure
-kind: singleLineup
+
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 price: "各3,200円"

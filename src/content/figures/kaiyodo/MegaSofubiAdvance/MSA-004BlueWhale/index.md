@@ -1,9 +1,8 @@
 ---
-title: "MSA-004 シロナガスクジラ"
+title: "シロナガスクジラ"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/MegaSofubiAdvance/MSA-004BlueWhale
+figureId: "MSA-004"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"

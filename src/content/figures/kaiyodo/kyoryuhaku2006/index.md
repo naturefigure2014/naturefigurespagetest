@@ -2,8 +2,7 @@
 title: "世界の巨大恐竜博2006 世界最大級の竜脚類“スーパーサウルス”海洋堂制作オフィシャルモデル"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/kyoryuhaku2006
+
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "松村しのぶ"

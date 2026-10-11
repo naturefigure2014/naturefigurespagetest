@@ -1,9 +1,8 @@
 ---
-title: "MSA-011 トリケラトプス"
+title: "トリケラトプス"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/MegaSofubiAdvance/MSA-011Triceratops
+figureId: "MSA-011"
 maker: "海洋堂"
 sculptor: "松村しのぶ 塗装設計：古田悟郎"
 executiveProducer: "-"

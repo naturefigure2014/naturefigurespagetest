@@ -2,7 +2,7 @@
 title: "向日葵雄鶏図"
 description: ""
 contentType: figure
-kind: singleLineup
+
 maker: "海洋堂"
 sculptor: "村田明玄"
 price: "3,500円"

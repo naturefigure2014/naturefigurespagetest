@@ -2,8 +2,7 @@
 title: "ダイオウサソリ"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/REVOGEO/001DaiouSasori
+
 maker: "海洋堂"
 sculptor: "山崎太久也"
 executiveProducer: "松村しのぶ"

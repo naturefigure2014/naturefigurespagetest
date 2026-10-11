@@ -2,8 +2,7 @@
 title: "オオスズメバチ"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/REVOGEO/003OoSuzumebachi
+
 maker: "海洋堂"
 sculptor: "吉良かずや"
 executiveProducer: "松村しのぶ"
@@ -19,8 +18,8 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "img/suzumebachi_header.png"
-coverImage: "img/suzumebachi_header.png"
+figureTopImage: "img/suzumebachi021.jpg"
+coverImage: "img/suzumebachi021.jpg"
 resources:
   package:
     image: "img/suzumebachi017.jpg"

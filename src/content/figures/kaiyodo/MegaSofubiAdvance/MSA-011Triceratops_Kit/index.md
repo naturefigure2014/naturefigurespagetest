@@ -2,8 +2,7 @@
 title: "【限定キット版】トリケラトプス"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/MegaSofubiAdvance/MSA-011Triceratops_Kit
+figureId: "MSA-011"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"

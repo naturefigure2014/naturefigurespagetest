@@ -2,8 +2,7 @@
 title: "クロオオアリ"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/REVOGEO/009Kurooari
+
 maker: "海洋堂"
 sculptor: "木下隆志、水田帆南"
 executiveProducer: "-"

@@ -2,8 +2,7 @@
 title: "京都水族館限定フィギュア オオサンショウウオ"
 description: ""
 contentType: figure
-kind: singleLineup
-titleId: kaiyodo/kyoto_oosansyouo
+
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 
