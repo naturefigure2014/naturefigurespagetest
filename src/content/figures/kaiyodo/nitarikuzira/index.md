@@ -2,7 +2,7 @@
 title: "砂浜美術館限定 ニタリクジラ"
 description: ""
 contentType: figure
-maker: "-"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 seriesName: "-"

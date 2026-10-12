@@ -1,11 +1,11 @@
 ---
-title: "Dinotales ゴルゴサウルス胸像"
+seriesName: "Dinotales"
+title: " ゴルゴサウルス胸像"
 description: ""
 contentType: figure
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-seriesName: "-"
 species: "ゴルゴサウルス"
 speciesGroup: "獣脚類"
 price: "15,540円"
