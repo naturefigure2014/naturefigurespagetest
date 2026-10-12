@@ -1,0 +1,27 @@
+---
+title: "01. アオリイカ"
+description: ""
+contentType: figure
+titleId: kaiyodo/aquatales/zuroku/zuroku5
+figureId: "001"
+maker: "海洋堂"
+sculptor: "菅谷 中 スケール：1/5"
+executiveProducer: "松村しのぶ"
+species: "アオリイカ"
+speciesGroup: "イカ類"
+price: "300円 造形企画製作：海洋堂"
+releaseStart: "2012.03"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "zuroku5_016.jpg"
+coverImage: "zuroku5_016.jpg"
+topics:
+  - title: ""
+    images:
+      - "zuroku5_016.jpg"
+      - "zuroku5_017.jpg"
+    comment: |
+      原型制作：菅谷 中 スケール：1/5 沿岸域に生息するイカとしては大型。卵は寒天のようなものに覆われている。透き通った透明な体がきれいです。
+---

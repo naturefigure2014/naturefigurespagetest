@@ -1,0 +1,304 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>黒潮コメッコ1</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>グリコ×海洋堂<br />
+		黒潮コメッコ1 黒潮の魚たち</h4>
+		<table style="width: 100%">
+			<tr>
+				<td valign="top">
+				<a href="img/komekko1_002.jpg">
+				<img height="283" src="img/komekko1_002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/aqua/komekko1/img/komekko1_002.jpg" --></a></td>
+			</tr>
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2002年7月　造形総指揮：松村しのぶ<br />
+			<a href="../miu2">MIU深海生物２</a>の販売が終了した頃、「さらばチョコエッグ宣言」が配布された2002年冬のワンフェスで「アクアテイルズシリーズ」として発表されました。どうやらこのときはまだグリコのコメッコに付属することは決まっていなかったようです。<br />
+			<br />
+			■仕様<br />
+			お菓子の箱の中にフィギュアの入った小箱がはいっており、その箱に解説が書かれています。ボトルキャップには「AQUATALES」＋生物の学名。<br />
+			<br />
+			■次回作<br />
+			<a href="../komekko2">黒潮コメッコ２</a></p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/komekko1_003_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/komekko1_005_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/komekko1_007_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/komekko1_009_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/komekko1_011_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/komekko1_013_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/komekko1_015_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/komekko1_017_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/komekko1_019_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/komekko1_023_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/komekko1_025_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/komekko1_027_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/komekko1_031_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/komekko1_033_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/komekko1_037_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#16">
+<img src="img/komekko1_035_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td><td>&nbsp;</td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">1. バンドウイルカ</th></tr>
+			<tr><td><a href="img/komekko1_003.jpg">
+					<img height="283" src="img/komekko1_003_small.jpg" width="378" /></a><a href="img/komekko1_004.jpg"><img height="283" src="img/komekko1_004_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">2. アカシュモクザメ</th></tr>
+			<tr><td><a href="img/komekko1_005.jpg">
+					<img height="283" src="img/komekko1_005_small.jpg" width="378" /></a><a href="img/komekko1_006.jpg"><img height="283" src="img/komekko1_006_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：山本聖士</td></tr>
+			<!--
+			-->
+			<tr><th id="3">3. タコブネ</th></tr>
+			<tr><td><a href="img/komekko1_007.jpg">
+					<img height="283" src="img/komekko1_007_small.jpg" width="378" /></a><a href="img/komekko1_008.jpg"><img height="283" src="img/komekko1_008_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">4. メカジキ</th></tr>
+			<tr><td><a href="img/komekko1_009.jpg">
+					<img height="283" src="img/komekko1_009_small.jpg" width="378" /></a><a href="img/komekko1_010.jpg"><img height="283" src="img/komekko1_010_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：山本聖士</td></tr>
+			<!--
+			-->
+			<tr><th id="5">5. マンボウ</th></tr>
+			<tr><td><a href="img/komekko1_011.jpg">
+					<img height="283" src="img/komekko1_011_small.jpg" width="378" /></a><a href="img/komekko1_012.jpg"><img height="283" src="img/komekko1_012_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">6. ミナミハコフグ(幼魚)</th></tr>
+			<tr><td><a href="img/komekko1_013.jpg">
+					<img height="283" src="img/komekko1_013_small.jpg" width="378" /></a><a href="img/komekko1_014.jpg"><img height="283" src="img/komekko1_014_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志</td></tr>
+			<!--
+			-->
+			<tr><th id="7">7. カツオ</th></tr>
+			<tr><td><a href="img/komekko1_015.jpg">
+					<img height="283" src="img/komekko1_015_small.jpg" width="378" /></a><a href="img/komekko1_016.jpg"><img height="283" src="img/komekko1_016_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				原型師は名前から決めた説（※個人の妄想です）</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">8. トビウオ</th></tr>
+			<tr><td><a href="img/komekko1_017.jpg">
+					<img height="283" src="img/komekko1_017_small.jpg" width="378" /></a><a href="img/komekko1_018.jpg"><img height="283" src="img/komekko1_018_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫</td></tr>
+			<!--
+			-->
+			<tr><th id="9">9. カスリハタ</th></tr>
+			<tr><td><a href="img/komekko1_019.jpg">
+					<img height="283" src="img/komekko1_019_small.jpg" width="378" /></a><a href="img/komekko1_020.jpg"><img height="283" src="img/komekko1_020_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/komekko1_021.jpg">
+					<img height="283" src="img/komekko1_021_small.jpg" width="378" /></a><a href="img/komekko1_022.jpg"><img height="283" src="img/komekko1_022_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				土台にもう一匹なにかいますね。</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">10. オニカマス</th></tr>
+			<tr><td><a href="img/komekko1_023.jpg">
+					<img height="283" src="img/komekko1_023_small.jpg" width="378" /></a><a href="img/komekko1_024.jpg"><img height="283" src="img/komekko1_024_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎</td></tr>
+			<!--
+			-->
+			<tr><th id="11">11. イトヒキアジ(幼体)</th></tr>
+			<tr><td><a href="img/komekko1_025.jpg">
+					<img height="283" src="img/komekko1_025_small.jpg" width="378" /></a><a href="img/komekko1_026.jpg"><img height="283" src="img/komekko1_026_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志</td></tr>
+			<!--
+			-->			
+			<tr><th id="12">12. アカウミガメ</th></tr>
+			<tr><td><a href="img/komekko1_027.jpg">
+					<img height="283" src="img/komekko1_027_small.jpg" width="378" /></a><a href="img/komekko1_028.jpg"><img height="283" src="img/komekko1_028_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/komekko1_029.jpg">
+					<img height="283" src="img/komekko1_029_small.jpg" width="378" /></a><a href="img/komekko1_030.jpg"><img height="283" src="img/komekko1_030_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎</td></tr>
+			<!--
+			-->
+			<tr><th id="13">13. ヨット</th></tr>
+			<tr><td><a href="img/komekko1_031.jpg">
+					<img height="283" src="img/komekko1_031_small.jpg" width="378" /></a><a href="img/komekko1_032.jpg"><img height="283" src="img/komekko1_032_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志</td></tr>
+			<!--
+			-->			
+			<tr><th id="14"><span class="font_blue">ダイバー(紫)＆マンタ</span></th></tr>
+			<tr><td><a href="img/komekko1_033.jpg">
+					<img height="283" src="img/komekko1_033_small.jpg" width="378" /></a><a href="img/komekko1_034.jpg"><img height="283" src="img/komekko1_034_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				ヴィネット的。細かいです。3種のダイバーの色はエヴァンゲリオンから取ってるみたいですね。</td></tr>
+			<!--
+			-->
+			<tr><th id="15"><span class="font_blue">ダイバー(赤)＆マンタ</span></th></tr>
+			<tr><td><a href="img/komekko1_037.jpg">
+					<img height="283" src="img/komekko1_037_small.jpg" width="378" /></a><a href="img/komekko1_038.jpg"><img height="283" src="img/komekko1_038_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫</td></tr>
+			<!--
+			-->			
+			<tr><th id="16"><span class="font_blue">ダイバー(黄)＆マンタ</span></th></tr>
+			<tr><td><a href="img/komekko1_035.jpg">
+					<img height="283" src="img/komekko1_035_small.jpg" width="378" /></a><a href="img/komekko1_036.jpg"><img height="283" src="img/komekko1_036_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫</td></tr>
+			<!--
+			-->
+			<tr><th id="17">解説付き箱</th></tr>
+			<tr><td>
+					<img height="620" src="img/komekko1hako.jpg" width="756" /></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->			
+			<tr><th id="18">パッケージ</th></tr>
+			<tr><td><a href="img/komekko1_040.jpg">
+					<img height="283" src="img/komekko1_040_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/aqua/komekko1/img/komekko1_040.jpg" --><a href="img/komekko1_041.jpg"><img height="283" src="img/komekko1_041_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/aqua/komekko1/img/komekko1_041.jpg" --></a></a></td></tr>
+			<tr><td class="comment">ホビー館四万十で撮影。<br />
+				1弾、2弾、沖縄限定、海遊館限定。</td></tr>
+			<!--
+			-->
+			<tr><th id="19">販促品</th></tr>
+			<tr><td><a href="img/komekko1_039.JPG">
+					<img height="283" src="img/komekko1_039_small.JPG" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/aqua/komekko1/img/komekko1_039.JPG" --></a></td></tr>
+			<tr><td class="comment">コレクションBOXと書いてありますが、非売品のような気がします。</td></tr>
+			<!--
+			-->			
+			<tr><th id="20">ラインナップ</th></tr>
+			<tr><td class="comment">1.
+				バンドウイルカ<br />
+				2.
+				アカシュモクザメ<br />
+				3.
+				タコブネ<br />
+				4.
+				メカジキ<br />
+				5.
+				マンボウ<br />
+				6.
+				ミナミハコフグ(幼魚)<br />
+				7.
+				カツオ<br />
+				8.
+				トビウオ<br />
+				9.
+				カスリハタ<br />
+								10. オニカマス<br />
+								11.
+				イトヒキアジ(幼体)<br />
+								12.
+				アカウミガメ<br />
+								13.
+				ヨット<br />
+								ダイバー(紫)＆マンタ<br />
+				ダイバー(赤)＆マンタ<br />
+				ダイバー(黄)＆マンタ  </td></tr>
+			<!--
+			-->							
+			</table>
+		
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
