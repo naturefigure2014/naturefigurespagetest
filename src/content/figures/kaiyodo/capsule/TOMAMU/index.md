@@ -26,7 +26,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/tomamu005.jpg"
-collectionImage: "img/tomamu001.jpg"
+collectionImage: "img/tomamu005.jpg"
 resources:
   guide:
     image: "img/tomamubook1.jpg"

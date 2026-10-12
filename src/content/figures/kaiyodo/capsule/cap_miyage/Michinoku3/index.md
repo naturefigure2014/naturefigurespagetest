@@ -31,7 +31,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/michinoku3_024.jpg"
-collectionImage: "img/michinoku3_001.jpg"
+collectionImage: "img/michinoku3_024.jpg"
 resources:
   guide:
     image: "img/michinoku3book1.jpg"

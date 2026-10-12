@@ -31,7 +31,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/tokaido2_026.jpg"
-collectionImage: "img/tokaido2_016.jpg"
+collectionImage: "img/tokaido2_026.jpg"
 resources:
   guide:
     image: "img/tokaido2book1.jpg"

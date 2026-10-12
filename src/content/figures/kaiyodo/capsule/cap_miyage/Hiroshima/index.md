@@ -29,7 +29,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/hiroshima013.jpg"
-collectionImage: "img/hiroshima008.jpg"
+collectionImage: "img/hiroshima013.jpg"
 resources:
   guide:
     image: "img/hiroshimabook1.jpg"

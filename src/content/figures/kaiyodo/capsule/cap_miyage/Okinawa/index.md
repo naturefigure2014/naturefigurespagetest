@@ -42,7 +42,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/okinawa042.jpg"
-collectionImage: "img/okinawa019.jpg"
+collectionImage: "img/okinawa042.jpg"
 resources:
   displayPop:
     image: "img/okinawaDP3.jpg"

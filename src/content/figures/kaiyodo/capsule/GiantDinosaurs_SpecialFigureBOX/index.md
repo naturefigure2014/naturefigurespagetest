@@ -26,7 +26,7 @@ freetag:
   - label: "造型企画制作"
     value: "海洋堂高知"
 coverImage: "img/GiantDinosaurs_SpecialFigureBOX018.jpg"
-collectionImage: "img/GiantDinosaurs_SpecialFigureBOX015.jpg"
+collectionImage: "img/GiantDinosaurs_SpecialFigureBOX018.jpg"
 ---
 
 ### 概要

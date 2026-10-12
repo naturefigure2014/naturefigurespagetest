@@ -28,7 +28,7 @@ freetag:
   - label: "販売者"
     value: "ニュートラルコーポレーション"
 coverImage: "img/space2014_024.jpg"
-collectionImage: "img/space2014_001.jpg"
+collectionImage: "img/space2014_024.jpg"
 resources:
   guide:
     image: "img/space2014book.jpg"

@@ -31,7 +31,7 @@ freetag:
   - label: "造形・企画制作"
     value: "海洋堂"
 coverImage: "img/tochigi024.jpg"
-collectionImage: "img/tochigi001.jpg"
+collectionImage: "img/tochigi024.jpg"
 resources:
   guide:
     image: "img/tochigibook.jpg"

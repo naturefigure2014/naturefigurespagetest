@@ -29,7 +29,7 @@ freetag:
   - label: "造形企画制作"
     value: "海洋堂"
 coverImage: "img/tanemaru019.jpg"
-collectionImage: "img/tanemaru002.jpg"
+collectionImage: "img/tanemaru019.jpg"
 resources:
   guide:
     image: "img/tanemarubook1.jpg"

@@ -27,7 +27,7 @@ freetag:
   - label: "公式サイト"
     value: "製品ページ 、 公式レビュー 、 製品ページ（ユニオンクリエイティブ）"
 coverImage: "img/gakibonkei_023.jpg"
-collectionImage: "img/gakibonkei_011.jpg"
+collectionImage: "img/gakibonkei_023.jpg"
 resources:
   package:
     image: "img/gakibonkei_017.jpg"

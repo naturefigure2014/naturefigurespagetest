@@ -32,7 +32,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/kyusyu030.jpg"
-collectionImage: "img/kyusyu015.jpg"
+collectionImage: "img/kyusyu030.jpg"
 resources:
   guide:
     image: "img/kyusyubook1.jpg"

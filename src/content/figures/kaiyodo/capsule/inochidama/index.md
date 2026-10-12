@@ -29,7 +29,7 @@ freetag:
   - label: "その輝きに会いに来てね❗️ https"
     value: "//t.co/LGDXLeI6xw"
 coverImage: "img/inochidama021.jpg"
-collectionImage: "img/inochidama001.jpg"
+collectionImage: "img/inochidama021.jpg"
 resources:
   package:
     image: "img/inochidama014.jpg"

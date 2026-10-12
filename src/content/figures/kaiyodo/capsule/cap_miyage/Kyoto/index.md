@@ -41,7 +41,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/kyoto001.jpg"
-collectionImage: "img/kyoto002.jpg"
+collectionImage: "img/kyoto001.jpg"
 resources:
   displayPop:
     image: "img/kyotoDP1.jpg"

@@ -28,7 +28,7 @@ freetag:
   - label: "監修"
     value: "福井県立恐竜博物館"
 coverImage: "img/GiantDinosaurs038.jpg"
-collectionImage: "img/GiantDinosaurs_001.jpg"
+collectionImage: "img/GiantDinosaurs038.jpg"
 resources:
   guide:
     image: "img/GiantDinosaurs_book1.jpg"

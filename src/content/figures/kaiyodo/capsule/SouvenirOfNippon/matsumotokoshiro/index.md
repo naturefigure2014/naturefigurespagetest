@@ -22,7 +22,7 @@ genre:
 tags:
   - "-"
 coverImage: "img/matsumoto016.jpg"
-collectionImage: "img/matsumoto007.jpg"
+collectionImage: "img/matsumoto016.jpg"
 resources:
   guide:
     image: "img/matsumotobook.jpg"

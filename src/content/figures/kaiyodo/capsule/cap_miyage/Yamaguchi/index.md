@@ -32,7 +32,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/yamaguchi027.jpg"
-collectionImage: "img/yamaguchi007.jpg"
+collectionImage: "img/yamaguchi027.jpg"
 resources:
   guide:
     image: "img/yamaguchibook1.jpg"

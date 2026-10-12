@@ -27,7 +27,7 @@ freetag:
   - label: "公式サイト"
     value: "旭山動物園の特設ページ 、 海洋堂の特設ページ"
 coverImage: "img/asahiyama4_020.jpg"
-collectionImage: "img/asahiyama4_006.jpg"
+collectionImage: "img/asahiyama4_020.jpg"
 resources:
   guide:
     image: "img/asahiyama4book.jpg"

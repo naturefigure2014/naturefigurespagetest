@@ -32,7 +32,7 @@ freetag:
   - label: "造形・企画制作"
     value: "海洋堂 公式ページ"
 coverImage: "img/TL026.jpg"
-collectionImage: "img/TL013.jpg"
+collectionImage: "img/TL026.jpg"
 resources:
   guide:
     image: "img/TLbook.jpg"

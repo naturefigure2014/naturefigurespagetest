@@ -29,7 +29,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/asakusa022.jpg"
-collectionImage: "img/asakusa005.jpg"
+collectionImage: "img/asakusa022.jpg"
 resources:
   guide:
     image: "img/asakusabook1.jpg"

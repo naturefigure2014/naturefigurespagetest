@@ -29,7 +29,7 @@ freetag:
   - label: "造形企画制作"
     value: "海洋堂"
 coverImage: "img/morizo017.jpg"
-collectionImage: "img/morizo003.jpg"
+collectionImage: "img/morizo017.jpg"
 resources:
   package:
     image: "img/morizo020.jpg"

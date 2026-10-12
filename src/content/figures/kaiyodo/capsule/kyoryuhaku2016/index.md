@@ -30,7 +30,7 @@ freetag:
   - label: "企画"
     value: "ニュートラルコーポレーション"
 coverImage: "img/kyoryu2016017.jpg"
-collectionImage: "img/kyoryu2016010.jpg"
+collectionImage: "img/kyoryu2016017.jpg"
 resources:
   guide:
     image: "img/kyoryu2016012_book.jpg"

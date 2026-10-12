@@ -28,7 +28,7 @@ freetag:
   - label: "造形企画制作"
     value: "海洋堂 特別展のページ"
 coverImage: "img/taikono014.jpg"
-collectionImage: "img/taikono008.jpg"
+collectionImage: "img/taikono014.jpg"
 resources:
   guide:
     image: "img/taikonobook.jpg"

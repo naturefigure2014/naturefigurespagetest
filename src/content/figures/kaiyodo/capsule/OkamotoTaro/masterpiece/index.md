@@ -25,7 +25,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/TaroMP023.jpg"
-collectionImage: "img/TaroMP014.jpg"
+collectionImage: "img/TaroMP023.jpg"
 resources:
   package:
     image: "img/TaroMP018.jpg"

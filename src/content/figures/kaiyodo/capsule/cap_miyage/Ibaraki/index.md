@@ -31,7 +31,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/ibaraki025.jpg"
-collectionImage: "img/ibaraki001.jpg"
+collectionImage: "img/ibaraki025.jpg"
 resources:
   guide:
     image: "img/ibarakibook1.jpg"

@@ -21,7 +21,7 @@ genre:
 tags:
   - "-"
 coverImage: "img/aibo022.jpg"
-collectionImage: "img/aibo001.jpg"
+collectionImage: "img/aibo022.jpg"
 resources:
   guide:
     image: "img/aibobook1.jpg"

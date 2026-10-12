@@ -31,7 +31,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/tradition026.jpg"
-collectionImage: "img/tradition005.jpg"
+collectionImage: "img/tradition026.jpg"
 resources:
   package:
     image: "img/tradition024.jpg"

@@ -42,7 +42,7 @@ freetag:
   - label: "記者会見の動画"
     value: "YouTubeリンク"
 coverImage: "img/osaka030.jpg"
-collectionImage: "img/osaka009.jpg"
+collectionImage: "img/osaka030.jpg"
 resources:
   displayPop:
     image: "img/osakaDP3.jpg"

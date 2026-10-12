@@ -37,7 +37,7 @@ freetag:
   - label: "facebook を見てみると、2018年５月の再販時に、OUT"
     value: "ラブライブ！絵馬、IN：金のだいこく様、のラインナップの変更があったようです。解説書も共通のものへ変更されました。"
 coverImage: "img/kanda019.jpg"
-collectionImage: "img/kanda013.jpg"
+collectionImage: "img/kanda019.jpg"
 ---
 
 ### 概要

@@ -31,7 +31,7 @@ freetag:
   - label: "大人チケット"
     value: "ハピ神像、高校生チケット：ファラオ像、こどもチケット：王妃像"
 coverImage: "img/uminoegypt045.jpg"
-collectionImage: "img/uminoegypt029.jpg"
+collectionImage: "img/uminoegypt045.jpg"
 ---
 
 会期：2009年6月27日～9月23日　パシフィコ横浜<br />

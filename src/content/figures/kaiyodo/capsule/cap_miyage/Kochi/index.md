@@ -40,7 +40,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/kochi027.jpg"
-collectionImage: "img/kochi009.jpg"
+collectionImage: "img/kochi027.jpg"
 resources:
   displayPop:
     image: "img/kochiDP.jpg"

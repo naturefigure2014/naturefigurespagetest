@@ -30,7 +30,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/fukuoka030.jpg"
-collectionImage: "img/fukuoka001.jpg"
+collectionImage: "img/fukuoka030.jpg"
 resources:
   guide:
     image: "img/fukuokabook1.jpg"

@@ -461,7 +461,7 @@ def write_title_page(
         "speciesGroup", "salesPeriod", "genre", "tags",
     ))
     append_freetags(lines, freetags)
-    lines.extend([f"coverImage: {quoted(cover)}", f"collectionImage: {quoted(collection)}"])
+    lines.extend([f"coverImage: {quoted(cover)}",     f"collectionImage: {quoted(cover)}"])
     if resources:
         lines.append("resources:")
         for key in ("guide", "displayPop", "capsule", "package"):

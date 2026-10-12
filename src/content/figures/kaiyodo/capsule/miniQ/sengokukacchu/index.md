@@ -23,7 +23,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/kacchu017.jpg"
-collectionImage: "img/kacchu010.jpg"
+collectionImage: "img/kacchu017.jpg"
 resources:
   package:
     image: "img/kacchuhako1.jpg"

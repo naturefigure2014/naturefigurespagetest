@@ -30,7 +30,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/umeda029.jpg"
-collectionImage: "img/umeda001.jpg"
+collectionImage: "img/umeda029.jpg"
 resources:
   guide:
     image: "img/umedabook1.jpg"

@@ -31,7 +31,7 @@ freetag:
   - label: "公式サイト"
     value: "なぜか無し"
 coverImage: "img/shinsyu030.jpg"
-collectionImage: "img/shinsyu021.jpg"
+collectionImage: "img/shinsyu030.jpg"
 resources:
   guide:
     image: "img/shinsyubook1.jpg"

@@ -32,7 +32,7 @@ freetag:
   - label: "造形・企画制作"
     value: "海洋堂"
 coverImage: "img/ueno030.jpg"
-collectionImage: "img/ueno001.jpg"
+collectionImage: "img/ueno030.jpg"
 resources:
   guide:
     image: "img/uenobook1.jpg"

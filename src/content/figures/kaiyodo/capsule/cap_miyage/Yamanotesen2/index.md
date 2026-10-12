@@ -31,7 +31,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/yamanote2_024.jpg"
-collectionImage: "img/yamanote2_001.jpg"
+collectionImage: "img/yamanote2_024.jpg"
 resources:
   guide:
     image: "img/yamanote2book1.jpg"

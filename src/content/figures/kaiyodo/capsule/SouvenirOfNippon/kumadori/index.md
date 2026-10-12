@@ -40,7 +40,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/kumadori024.jpg"
-collectionImage: "img/kumadori001.jpg"
+collectionImage: "img/kumadori024.jpg"
 resources:
   guide:
     image: "img/kumadoribook1.jpg"

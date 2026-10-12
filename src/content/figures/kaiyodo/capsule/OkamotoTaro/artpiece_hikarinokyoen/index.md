@@ -30,7 +30,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/TaroQhikari020.jpg"
-collectionImage: "img/TaroQhikari003.jpg"
+collectionImage: "img/TaroQhikari020.jpg"
 resources:
   guide:
     image: "img/TaroQhikaribook1.jpg"

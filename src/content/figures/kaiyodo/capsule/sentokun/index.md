@@ -33,7 +33,7 @@ freetag:
   - label: "販売場所"
     value: "新薬師寺(奈良県)・元興寺(奈良県)・近鉄百貨店(奈良店・橿原店)・啓林堂書店奈良店"
 coverImage: "img/sento012.jpg"
-collectionImage: "img/sento023.jpg"
+collectionImage: "img/sento012.jpg"
 resources:
   guide:
     image: "img/sentobook1.jpg"

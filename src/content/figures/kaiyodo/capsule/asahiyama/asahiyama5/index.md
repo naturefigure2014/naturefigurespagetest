@@ -28,7 +28,7 @@ freetag:
   - label: "原型総指揮"
     value: "松村しのぶ"
 coverImage: "img/asahiyama5_061.jpg"
-collectionImage: "img/asahiyama5_019.jpg"
+collectionImage: "img/asahiyama5_061.jpg"
 resources:
   guide:
     image: "img/asahiyama5book.jpg"

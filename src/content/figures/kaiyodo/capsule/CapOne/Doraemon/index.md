@@ -25,7 +25,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/draemon011.jpg"
-collectionImage: "img/draemon005.jpg"
+collectionImage: "img/draemon011.jpg"
 ---
 
 ### 概要

@@ -31,7 +31,7 @@ freetag:
   - label: "造形企画制作"
     value: "海洋堂 販売元 SIPPO"
 coverImage: "img/kumamoto024.jpg"
-collectionImage: "img/kumamoto004.jpg"
+collectionImage: "img/kumamoto024.jpg"
 resources:
   guide:
     image: "cap_miyage/img/kumamotobook1.jpg"

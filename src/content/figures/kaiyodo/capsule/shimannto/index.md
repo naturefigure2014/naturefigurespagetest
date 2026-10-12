@@ -23,7 +23,7 @@ genre:
 tags:
   - "-"
 coverImage: "img/shimanto_028.jpg"
-collectionImage: "img/shimanto_001.jpg"
+collectionImage: "img/shimanto_028.jpg"
 resources:
   guide:
     image: "img/shimannto.jpg"

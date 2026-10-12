@@ -31,7 +31,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/tokyo025.jpg"
-collectionImage: "img/tokyo018.jpg"
+collectionImage: "img/tokyo025.jpg"
 resources:
   guide:
     image: "img/tokyobook1.jpg"

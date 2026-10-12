@@ -31,7 +31,7 @@ freetag:
   - label: "造形・企画制作"
     value: "海洋堂"
 coverImage: "img/joshinetsu020.jpg"
-collectionImage: "img/joshinetsu009.jpg"
+collectionImage: "img/joshinetsu020.jpg"
 resources:
   guide:
     image: "img/jouchinetsubook.jpg"

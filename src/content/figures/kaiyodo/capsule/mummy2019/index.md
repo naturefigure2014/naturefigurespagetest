@@ -24,7 +24,7 @@ freetag:
   - label: "公式サイト"
     value: "特別展ミイラ"
 coverImage: "img/mummy2019_header.png"
-collectionImage: "img/mira001.jpg"
+collectionImage: "img/mummy2019_header.png"
 resources:
   capsule:
     image: "img/mira019.jpg"

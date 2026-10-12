@@ -26,7 +26,7 @@ genre:
 tags:
   - "-"
 coverImage: "img/tosaben011.jpg"
-collectionImage: "img/tosaben005.jpg"
+collectionImage: "img/tosaben011.jpg"
 resources:
   guide:
     image: "img/tosabenbook.jpg"

@@ -31,7 +31,7 @@ freetag:
   - label: "造形・企画制作"
     value: "海洋堂"
 coverImage: "img/chiba025.jpg"
-collectionImage: "img/chiba014.jpg"
+collectionImage: "img/chiba025.jpg"
 resources:
   guide:
     image: "img/chibabooks.jpg"

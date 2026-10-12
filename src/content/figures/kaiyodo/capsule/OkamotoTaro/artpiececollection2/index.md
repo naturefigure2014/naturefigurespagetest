@@ -35,7 +35,7 @@ freetag:
   - label: "●再販"
     value: "2017年"
 coverImage: "img/TaroAPC2_016.jpg"
-collectionImage: "img/TaroMP014.jpg"
+collectionImage: "img/TaroAPC2_016.jpg"
 resources:
   guide:
     image: "img/Taro2011book1.jpg"

@@ -32,7 +32,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ"
 coverImage: "img/hokkaido4_001.jpg"
-collectionImage: "img/hokkaido4_002.jpg"
+collectionImage: "img/hokkaido4_001.jpg"
 resources:
   guide:
     image: "img/hokkaido4book1.jpg"

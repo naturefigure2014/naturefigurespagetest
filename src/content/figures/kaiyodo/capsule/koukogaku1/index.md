@@ -28,7 +28,7 @@ freetag:
   - label: "公式サイト"
     value: "海洋堂 東京国立博物館"
 coverImage: "img/touhaku020.jpg"
-collectionImage: "img/touhaku001.jpg"
+collectionImage: "img/touhaku020.jpg"
 resources:
   guide:
     image: "img/koukogakubook1.jpg"
