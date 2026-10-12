@@ -1,24 +1,49 @@
 ---
 title: "龍遊館限定フィギュアレッドドラゴン"
-description: "????????????????????"
+description: ""
 contentType: figure
 maker: "海洋堂"
+sculptor: "松村しのぶ"
+executiveProducer: "-"
+seriesName: "-"
+species: "レッドドラゴン"
+speciesGroup: "その他/その他"
+price: "2000円"
+releaseStart: "-"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "img/dragon_header.png"
 coverImage: "img/dragon_header.png"
+resources:
+  package:
+    image: "img/reddragonhako.jpg"
+    description: |
+      おなじみの黒いクッション素材の梱包材入りのダンボールに厚紙のスリーブ。他のポリストーン製の生き物フィギュアよりも箱が大きくて厚いのは翼のせい。 販売当初はどうやらこちらのスリーブで、上のパッケージは２代目のようです。リペイント版のパッケージはレッドドラゴンのパッケージに「リペイントバージョン」のシールが貼ってあるのみ。
 topics:
-  - title: ??
+  - title: ""
     images:
-      - "img/dragon_header.png"
-      - "img/reddragon001_small.jpg"
-      - "img/reddragon002_small.jpg"
-      - "img/reddragon003_small.jpg"
-      - "img/reddragon004_small.jpg"
-      - "img/reddragon005_small.jpg"
-      - "img/reddragon006_small.jpg"
-      - "img/reddragonhako.jpg"
-      - "img/dragon_repaint001_small.jpg"
-      - "img/dragon_repaint002_small.jpg"
-      - "img/dragon_repaint003_small.jpg"
-      - "img/dragon_repaint004_small.jpg"
+      - "img/reddragon001.jpg"
+      - "img/reddragon002.jpg"
+      - "img/reddragon003.jpg"
+      - "img/reddragon004.jpg"
+      - "img/reddragon005.jpg"
+      - "img/reddragon006.jpg"
+    comment: |
+      細かいウロコの造形に墨イレが際立ってとてもかっこいいです。カプセルフィギュアサイズのものよりひとまわり以上大きいです。
 ---
 
-????????????????????
+【海洋堂フィギュアミュージアム黒壁　限定フィギュア　レッドドラゴン・ブルードラゴン】
+### 概要
+<br />
+原型製作：松村しのぶ　価格：2000円<br />
+フィギュアミュージアム黒壁のシンボルである「レッドドラゴン」。もともとフィギュアミュージアムのために作られたわけではなく、ホビージャパンの連載のために作成されたものでした。フィギュアは以下のようにサイズ・素材を変えながら何度か販売されています。<br />
+「首と尾が長い爬虫類系でコウモリのような羽を持つ」というオーソドックスなドラゴンのイメージでデザインしたそうです。羽は見栄えの都合上小さくしたため、「翼はあるが飛べない」というのが松村さんの見解のようです（WILD
+RUSH 74回より）。<br />
+
+### 関連
+<br />
+<a href="../../masterarts/matsumura/img/matsumura062.jpg">大サイズ完成品</a><br />
+小サイズポリストーン製<br />
+<a href="../../kaiyodo_Capsule/dragonfigure">カプセルサイズPVC製</a>組み立て式<br />

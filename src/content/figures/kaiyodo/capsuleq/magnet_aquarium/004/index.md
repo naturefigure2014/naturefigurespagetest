@@ -1,11 +1,11 @@
 ---
-title: "4.サケ"
+title: "サケ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/magnet_aquarium
 figureId: "004"
-species: "4.サケ"
-speciesGroup: "その他魚類"
+species: "サケ"
+speciesGroup: "サケ・マス類"
 maker: "海洋堂"
 sculptor: "木下隆志"
 figureTopImage: "magnet002.jpg"

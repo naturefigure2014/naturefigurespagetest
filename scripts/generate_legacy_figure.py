@@ -413,12 +413,18 @@ def yaml_topics(topics: list[dict]) -> list[str]:
 
 
 def overview_to_markdown(overview: str) -> str:
-    """Turn <span class="font_Bold">■X</span> into "### X" and strip line indentation."""
+    """Turn legacy ■X section labels into Markdown headings."""
     text = re.sub(
         r'<span class="font_Bold">\s*■\s*(.*?)\s*</span>(?:\s*<br\s*/?>)?',
         lambda m: f"\n### {m.group(1)}\n",
         overview,
         flags=re.S,
+    )
+    text = re.sub(
+        r"(?:^|<br\s*/?>)\s*■\s*([^<\r\n]*?)(?=\s*(?:<br\s*/?>|$))",
+        lambda m: f"\n### {m.group(1).strip()}\n",
+        text,
+        flags=re.IGNORECASE,
     )
     lines = [line.strip() for line in text.splitlines()]
     text = "\n".join(lines)

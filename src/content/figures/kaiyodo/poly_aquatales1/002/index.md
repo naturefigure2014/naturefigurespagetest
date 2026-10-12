@@ -7,7 +7,7 @@ figureId: "002"
 maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
-species: "シーラカンス(幼魚)"
+species: "シーラカンス"
 speciesGroup: 古代魚類
 price: "1900円"
 releaseStart: "2013.04"
