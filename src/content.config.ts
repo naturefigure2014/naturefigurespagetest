@@ -37,6 +37,10 @@ const figures = defineCollection({
     releaseStart: z.string().optional(),
     salesPeriod: z.string().regex(/^\d{4}\.\d{2}\.\d{2}-\d{4}\.\d{2}\.\d{2}$/).optional(),
     figureIds: z.array(z.string()).default([]),
+    speciesEntries: z.array(z.object({
+      species: z.string(),
+      speciesGroup: z.string()
+    })).default([]),
     collectionImage: z.union([z.string(), z.number()]).optional(),
     // 個別フィギュアページ専用の集合写真（collectionImageより小さく表示）
     figureTopImage: z.union([z.string(), z.number()]).optional(),

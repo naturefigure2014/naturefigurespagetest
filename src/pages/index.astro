@@ -3,6 +3,7 @@ import "../styles/global.css";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../lib/figure-images";
+import { getSpeciesEntries } from "../lib/species";
 import { makerNames } from "../lib/maker";
 import { siteUrl } from "../lib/site-url";
 
@@ -83,13 +84,14 @@ const recentPosts = (await getCollection("blog"))
           item.id,
           item.data.coverImage ?? item.data.topics.flatMap((topic) => topic.images)[0]
         );
+        const speciesGroups = Array.from(new Set(getSpeciesEntries(item.data).map((entry) => entry.speciesGroup)));
         return (
           <a class="home-figure-card" href={siteUrl(`/figures/${normalizeId(item.id)}/`)}>
             {image ? <img src={image} alt="" loading="lazy" /> : <span class="home-figure-placeholder">FIGURE</span>}
             <span class="home-figure-badge">NEW</span>
             <span class="home-figure-caption">
               <strong>{item.data.title}</strong>
-              {(item.data.speciesGroup || item.data.maker) && <small>{item.data.speciesGroup || makerNames(item.data.maker).join("・")}</small>}
+              {(speciesGroups.length > 0 || item.data.maker) && <small>{speciesGroups.length > 0 ? speciesGroups.join("・") : makerNames(item.data.maker).join("・")}</small>}
             </span>
           </a>
         );

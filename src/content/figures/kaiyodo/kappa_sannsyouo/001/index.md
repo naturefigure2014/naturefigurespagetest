@@ -7,8 +7,11 @@ figureId: "001"
 maker: "-"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "オオサンショウウオ"
-speciesGroup: "イモリ・サンショウウオ類"
+speciesEntries:
+  - species: "オオサンショウウオ"
+    speciesGroup: "イモリ・サンショウウオ類"
+  - species: "カッパ"
+    speciesGroup: "妖怪"
 price: "-"
 releaseStart: "-"
 genre:

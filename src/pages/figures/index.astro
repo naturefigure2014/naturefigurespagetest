@@ -5,6 +5,7 @@ import Card from "../../components/Card.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
 import { formatFigureId } from "../../lib/figure-id";
+import { getSpeciesEntries } from "../../lib/species";
 import { siteUrl } from "../../lib/site-url";
 const items = (await getCollection("figures")).filter((item) => item.data.contentType !== "title");
 ---
@@ -13,7 +14,7 @@ const items = (await getCollection("figures")).filter((item) => item.data.conten
   <h1>フィギュア</h1>
   <div class="grid">
     {items.map((item) => (
-      <Card href={siteUrl(`/figures/${item.id.replace(/\/index(?:\.md)?$/, "")}/`)} label={formatFigureId(item.data.figureId)} title={item.data.title} description={item.data.species} image={resolveFigureImage(item.id, item.data.coverImage ?? item.data.topics.flatMap((topic) => topic.images)[0])} />
+      <Card href={siteUrl(`/figures/${item.id.replace(/\/index(?:\.md)?$/, "")}/`)} label={formatFigureId(item.data.figureId)} title={item.data.title} description={getSpeciesEntries(item.data).map((entry) => entry.species).join("・")} image={resolveFigureImage(item.id, item.data.coverImage ?? item.data.topics.flatMap((topic) => topic.images)[0])} />
     ))}
   </div>
 </BaseLayout>

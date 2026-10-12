@@ -3,6 +3,7 @@ import "../styles/global.css";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../lib/figure-images";
+import { getSpeciesEntries } from "../lib/species";
 import { siteUrl } from "../lib/site-url";
 
 interface Subgroup {
@@ -21,16 +22,15 @@ interface Props {
 
 const { title, icon, groups } = Astro.props;
 const figures = (await getCollection("figures")).filter(
-  (item) => item.data.contentType !== "title" && item.data.species
+  (item) => item.data.contentType !== "title" && getSpeciesEntries(item.data).length > 0
 );
 
 const figuresForGroup = (group: Subgroup) =>
   figures.filter((figure) => {
-    const speciesGroup = figure.data.speciesGroup ?? "";
-    return (
-      (group.species ?? []).includes(figure.data.species ?? "") ||
+    return getSpeciesEntries(figure.data).some((entry) =>
+      (group.species ?? []).includes(entry.species) ||
       (group.speciesGroups ?? []).some(
-        (prefix) => speciesGroup === prefix || speciesGroup.startsWith(`${prefix}/`)
+        (prefix) => entry.speciesGroup === prefix || entry.speciesGroup.startsWith(`${prefix}/`)
       )
     );
   });
@@ -46,7 +46,7 @@ const groupImage = (group: Subgroup) => {
 };
 
 const groupCount = (group: Subgroup) =>
-  new Set(figuresForGroup(group).map((figure) => figure.data.species)).size;
+  new Set(figuresForGroup(group).flatMap((figure) => getSpeciesEntries(figure.data).map((entry) => entry.species))).size;
 ---
 
 <BaseLayout title={`${title} | NATURE FIGURE`}>

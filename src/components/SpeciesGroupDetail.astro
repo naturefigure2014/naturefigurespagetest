@@ -3,6 +3,7 @@ import "../styles/global.css";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../lib/figure-images";
+import { getSpeciesEntries } from "../lib/species";
 import { siteUrl } from "../lib/site-url";
 
 interface Props {
@@ -14,15 +15,16 @@ interface Props {
 
 const { title, group, icon, description } = Astro.props;
 const groupPrefixes = group === "哺乳類" ? ["哺乳類", "霊長類"] : [group];
+const belongsToGroup = (speciesGroup: string) =>
+  groupPrefixes.some((prefix) =>
+    speciesGroup === prefix ||
+    speciesGroup.startsWith(`${prefix}/`) ||
+    speciesGroup.endsWith(`/${prefix}`)
+  );
 const figures = (await getCollection("figures")).filter(
   (item) =>
     item.data.contentType !== "title" &&
-    item.data.species &&
-    groupPrefixes.some((prefix) =>
-      item.data.speciesGroup === prefix ||
-      item.data.speciesGroup?.startsWith(`${prefix}/`) ||
-      item.data.speciesGroup?.endsWith(`/${prefix}`)
-    )
+    getSpeciesEntries(item.data).some((entry) => belongsToGroup(entry.speciesGroup))
 );
 const imageFor = (figure: (typeof figures)[number]) =>
   resolveFigureImage(
@@ -30,11 +32,22 @@ const imageFor = (figure: (typeof figures)[number]) =>
     figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
   );
 const speciesHref = (species: string) => siteUrl(`/species/${encodeURIComponent(species)}/`);
-const speciesEntries = Array.from(
-  new Map(figures.map((figure) => [figure.data.species, figure])).values()
-);
+type SpeciesCardEntry = { figure: (typeof figures)[number]; species: string };
+const speciesCards = new Map<string, SpeciesCardEntry>();
+for (const figure of figures) {
+  for (const entry of getSpeciesEntries(figure.data)) {
+    if (belongsToGroup(entry.speciesGroup)) {
+      speciesCards.set(entry.species, { figure, species: entry.species });
+    }
+  }
+}
+const speciesEntries = Array.from(speciesCards.values());
 const countForSpecies = (species: string) =>
-  figures.filter((figure) => figure.data.species === species).length;
+  figures.filter((figure) =>
+    getSpeciesEntries(figure.data).some(
+      (entry) => entry.species === species && belongsToGroup(entry.speciesGroup)
+    )
+  ).length;
 const featured = speciesEntries.slice(0, 3);
 
 ---
@@ -58,12 +71,12 @@ const featured = speciesEntries.slice(0, 3);
     <section class="primates-section">
       <h2>★ 注目の種</h2>
       <div class="primates-featured">
-        {featured.length > 0 ? featured.map((figure) => (
-          <a class="primate-feature-card" href={speciesHref(figure.data.species ?? "")}>
-            <img src={imageFor(figure)} alt="" loading="lazy" />
+        {featured.length > 0 ? featured.map((entry) => (
+          <a class="primate-feature-card" href={speciesHref(entry.species)}>
+            <img src={imageFor(entry.figure)} alt="" loading="lazy" />
             <div class="primate-feature-body">
-              <strong>{figure.data.species}</strong>
-              <small>♟ フィギュア {countForSpecies(figure.data.species ?? "")}種</small>
+              <strong>{entry.species}</strong>
+              <small>♟ フィギュア {countForSpecies(entry.species)}種</small>
               <span aria-hidden="true">›</span>
             </div>
           </a>
@@ -74,12 +87,12 @@ const featured = speciesEntries.slice(0, 3);
     <section class="primates-section primates-list-section">
       <h2>☷ {title}の種一覧</h2>
       <div class="primate-list">
-        {speciesEntries.map((figure) => (
-          <a class="primate-list-item" href={speciesHref(figure.data.species ?? "")}>
-            <img src={imageFor(figure)} alt="" loading="lazy" />
+        {speciesEntries.map((entry) => (
+          <a class="primate-list-item" href={speciesHref(entry.species)}>
+            <img src={imageFor(entry.figure)} alt="" loading="lazy" />
             <span>
-              <strong>{figure.data.species}</strong>
-              <small>フィギュア {countForSpecies(figure.data.species ?? "")}種</small>
+              <strong>{entry.species}</strong>
+              <small>フィギュア {countForSpecies(entry.species)}種</small>
             </span>
             <span class="primate-list-arrow" aria-hidden="true">›</span>
           </a>

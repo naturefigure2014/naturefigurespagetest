@@ -3,11 +3,12 @@ import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
+import { getSpeciesEntries } from "../../lib/species";
 import { siteUrl } from "../../lib/site-url";
 
 const entries = await getCollection("figures");
 const figures = entries.filter(
-  (item) => item.data.contentType !== "title" && item.data.species
+  (item) => item.data.contentType !== "title" && getSpeciesEntries(item.data).length > 0
 );
 
 type Figure = (typeof figures)[number];
@@ -85,16 +86,16 @@ const categories: Category[] = [
     description: "伝承や神話、都市伝説に登場する生き物を探すことができます。",
     icon: "♞",
     groups: [
-      { name: "UMA", species: ["ツチノコ"] },
-      { name: "妖怪", species: [] },
-      { name: "幻獣", species: [] },
-      { name: "キャラクター", species: [] }
+      { id: "uma", name: "UMA", species: ["ツチノコ"] },
+      { id: "yokai", name: "妖怪", species: [] },
+      { id: "mythical-beasts", name: "幻獣", species: [] },
+      { id: "characters", name: "キャラクター", species: [] }
     ]
   }
 ];
 
 const figureForSpecies = (names: string[]): Figure | undefined =>
-  figures.find((figure) => names.includes(figure.data.species ?? ""));
+  figures.find((figure) => getSpeciesEntries(figure.data).some((entry) => names.includes(entry.species)));
 
 const imageForFigure = (figure: Figure) => {
   const imageRefs = [
@@ -185,14 +186,13 @@ const categoryPrefixes: Record<string, string[]> = {
 };
 
 const belongsToGroup = (figure: Figure, group: Group) => {
-  const speciesGroup = figure.data.speciesGroup ?? "";
   const prefixes = group.id
-    ? categoryPrefixes[group.id] ?? []
+    ? categoryPrefixes[group.id] ?? [group.name]
     : [group.name];
-  return (
-    group.species.includes(figure.data.species ?? "") ||
+  return getSpeciesEntries(figure.data).some((entry) =>
+    group.species.includes(entry.species) ||
     prefixes.some((prefix) =>
-      speciesGroup === prefix || speciesGroup.startsWith(`${prefix}/`)
+      entry.speciesGroup === prefix || entry.speciesGroup.startsWith(`${prefix}/`)
     )
   );
 };
@@ -273,12 +273,26 @@ const placeholderLabels: Record<string, string> = {
           <div class="species-group-grid">
             {category.groups.map((group) => {
               const image = groupImage(group);
+              const groupSpecies = Array.from(new Set(
+                groupFigures(group).flatMap((figure) =>
+                  getSpeciesEntries(figure.data)
+                    .filter((entry) => {
+                      const prefixes = group.id
+                        ? categoryPrefixes[group.id] ?? [group.name]
+                        : [group.name];
+                      return group.species.includes(entry.species) || prefixes.some((prefix) =>
+                        entry.speciesGroup === prefix || entry.speciesGroup.startsWith(`${prefix}/`)
+                      );
+                    })
+                    .map((entry) => entry.species)
+                )
+              ));
               const placeholderLabel = group.id ? placeholderLabels[group.id] ?? "SPECIES" : "LEGENDARY";
               return (
                 <a
                   class="species-group-card"
                   href={siteUrl(group.id ? `/species/${group.id}/` : "/figures/")}
-                  data-species={`${group.name} ${group.species.join(" ")}`}
+                  data-species={`${group.name} ${groupSpecies.join(" ")}`}
                 >
                   {image ? <img src={image} alt="" loading="lazy" /> : <span class="species-group-placeholder" data-label={placeholderLabel} aria-hidden="true" />}
                   <span class="species-group-content">

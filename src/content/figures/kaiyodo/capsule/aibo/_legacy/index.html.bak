@@ -1,0 +1,192 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>1/6スケール AIBOミニチュア</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>海洋堂 1/6スケール AIBOミニチュア<br />
+			</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="256" src="img/aibo022.jpg" width="760" /></td>
+			</tr>
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2002年7月　販売元：海洋堂　価格：300円<br />
+			原型制作：若島あさひ<br />
+			1999年にソニーからリリースされたAIBOは、家庭用ペットロボットの先駆けでした。<br />
+			AIBOの３周年記念に開催された「<a href="https://ascii.jp/elem/000/000/330/330994/" target="_blank">AIBO 
+			EXPO 2002</a>」では最新AIBOだけでなく歴代AIBOも展示され、本フィギュアが販売されました（一般販売されたかは不明）。<br />
+			ラインナップは初代AIBO「ERS-110」とその改良版「ERS-111」の２タイプ４種。<br />
+			その後、2003年10月に食玩として再び海洋堂製AIBOフィギュアがリリースされ、その際は最新のAIBOがラインナップされました。<br />
+			<br />
+			■続編<br />
+			<a href="../../kaiyodo_syokugann/MyHappyAIBO/index.html">MY HAPPY 
+			AIBO</a><br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/aibo001_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/aibo016_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/aibo008_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/aibo012_small.jpg" width="146" /></a></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">ERS-110 メタリックシルバー</th></tr>
+			<tr><td><a href="img/aibo001.jpg">
+				<img height="283" src="img/aibo001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo001.jpg" --></a><a href="img/aibo002.jpg"><img height="283" src="img/aibo002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo002.jpg" --></a></td></tr>
+			<tr><td><a href="img/aibo003.jpg">
+				<img height="283" src="img/aibo003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo003.jpg" --></a><a href="img/aibo004.jpg"><img height="283" src="img/aibo004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo004.jpg" --></a></td></tr>
+			<tr><td class="comment">まずは初代アイボの基本カラー。</td></tr>
+			<tr><td><a href="img/aibo005.jpg">
+				<img height="283" src="img/aibo005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo005.jpg" --></a><a href="img/aibo021.jpg"><img height="283" src="img/aibo021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo021.jpg" --></a></td></tr>
+			<tr><td class="comment">初代アイボに付属した専用ボールもフィギュア化されました。<br />
+				四肢の付け根と首は可動ですが、しゃがみ状態を基本姿勢とするために各関節が固定されており、ポージングの自由度は低い。<br />
+				<br />
+				これは続編にて改良されます。</td></tr>
+			<tr><td><a href="img/aibo006.jpg">
+				<img height="283" src="img/aibo006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo006.jpg" --></a><a href="img/aibo007.jpg"><img height="283" src="img/aibo007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo007.jpg" --></a></td></tr>
+			<tr><td class="comment">充電ステーションも付属。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">ERS-110 トランスルーセント</th></tr>
+			<tr><td><a href="img/aibo016.jpg">
+				<img height="283" src="img/aibo016_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo016.jpg" --></a><a href="img/aibo017.jpg"><img height="283" src="img/aibo017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo017.jpg" --></a></td></tr>
+			<tr><td><a href="img/aibo018.jpg">
+				<img height="283" src="img/aibo018_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo018.jpg" --></a><a href="img/aibo019.jpg"><img height="283" src="img/aibo019_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo019.jpg" --></a></td></tr>
+			<tr><td><a href="img/aibo020.jpg">
+				<img height="283" src="img/aibo020_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo020.jpg" --></a></td></tr>
+			<tr><td class="comment">ハズレクリアカラー。<br />
+				「トランスルーセント」とは半透明という意味で、工業製品においては内部が見えるようなデザインを意味するようです。<br />
+				当然、こんなカラーのアイボはいませんでした。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">ERS-111 グレーシルバー</th></tr>
+			<tr><td><a href="img/aibo008.jpg">
+				<img height="283" src="img/aibo008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo008.jpg" --></a><a href="img/aibo009.jpg"><img height="283" src="img/aibo009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo009.jpg" --></a></td></tr>
+			<tr><td><a href="img/aibo010.jpg">
+				<img height="283" src="img/aibo010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo010.jpg" --></a><a href="img/aibo011.jpg"><img height="283" src="img/aibo011_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo011.jpg" --></a></td></tr>
+			<tr><td class="comment">
+				「ERS-110の改良版」としかWikipediaに書いてないので、いったいERS-111はERS-110とどう違うのかは不明。<br />
+				よく見ると耳の形が違うようです。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">ERS-111 メタリックブラック</th></tr>
+			<tr><td><a href="img/aibo012.jpg">
+				<img height="283" src="img/aibo012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo012.jpg" --></a><a href="img/aibo013.jpg"><img height="283" src="img/aibo013_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo013.jpg" --></a></td></tr>
+			<tr><td><a href="img/aibo014.jpg">
+				<img height="283" src="img/aibo014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo014.jpg" --></a><a href="img/aibo015.jpg"><img height="283" src="img/aibo015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibo015.jpg" --></a></td></tr>
+			<tr><td class="comment">ERS-111は２色展開されました。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">解説書</th></tr>
+			<tr><td>
+				<img height="129" src="img/aibobook1.jpg" width="378" /><img height="132" src="img/aibobook2.jpg" width="378" /></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->		
+			<tr><th id="6">パッケージ</th></tr>
+			<tr><td><a href="img/aibohako.jpg">
+				<img height="283" src="img/aibohako_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/kaiyodo_Capsule/aibo/img/aibohako.jpg" --></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			
+			
+		
+						
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

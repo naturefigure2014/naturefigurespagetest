@@ -1,0 +1,250 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>くまもとカプセル紀行</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>くまもとカプセル紀行 阿蘇ファームランドの土産<br />
+			</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="302" src="img/kumamoto024.jpg" width="760" /></td>
+			</tr>
+						
+			</table>
+			<p>
+			■概要<br />
+			販売場所：阿蘇ファームランド　販売開始時期：2012年9月中旬　価格：300円<br />
+			企画：北陸製菓　造形企画制作：海洋堂　販売元　SIPPO<br />
+			阿蘇ファームランドで限定発売されましたが、ラインナップは熊本県に関するものとなっています。<br />
+			企画は食玩時代から海洋堂との関わりが深い北陸製菓。<br />
+			コンセプトはケンエレファントのフィギュアみやげシリーズに似ていますが、フィギュアみやげシリーズではありません。<br />
+			この年には<a href="../cap_miyage/Hokkaido1">北海道フィギュアみやげVol.1</a>、<a href="../koukogaku1">考古学ミニチュア第１集</a>がリリースされており、海洋堂のご当地カプセルフィギュアの勢いのある年でした。<br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+	<!--	<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/XXX_001_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/XXX_002_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/XXX_026_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/XXX_028_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/XXX_030_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/XXX_032_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/XXX_034_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/XXX_036_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/XXX_038_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/XXX_040_small.jpg" width="146" /></a></td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->		
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">阿蘇ファームヴィレッジ ドーム型ホテル</th></tr>
+			<tr><td><a href="img/kumamoto004.jpg">
+				<img height="283" src="img/kumamoto004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto004.jpg" --></a><a href="img/kumamoto005.jpg"><img height="283" src="img/kumamoto005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto005.jpg" --></a></td></tr>
+			<tr><td><a href="img/kumamoto006.jpg">
+				<img height="283" src="img/kumamoto006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto006.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：？？？<br />
+				<br />
+				阿蘇ファームランド内にあるヴィレッジゾーンには、ドーム型ホテルが並びます。<br />
+				300棟以上ありながら、ひとつひとう内装が異なるそうです。<br />
+				<br />
+				フィギュアは人間に対してやや小さめにディフォルメされています。</td></tr>
+			<tr><td><a href="img/kumamoto007.jpg">
+				<img height="283" src="img/kumamoto007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto007.jpg" --></a></td></tr>
+			<tr><td class="comment">裏側は阿蘇ファームランドのロゴが刻印。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">ホルスタイン牛</th></tr>
+			<tr><td><a href="img/kumamoto008.jpg">
+				<img height="283" src="img/kumamoto008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto008.jpg" --></a><a href="img/kumamoto009.jpg"><img height="283" src="img/kumamoto009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto009.jpg" --></a></td></tr>
+			<tr><td><a href="img/kumamoto010.jpg">
+				<img height="283" src="img/kumamoto010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto010.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：？？？<br />
+				<br />
+				阿蘇の牧場で飼育されているホルスタイン牛。<br />
+				ホルスタイン牛の白黒は、黒地に白の斑紋が加わったものだそうです。<br />
+				<br />
+				ミルクバケツも添えられています。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">馬と草千里</th></tr>
+			<tr><td>
+				<a href="img/kumamoto011.jpg">
+				<img height="283" src="img/kumamoto011_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto011.jpg" --></a><a href="img/kumamoto012.jpg"><img height="283" src="img/kumamoto012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto012.jpg" --></a></td></tr>
+			<tr><td>
+				<a href="img/kumamoto013.jpg">
+				<img height="283" src="img/kumamoto013_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto013.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：？？？<br />
+				<br />
+				火の国、熊本を象徴する阿蘇山。<br />
+				阿蘇山の中央火口丘は草千里（くさせんり）と呼ばれる草原となっており、牛や馬が放牧されています。<br />
+				フィギュアでは阿蘇山をバックにゆったりとしている馬。<br />
+				阿蘇山は二重火山となっており、フィギュアでも再現されています。　　　　　　　　</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">熊本城</th></tr>
+			<tr><td><a href="img/kumamoto014.jpg">
+				<img height="283" src="img/kumamoto014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto014.jpg" --></a><a href="img/kumamoto015.jpg"><img height="283" src="img/kumamoto015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto015.jpg" --></a></td></tr>
+			<tr><td><a href="img/kumamoto016.jpg">
+				<img height="283" src="img/kumamoto016_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto016.jpg" --></a><a href="img/kumamoto023.jpg"><img height="283" src="img/kumamoto023_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto023.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：海野彼方<br />
+				<br />
+				日本三名城のひとつ、熊本城は「<a href="../../kaiyodo_syokugann/bussanntenn/Kyusyu#3">[フィギュア版]九州物産展</a>」(2005)のものを流用しています。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">馬刺</th></tr>
+			<tr><td><a href="img/kumamoto017.jpg">
+				<img height="283" src="img/kumamoto017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto017.jpg" --></a><a href="img/kumamoto018.jpg"><img height="283" src="img/kumamoto018_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto018.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：？？？<br />
+				<br />
+				起源は諸説ありますが、熊本城を築いた加藤清正が朝鮮出兵の際に食糧不足で馬を食したのが起源といわれています。<br />
+				現在では熊本の郷土料理として根付きました。<br />
+				<br />
+				フィギュアは海洋堂お得意の精密食品フィギュア。<br />
+				醤油はクリア樹脂ではなく、塗装のグラデーションで液体があるかのように見せているのがスゴイ。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">九州新幹線800系つばめ/さくら</th></tr>
+			<tr><td><a href="img/kumamoto019.jpg">
+				<img height="283" src="img/kumamoto019_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto019.jpg" --></a><a href="img/kumamoto020.jpg"><img height="283" src="img/kumamoto020_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto020.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：？？？<br />
+				<br />
+				九州新幹線の博多～鹿児島を運行する車両。<br />
+				ライトカバーが立体的になっています。<br />
+				<br />
+				パースつきの構図にすることで、新幹線の顔を大きく作るという、コチラも海洋堂お得意の手法。</td></tr>
+			<!--
+			-->
+			<tr><th id="7">くまモン</th></tr>
+			<tr><td><a href="img/kumamoto021.jpg">
+				<img height="283" src="img/kumamoto021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto021.jpg" --></a><a href="img/kumamoto022.jpg"><img height="283" src="img/kumamoto022_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto022.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：？？？<br />
+				<br />
+				2010年に誕生したマスコットキャラクター。<br />
+				「モン」はカタカナである点に注意。<br />
+				フィギュアの表面は着ぐるみ・・・ではなく毛皮っぽい造形になっています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">解説書</th></tr>
+			<tr><td>
+		<img height="508" src="../cap_miyage/img/kumamotobook1_small.jpg" width="378" /><img height="491" src="../cap_miyage/img/kumamotobook2_small.jpg" width="378" /></td></tr>
+			<tr><td class="comment">裏面のおすすめ施設のご紹介もフィギュアごとに異なっています。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">カプセル</th></tr>
+			<tr><td><a href="img/kumamoto001.jpg">
+				<img height="283" src="img/kumamoto001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto001.jpg" --></a><a href="img/kumamoto002.jpg"><img height="283" src="img/kumamoto002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto002.jpg" --></a></td></tr>
+			<tr><td><a href="img/kumamoto003.jpg">
+				<img height="283" src="img/kumamoto003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_Capsule/kumamoto_kiko/img/kumamoto003.jpg" --></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">ラインナップ</th></tr>
+			<tr><td class="comment">阿蘇ファームヴィレッジドーム型ホテル<br />
+				ホルスタイン牛<br />
+				馬と草千里<br />
+				熊本城<br />
+				馬刺<br />
+				九州新幹線800系つばめ/さくら<br />
+				くまもん</td></tr>
+			<!--
+			
+			<tr><th id="11">&nbsp;</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">原型制作：</td></tr>
+			<!--
+			-->			
+			</table>
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

@@ -4,25 +4,35 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
 import { makerBadgeClass, makerNames } from "../../lib/maker";
+import { getSpeciesEntries } from "../../lib/species";
 import { siteUrl } from "../../lib/site-url";
 /*
 export async function getStaticPaths() {
   const allEntries = await getCollection("figures");
   const allFigures = allEntries.filter(
-    (item) => item.data.contentType !== "title" && item.data.species && item.data.speciesGroup === "霊長類"
+    (item) => item.data.contentType !== "title" && getSpeciesEntries(item.data).some((entry) => entry.speciesGroup === "霊長類")
   );
-  const speciesNames = [...new Set(allFigures.map((figure) => figure.data.species).filter(Boolean))];
+  const speciesNames = [...new Set(allFigures.flatMap((figure) => getSpeciesEntries(figure.data).map((entry) => entry.species)))];
   return speciesNames.map((species) => ({ params: { species } }));
 }*/
 
 const allEntries = await getCollection("figures");
 const allFigures = allEntries.filter(
-  (item) => item.data.contentType !== "title" && item.data.species
+  (item) => item.data.contentType !== "title" && getSpeciesEntries(item.data).length > 0
 );
 const speciesName = Astro.params.species ?? "";
-const figures = allFigures.filter((figure) => figure.data.species === speciesName);
-const speciesGroup = figures[0]?.data.speciesGroup ?? "分類未設定";
-const speciesGroupBreadcrumb = speciesGroup.split("/").filter(Boolean).join(" › ");
+const figures = allFigures.filter((figure) =>
+  getSpeciesEntries(figure.data).some((entry) => entry.species === speciesName)
+);
+const speciesGroups = Array.from(new Set(figures.flatMap((figure) =>
+  getSpeciesEntries(figure.data)
+    .filter((entry) => entry.species === speciesName)
+    .map((entry) => entry.speciesGroup)
+)));
+const speciesGroup = speciesGroups.join("・") || "分類未設定";
+const speciesGroupBreadcrumb = speciesGroups
+  .map((group) => group.split("/").filter(Boolean).join(" › "))
+  .join("・");
 const figureHref = (figure: (typeof allFigures)[number]) =>
   siteUrl(`/figures/${figure.id.replace(/\/index(?:\.md)?$/, "")}/`);
 const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
@@ -96,8 +106,7 @@ export async function getStaticPaths() {
     ...new Set(
       allEntries
         .filter((item) => item.data.contentType !== "title")
-        .map((item) => item.data.species)
-        .filter((species): species is string => Boolean(species))
+        .flatMap((item) => getSpeciesEntries(item.data).map((entry) => entry.species))
     )
   ];
 
