@@ -13,7 +13,7 @@ figureIds:
   - kaiyodo/capsule/asahiyama/asahiyama2/005
   - kaiyodo/capsule/asahiyama/asahiyama2/006
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "カプセルズー"
 releaseStart: "2007.08"
 price: "300円"
 species: "-"

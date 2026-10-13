@@ -14,7 +14,7 @@ figureIds:
   - kaiyodo/capsule/higashiyama/006
   - kaiyodo/capsule/higashiyama/007
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "カプセルズー"
 releaseStart: "2016.10"
 price: "400円 造形総指揮：松村しのぶ"
 species: "-"

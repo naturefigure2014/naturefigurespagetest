@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/tennoji
 kind: series
-maker: "ケンエレファント 制作協力：Gallery Cafe *kirin*"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/tennoji/001
   - kaiyodo/capsule/tennoji/002
@@ -13,7 +13,7 @@ figureIds:
   - kaiyodo/capsule/tennoji/005
   - kaiyodo/capsule/tennoji/006
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "カプセルズー"
 releaseStart: "2018.09"
 price: "500円 造形総指揮：松村しのぶ"
 species: "-"

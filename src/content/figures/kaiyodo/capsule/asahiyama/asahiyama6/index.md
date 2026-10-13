@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/asahiyama/asahiyama6
 kind: series
-maker: "ケンエレファント 企画：旭川市/ケンエレファント"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/asahiyama/asahiyama6/001
   - kaiyodo/capsule/asahiyama/asahiyama6/002
@@ -13,7 +13,7 @@ figureIds:
   - kaiyodo/capsule/asahiyama/asahiyama6/005
   - kaiyodo/capsule/asahiyama/asahiyama6/006
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "カプセルズー"
 releaseStart: "2016.07"
 price: "400円 造形企画製作：海洋堂"
 species: "-"

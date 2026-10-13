@@ -12,7 +12,7 @@ figureIds:
   - kaiyodo/capsule/asahiyama/asahiyama4/004
   - kaiyodo/capsule/asahiyama/asahiyama4/005
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "カプセルズー"
 releaseStart: "2010.08"
 price: "400円→500円 造形総指揮：松村しのぶ"
 species: "-"

@@ -9,7 +9,7 @@ figureIds:
   - kaiyodo/capsule/asahiyama/asahiyama_limited/001
   - kaiyodo/capsule/asahiyama/asahiyama_limited/002
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "カプセルズー"
 releaseStart: "2008.06"
 price: "200円 販売者：旭川振興公社 企画：旭川市/北陸製菓"
 species: "-"

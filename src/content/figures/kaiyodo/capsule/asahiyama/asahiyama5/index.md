@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/asahiyama/asahiyama5
 kind: series
-maker: "タカラトミー"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/asahiyama/asahiyama5/001
   - kaiyodo/capsule/asahiyama/asahiyama5/002
@@ -13,7 +13,7 @@ figureIds:
   - kaiyodo/capsule/asahiyama/asahiyama5/005
   - kaiyodo/capsule/asahiyama/asahiyama5/006
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "カプセルズー"
 releaseStart: "2012.07"
 price: "400円 造形企画製作：海洋堂"
 species: "-"

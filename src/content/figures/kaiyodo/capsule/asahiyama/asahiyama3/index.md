@@ -12,7 +12,7 @@ figureIds:
   - kaiyodo/capsule/asahiyama/asahiyama3/004
   - kaiyodo/capsule/asahiyama/asahiyama3/005
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "カプセルズー"
 releaseStart: "2009.11"
 price: "300円 造形企画製作：海洋堂"
 species: "-"

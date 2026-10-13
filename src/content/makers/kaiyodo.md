@@ -44,8 +44,9 @@ seriesSections:
     showAllFigures: true
   - name: AQUALAND
     format: ガチャ
-  - name: 動物園関連シリーズ
+  - name: カプセルズー
     format: ガチャ
+    showAllFigures: true
   - name: ボトルキャップ動物フィギュア
     format: 食玩
   - name: 海洋堂ミュージアム関連フィギュア
