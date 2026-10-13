@@ -37,8 +37,6 @@ freetag:
     value: "コチラ"
   - label: "販売者"
     value: "ニュートラルコーポレーション"
-  - label: "2弾まではこの委員会をクレジットして発売され、3弾以降は委員会の名前が消えたものの、監修"
-    value: "荒俣宏としてシリーズは続いていきます。"
 coverImage: "img/zuroku1043.jpg"
 collectionImage: "img/zuroku1043.jpg"
 resources:
