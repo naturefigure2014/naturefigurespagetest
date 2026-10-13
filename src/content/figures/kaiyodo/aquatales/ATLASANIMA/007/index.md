@@ -1,5 +1,5 @@
 ---
-title: "07. 金魚"
+title: "金魚"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/ATLASANIMA

@@ -1,5 +1,5 @@
 ---
-title: "07. クロヘリメジロ"
+title: "クロヘリメジロ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku3

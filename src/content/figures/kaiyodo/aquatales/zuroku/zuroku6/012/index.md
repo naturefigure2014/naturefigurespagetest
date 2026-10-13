@@ -1,5 +1,5 @@
 ---
-title: "12. カルフォルニアアシカ"
+title: "カルフォルニアアシカ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku6

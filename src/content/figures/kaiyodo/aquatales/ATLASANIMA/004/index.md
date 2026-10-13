@@ -1,5 +1,5 @@
 ---
-title: "04. ホッキョククジラ"
+title: "ホッキョククジラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/ATLASANIMA

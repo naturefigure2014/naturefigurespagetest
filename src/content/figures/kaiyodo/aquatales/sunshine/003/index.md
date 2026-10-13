@@ -1,5 +1,5 @@
 ---
-title: "3. ドラド"
+title: "ドラド"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sunshine

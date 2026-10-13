@@ -1,5 +1,5 @@
 ---
-title: "6. オウムガイ"
+title: "オウムガイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu1

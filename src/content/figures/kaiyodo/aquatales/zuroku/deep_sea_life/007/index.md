@@ -1,5 +1,5 @@
 ---
-title: "7.ダイオウイカ"
+title: "ダイオウイカ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/deep_sea_life

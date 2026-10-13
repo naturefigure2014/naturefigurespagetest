@@ -1,5 +1,5 @@
 ---
-title: "10. アメリカンロブスター"
+title: "アメリカンロブスター"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku4

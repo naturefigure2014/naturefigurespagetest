@@ -1,5 +1,5 @@
 ---
-title: "02. ニシキアナゴ"
+title: "ニシキアナゴ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku6

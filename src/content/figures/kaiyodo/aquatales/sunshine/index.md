@@ -17,7 +17,7 @@ figureIds:
   - kaiyodo/aquatales/sunshine/009
   - kaiyodo/aquatales/sunshine/010
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2011.08"
 price: "300円 企画造形製作：海洋堂 造形総指揮：松村しのぶ"
 species: "-"

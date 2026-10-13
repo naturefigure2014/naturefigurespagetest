@@ -1,5 +1,5 @@
 ---
-title: "12. ペンギン骨格"
+title: "ペンギン骨格"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku5

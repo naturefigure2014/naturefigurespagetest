@@ -1,5 +1,5 @@
 ---
-title: "11. アサヒガ二"
+title: "アサヒガ二"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku2

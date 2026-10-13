@@ -1,5 +1,5 @@
 ---
-title: "12. シャチ"
+title: "シャチ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku3

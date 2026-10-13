@@ -1,5 +1,5 @@
 ---
-title: "05. イダテントビウオ"
+title: "イダテントビウオ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/ATLASANIMA

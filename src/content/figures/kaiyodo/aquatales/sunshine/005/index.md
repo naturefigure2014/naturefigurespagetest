@@ -1,5 +1,5 @@
 ---
-title: "5. コブシメ"
+title: "コブシメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sunshine

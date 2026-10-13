@@ -1,5 +1,5 @@
 ---
-title: "10. オタリア"
+title: "オタリア"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sunshine

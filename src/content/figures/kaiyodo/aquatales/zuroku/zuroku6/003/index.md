@@ -1,5 +1,5 @@
 ---
-title: "03. ヤマメ"
+title: "ヤマメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku6

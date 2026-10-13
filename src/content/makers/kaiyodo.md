@@ -39,8 +39,9 @@ seriesSections:
         href: "#"
         sourceId: kaiyodo/aqualand
         image: coverImage
-  - name: アクアテイルズ・水棲生物ミニチュア
+  - name: アクアテイルズ
     format: ガチャ
+    showAllFigures: true
   - name: AQUALAND
     format: ガチャ
   - name: 動物園関連シリーズ

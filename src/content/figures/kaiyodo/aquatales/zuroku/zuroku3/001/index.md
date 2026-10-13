@@ -1,5 +1,5 @@
 ---
-title: "01. アジアアロワナ(レッド)"
+title: "アジアアロワナ(レッド)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku3

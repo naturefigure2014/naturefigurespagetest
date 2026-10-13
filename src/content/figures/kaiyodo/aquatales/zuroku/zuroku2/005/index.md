@@ -1,5 +1,5 @@
 ---
-title: "05. ハコフグ"
+title: "ハコフグ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku2

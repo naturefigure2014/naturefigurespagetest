@@ -1,5 +1,5 @@
 ---
-title: "05. オオグソクムシ"
+title: "オオグソクムシ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/enosui/hukkoku

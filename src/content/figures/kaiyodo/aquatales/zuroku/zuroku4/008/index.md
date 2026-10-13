@@ -1,5 +1,5 @@
 ---
-title: "08. マダイ"
+title: "マダイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku4

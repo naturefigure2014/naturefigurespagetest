@@ -1,5 +1,5 @@
 ---
-title: "06. ハナミノカサゴ"
+title: "ハナミノカサゴ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku3

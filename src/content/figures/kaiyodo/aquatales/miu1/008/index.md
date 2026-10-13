@@ -1,5 +1,5 @@
 ---
-title: "8. オニキンメ"
+title: "オニキンメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu1

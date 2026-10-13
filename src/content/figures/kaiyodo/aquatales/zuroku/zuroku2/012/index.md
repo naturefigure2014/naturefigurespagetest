@@ -1,5 +1,5 @@
 ---
-title: "12. タガメ"
+title: "タガメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku2

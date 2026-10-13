@@ -1,5 +1,5 @@
 ---
-title: "1. ダイバー＆ニセゴイシウツボ"
+title: "ダイバー＆ニセゴイシウツボ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sunshine

@@ -1,5 +1,5 @@
 ---
-title: "1. ザトウクジラ"
+title: "ザトウクジラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sumida

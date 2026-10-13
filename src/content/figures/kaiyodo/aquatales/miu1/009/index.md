@@ -1,5 +1,5 @@
 ---
-title: "9. ザラビクニン"
+title: "ザラビクニン"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu1

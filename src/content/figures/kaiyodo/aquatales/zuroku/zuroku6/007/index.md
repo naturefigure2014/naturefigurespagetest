@@ -1,5 +1,5 @@
 ---
-title: "07. ミズダコ"
+title: "ミズダコ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku6

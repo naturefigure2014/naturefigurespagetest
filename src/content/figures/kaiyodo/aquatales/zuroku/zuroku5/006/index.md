@@ -1,5 +1,5 @@
 ---
-title: "06. センネンダイ(成魚)"
+title: "センネンダイ(成魚)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku5

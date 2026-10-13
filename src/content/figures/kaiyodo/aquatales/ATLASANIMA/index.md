@@ -15,7 +15,7 @@ figureIds:
   - kaiyodo/aquatales/ATLASANIMA/007
   - kaiyodo/aquatales/ATLASANIMA/008
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2005.04"
 price: "200円 販売場所：新江ノ島水族館"
 species: "-"

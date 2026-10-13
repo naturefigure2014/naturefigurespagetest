@@ -150,7 +150,7 @@ const makers = defineCollection({
         sourceId: z.string().optional(),
         image: z.union([z.string(), z.number()]).optional()
       })).default([]),
-      maxTitles: z.number().default(6)
+      maxTitles: z.number().default(50)
     })).default([])
   })
 });

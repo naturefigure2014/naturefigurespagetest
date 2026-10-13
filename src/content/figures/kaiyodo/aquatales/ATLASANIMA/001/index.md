@@ -1,5 +1,5 @@
 ---
-title: "01. シュモクザメ"
+title: "シュモクザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/ATLASANIMA

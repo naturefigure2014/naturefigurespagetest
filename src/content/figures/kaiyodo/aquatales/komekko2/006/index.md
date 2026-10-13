@@ -1,5 +1,5 @@
 ---
-title: "20. ハタタテダイ"
+title: "ハタタテダイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko2

@@ -1,5 +1,5 @@
 ---
-title: "02. ジイベイザメ"
+title: "ジイベイザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/ATLASANIMA

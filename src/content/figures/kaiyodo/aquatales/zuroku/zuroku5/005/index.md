@@ -1,5 +1,5 @@
 ---
-title: "05. センネンダイ"
+title: "センネンダイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku5

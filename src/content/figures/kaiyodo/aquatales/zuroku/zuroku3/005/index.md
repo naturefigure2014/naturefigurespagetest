@@ -1,5 +1,5 @@
 ---
-title: "05. トラウツボ"
+title: "トラウツボ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku3

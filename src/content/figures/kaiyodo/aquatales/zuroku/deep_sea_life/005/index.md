@@ -1,5 +1,5 @@
 ---
-title: "5.ウロコフネタマガイ(黒)"
+title: "ウロコフネタマガイ(黒)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/deep_sea_life

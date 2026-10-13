@@ -1,5 +1,5 @@
 ---
-title: "08. シーラカンス"
+title: "シーラカンス"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu2

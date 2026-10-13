@@ -1,5 +1,5 @@
 ---
-title: "01. ハオリムシ"
+title: "ハオリムシ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu2

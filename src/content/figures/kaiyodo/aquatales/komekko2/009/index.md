@@ -1,5 +1,5 @@
 ---
-title: "23. ハナオコゼ"
+title: "ハナオコゼ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko2

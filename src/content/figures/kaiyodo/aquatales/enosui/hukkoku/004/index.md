@@ -1,5 +1,5 @@
 ---
-title: "04. ミズクラゲ"
+title: "ミズクラゲ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/enosui/hukkoku

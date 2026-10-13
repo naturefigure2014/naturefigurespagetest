@@ -1,5 +1,5 @@
 ---
-title: "2.シーラカンス"
+title: "シーラカンス"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/deep_sea_life

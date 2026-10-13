@@ -16,7 +16,7 @@ figureIds:
   - kaiyodo/aquatales/kyoto/008
   - kaiyodo/aquatales/kyoto/009
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2012.03"
 price: "300円 造形企画制作：海洋堂 造形総指揮：松村しのぶ"
 species: "-"

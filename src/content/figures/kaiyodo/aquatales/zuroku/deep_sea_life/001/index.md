@@ -1,5 +1,5 @@
 ---
-title: "1.デメニギス"
+title: "デメニギス"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/deep_sea_life

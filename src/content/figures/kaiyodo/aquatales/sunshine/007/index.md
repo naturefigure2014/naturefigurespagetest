@@ -1,5 +1,5 @@
 ---
-title: "7. ベルツノガエル(グリーン)"
+title: "ベルツノガエル(グリーン)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sunshine

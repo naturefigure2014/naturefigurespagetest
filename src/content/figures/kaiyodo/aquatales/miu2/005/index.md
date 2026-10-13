@@ -1,5 +1,5 @@
 ---
-title: "05. ホソミクジラウオ"
+title: "ホソミクジラウオ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu2

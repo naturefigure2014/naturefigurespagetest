@@ -1,5 +1,5 @@
 ---
-title: "15. マゴンドウ"
+title: "マゴンドウ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko2

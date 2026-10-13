@@ -1,5 +1,5 @@
 ---
-title: "08. ペリカンアンコウ"
+title: "ペリカンアンコウ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/ATLASANIMA

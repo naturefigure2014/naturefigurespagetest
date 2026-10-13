@@ -1,5 +1,5 @@
 ---
-title: "09. アカシュモクザメ"
+title: "アカシュモクザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku5

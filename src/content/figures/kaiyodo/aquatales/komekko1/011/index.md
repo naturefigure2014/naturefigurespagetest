@@ -1,5 +1,5 @@
 ---
-title: "11. イトヒキアジ(幼体)"
+title: "イトヒキアジ(幼体)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1

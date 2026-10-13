@@ -1,5 +1,5 @@
 ---
-title: "4. コツメカワウソ"
+title: "コツメカワウソ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi

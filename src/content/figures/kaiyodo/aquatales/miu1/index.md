@@ -16,7 +16,7 @@ figureIds:
   - kaiyodo/aquatales/miu1/008
   - kaiyodo/aquatales/miu1/009
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2001.04"
 price: "は1個300円。"
 species: "-"

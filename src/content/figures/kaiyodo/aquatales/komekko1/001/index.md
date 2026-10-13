@@ -1,5 +1,5 @@
 ---
-title: "1. バンドウイルカ"
+title: "バンドウイルカ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1

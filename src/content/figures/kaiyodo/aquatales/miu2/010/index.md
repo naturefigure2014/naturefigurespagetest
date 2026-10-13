@@ -1,5 +1,5 @@
 ---
-title: "10. 深海探査艇(赤)"
+title: "深海探査艇(赤)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu2

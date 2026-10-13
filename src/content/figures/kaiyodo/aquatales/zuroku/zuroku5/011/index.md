@@ -1,5 +1,5 @@
 ---
-title: "11. アメリカマナティー"
+title: "アメリカマナティー"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku5

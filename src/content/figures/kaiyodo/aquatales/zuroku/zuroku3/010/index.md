@@ -1,5 +1,5 @@
 ---
-title: "10. フンボルトペンギン"
+title: "フンボルトペンギン"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku3

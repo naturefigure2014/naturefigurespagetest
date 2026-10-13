@@ -1,5 +1,5 @@
 ---
-title: "6. チンアナゴ"
+title: "チンアナゴ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi

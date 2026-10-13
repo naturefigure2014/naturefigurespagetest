@@ -1,5 +1,5 @@
 ---
-title: "4. メカジキ"
+title: "メカジキ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1

@@ -18,8 +18,12 @@ figureIds:
   - kaiyodo/aquatales/zuroku/zuroku2/010
   - kaiyodo/aquatales/zuroku/zuroku2/011
   - kaiyodo/aquatales/zuroku/zuroku2/012
+  - kaiyodo/aquatales/zuroku/zuroku2/013
+  - kaiyodo/aquatales/zuroku/zuroku2/014
+  - kaiyodo/aquatales/zuroku/zuroku2/015
+  - kaiyodo/aquatales/zuroku/zuroku2/016
 executiveProducer: "松村しのぶ"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2008.08"
 price: "300円 造形企画製作：海洋堂"
 species: "-"

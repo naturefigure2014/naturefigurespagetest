@@ -1,5 +1,5 @@
 ---
-title: "03. ダンゴウオ(レッド)"
+title: "ダンゴウオ(レッド)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku3

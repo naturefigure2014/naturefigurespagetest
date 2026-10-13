@@ -15,7 +15,7 @@ figureIds:
   - kaiyodo/aquatales/sumida/007
   - kaiyodo/aquatales/sumida/008
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2012.05"
 price: "300円 企画造形製作：海洋堂 造形総指揮：松村しのぶ"
 species: "-"

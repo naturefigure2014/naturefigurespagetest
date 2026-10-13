@@ -1,5 +1,5 @@
 ---
-title: "4. ユウゼン"
+title: "ユウゼン"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sumida

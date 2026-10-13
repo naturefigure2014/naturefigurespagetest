@@ -19,7 +19,7 @@ figureIds:
   - kaiyodo/aquatales/AQUARIUMFIGURECOLLECTION/aquarium_of_japan/011
   - kaiyodo/aquatales/AQUARIUMFIGURECOLLECTION/aquarium_of_japan/012
 executiveProducer: "松村しのぶ"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2015.04"
 price: "400円 造形製作：海洋堂"
 species: "-"

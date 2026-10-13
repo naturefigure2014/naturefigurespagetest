@@ -1,5 +1,5 @@
 ---
-title: "2. カタマイマイ(ブラウン)"
+title: "カタマイマイ(ブラウン)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sumida

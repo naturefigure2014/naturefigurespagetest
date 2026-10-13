@@ -1,5 +1,5 @@
 ---
-title: "4. コブダイ"
+title: "コブダイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sunshine

@@ -1,5 +1,5 @@
 ---
-title: "05. ヒラマサ"
+title: "ヒラマサ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku6

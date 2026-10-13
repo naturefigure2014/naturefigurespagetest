@@ -1,5 +1,5 @@
 ---
-title: "02. テッポウウオ"
+title: "テッポウウオ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku2

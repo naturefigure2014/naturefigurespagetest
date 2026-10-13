@@ -1,5 +1,5 @@
 ---
-title: "02. マダラヤドクガエル(グリーン)"
+title: "マダラヤドクガエル(グリーン)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku4

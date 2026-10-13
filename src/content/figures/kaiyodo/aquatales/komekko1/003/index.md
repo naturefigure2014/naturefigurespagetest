@@ -1,5 +1,5 @@
 ---
-title: "3. タコブネ"
+title: "タコブネ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1

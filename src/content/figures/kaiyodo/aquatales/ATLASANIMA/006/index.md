@@ -1,5 +1,5 @@
 ---
-title: "06. コウモリダコ"
+title: "コウモリダコ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/ATLASANIMA

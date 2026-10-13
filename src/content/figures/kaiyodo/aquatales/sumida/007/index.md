@@ -1,5 +1,5 @@
 ---
-title: "7. アカイセエビ"
+title: "アカイセエビ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sumida

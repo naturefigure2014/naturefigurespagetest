@@ -1,5 +1,5 @@
 ---
-title: "3. カタマイマイ(グリーン)"
+title: "カタマイマイ(グリーン)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sumida

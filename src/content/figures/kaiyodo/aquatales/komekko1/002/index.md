@@ -1,5 +1,5 @@
 ---
-title: "2. アカシュモクザメ"
+title: "アカシュモクザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1

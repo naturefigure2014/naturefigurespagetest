@@ -1,5 +1,5 @@
 ---
-title: "06. アツモリウオ(ブラウン)"
+title: "アツモリウオ(ブラウン)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku4

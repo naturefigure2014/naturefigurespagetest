@@ -1,5 +1,5 @@
 ---
-title: "8. ベルツノガエル(レッド)"
+title: "ベルツノガエル(レッド)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sunshine

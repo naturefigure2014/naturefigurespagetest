@@ -1,5 +1,5 @@
 ---
-title: "07. バンドウイルカとリーダー"
+title: "バンドウイルカとリーダー"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/enosui/hukkoku

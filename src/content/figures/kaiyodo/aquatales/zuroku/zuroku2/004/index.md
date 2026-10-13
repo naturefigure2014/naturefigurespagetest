@@ -1,5 +1,5 @@
 ---
-title: "04. タテジマキンチャクダイ"
+title: "タテジマキンチャクダイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku2

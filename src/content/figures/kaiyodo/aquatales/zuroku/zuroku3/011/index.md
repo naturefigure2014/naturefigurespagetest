@@ -1,5 +1,5 @@
 ---
-title: "11. ゴマフアザラシ"
+title: "ゴマフアザラシ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku3

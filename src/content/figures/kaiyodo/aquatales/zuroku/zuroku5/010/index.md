@@ -1,5 +1,5 @@
 ---
-title: "10. コツメカワウソ"
+title: "コツメカワウソ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku5

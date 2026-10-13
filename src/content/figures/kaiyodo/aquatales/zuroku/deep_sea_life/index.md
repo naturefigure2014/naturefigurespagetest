@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "index.html"
 description: ""
 contentType: title
 titleId: kaiyodo/aquatales/zuroku/deep_sea_life
@@ -14,7 +14,7 @@ figureIds:
   - kaiyodo/aquatales/zuroku/deep_sea_life/006
   - kaiyodo/aquatales/zuroku/deep_sea_life/007
 executiveProducer: "松村しのぶ"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2014.03"
 price: "300円 造形企画製作：海洋堂"
 species: "-"

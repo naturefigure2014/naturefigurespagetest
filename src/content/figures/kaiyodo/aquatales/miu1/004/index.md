@@ -1,5 +1,5 @@
 ---
-title: "4. コウモリダコ"
+title: "コウモリダコ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu1

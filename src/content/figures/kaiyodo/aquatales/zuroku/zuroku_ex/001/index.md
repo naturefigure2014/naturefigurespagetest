@@ -1,5 +1,5 @@
 ---
-title: "1. オワンクラゲ(通常色)"
+title: "オワンクラゲ(通常色)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku_ex

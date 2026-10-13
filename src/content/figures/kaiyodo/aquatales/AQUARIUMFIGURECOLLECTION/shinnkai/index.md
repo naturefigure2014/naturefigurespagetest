@@ -13,7 +13,7 @@ figureIds:
   - kaiyodo/aquatales/AQUARIUMFIGURECOLLECTION/shinnkai/005
   - kaiyodo/aquatales/AQUARIUMFIGURECOLLECTION/shinnkai/006
 executiveProducer: "松村しのぶ"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2016.05"
 price: "500円"
 species: "-"

@@ -1,5 +1,5 @@
 ---
-title: "07. コンゴウフグ"
+title: "コンゴウフグ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku4

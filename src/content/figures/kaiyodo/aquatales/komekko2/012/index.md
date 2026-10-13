@@ -1,5 +1,5 @@
 ---
-title: "26. ザトウクジラ(ホエールウォッチング)"
+title: "ザトウクジラ(ホエールウォッチング)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko2

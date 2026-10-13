@@ -1,5 +1,5 @@
 ---
-title: "02. アジアアロワナ(ゴールド)"
+title: "アジアアロワナ(ゴールド)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku3

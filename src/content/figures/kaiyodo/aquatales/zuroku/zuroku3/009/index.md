@@ -1,5 +1,5 @@
 ---
-title: "09. ブタバナガメ"
+title: "ブタバナガメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku3

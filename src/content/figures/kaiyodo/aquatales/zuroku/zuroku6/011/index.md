@@ -1,5 +1,5 @@
 ---
-title: "11. マゼランペンギン"
+title: "マゼランペンギン"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku6

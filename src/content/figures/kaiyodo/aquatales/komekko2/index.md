@@ -18,8 +18,9 @@ figureIds:
   - kaiyodo/aquatales/komekko2/010
   - kaiyodo/aquatales/komekko2/011
   - kaiyodo/aquatales/komekko2/012
+  - kaiyodo/aquatales/komekko2/013
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2003.01"
 price: "-"
 species: "-"

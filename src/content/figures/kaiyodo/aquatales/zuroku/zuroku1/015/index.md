@@ -1,5 +1,5 @@
 ---
-title: "ボーナス：コウテイペンギン"
+title: "ボーナス：コウテイペンギン 1/2/ヒナ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku1

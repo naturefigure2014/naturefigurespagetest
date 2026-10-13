@@ -1,5 +1,5 @@
 ---
-title: "08. ハナゴンドウ"
+title: "ハナゴンドウ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/enosui/hukkoku

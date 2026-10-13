@@ -1,5 +1,5 @@
 ---
-title: "08. オーストラリアオオガニ"
+title: "オーストラリアオオガニ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku3

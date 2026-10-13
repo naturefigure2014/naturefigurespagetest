@@ -1,5 +1,5 @@
 ---
-title: "12. アカウミガメ"
+title: "アカウミガメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1

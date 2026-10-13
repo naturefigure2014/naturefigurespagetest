@@ -19,7 +19,7 @@ figureIds:
   - kaiyodo/aquatales/AQUARIUMFIGURECOLLECTION/aquarium_of_japan_2019/011
   - kaiyodo/aquatales/AQUARIUMFIGURECOLLECTION/aquarium_of_japan_2019/012
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2019.10"
 price: "500円 造形製作：海洋堂 制作総指揮：松村しのぶ"
 species: "-"

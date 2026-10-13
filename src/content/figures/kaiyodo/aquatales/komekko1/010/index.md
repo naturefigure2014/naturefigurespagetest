@@ -1,5 +1,5 @@
 ---
-title: "10. オニカマス"
+title: "オニカマス"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1

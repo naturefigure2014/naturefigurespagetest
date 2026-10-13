@@ -1,5 +1,5 @@
 ---
-title: "03. ウツボ"
+title: "ウツボ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/enosui/hukkoku

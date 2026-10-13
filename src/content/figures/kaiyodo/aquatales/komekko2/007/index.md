@@ -1,5 +1,5 @@
 ---
-title: "21. クロマグロ"
+title: "クロマグロ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko2

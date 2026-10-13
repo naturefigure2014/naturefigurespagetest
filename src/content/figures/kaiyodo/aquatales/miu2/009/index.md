@@ -1,5 +1,5 @@
 ---
-title: "09. ギンザメ"
+title: "ギンザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu2

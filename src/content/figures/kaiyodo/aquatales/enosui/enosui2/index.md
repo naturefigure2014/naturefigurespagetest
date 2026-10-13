@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "index.html"
 description: ""
 contentType: title
 titleId: kaiyodo/aquatales/enosui/enosui2
@@ -18,8 +18,13 @@ figureIds:
   - kaiyodo/aquatales/enosui/enosui2/010
   - kaiyodo/aquatales/enosui/enosui2/011
   - kaiyodo/aquatales/enosui/enosui2/012
+  - kaiyodo/aquatales/enosui/enosui2/013
+  - kaiyodo/aquatales/enosui/enosui2/014
+  - kaiyodo/aquatales/enosui/enosui2/015
+  - kaiyodo/aquatales/enosui/enosui2/016
+  - kaiyodo/aquatales/enosui/enosui2/017
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2005.04"
 price: "200円 造形企画制作：海洋堂 公式サイト： コチラ"
 species: "-"

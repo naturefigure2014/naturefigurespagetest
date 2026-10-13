@@ -17,7 +17,7 @@ figureIds:
   - kaiyodo/aquatales/enosui/hukkoku/009
   - kaiyodo/aquatales/enosui/hukkoku/010
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2015.03"
 price: "の高騰、そろそろ頭打ちになってくれませんかね。"
 species: "-"

@@ -317,7 +317,10 @@ def append_metadata(lines: list[str], metadata: dict[str, str], fields: tuple[st
                 for part in (parts or ["-"])
             )
         else:
-            lines.append(yaml_field(field, metadata.get(field) or "-"))
+            value = metadata.get(field) or "-"
+            if field == "species":
+                value = value.replace("/", "・")
+            lines.append(yaml_field(field, value))
 
 
 def preserve_existing_fields(lines: list[str], path: Path, fields: set[str]):

@@ -1,5 +1,5 @@
 ---
-title: "03. タツノオトシゴ(ブラウン)"
+title: "タツノオトシゴ(ブラウン)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku5

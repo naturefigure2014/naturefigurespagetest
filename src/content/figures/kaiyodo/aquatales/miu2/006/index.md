@@ -1,5 +1,5 @@
 ---
-title: "06. テンガンムネエソ"
+title: "テンガンムネエソ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu2

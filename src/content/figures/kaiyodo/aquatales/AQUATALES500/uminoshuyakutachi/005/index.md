@@ -1,5 +1,5 @@
 ---
-title: "5. ジンベエザメ"
+title: "ジンベエザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi

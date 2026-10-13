@@ -1,5 +1,5 @@
 ---
-title: "6. オビシメ(メス)"
+title: "オビシメ(メス)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sumida

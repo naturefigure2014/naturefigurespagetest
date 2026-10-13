@@ -1,5 +1,5 @@
 ---
-title: "10. グリーンイグアナ(イエロー)"
+title: "グリーンイグアナ(イエロー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku6

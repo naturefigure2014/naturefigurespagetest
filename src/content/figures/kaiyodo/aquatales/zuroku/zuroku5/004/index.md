@@ -1,5 +1,5 @@
 ---
-title: "04. デンキウナギ"
+title: "デンキウナギ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku5

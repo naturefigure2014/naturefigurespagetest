@@ -1,5 +1,5 @@
 ---
-title: "09. ノコギリエイ"
+title: "ノコギリエイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku4

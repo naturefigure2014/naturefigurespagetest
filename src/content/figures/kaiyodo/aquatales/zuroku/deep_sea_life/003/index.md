@@ -1,5 +1,5 @@
 ---
-title: "3.フウセンウナギ"
+title: "フウセンウナギ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/deep_sea_life

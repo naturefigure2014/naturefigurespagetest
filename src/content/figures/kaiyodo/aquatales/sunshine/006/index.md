@@ -1,5 +1,5 @@
 ---
-title: "6. ハダカカメガイ(クリオネ)"
+title: "ハダカカメガイ(クリオネ)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sunshine

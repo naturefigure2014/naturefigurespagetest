@@ -1,5 +1,5 @@
 ---
-title: "03. タテジマキンチャクダイ"
+title: "タテジマキンチャクダイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/ATLASANIMA

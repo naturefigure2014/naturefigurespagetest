@@ -1,5 +1,5 @@
 ---
-title: "9. ケープペンギン"
+title: "ケープペンギン"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/sunshine

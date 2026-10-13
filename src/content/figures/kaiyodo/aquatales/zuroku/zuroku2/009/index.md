@@ -1,5 +1,5 @@
 ---
-title: "09. ブルージェリーフィッシュ"
+title: "ブルージェリーフィッシュ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku2

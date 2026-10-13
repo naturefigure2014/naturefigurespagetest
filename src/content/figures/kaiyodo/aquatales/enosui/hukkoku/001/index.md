@@ -1,5 +1,5 @@
 ---
-title: "01. アオウミガメ"
+title: "アオウミガメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/enosui/hukkoku

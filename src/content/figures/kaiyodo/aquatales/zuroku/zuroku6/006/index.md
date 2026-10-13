@@ -1,5 +1,5 @@
 ---
-title: "06. クルマエビ"
+title: "クルマエビ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku6

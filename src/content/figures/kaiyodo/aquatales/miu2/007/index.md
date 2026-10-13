@@ -1,5 +1,5 @@
 ---
-title: "07. メンダコ"
+title: "メンダコ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu2

@@ -1,5 +1,5 @@
 ---
-title: "07. シマキンチャクフグ"
+title: "シマキンチャクフグ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku5

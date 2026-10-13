@@ -1,5 +1,5 @@
 ---
-title: "2. オワンクラゲ(発光状態)"
+title: "オワンクラゲ(発光状態)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku_ex

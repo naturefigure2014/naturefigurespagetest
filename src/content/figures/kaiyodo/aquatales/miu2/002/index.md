@@ -1,5 +1,5 @@
 ---
-title: "02. テンガイハタ(幼魚)"
+title: "テンガイハタ(幼魚)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu2

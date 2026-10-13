@@ -1,5 +1,5 @@
 ---
-title: "6.ダイオウグソクムシ"
+title: "ダイオウグソクムシ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/deep_sea_life

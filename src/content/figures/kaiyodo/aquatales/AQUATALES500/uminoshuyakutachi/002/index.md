@@ -1,5 +1,5 @@
 ---
-title: "2. ケープペンギン"
+title: "ケープペンギン"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi

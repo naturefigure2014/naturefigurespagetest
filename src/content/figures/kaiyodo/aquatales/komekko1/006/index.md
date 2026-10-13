@@ -1,5 +1,5 @@
 ---
-title: "6. ミナミハコフグ(幼魚)"
+title: "ミナミハコフグ(幼魚)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1

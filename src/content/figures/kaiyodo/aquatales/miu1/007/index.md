@@ -1,5 +1,5 @@
 ---
-title: "7. ミツクリザメ"
+title: "ミツクリザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu1

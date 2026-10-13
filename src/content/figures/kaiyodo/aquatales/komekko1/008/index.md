@@ -1,5 +1,5 @@
 ---
-title: "8. トビウオ"
+title: "トビウオ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1

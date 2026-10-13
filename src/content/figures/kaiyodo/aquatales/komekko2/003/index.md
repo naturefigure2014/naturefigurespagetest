@@ -1,5 +1,5 @@
 ---
-title: "17. ケンサキイカ"
+title: "ケンサキイカ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko2

@@ -1,5 +1,5 @@
 ---
-title: "05. アツモリウオ(レッド)"
+title: "アツモリウオ(レッド)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku4

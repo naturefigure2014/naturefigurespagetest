@@ -1,5 +1,5 @@
 ---
-title: "19. ジンベエザメ"
+title: "ジンベエザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko2

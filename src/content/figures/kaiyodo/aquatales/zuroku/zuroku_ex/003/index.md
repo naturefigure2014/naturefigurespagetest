@@ -1,5 +1,5 @@
 ---
-title: "3. シーネットル"
+title: "シーネットル"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku_ex

@@ -1,5 +1,5 @@
 ---
-title: "7. カツオ"
+title: "カツオ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1

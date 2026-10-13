@@ -1,5 +1,5 @@
 ---
-title: "04. ボウエンギョ"
+title: "ボウエンギョ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu2

@@ -1,5 +1,5 @@
 ---
-title: "10. オウムガイ"
+title: "オウムガイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku2

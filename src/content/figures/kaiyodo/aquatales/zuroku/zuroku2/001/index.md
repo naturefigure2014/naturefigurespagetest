@@ -1,5 +1,5 @@
 ---
-title: "01. ピラニアナッテリー"
+title: "ピラニアナッテリー"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku2

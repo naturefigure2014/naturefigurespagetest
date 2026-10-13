@@ -1,5 +1,5 @@
 ---
-title: "3. フクロウナギ"
+title: "フクロウナギ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/miu1

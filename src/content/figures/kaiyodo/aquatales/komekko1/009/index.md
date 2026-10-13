@@ -1,5 +1,5 @@
 ---
-title: "9. カスリハタ"
+title: "カスリハタ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1

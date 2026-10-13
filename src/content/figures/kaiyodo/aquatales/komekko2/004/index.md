@@ -1,5 +1,5 @@
 ---
-title: "18. バショウカジキ"
+title: "バショウカジキ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko2

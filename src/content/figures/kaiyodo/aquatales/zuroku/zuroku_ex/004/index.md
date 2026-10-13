@@ -1,5 +1,5 @@
 ---
-title: "4. タコクラゲ(ブルー)"
+title: "タコクラゲ(ブルー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku_ex

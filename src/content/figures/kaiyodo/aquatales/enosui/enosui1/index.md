@@ -18,8 +18,16 @@ figureIds:
   - kaiyodo/aquatales/enosui/enosui1/010
   - kaiyodo/aquatales/enosui/enosui1/011
   - kaiyodo/aquatales/enosui/enosui1/012
+  - kaiyodo/aquatales/enosui/enosui1/013
+  - kaiyodo/aquatales/enosui/enosui1/014
+  - kaiyodo/aquatales/enosui/enosui1/015
+  - kaiyodo/aquatales/enosui/enosui1/016
+  - kaiyodo/aquatales/enosui/enosui1/017
+  - kaiyodo/aquatales/enosui/enosui1/018
+  - kaiyodo/aquatales/enosui/enosui1/019
+  - kaiyodo/aquatales/enosui/enosui1/020
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2004.04"
 price: "200円 造形企画製作：海洋堂 公式サイト： コチラ"
 species: "-"

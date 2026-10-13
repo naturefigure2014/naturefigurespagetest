@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "index.html"
 description: ""
 contentType: title
 titleId: kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi
@@ -13,7 +13,7 @@ figureIds:
   - kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi/005
   - kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi/006
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "アクアテイルズ"
 releaseStart: "2018.05"
 price: "500円"
 species: "-"

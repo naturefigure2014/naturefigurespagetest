@@ -1,5 +1,5 @@
 ---
-title: "12. シロイルカ(ベルーガ)"
+title: "シロイルカ(ベルーガ)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku4

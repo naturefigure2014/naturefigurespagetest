@@ -1,5 +1,5 @@
 ---
-title: "5. タコクラゲ(オレンジ)"
+title: "タコクラゲ(オレンジ)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku_ex

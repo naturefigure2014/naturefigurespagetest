@@ -1,5 +1,5 @@
 ---
-title: "02. マイワシ"
+title: "マイワシ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/enosui/hukkoku

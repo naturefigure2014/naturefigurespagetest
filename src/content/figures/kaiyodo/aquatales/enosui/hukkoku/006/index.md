@@ -1,5 +1,5 @@
 ---
-title: "06. フンボルトペンギン"
+title: "フンボルトペンギン"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/enosui/hukkoku

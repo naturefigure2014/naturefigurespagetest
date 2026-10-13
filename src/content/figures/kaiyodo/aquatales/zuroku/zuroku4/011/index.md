@@ -1,5 +1,5 @@
 ---
-title: "11. オウサマペンギン(キングペンギン)"
+title: "オウサマペンギン(キングペンギン)"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku4

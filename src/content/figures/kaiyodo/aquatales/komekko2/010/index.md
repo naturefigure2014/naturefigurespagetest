@@ -1,5 +1,5 @@
 ---
-title: "24. マダラトビエイ"
+title: "マダラトビエイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko2

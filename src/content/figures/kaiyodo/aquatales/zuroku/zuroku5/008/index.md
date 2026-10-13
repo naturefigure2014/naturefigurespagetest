@@ -1,5 +1,5 @@
 ---
-title: "08. タイワンガザミ"
+title: "タイワンガザミ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku5
