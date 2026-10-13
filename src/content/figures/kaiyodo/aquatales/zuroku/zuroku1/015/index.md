@@ -1,5 +1,5 @@
 ---
-title: "ボーナス：コウテイペンギン 1/2/ヒナ"
+title: "ボーナス：コウテイペンギン"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku1
@@ -7,7 +7,7 @@ figureId: "015"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "松村しのぶ"
-species: "ボーナス：コウテイペンギン 1/2/ヒナ"
+species: "ボーナス：コウテイペンギン"
 speciesGroup: "-"
 price: "200円→300円 造形企画製作：海洋堂"
 releaseStart: "2007.04"
