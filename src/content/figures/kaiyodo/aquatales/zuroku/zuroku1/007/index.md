@@ -1,5 +1,5 @@
 ---
-title: "07. シロワニ♀"
+title: "シロワニ♀"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku1

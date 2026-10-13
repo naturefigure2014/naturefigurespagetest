@@ -18,6 +18,9 @@ figureIds:
   - kaiyodo/aquatales/zuroku/zuroku1/010
   - kaiyodo/aquatales/zuroku/zuroku1/011
   - kaiyodo/aquatales/zuroku/zuroku1/012
+  - kaiyodo/aquatales/zuroku/zuroku1/013
+  - kaiyodo/aquatales/zuroku/zuroku1/014
+  - kaiyodo/aquatales/zuroku/zuroku1/015
 executiveProducer: "松村しのぶ"
 seriesName: "アクアテイルズ"
 releaseStart: "2007.04"

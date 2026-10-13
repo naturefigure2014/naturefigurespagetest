@@ -1,5 +1,5 @@
 ---
-title: "12. カノコイセエビ"
+title: "カノコイセエビ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku1

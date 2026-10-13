@@ -320,6 +320,24 @@ def append_metadata(lines: list[str], metadata: dict[str, str], fields: tuple[st
             lines.append(yaml_field(field, metadata.get(field) or "-"))
 
 
+def preserve_existing_fields(lines: list[str], path: Path, fields: set[str]):
+    if not path.is_file():
+        return
+    text = path.read_text(encoding="utf-8", errors="replace")
+    match = re.match(r"^---\s*\r?\n(.*?)\r?\n---(?:\r?\n|$)", text, re.DOTALL)
+    if not match:
+        return
+    existing = {}
+    for line in match.group(1).splitlines():
+        field, separator, _ = line.partition(":")
+        if separator and field in fields:
+            existing[field] = line
+    for index, line in enumerate(lines):
+        field, separator, _ = line.partition(":")
+        if separator and field in existing:
+            lines[index] = existing[field]
+
+
 def figure_content_id(folder: Path) -> str:
     content_root = Path(__file__).resolve().parents[1] / "src" / "content" / "figures"
     try:
@@ -352,7 +370,7 @@ def extract_sculptor(inner_html: str) -> str | None:
     return normalize_text(match.group(1)) or None
 
 
-def extract_items(main: Node, limit: int = 12):
+def extract_items(main: Node):
     resource_headings = {"解説書", "ミニブック", "ディスプレイポップ", "DP", "ミニパンフ", "ブックレット", "カプセル"}
     rows = direct_rows(main)
     items = []
@@ -360,10 +378,8 @@ def extract_items(main: Node, limit: int = 12):
     for row in rows:
         headings = list(row.descendants("th"))
         if headings:
-            heading = normalize_text(headings[0].text())
+            heading = re.sub(r"^\d+\.\s*", "", normalize_text(headings[0].text()))
             if heading in resource_headings or resource_key_for_heading(heading):
-                break
-            if len(items) >= limit:
                 break
             current = {"name": heading, "topics": []}
             items.append(current)
@@ -474,7 +490,9 @@ def write_title_page(
                 if resource["description"]:
                     lines.extend(["    description: |", f"      {resource['description']}"])
     lines.extend(["---", "", overview_to_markdown(overview), ""])
-    (folder / "index.md").write_text("\n".join(line for line in lines if line is not None), encoding="utf-8")
+    page = folder / "index.md"
+    preserve_existing_fields(lines, page, {"species", "speciesGroup", "seriesName"})
+    page.write_text("\n".join(line for line in lines if line is not None), encoding="utf-8")
 
 
 def write_figure_page(folder: Path, item: dict, index: int, maker: str, metadata: dict[str, str]):
@@ -507,7 +525,9 @@ def write_figure_page(folder: Path, item: dict, index: int, maker: str, metadata
     ]
     lines.extend(yaml_topics(local_topics))
     lines.extend(["---", ""])
-    (figure_folder / "index.md").write_text("\n".join(lines), encoding="utf-8")
+    page = figure_folder / "index.md"
+    preserve_existing_fields(lines, page, {"species", "speciesGroup"})
+    page.write_text("\n".join(lines), encoding="utf-8")
 
 
 def leading_topic(main: Node) -> dict | None:

@@ -1,5 +1,5 @@
 ---
-title: "01. メガネモチノウオ"
+title: "メガネモチノウオ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku1

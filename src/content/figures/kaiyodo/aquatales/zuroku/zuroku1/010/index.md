@@ -1,5 +1,5 @@
 ---
-title: "10. ピラルクー"
+title: "ピラルクー"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku1

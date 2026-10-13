@@ -1,5 +1,5 @@
 ---
-title: "08. オオウミウマ"
+title: "オオウミウマ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku1

@@ -1,5 +1,5 @@
 ---
-title: "02. モンガラカワハギ"
+title: "モンガラカワハギ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku1

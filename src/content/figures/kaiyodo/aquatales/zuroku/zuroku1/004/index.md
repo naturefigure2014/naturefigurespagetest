@@ -1,5 +1,5 @@
 ---
-title: "04. スミレナガハナダイ♂"
+title: "スミレナガハナダイ♂"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku1

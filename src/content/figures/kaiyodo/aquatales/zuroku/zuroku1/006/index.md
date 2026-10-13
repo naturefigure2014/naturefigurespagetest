@@ -1,5 +1,5 @@
 ---
-title: "06. マンボウ"
+title: "マンボウ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku1

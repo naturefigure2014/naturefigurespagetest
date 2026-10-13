@@ -1,5 +1,5 @@
 ---
-title: "09. レッドテールキャットフィッシュ"
+title: "レッドテールキャットフィッシュ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku1

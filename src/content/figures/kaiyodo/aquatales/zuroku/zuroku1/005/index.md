@@ -1,5 +1,5 @@
 ---
-title: "05. ハナヒゲウツボ"
+title: "ハナヒゲウツボ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku1
