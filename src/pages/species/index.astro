@@ -16,6 +16,7 @@ type Group = {
   id?: string;
   name: string;
   species: string[];
+  imageFigureId?: string;
 };
 type Category = {
   id: string;
@@ -34,8 +35,17 @@ const categories: Category[] = [
     description: "現在生きている生き物を、分類から探すことができます。",
     icon: "●",
     groups: [
-      { id: "mammals", name: "哺乳類", species: ["ニホンザル", "トウホクノウサギ"] },
-      { id: "birds", name: "鳥類", species: ["マガン", "オオマシコ"] },
+      {
+        id: "mammals",
+        name: "哺乳類",
+        species: ["ニホンザル", "トウホクノウサギ"],
+        imageFigureId: "kaiyodo/MegaSofubiAdvance/MSA-007AfricanElephant"
+      },
+      { id: "birds",
+        name: "鳥類",
+        species: ["マガン", "オオマシコ"],
+        imageFigureId: "kaiyodo/capsule/asahiyama/asahiyama5/005"
+      },
       { id: "reptiles", name: "爬虫類", species: [] },
       { id: "amphibians", name: "両生類", species: ["トウホクサンショウウオ"] },
       { id: "fish", name: "魚類", species: ["クニマス"] },
@@ -200,6 +210,17 @@ const belongsToGroup = (figure: Figure, group: Group) => {
 const groupFigures = (group: Group) => figures.filter((figure) => belongsToGroup(figure, group));
 
 const groupImage = (group: Group) => {
+  const selectedFigure = group.imageFigureId
+    ? figures.find(
+        (figure) =>
+          figure.id.replace(/\/index(?:\.md)?$/, "") === group.imageFigureId
+      )
+    : undefined;
+  if (selectedFigure) {
+    const selectedImage = imageForFigure(selectedFigure);
+    if (selectedImage) return selectedImage;
+  }
+
   const candidates = [...groupFigures(group)];
   const example = figureForSpecies(group.species);
   if (example && !candidates.includes(example)) candidates.push(example);

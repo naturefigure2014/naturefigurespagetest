@@ -1,0 +1,330 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>恐竜造形大博覧会</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<table width="100%">
+		<tr><td><img height="69" src="img/exhibition_header.png" width="760" /></td></tr>
+		<tr><td><img height="231" src="img/exhibition021.jpg" width="760" /></td></tr>
+		</table>
+			<p>
+			【カプセルQミュージアム　恐竜発掘記８　恐竜造形大博覧会 The great exhibition of dinosaur 
+			sculpting】<br />
+			■概要<br />
+			販売開始：2019年7月　販売元：海洋堂　価格：400円　造形総指揮：松村しのぶ<br />
+			前回は過去の造形を最新の学説に基づいてアレンジした弾ですが、今回はどういうくくりかよくわかりません。<br />
+			2013年から始まった恐竜発掘記、今年（2019年）第8弾が発売。シリーズの数ならダイノテイルズの数を超えました。ダイノテイルズが2001年からの5年間で終わってしまったことを考えると、それよりも長く続いている点には驚きです。<br />
+			ミニブックには「恐竜発掘記シリーズも40種類を超える一大ラインナップとなりました。集めて並べれば、デスクトップが小さな恐竜博覧会となります。」（一部省略）と書かれていますが、僕にとっては2001年から始まった海洋堂のミニチュア恐竜シリーズ、一度振り返るための「大博覧会」なのかもしれません。<br />
+			なおこの夏は、<a href="../../../kaiyodo_Capsule/kyoryuhaku2019">恐竜博２０１９のオフィシャルフィギュア</a>、ワンフェス２０１９夏での松村さんのDGKと、過去最高レベルで海洋堂恐竜界隈が激アツの夏だったのでした。<br />
+			<br />
+			■次回作<br />
+			<a href="../9_carnivore">恐竜発掘記9 最大最強肉食恐竜編</a><br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/exhibition006_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/exhibition009_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/exhibition015_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/exhibition001_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/exhibition018_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/exhibition012_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td><td>&nbsp;</td>
+		</tr>
+
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+		
+			<table style="width: 100%">
+			<tr>
+<th id="1">ティラノサウルス</th></tr>
+<tr>
+<td><a href="img/exhibition006.jpg">
+<img height="283" src="img/exhibition006_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition006.jpg" --></a><a href="img/exhibition007.jpg"><img height="283" src="img/exhibition007_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition007.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/exhibition008.jpg">
+<img height="283" src="img/exhibition008_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition008.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">原型制作：松村しのぶ<br />
+<br />
+ついに待ち望んだ、ミニチュアサイズの松村ティラノ。<a href="../../dinotales1/img/dino1_040.jpg">チョコラザウルス第1弾のティラノ</a>以降、ダイノテイルズや恐竜発掘記のティラノサウルスは、すべて菅谷さんや山本さんらの造形品でした。<br />
+どれも良い出来でしたが、やはり見てみたいのは、量産品の技術力が成熟した今のレベルでの松村ティラノ。<br />
+それがついに、3D技術の力を借りて実現したのです。素晴らしいの一言に尽きます。<br />
+塗装はどう見ても<a href="../../../masterarts/shimizu/img/giana.jpg">ギアナカイマントカゲ</a>。</td>
+</tr>
+			<tr>
+<th id="2">ティラノサウルス（黒カラー）</th></tr>
+<tr>
+<td><a href="img/exhibition009.jpg">
+<img height="283" src="img/exhibition009_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition009.jpg" --></a><a href="img/exhibition010.jpg"><img height="283" src="img/exhibition010_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition010.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/exhibition011.jpg">
+<img height="283" src="img/exhibition011_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition011.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">原型制作：松村しのぶ<br />
+<br />
+素晴らしい造形はどんなカラーも似合う。ただ今回ちょっと残念なのは、品質。<br />
+工数とかデザインとかそういう話ではなく、とにかく塗料の飛び散りとハミ出しが多い（このティラノは３つ入手したが、２つに確認した）。<br />
+リペイントしちゃうからどうでもいいんですけどね。</td>
+</tr>
+<tr>
+<td><a href="img/exhibition005.jpg">
+<img height="283" src="img/exhibition005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition005.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">
+この夏手に入る4種類の松村ティラノ。DGK（デジタルガレージキット）と今回のフィギュアは同じ３Dモデルを使用しているようです。技術の発展を肌で感じます。</td>
+</tr>
+			<tr>
+<th id="3">テリジノサウルス</th></tr>
+<tr>
+<td><a href="img/exhibition015.jpg">
+<img height="283" src="img/exhibition015_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition015.jpg" --></a><a href="img/exhibition016.jpg"><img height="283" src="img/exhibition016_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition016.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/exhibition017.jpg">
+<img height="283" src="img/exhibition017_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition017.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">原型制作：菅谷　中　オリジナル：<a href="../../dinotales4">チョコラザウルス４</a><br />
+<br />
+羽毛の痕跡が見つかり、それに合わせて造形も羽毛表現に変更されています。同シリーズ、日本の恐竜でも羽毛表現されていましたね。<br />
+上腕の羽根が細かく造形されているのに、やや荒い塗装が惜しい。</td>
+</tr>
+<tr>
+<td><a href="img/dino4_020.jpg">
+<img height="283" src="img/dino4_020_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/dino4_020.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">
+オリジナル版。こっちのウロコ表現も好きです。</td>
+</tr>
+<tr>
+<td><a href="img/exhibition022.jpg">
+<img height="283" src="img/exhibition022_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition022.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">今では全然違う「デイノケイルス」と「テリジノサウルス」。僕が小学生だった頃の図鑑では、この2種は大きなウデを持つ「なかま」だったのです。</td>
+</tr>
+			<tr>
+<th id="4">カマラサウルス骨格</th></tr>
+<tr>
+<td><a href="img/exhibition001.jpg">
+<img height="283" src="img/exhibition001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition001.jpg" --></a><a href="img/exhibition002.jpg"><img height="283" src="img/exhibition002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition002.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/exhibition003.jpg">
+<img height="283" src="img/exhibition003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition003.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">原型制作：木下隆志　オリジナル：<a href="../../dinotales7">恐竜模型図鑑（ダイノテイルズ7)</a><br />
+骨格は<a href="../kokkaku01">骨格シリーズ</a>でやって欲しかったなぁというのが本音。恐竜発掘記でまだ復刻していない、ダイノテイルズの骨格もだいぶ限られてきました。</td>
+</tr>
+<tr>
+<td><a href="img/dino7_016.jpg">
+<img height="283" src="img/dino7_016_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/dino7_016.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">オリジナル版はクリア素材でしたが、今回のPVCではクリア素材は難しかったのでしょうか。</td>
+</tr>
+			<tr>
+<th id="5">カマラサウルス骨格（化石カラー）</th></tr>
+<tr>
+<td><a href="img/exhibition018.jpg">
+<img height="283" src="img/exhibition018_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition018.jpg" --></a><a href="img/exhibition019.jpg"><img height="283" src="img/exhibition019_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition019.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/exhibition020.jpg">
+<img height="283" src="img/exhibition020_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition020.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">原型制作：木下隆志　オリジナル：<a href="../../dinotales7">恐竜模型図鑑（ダイノテイルズ7)</a><br />
+<br />
+全6種の中で骨格のカラバリは、ちょっと面白くないかなぁ。</td>
+</tr>
+<tr>
+<td><a href="img/dino7_018.jpg">
+<img height="283" src="img/dino7_018_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/dino7_018.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">オリジナル版。</td>
+</tr>
+			<tr>
+<th id="6">デイノニクス</th></tr>
+<tr>
+<td><a href="img/exhibition012.jpg">
+<img height="283" src="img/exhibition012_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition012.jpg" --></a><a href="img/exhibition013.jpg"><img height="283" src="img/exhibition013_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition013.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/exhibition014.jpg">
+<img height="283" src="img/exhibition014_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition014.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">原型制作：菅谷　中　オリジナル：<a href="../../dinotales3">チョコラザウルス3</a><br />
+<br />
+尻尾の分割が目立つのが惜しい。冠羽の造形がオリジナル版と違っていますね。<br />
+見本よりちょっと色が明るいように見えます。前脚のツメの裏側が塗られていません。</td>
+</tr>
+<tr>
+<td><a href="img/dino3_004.jpg">
+<img height="283" src="img/dino3_004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/dino3_004.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">オリジナル版では川が流れていましたが、干上がってしまったようです。</td>
+</tr>
+<tr>
+<td><a href="img/exhibition004.jpg">
+<img height="283" src="img/exhibition004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition004.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">命名50周年のデイノニクス。本作にもラインナップされるのは納得。</td>
+</tr>
+<tr>
+<th id="">ミニブック</th></tr>
+<tr>
+<td><img height="489" src="img/exhibitionbook.jpg" width="760" /></td>
+</tr>
+<tr>
+<td class="comment">「全種にヴィネット風ベースが付属！」、いまさら感が・・・。というか自立できないのばかりですし・・・。</td>
+</tr>
+<tr>
+<th id="">miniQ版パッケージ</th></tr>
+<tr>
+<td><a href="img/exhibition_miniQ004.jpg">
+<img height="283" src="img/exhibition_miniQ004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition_miniQ004.jpg" --></a><a href="img/exhibition_miniQ001.jpg"><img height="283" src="img/exhibition_miniQ001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition_miniQ001.jpg" --></a></td>
+</tr>
+<tr>
+<td><img height="632" src="img/exhibition_miniQ005.jpg" width="378" /><img height="628" src="img/exhibition_miniQ006.jpg" width="378" /></td>
+</tr>
+<tr>
+<td class="comment">
+解説書と同じデザインのパッケージ。前回はカプセル版には入っていた解説書がminiQ版には入っていませんでしたが、今回は同梱されています。<br />
+ちなみにカプセルQ版とminiQ版の解説書は微妙に違っている点があります。<br />
+カプセルQ版：「《商品に関するお問い合わせ》」<br />
+miniQ版：「《miniQ お問い合わせ》」<br />
+電話番号も違います。</td>
+</tr>
+<tr>
+<th id="">BOX版</th></tr>
+<tr>
+<td><a href="img/exhibition_miniQ002.jpg">
+<img height="283" src="img/exhibition_miniQ002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition_miniQ002.jpg" --></a><a href="img/exhibition_miniQ003.jpg"><img height="283" src="img/exhibition_miniQ003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/dino/capq/8_exhibition/img/exhibition_miniQ003.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">アソートは<br />
+ティラノ：１<br />
+				ティラノ（黒）：１<br />
+				テリジノ：１<br />
+				カマラ：２<br />
+				カマラ（化）：１<br />
+				デイノニクス：２<br />
+でした。</td>
+</tr>
+<tr>
+<th id="">ラインナップ</th></tr>
+<tr>
+<td class="comment">ティラノサウルス<br />
+ティラノサウルス（黒カラー）<br />
+テリジノサウルス<br />
+カマラサウルス<br />
+カマラサウルス（化石カラー）<br />
+デイノニクス</td>
+</tr>
+
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
