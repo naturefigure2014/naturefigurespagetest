@@ -21,7 +21,7 @@ speciesEntries:
   - species: "カルノタウルス"
     speciesGroup: "古生物/獣脚類"
   - species: "ケツァルコアトルス"
-    speciesGroup: "古生物/その他"
+    speciesGroup: "その他古生物"
   - species: "タルボサウルス"
     speciesGroup: "古生物/獣脚類"
   - species: "ボレアロペルタ"

@@ -23,7 +23,7 @@ speciesEntries:
   - species: "トリケラトプス"
     speciesGroup: "古生物/角竜類"
   - species: "プテラノドン"
-    speciesGroup: "古生物/その他"
+    speciesGroup: "その他古生物"
   - species: "モササウルス"
     speciesGroup: "古生物/海生爬虫類"
 genre:

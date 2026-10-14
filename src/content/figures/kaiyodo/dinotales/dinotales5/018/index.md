@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "パキケファロサウルス"
-speciesGroup: "古生物/その他"
+speciesGroup: "その他古生物"
 price: "-"
 releaseStart: "2004.07"
 genre:

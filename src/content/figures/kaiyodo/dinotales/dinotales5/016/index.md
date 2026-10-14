@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "エリオプス"
-speciesGroup: "古生物/その他"
+speciesGroup: "その他古生物"
 price: "-"
 releaseStart: "2004.07"
 genre:

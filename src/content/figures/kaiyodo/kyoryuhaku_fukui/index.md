@@ -15,7 +15,7 @@ seriesName: "-"
 releaseStart: "2006.07"
 price: "1000円"
 species: "フクイラプトル・フクイサウルス"
-speciesGroup: "古生物/その他"
+speciesGroup: "その他古生物"
 genre:
   - "-"
 tags:

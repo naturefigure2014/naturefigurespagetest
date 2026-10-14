@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "荒木一成"
 executiveProducer: "-"
 species: "イグアノドン"
-speciesGroup: "古生物/その他"
+speciesGroup: "その他古生物"
 price: "158円"
 releaseStart: "2001.08"
 genre:

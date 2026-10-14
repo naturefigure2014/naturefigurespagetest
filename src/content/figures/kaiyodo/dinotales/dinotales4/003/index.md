@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "清水ゆう子"
 executiveProducer: "-"
 species: "メガラニア"
-speciesGroup: "古生物/その他"
+speciesGroup: "その他古生物"
 price: "158円"
 releaseStart: "2003.07"
 genre:

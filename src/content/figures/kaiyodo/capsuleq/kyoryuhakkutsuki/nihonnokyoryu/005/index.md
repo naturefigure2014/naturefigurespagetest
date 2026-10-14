@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "マチカネワニ"
-speciesGroup: "古生物/その他"
+speciesGroup: "その他古生物"
 price: "400円 造形総指揮：松村しのぶ"
 releaseStart: "2016.03"
 genre:

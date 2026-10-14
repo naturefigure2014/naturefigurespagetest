@@ -24,9 +24,9 @@ speciesEntries:
   - species: "ステゴサウルス"
     speciesGroup: "古生物/装盾類"
   - species: "プテラノドン"
-    speciesGroup: "古生物/その他"
+    speciesGroup: "その他古生物"
   - species: "パラサウロロフス"
-    speciesGroup: "古生物/その他"
+    speciesGroup: "その他古生物"
 genre:
   - "-"
 tags:

@@ -19,7 +19,7 @@ speciesEntries:
   - species: "アロサウルス"
     speciesGroup: "古生物/獣脚類"
   - species: "イグアノドン"
-    speciesGroup: "古生物/その他"
+    speciesGroup: "その他古生物"
   - species: "ブラキオサウルス"
     speciesGroup: "古生物/竜脚類"
 genre:

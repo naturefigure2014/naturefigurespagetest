@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "ダンクルオステウス"
-speciesGroup: "古生物/その他"
+speciesGroup: "その他古生物"
 price: "-"
 releaseStart: "2006.08"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "アノマロカリス"
-speciesGroup: "古生物/その他"
+speciesGroup: "その他古生物"
 price: "158円"
 releaseStart: "2001.08"
 genre:

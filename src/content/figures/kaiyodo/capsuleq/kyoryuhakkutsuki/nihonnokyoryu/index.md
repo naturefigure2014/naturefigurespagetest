@@ -23,9 +23,9 @@ speciesEntries:
   - species: "フクイラプトル"
     speciesGroup: "古生物/獣脚類"
   - species: "プテラノドン"
-    speciesGroup: "古生物/その他"
+    speciesGroup: "その他古生物"
   - species: "マチカネワニ"
-    speciesGroup: "古生物/その他"
+    speciesGroup: "その他古生物"
 genre:
   - "-"
 tags:

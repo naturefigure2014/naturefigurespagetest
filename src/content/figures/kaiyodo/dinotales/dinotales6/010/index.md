@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ティタニス"
-speciesGroup: "古生物/その他"
+speciesGroup: "その他古生物"
 price: "-"
 releaseStart: "2006.01"
 genre:

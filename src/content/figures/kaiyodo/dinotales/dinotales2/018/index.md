@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "プテラスピス"
-speciesGroup: "古生物/その他"
+speciesGroup: "その他古生物"
 price: "158円"
 releaseStart: "2001.08"
 genre:
