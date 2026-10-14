@@ -1,0 +1,377 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>チョコラザウルス第１弾リペイント</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>チョコラザウルス 恐竜・古代生物フィギュアコレクション<br />
+		第1シリーズ リペイント版</h4>
+		<table style="width: 100%">
+			<tr>
+				<td colspan="2">
+				<a href="img/dino1ver2_048.jpg">
+				<img height="283" src="img/dino1ver2_048_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_048.jpg" --></a></td>
+			</tr>
+			<tr>
+				<td class="waku_left" valign="top" style="width:50%">
+				<span class="font_small">001b.ティラノサウルス<br />
+				002b.ティラノサウルス(骨格)<br />
+				003b.トリケラトプス<br />
+				004b.トリケラトプス(骨格)<br />
+				005b.ディアトリマ<br />
+				006b.クラドセラケ<br />
+				007b.パラサウロロフス<br />
+				008b.パラサウロロフス(骨格)<br />
+				009b.スコミムス<br />
+				010b.シノサウロプテリクス<br />
+				011b.リオプレウロドン<br />
+				012b.アンハングェラ<br />
+				013b.ディメトロドン<br />
+				014b.ディプロカウルス</span></td>
+				<td class="waku_right" valign="top" style="width:50%">
+				<span class="font_small">015b.アクセルロディクティス<br />
+				016b.ボスリオレピス<br />
+				017b.パキディスクス<br />
+				018b.シネミス・ガメラ<br />
+				019b.ブロントテリウム<br />
+				020b.ケナガマンモス<br />
+				021b.オパビニア<br />
+				022b.プシコピゲ<br />
+				023b.ティラノサウルス(頭骨)<br />
+				024b.トリケラトプス(頭骨)</span><br />
+				<span class="font_blue_small">SP03.シャモティラヌス(赤)<br />
+				SP03.シャモティラヌス(青)<br />
+				SP03.シャモティラヌス(黄) </span> </td>
+			</tr>
+		</table>
+			<p>
+			販売開始時期：2001年12月　価格：158円　販売元：味覚糖<br />
+			造形企画制作：海洋堂　造形総指揮：松村しのぶ<br />
+			第一弾の塗装を一新したリペイント版。英語タイトルは「SERIES1/VERSION2」。<br />
+			当時発売された雑誌によると、各地域1回限りの出荷。<br />
+			分割線が目立たないようにパーツの分割場所が変わっているものもあります。シャモティラヌスは小学館の雑誌の応募者全員サービスのもの(未入手)の色違いで、特にシークレット扱いではない様子(パッケージにもある)。<br />
+			また、キャンペーンでジオラマが20名に当たったそうです。画像は見たこともありませんが、どうやらチョコラザウルスとは関係ないモデラーが作成したものらしいです。<br />
+			地元では全く売っておらず、オークションでフルコンプを購入しました。シャモティラヌス(青)は小学生だった当時、ショップで3000円で発見したけれど断念した思い出の一品。大人になって入手です。<br />
+			<a href="../dinotales1">第1ｼﾘｰｽﾞ</a>、<a href="../dinotales2">第2ｼﾘｰｽﾞ</a>、<a href="../dinotales3">第3ｼﾘｰｽ</a>ﾞ、<a href="../dinotales4">第4ｼﾘｰｽﾞ</a><br />
+			<span class="font_red_bold">画像を無断でメルカリに使用するのはおやめください。</span></p>
+		</div>
+		<div id="collection_page_main">
+<table style="width: 100%">
+<tr>
+<th colspan="2">001b.ティラノサウルス</th><th colspan="2">002b.ティラノサウルス(骨格)</th></tr>
+<tr>
+<td><a href="img/dino1ver2_035.jpg">
+<img height="138" src="img/dino1ver2_035_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_035.jpg" --></a></td>
+<td><a href="img/dino1ver2_036.jpg">
+<img height="138" src="img/dino1ver2_036_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_036.jpg" --></a></td>
+<td><a href="img/dino1ver2_029.jpg">
+<img height="138" src="img/dino1ver2_029_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_029.jpg" --></a></td>
+<td><a href="img/dino1ver2_030.jpg">
+<img height="138" src="img/dino1ver2_030_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_030.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">原型製作：松村しのぶ</td>
+<td class="comment" colspan="2">原型製作：松本栄一郎</td>
+</tr>
+<tr>
+<th colspan="2">003b.トリケラトプス</th><th colspan="2">004b.トリケラトプス(骨格)</th></tr>
+<tr>
+<td><a href="img/dino1ver2_023.jpg">
+<img height="138" src="img/dino1ver2_023_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_023.jpg" --></a></td>
+<td><a href="img/dino1ver2_024.jpg">
+<img height="138" src="img/dino1ver2_024_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_024.jpg" --></a></td>
+<td><a href="img/dino1ver2_031.jpg">
+<img height="138" src="img/dino1ver2_031_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_031.jpg" --></a></td>
+<td><a href="img/dino1ver2_032.jpg">
+<img height="138" src="img/dino1ver2_032_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_032.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">原型製作：荒木一成</td>
+<td class="comment" colspan="2">原型製作：木下隆志</td>
+</tr>
+<tr>
+<th colspan="2">005b.ディアトリマ</th><th colspan="2">006b.クラドセラケ</th></tr>
+<tr>
+<td><a href="img/dino1ver2_006.jpg">
+<img height="138" src="img/dino1ver2_006_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_006.jpg" --></a></td>
+<td><a href="img/dino1ver2_007.jpg">
+<img height="138" src="img/dino1ver2_007_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_007.jpg" --></a></td>
+<td><a href="img/dino1ver2_054.jpg">
+<img height="138" src="img/dino1ver2_054_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_054.jpg" --></a></td>
+<td><a href="img/dino1ver2_055.jpg">
+<img height="138" src="img/dino1ver2_055_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_055.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">原型製作：山本聖士</td>
+<td class="comment" colspan="2">原型製作：松本栄一郎</td>
+</tr>
+<tr>
+<th colspan="2">007b.パラサウロロフス</th><th colspan="2">008b.パラサウロロフス(骨格)</th></tr>
+<tr>
+<td><a href="img/dino1ver2_025.jpg">
+<img height="138" src="img/dino1ver2_025_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_025.jpg" --></a></td>
+<td><a href="img/dino1ver2_026.jpg">
+<img height="138" src="img/dino1ver2_026_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_026.jpg" --></a></td>
+<td><a href="img/dino1ver2_033.jpg">
+<img height="138" src="img/dino1ver2_033_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_033.jpg" --></a></td>
+<td><a href="img/dino1ver2_034.jpg">
+<img height="138" src="img/dino1ver2_034_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_034.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">原型製作：菅谷　中</td>
+<td class="comment" colspan="2">原型製作：松本栄一郎</td>
+</tr>
+<tr>
+<th colspan="2">009b.スコミムス</th><th colspan="2">010b.シノサウロプテリクス</th></tr>
+<tr>
+<td><a href="img/dino1ver2_005.jpg">
+<img height="138" src="img/dino1ver2_005_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_005.jpg" --></a></td>
+<td><a href="img/dino1ver2_004.jpg">
+<img height="138" src="img/dino1ver2_004_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_004.jpg" --></a></td>
+<td><a href="img/dino1ver2_027.jpg">
+<img height="138" src="img/dino1ver2_027_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_027.jpg" --></a></td>
+<td><a href="img/dino1ver2_028.jpg">
+<img height="138" src="img/dino1ver2_028_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_028.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">原型製作：菅谷　中</td>
+<td class="comment" colspan="2">原型製作：菅谷　中</td>
+</tr>
+<tr>
+<th colspan="2">011b.リオプレウロドン</th><th colspan="2">012b.アンハングェラ</th></tr>
+<tr>
+<td><a href="img/dino1ver2_010.jpg">
+<img height="138" src="img/dino1ver2_010_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_010.jpg" --></a></td>
+<td><a href="img/dino1ver2_001.jpg">
+<img height="138" src="img/dino1ver2_001_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_001.jpg" --></a></td>
+<td><a href="img/dino1ver2_019.jpg">
+<img height="138" src="img/dino1ver2_019_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_019.jpg" --></a></td>
+<td><a href="img/dino1ver2_020.jpg">
+<img height="138" src="img/dino1ver2_020_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_020.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">原型製作：山本聖士</td>
+<td class="comment" colspan="2">原型製作：木下隆志</td>
+</tr>
+<tr>
+<th colspan="2">013b.ディメトロドン</th><th colspan="2">014b.ディプロカウルス</th></tr>
+<tr>
+<td><a href="img/dino1ver2_002.jpg">
+<img height="138" src="img/dino1ver2_002_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_002.jpg" --></a></td>
+<td><a href="img/dino1ver2_003.jpg">
+<img height="138" src="img/dino1ver2_003_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_003.jpg" --></a></td>
+<td><a href="img/dino1ver2_060.jpg">
+<img height="138" src="img/dino1ver2_060_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_060.jpg" --></a></td>
+<td><a href="img/dino1ver2_061.jpg">
+<img height="138" src="img/dino1ver2_061_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_061.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">原型製作：木下隆志</td>
+<td class="comment" colspan="2">原型製作：山本聖士</td>
+</tr>
+<tr>
+<th colspan="2">015b.アクセルロディクティス</th><th colspan="2">016b.ボスリオレピス</th></tr>
+<tr>
+<td><a href="img/dino1ver2_058.jpg">
+<img height="138" src="img/dino1ver2_058_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_058.jpg" --></a></td>
+<td><a href="img/dino1ver2_059.jpg">
+<img height="138" src="img/dino1ver2_059_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_059.jpg" --></a></td>
+<td><a href="img/dino1ver2_021.jpg">
+<img height="138" src="img/dino1ver2_021_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_021.jpg" --></a></td>
+<td><a href="img/dino1ver2_022.jpg">
+<img height="138" src="img/dino1ver2_022_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_022.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">原型製作：木下隆志</td>
+<td class="comment" colspan="2">原型製作：松本栄一郎</td>
+</tr>
+<tr>
+<th colspan="2">017b.パキディスクス</th><th colspan="2">018b.シネミス・ガメラ</th></tr>
+<tr>
+<td><a href="img/dino1ver2_008.jpg">
+<img height="138" src="img/dino1ver2_008_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_008.jpg" --></a></td>
+<td><a href="img/dino1ver2_009.jpg">
+<img height="138" src="img/dino1ver2_009_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_009.jpg" --></a></td>
+<td><a href="img/dino1ver2_013.jpg">
+<img height="138" src="img/dino1ver2_013_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_013.jpg" --></a></td>
+<td><a href="img/dino1ver2_014.jpg">
+<img height="138" src="img/dino1ver2_014_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_014.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">原型製作：田熊勝夫</td>
+<td class="comment" colspan="2">原型製作：古田悟郎</td>
+</tr>
+<tr>
+<th colspan="2">019b.ブロントテリウム</th><th colspan="2">020b.ケナガマンモス</th></tr>
+<tr>
+<td><a href="img/dino1ver2_056.jpg">
+<img height="138" src="img/dino1ver2_056_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_056.jpg" --></a></td>
+<td><a href="img/dino1ver2_057.jpg">
+<img height="138" src="img/dino1ver2_057_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_057.jpg" --></a></td>
+<td><a href="img/dino1ver2_015.jpg">
+<img height="138" src="img/dino1ver2_015_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_015.jpg" --></a></td>
+<td><a href="img/dino1ver2_016.jpg">
+<img height="138" src="img/dino1ver2_016_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_016.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">原型製作：松村しのぶ</td>
+<td class="comment" colspan="2">原型製作：田熊勝夫</td>
+</tr>
+<tr>
+<th colspan="2">021b.オパビニア</th><th colspan="2">022b.プシコピゲ</th></tr>
+<tr>
+<td><a href="img/dino1ver2_011.jpg">
+<img height="138" src="img/dino1ver2_011_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_011.jpg" --></a></td>
+<td><a href="img/dino1ver2_012.jpg">
+<img height="138" src="img/dino1ver2_012_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_012.jpg" --></a></td>
+<td><a href="img/dino1ver2_017.jpg">
+<img height="138" src="img/dino1ver2_017_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_017.jpg" --></a></td>
+<td><a href="img/dino1ver2_018.jpg">
+<img height="138" src="img/dino1ver2_018_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_018.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">原型製作：田熊勝夫</td>
+<td class="comment" colspan="2">原型製作：田熊勝夫</td>
+</tr>
+<tr>
+<th colspan="2">023b.ティラノサウルス(頭骨)</th><th colspan="2">024b.トリケラトプス(頭骨)</th></tr>
+<tr>
+<td><a href="img/dino1ver2_037.jpg">
+<img height="138" src="img/dino1ver2_037_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_037.jpg" --></a></td>
+<td><a href="img/dino1ver2_038.jpg">
+<img height="138" src="img/dino1ver2_038_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_038.jpg" --></a></td>
+<td><a href="img/dino1ver2_039.jpg">
+<img height="138" src="img/dino1ver2_039_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_039.jpg" --></a></td>
+<td><a href="img/dino1ver2_040.jpg">
+<img height="138" src="img/dino1ver2_040_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_040.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">原型製作：田熊勝夫</td>
+<td class="comment" colspan="2">原型製作：田熊勝夫</td>
+</tr>
+
+
+			</table>
+<table style="width: 100%">
+<tr><th colspan="2">SP03.シャモティラヌス(青)</th></tr>
+<tr><td><a href="img/dino1ver2_042.jpg">
+	<img height="283" src="img/dino1ver2_042_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_042.jpg" --></a></td><td>
+	<a href="img/dino1ver2_041.jpg">
+	<img height="283" src="img/dino1ver2_041_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_041.jpg" --></a></td></tr>
+<tr><td class="comment" colspan="2">原型製作：松村しのぶ<br />
+	<br />
+	白亜紀に生息したと考えられるタイで発見された恐竜。発見当初は発見されている腰と尾の化石からティラノサウルスの仲間と考えられ、このフィギュアもその説にしたがって造形されています。しかし、最近の研究ではアロサウルスの仲間と考えられています。<br />
+	<br />
+	雑誌の応募者限定サービスでしか入手できなかった伝説のフィギュアが色違いで一般販売。ちなみにWikipediaの「<a href="https://ja.wikipedia.org/wiki/シャモティラヌス">シャモティラヌス</a>」のページではこのチョコラザウルスのことも少し触れています。</td></tr>
+<tr><th colspan="2">SP03.シャモティラヌス(赤)</th></tr>
+<tr><td><a href="img/dino1ver2_043.jpg">
+	<img height="283" src="img/dino1ver2_043_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_043.jpg" --></a></td><td>
+	<a href="img/dino1ver2_044.jpg">
+	<img height="283" src="img/dino1ver2_044_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_044.jpg" --></a></td></tr>
+<tr><th colspan="2">SP03.シャモティラヌス(黄)</th></tr>
+<tr><td><a href="img/dino1ver2_045.jpg">
+	<img height="283" src="img/dino1ver2_045_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_045.jpg" --></a></td><td>
+	<a href="img/dino1ver2_046.jpg">
+	<img height="283" src="img/dino1ver2_046_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_046.jpg" --></a></td></tr>
+<tr><td><a href="img/dino1ver2_047.jpg">
+	<img height="283" src="img/dino1ver2_047_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/dino1ver2_047.jpg" --></a></td>
+	<td class="comment">3色そろうととてもカラフル。今後この姿でシャモティラヌスが復元されることはないでしょう。</td></tr>
+<tr><th colspan="2">解説書</th></tr>
+<tr><td><a href="img/chocora1ver2kaisetsu.jpg">
+	<img height="263" src="img/chocora1ver2kaisetsu_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/chocora1ver2kaisetsu.jpg" --></a></td><td class="comment">
+	第1弾と色違い。第2弾よりもくすんだ青色。</td></tr>
+<tr><th colspan="2">ブックレット</th></tr>
+<tr><td colspan="2">
+	<a href="img/chocora1ver2book.jpg">
+	<img height="331" src="img/chocora1ver2book_small.jpg" width="756" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/chocora1ver2book.jpg" --></a></td></tr>
+<tr><th colspan="2">外箱</th></tr>
+<tr><td colspan="2"><a href="img/chocora1re_hako.jpg">
+	<img height="378" src="img/chocora1re_hako_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/dino/dinotales1_ver2/img/chocora1re_hako.jpg" --></a></td>
+	</tr>
+<tr><td class="comment" colspan="2">もちろんパッケージも一新。シャモティラヌスもばっちり載っています。</td></tr>
+
+</table>
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

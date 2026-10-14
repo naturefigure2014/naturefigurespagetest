@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "恐竜発掘記９　最大最強肉食恐竜編 Sculpture of The largest &amp; strongest Carnivore Dinosaur"
 description: ""
 contentType: title
 titleId: kaiyodo/capsuleq/kyoryuhakkutsuki/9_carnivore

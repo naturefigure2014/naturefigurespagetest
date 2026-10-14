@@ -1,7 +1,7 @@
 r"""Generate current Astro content from a legacy Nature Figure index.html.
 
 Run this script from a legacy collection directory, for example:
-    python C:\astro\7\scripts\generate_legacy_figure.py
+    python C:\astro\7\scripts\generate_legacy_figure.py --content-type title
     python C:\astro\7\scripts\generate_legacy_figure.py --content-type figure
 """
 
@@ -405,11 +405,18 @@ def extract_items(main: Node):
             if sculptor:
                 current["sculptor"] = sculptor
         if images:
-            current["topics"].append(make_topic(images))
+            current["topics"].append(make_topic(images, current.pop("pending_comment", "")))
         else:
             comment = visible_without_images(row)
-            if comment and current["topics"]:
-                current["topics"][-1]["comment"] = comment
+            if not comment:
+                continue
+            if current["topics"]:
+                previous = current["topics"][-1]
+                previous["comment"] = f"{previous['comment']}\n{comment}" if previous["comment"] else comment
+            else:
+                # Text placed before the first image (e.g. "後期版") belongs to that image's topic.
+                pending = current.get("pending_comment", "")
+                current["pending_comment"] = f"{pending}\n{comment}" if pending else comment
     return items
 
 
@@ -629,7 +636,22 @@ def write_single_figure_page(
     (folder / "index.md").write_text("\n".join(lines), encoding="utf-8")
 
 
-def generate(source: Path, content_type: str):
+def natural_key(path: Path) -> list:
+    return [int(part) if part.isdigit() else part.lower() for part in re.split(r"(\d+)", path.name)]
+
+
+def find_continuation_sources(source: Path) -> list[Path]:
+    """Any other .html file next to the source continues it, in natural order."""
+    if "legacy-html" in source.parts or source.parent.name == "_legacy":
+        return []
+    return sorted(
+        (path for path in source.parent.iterdir()
+         if path.is_file() and path.suffix.lower() == ".html" and path != source),
+        key=natural_key,
+    )
+
+
+def generate(source: Path, content_type: str, extra_sources: list[Path] = ()):
     if source.parent.parent.name == "legacy-html":
         output_folder = Path.cwd().resolve()
     else:
@@ -655,6 +677,16 @@ def generate(source: Path, content_type: str):
         title = title[len(maker):].strip()
     metadata.setdefault("maker", maker)
     items = extract_items(main)
+    for extra in extra_sources:
+        extra_document = DocumentParser()
+        extra_document.feed(extra.read_text(encoding="utf-8", errors="replace"))
+        extra_main = find_by_id(extra_document.root, "collection_page_main")
+        if extra_main is None:
+            print(f"Skipped {extra.name}: collection_page_main not found")
+            continue
+        extra_items = extract_items(extra_main)
+        print(f"{extra.name}: {len(extra_items)} items appended from #{len(items) + 1}")
+        items.extend(extra_items)
     resources = extract_resources(main)
     metadata.setdefault("releaseStart", release_start(metadata_source) or "")
     metadata.setdefault("salesPeriod", sales_period(metadata_source) or "")
@@ -707,12 +739,17 @@ def main():
         archived_source = repository_root / "legacy-html" / source.parent.name / "index.html"
         if archived_source.exists():
             source = archived_source
-    generate(source, args.content_type)
+    extra_sources = find_continuation_sources(source) if source.exists() else []
+    generate(source, args.content_type, extra_sources)
     if source.name == "index.html" and "legacy-html" not in source.parts:
         legacy_source = source.parent / "_legacy" / "index.html.bak"
         legacy_source.parent.mkdir(exist_ok=True)
         source.replace(legacy_source)
         print(f"Moved legacy source to {legacy_source}")
+        for extra in extra_sources:
+            extra_target = legacy_source.parent / f"{extra.name}.bak"
+            extra.replace(extra_target)
+            print(f"Moved legacy source to {extra_target}")
 
 
 if __name__ == "__main__":
