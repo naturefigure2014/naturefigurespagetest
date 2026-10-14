@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales_2002_ampm
 figureId: "004"
-maker: "-"
+maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "ステゴサウルス"

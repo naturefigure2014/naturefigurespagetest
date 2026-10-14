@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales_book
 figureId: "001"
-maker: "-"
+maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "-"

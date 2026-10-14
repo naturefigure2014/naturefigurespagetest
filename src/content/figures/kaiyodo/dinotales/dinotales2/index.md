@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/dinotales/dinotales2
 kind: series
-maker: "味覚糖"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/dinotales/dinotales2/001
   - kaiyodo/dinotales/dinotales2/002
@@ -32,7 +32,7 @@ figureIds:
   - kaiyodo/dinotales/dinotales2/024
   - kaiyodo/dinotales/dinotales2/025
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "ダイノテイルズ"
 releaseStart: "2001.08"
 price: "158円"
 speciesEntries:

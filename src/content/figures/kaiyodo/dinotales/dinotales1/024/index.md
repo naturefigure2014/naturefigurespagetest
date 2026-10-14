@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales1
 figureId: "024"
-maker: "味覚糖"
+maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "トリケラトプス(頭骨)"

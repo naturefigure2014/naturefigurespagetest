@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/dinotales/dinotales1_sp
 kind: series
-maker: "-"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/dinotales/dinotales1_sp/001
   - kaiyodo/dinotales/dinotales1_sp/002
@@ -15,7 +15,7 @@ figureIds:
   - kaiyodo/dinotales/dinotales1_sp/007
   - kaiyodo/dinotales/dinotales1_sp/008
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "ダイノテイルズ"
 releaseStart: "-"
 price: "-"
 species: "ティラノサウルス"

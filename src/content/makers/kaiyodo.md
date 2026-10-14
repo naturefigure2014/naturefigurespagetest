@@ -68,8 +68,9 @@ seriesSections:
     format: ガチャ
   - name: naturetales・Dinotalesシリーズ
     format: ガチャ
-  - name: ダイノテイルズコレクション
+  - name: ダイノテイルズ
     format: ガチャ
+    showAllFigures: true
   - name: 自然史モデルコレクション
     format: コレクション
   - name: 水生動物モデルコレクション[アクアランド]

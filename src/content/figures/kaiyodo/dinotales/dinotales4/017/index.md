@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales4
 figureId: "017"
-maker: "味覚糖"
+maker: "海洋堂"
 sculptor: "清水ゆう子"
 executiveProducer: "-"
 species: "メガラニア"

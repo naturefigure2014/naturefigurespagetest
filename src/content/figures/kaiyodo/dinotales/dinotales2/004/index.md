@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales2
 figureId: "004"
-maker: "味覚糖"
+maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "ブラキオサウルス"

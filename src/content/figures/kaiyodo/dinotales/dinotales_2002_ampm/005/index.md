@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales_2002_ampm
 figureId: "005"
-maker: "-"
+maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "ブラキオサウルス"

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales2
 figureId: "020"
-maker: "味覚糖"
+maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "ライオンノセラス"

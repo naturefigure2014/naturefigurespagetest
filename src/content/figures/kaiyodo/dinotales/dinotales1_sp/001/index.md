@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales1_sp
 figureId: "001"
-maker: "-"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ティラノサウルス"

@@ -27,7 +27,7 @@ figureIds:
   - kaiyodo/dinotales/dinotales5/019
   - kaiyodo/dinotales/dinotales5/020
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "ダイノテイルズ"
 releaseStart: "2004.07"
 price: "-"
 speciesEntries:

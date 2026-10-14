@@ -4,13 +4,13 @@ description: ""
 contentType: title
 titleId: kaiyodo/dinotales/dinometal
 kind: series
-maker: "味覚糖 造形企画制作：海洋堂"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/dinotales/dinometal/001
   - kaiyodo/dinotales/dinometal/002
   - kaiyodo/dinotales/dinometal/003
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "ダイノテイルズ"
 releaseStart: "2003.02"
 price: "???"
 speciesEntries:

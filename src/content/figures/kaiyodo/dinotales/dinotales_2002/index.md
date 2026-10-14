@@ -4,11 +4,11 @@ description: ""
 contentType: title
 titleId: kaiyodo/dinotales/dinotales_2002
 kind: series
-maker: "味覚糖 造形企画制作：海洋堂"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/dinotales/dinotales_2002/001
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "ダイノテイルズ"
 releaseStart: "-"
 price: "200円(単品) 1000円(セットボックス)"
 species: "-"

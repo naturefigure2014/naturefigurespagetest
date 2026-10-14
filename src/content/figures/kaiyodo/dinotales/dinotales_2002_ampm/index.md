@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/dinotales/dinotales_2002_ampm
 kind: series
-maker: "-"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/dinotales/dinotales_2002_ampm/001
   - kaiyodo/dinotales/dinotales_2002_ampm/002
@@ -12,7 +12,7 @@ figureIds:
   - kaiyodo/dinotales/dinotales_2002_ampm/004
   - kaiyodo/dinotales/dinotales_2002_ampm/005
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "ダイノテイルズ"
 releaseStart: "-"
 price: "-"
 speciesEntries:

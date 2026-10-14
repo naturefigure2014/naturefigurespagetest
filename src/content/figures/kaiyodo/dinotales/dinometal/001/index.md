@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinometal
 figureId: "001"
-maker: "味覚糖 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ティラノサウルス"

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales1_ver2
 figureId: "025"
-maker: "味覚糖"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "シャモティラヌス"

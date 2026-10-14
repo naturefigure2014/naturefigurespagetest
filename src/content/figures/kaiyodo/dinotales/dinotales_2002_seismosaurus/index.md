@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/dinotales/dinotales_2002_seismosaurus
 kind: series
-maker: "-"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/dinotales/dinotales_2002_seismosaurus/001
   - kaiyodo/dinotales/dinotales_2002_seismosaurus/002
@@ -13,7 +13,7 @@ figureIds:
   - kaiyodo/dinotales/dinotales_2002_seismosaurus/005
   - kaiyodo/dinotales/dinotales_2002_seismosaurus/006
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "ダイノテイルズ"
 releaseStart: "-"
 price: "-"
 species: "セイスモサウルス"

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales_jurassic
 figureId: "004"
-maker: "味覚糖 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "プテラノドン"

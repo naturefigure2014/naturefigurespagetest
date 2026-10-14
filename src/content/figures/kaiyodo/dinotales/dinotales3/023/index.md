@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales3
 figureId: "023"
-maker: "味覚糖"
+maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "アパトサウルス"

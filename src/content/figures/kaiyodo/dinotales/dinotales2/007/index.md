@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales2
 figureId: "007"
-maker: "味覚糖"
+maker: "海洋堂"
 sculptor: "荒木一成"
 executiveProducer: "-"
 species: "イグアノドン"

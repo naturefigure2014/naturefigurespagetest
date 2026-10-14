@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales_2002_seismosaurus
 figureId: "006"
-maker: "-"
+maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "セイスモサウルス"

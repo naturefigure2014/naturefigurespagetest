@@ -19,7 +19,7 @@ figureIds:
   - kaiyodo/dinotales/dinotales6/011
   - kaiyodo/dinotales/dinotales6/012
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "ダイノテイルズ"
 releaseStart: "2006.01"
 price: "-"
 speciesEntries:

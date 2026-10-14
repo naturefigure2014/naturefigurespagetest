@@ -4,13 +4,13 @@ description: ""
 contentType: title
 titleId: kaiyodo/dinotales/dinotales_book
 kind: series
-maker: "-"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/dinotales/dinotales_book/001
   - kaiyodo/dinotales/dinotales_book/002
   - kaiyodo/dinotales/dinotales_book/003
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "ダイノテイルズ"
 releaseStart: "-"
 price: "950円"
 species: "-"
