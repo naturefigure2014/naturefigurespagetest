@@ -1,10 +1,10 @@
 ---
-title: "4. ライオン"
+title: "ライオン"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH1
 figureId: "004"
-species: "4. ライオン"
+species: "ライオン"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "樹山"
