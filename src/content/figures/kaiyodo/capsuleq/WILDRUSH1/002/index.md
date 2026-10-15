@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH1
 figureId: "002"
-species: "サーバルキャット"
+species: "サーバル"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
