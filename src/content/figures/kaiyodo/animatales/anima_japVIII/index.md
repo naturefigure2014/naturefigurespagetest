@@ -1,10 +1,19 @@
 ---
-title: "カプセルQミュージアム 日本の動物VIII 日本アルプス／雷鳥の棲む岳"
+title: 日本の動物コレクション VIII 日本アルプス／雷鳥の棲む岳
+title1: 日本の動物コレクション VIII
+title2: 日本アルプス／雷鳥の棲む岳
 description: ""
 contentType: title
-titleId: kaiyodo/animatales/anima_japVIII
 kind: series
-maker: "海洋堂"
+maker: 海洋堂
+series:
+  - capsuleq
+seriesName:
+  - カプセルQミュージアム
+  - アニマテイルズ
+  - 日本の動物コレクション
+genre:
+  - animals
 figureIds:
   - kaiyodo/animatales/anima_japVIII/001
   - kaiyodo/animatales/anima_japVIII/002
@@ -16,20 +25,13 @@ figureIds:
   - kaiyodo/animatales/anima_japVIII/008
   - kaiyodo/animatales/anima_japVIII/009
 executiveProducer: "-"
-seriesName: "アニマテイルズ"
 releaseStart: "2014.12"
-price: "300円 造形企画製作：海洋堂"
-species: "複数種"
-speciesGroup: "その他/未分類"
-genre:
-  - "-"
+price: "300円"
 tags:
   - "-"
 freetag:
   - label: "造形企画製作"
     value: "海洋堂"
-  - label: "カプセルQ日本の動物シリーズ"
-    value: "I 東北/北限のサル 、 II 沖縄奄美/やんばるの森 、 III 東京/巨大都市と離島 、 IV 四国/最後の清流の郷 、 V 琵琶湖/母なる古代湖 、 VI 北海道/蝦夷地の哺乳類 、 VII 八重山諸島/ヤマネコの島 、VIII 日本アルプス／雷鳥の棲む岳、 別巻 外来生物/新たな仲間たち"
 coverImage: "img/anima_japVIII002.jpg"
 collectionImage: "img/anima_japVIII002.jpg"
 resources:
