@@ -1,5 +1,5 @@
 ---
-title: "アカウミガメ"
+title: "金狼"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,25 +7,20 @@ figureId: "054"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "アカウミガメ"
-speciesGroup: "カメ類"
+species: "金狼"
+speciesGroup: "食肉類"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn109.jpg"
-coverImage: "syutenn109.jpg"
+figureTopImage: "syutenn136.jpg"
+coverImage: "syutenn136.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn109.jpg"
-      - "syutenn111.jpg"
-  - title: ""
-    images:
-      - "syutenn112.jpg"
-      - "syutenn110.jpg"
+      - "syutenn136.jpg"
     comment: |
-      徳島県や静岡県の産卵地や上陸個体が天然記念物に指定されています。 他のアカウミガメフィギュアと比べてもかなり大きい上、クオリティは最高峰です。
+      ホビー館四万十で撮影。 入手方法： ・フィギュアケース３個セットに付属(限定1000個) ・創刊号付属専用ハガキによる抽選で当てる(1000人)
 ---

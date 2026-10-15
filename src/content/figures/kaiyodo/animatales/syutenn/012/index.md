@@ -1,5 +1,5 @@
 ---
-title: "ゲンジボタル"
+title: "セマルハコガメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,21 +7,22 @@ figureId: "012"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "ゲンジボタル"
-speciesGroup: "その他昆虫"
+species: "セマルハコガメ"
+speciesGroup: "カメ類"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn125_small1.jpg"
-coverImage: "syutenn125_small1.jpg"
+figureTopImage: "syutenn020.jpg"
+coverImage: "syutenn020.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn125_small1.jpg"
-      - "syutenn121.jpg"
-      - "syutenn119_small1.jpg"
-      - "kazika003.jpg"
+      - "syutenn020.jpg"
+      - "syutenn021.jpg"
+  - title: ""
+    images:
+      - "syutenn022.jpg"
 ---

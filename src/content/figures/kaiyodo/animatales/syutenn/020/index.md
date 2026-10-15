@@ -1,5 +1,5 @@
 ---
-title: "ジュゴン"
+title: "ヤンバルクイナ"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,21 +7,21 @@ figureId: "020"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "ジュゴン"
-speciesGroup: "クジラ・イルカ類"
+species: "ヤンバルクイナ"
+speciesGroup: "キジ・ニワトリ類"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn034.jpg"
-coverImage: "syutenn034.jpg"
+figureTopImage: "syutenn005.jpg"
+coverImage: "syutenn005.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn034.jpg"
-      - "syutenn035.jpg"
+      - "syutenn005.jpg"
+      - "syutenn006.jpg"
     comment: |
-      温暖な海に生息し、日本では沖縄周辺の海にのみ生息。しかしその数は減少する一方。限られた種の水草しか食べないため、飼育代は非常にお高い。 フィギュアは食事シーンでしょうか。土台の茶色い部分はジュゴンが食べた跡だそうです。
+      リンク： 週刊日本の天然記念物のページトップへ 21.ニホンザル～40.ホタルイカへ 41.ヒメハルゼミ～リュウキュウヤマガメへ 関連付録＆キャンペーン品へ
 ---

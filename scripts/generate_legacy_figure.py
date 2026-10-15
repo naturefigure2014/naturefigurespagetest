@@ -520,6 +520,8 @@ def write_figure_page(folder: Path, item: dict, index: int, maker: str, metadata
         f"maker: {quoted(maker or '-')}",
     ]
     figure_metadata = {**metadata, **({"sculptor": item["sculptor"]} if item.get("sculptor") else {})}
+    figure_metadata.update({key: item[key] for key in ("species", "speciesGroup") if item.get(key)})
+    figure_metadata.update({key: item[key] for key in ("species", "speciesGroup") if item.get(key)})
     figure_metadata.setdefault("species", item["name"])
     append_metadata(lines, figure_metadata, (
         "sculptor", "executiveProducer", "species", "speciesGroup",
@@ -642,7 +644,12 @@ def natural_key(path: Path) -> list:
 
 def find_continuation_sources(source: Path) -> list[Path]:
     """Any other .html file next to the source continues it, in natural order."""
-    if "legacy-html" in source.parts or source.parent.name == "_legacy":
+    if source.parent.name == "_legacy":
+        return sorted(
+            (path for path in source.parent.glob("*.html.bak") if path != source),
+            key=natural_key,
+        )
+    if "legacy-html" in source.parts:
         return []
     return sorted(
         (path for path in source.parent.iterdir()
@@ -651,7 +658,7 @@ def find_continuation_sources(source: Path) -> list[Path]:
     )
 
 
-def generate(source: Path, content_type: str, extra_sources: list[Path] = ()):
+def generate(source: Path, content_type: str, extra_sources: list[Path] = (), options: argparse.Namespace | None = None):
     if source.parent.parent.name == "legacy-html":
         output_folder = Path.cwd().resolve()
     else:
@@ -675,8 +682,13 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = ()):
     maker = metadata.get("maker") or next((candidate for candidate in maker_candidates if candidate in maker_text), "")
     if maker and title.startswith(maker):
         title = title[len(maker):].strip()
+    if options and options.maker:
+        maker = options.maker
+        metadata["maker"] = maker
+    if options and options.series_name:
+        metadata["seriesName"] = options.series_name
     metadata.setdefault("maker", maker)
-    items = extract_items(main)
+    items = [] if options and options.items_from_continuations else extract_items(main)
     for extra in extra_sources:
         extra_document = DocumentParser()
         extra_document.feed(extra.read_text(encoding="utf-8", errors="replace"))
@@ -687,6 +699,12 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = ()):
         extra_items = extract_items(extra_main)
         print(f"{extra.name}: {len(extra_items)} items appended from #{len(items) + 1}")
         items.extend(extra_items)
+    if options and options.species_map:
+        species_map = json.loads(options.species_map.read_text(encoding="utf-8"))
+        for number, item in enumerate(items, 1):
+            entry = species_map.get(f"{number:03d}")
+            if entry:
+                item["species"], item["speciesGroup"] = entry
     resources = extract_resources(main)
     metadata.setdefault("releaseStart", release_start(metadata_source) or "")
     metadata.setdefault("salesPeriod", sales_period(metadata_source) or "")
@@ -730,6 +748,11 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("source", nargs="?", type=Path, default=Path("index.html"))
     parser.add_argument("--content-type", choices=("title", "figure"), default="title")
+    parser.add_argument("--maker", default="")
+    parser.add_argument("--series-name", default="")
+    parser.add_argument("--items-from-continuations", action="store_true",
+                        help="Build figure items only from the continuation pages, not the index page")
+    parser.add_argument("--species-map", type=Path, help="JSON: {\"001\": [species, speciesGroup]}")
     args = parser.parse_args()
     source = args.source.resolve()
     if not source.exists() and source.name == "index.html" and (source.parent / "_legacy" / "index.html.bak").exists():
@@ -740,7 +763,7 @@ def main():
         if archived_source.exists():
             source = archived_source
     extra_sources = find_continuation_sources(source) if source.exists() else []
-    generate(source, args.content_type, extra_sources)
+    generate(source, args.content_type, extra_sources, args)
     if source.name == "index.html" and "legacy-html" not in source.parts:
         legacy_source = source.parent / "_legacy" / "index.html.bak"
         legacy_source.parent.mkdir(exist_ok=True)

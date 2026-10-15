@@ -1,5 +1,5 @@
 ---
-title: "トゲネズミ"
+title: "ニホンカワウソ"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,19 +7,24 @@ figureId: "049"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "トゲネズミ"
-speciesGroup: "齧歯・兎類"
+species: "ニホンカワウソ"
+speciesGroup: "食肉類"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn085.jpg"
-coverImage: "syutenn085.jpg"
+figureTopImage: "kawauso001.jpg"
+coverImage: "kawauso001.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn085.jpg"
-      - "syutenn086.jpg"
+      - "kawauso001.jpg"
+      - "kawauso002.jpg"
+  - title: ""
+    images:
+      - "kawauso003.jpg"
+    comment: |
+      かつては日本中に生息していましたが2012年に絶滅種指定。しかし、愛媛県では多くの目撃情報があり、もしかしたらまだ生き延びているかもしれません。 細かい顔の造形や足跡、よく出来ています。松村氏のカワウソといえば作品展用の原寸大のものも良くできています。ググってみてください。 後にカプセルQでもラインナップされましたが、今回のものとは腹の塗装が違っています。
 ---

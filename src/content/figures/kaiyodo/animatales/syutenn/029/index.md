@@ -1,5 +1,5 @@
 ---
-title: "秋田犬"
+title: "イヌワシ"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,19 +7,22 @@ figureId: "029"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "秋田犬"
-speciesGroup: "食肉類"
+species: "イヌワシ"
+speciesGroup: "猛禽類"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn016.jpg"
-coverImage: "syutenn016.jpg"
+figureTopImage: "syutenn106.jpg"
+coverImage: "syutenn106.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn016.jpg"
-      - "syutenn017.jpg"
+      - "syutenn106.jpg"
+      - "syutenn001.jpg"
+  - title: ""
+    images:
+      - "syutenn002.jpg"
 ---

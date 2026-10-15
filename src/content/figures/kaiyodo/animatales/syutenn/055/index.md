@@ -1,5 +1,5 @@
 ---
-title: "アホウドリ"
+title: "銀狼"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,21 +7,21 @@ figureId: "055"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "アホウドリ"
-speciesGroup: "水鳥"
+species: "銀狼"
+speciesGroup: "食肉類"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn054.jpg"
-coverImage: "syutenn054.jpg"
+figureTopImage: "syutenn101.jpg"
+coverImage: "syutenn101.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn054.jpg"
-      - "syutenn055.jpg"
+      - "syutenn101.jpg"
+      - "syutenn102.jpg"
     comment: |
-      日本での主な繁殖地は伊豆諸島。頭のグラデーションが良いです。
+      入手方法： 本誌収納専用バインダー5冊セットに付属。 初回は銀狼付きで3,750円だったが、初回終了後は銀狼なしで7,000円だったとか。
 ---

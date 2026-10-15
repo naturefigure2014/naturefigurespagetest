@@ -1,5 +1,5 @@
 ---
-title: "モリアオガエル"
+title: "岬馬"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,22 +7,22 @@ figureId: "023"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "モリアオガエル"
-speciesGroup: "カエル類"
+species: "岬馬"
+speciesGroup: "奇蹄類"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn046.jpg"
-coverImage: "syutenn046.jpg"
+figureTopImage: "syutenn079.jpg"
+coverImage: "syutenn079.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn046.jpg"
-      - "syutenn047.jpg"
+      - "syutenn079.jpg"
+      - "syutenn080.jpg"
   - title: ""
     images:
-      - "syutenn048.jpg"
+      - "syutenn078.jpg"
 ---

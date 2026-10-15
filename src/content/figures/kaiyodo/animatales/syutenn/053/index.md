@@ -1,5 +1,5 @@
 ---
-title: "ウスバキチョウ"
+title: "ヤマネ(色違い)"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,21 +7,21 @@ figureId: "053"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "ウスバキチョウ"
-speciesGroup: "チョウ・ガ類"
+species: "ヤマネ(色違い)"
+speciesGroup: "齧歯・兎類"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn127.jpg"
-coverImage: "syutenn127.jpg"
+figureTopImage: "syutenn099.jpg"
+coverImage: "syutenn099.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn127.jpg"
-      - "syutenn128.jpg"
+      - "syutenn099.jpg"
+      - "syutenn100.jpg"
     comment: |
-      標高の高い大雪山のみに生息する原始的なアゲハチョウのなかま。 名前の由来である半透明の羽根もクリア素材で再現。少し黄色がキツイような気もしますが良い出来。
+      入手方法： ワンダーフィギュアコレクションとして「小学２年生」５月号に付属。詳細はコチラ。 11.ヤマネの色違い。
 ---

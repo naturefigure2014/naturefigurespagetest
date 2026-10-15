@@ -1,5 +1,5 @@
 ---
-title: "ニホンカワウソ"
+title: "秋田犬"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,7 +7,7 @@ figureId: "013"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "ニホンカワウソ"
+species: "秋田犬"
 speciesGroup: "食肉類"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
@@ -15,13 +15,11 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "kawauso001.jpg"
-coverImage: "kawauso001.jpg"
+figureTopImage: "syutenn016.jpg"
+coverImage: "syutenn016.jpg"
 topics:
   - title: ""
     images:
-      - "kawauso001.jpg"
-      - "syutenn113_small1.jpg"
-      - "syutenn044_small1.jpg"
-      - "syutenn104_small1.jpg"
+      - "syutenn016.jpg"
+      - "syutenn017.jpg"
 ---

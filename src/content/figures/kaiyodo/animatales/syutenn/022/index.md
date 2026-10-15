@@ -1,5 +1,5 @@
 ---
-title: "カモシカ"
+title: "コウノトリ"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,19 +7,19 @@ figureId: "022"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "カモシカ"
-speciesGroup: "偶蹄類"
+species: "コウノトリ"
+speciesGroup: "水鳥"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn081.jpg"
-coverImage: "syutenn081.jpg"
+figureTopImage: "syutenn091.jpg"
+coverImage: "syutenn091.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn081.jpg"
-      - "syutenn082.jpg"
+      - "syutenn091.jpg"
+      - "syutenn092.jpg"
 ---

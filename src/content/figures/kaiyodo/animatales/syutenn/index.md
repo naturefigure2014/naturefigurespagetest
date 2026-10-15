@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "週刊日本の天然記念物"
 description: ""
 contentType: title
 titleId: kaiyodo/animatales/syutenn
@@ -63,28 +63,12 @@ figureIds:
   - kaiyodo/animatales/syutenn/055
   - kaiyodo/animatales/syutenn/056
   - kaiyodo/animatales/syutenn/057
-  - kaiyodo/animatales/syutenn/058
-  - kaiyodo/animatales/syutenn/059
-  - kaiyodo/animatales/syutenn/060
-  - kaiyodo/animatales/syutenn/061
-  - kaiyodo/animatales/syutenn/062
-  - kaiyodo/animatales/syutenn/063
-  - kaiyodo/animatales/syutenn/064
-  - kaiyodo/animatales/syutenn/065
-  - kaiyodo/animatales/syutenn/066
-  - kaiyodo/animatales/syutenn/067
-  - kaiyodo/animatales/syutenn/068
-  - kaiyodo/animatales/syutenn/069
-  - kaiyodo/animatales/syutenn/070
-  - kaiyodo/animatales/syutenn/071
-  - kaiyodo/animatales/syutenn/072
-  - kaiyodo/animatales/syutenn/073
 executiveProducer: "-"
 seriesName: "アニマテイルズ"
 releaseStart: "2002.06"
 price: "850円（1号のみ500円）"
-species: "複数種"
-speciesGroup: "その他/未分類"
+species: "-"
+speciesGroup: "-"
 genre:
   - "-"
 tags:

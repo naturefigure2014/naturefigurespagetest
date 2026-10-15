@@ -1,5 +1,5 @@
 ---
-title: "ルリカケス"
+title: "シロヘビ"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,19 +7,19 @@ figureId: "030"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "ルリカケス"
-speciesGroup: "その他鳥類"
+species: "シロヘビ"
+speciesGroup: "ヘビ類"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn018.jpg"
-coverImage: "syutenn018.jpg"
+figureTopImage: "syutenn064.jpg"
+coverImage: "syutenn064.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn018.jpg"
-      - "syutenn019.jpg"
+      - "syutenn064.jpg"
+      - "syutenn065.jpg"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "ヤンバルクイナ"
+title: "ナベヅル"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,21 +7,21 @@ figureId: "036"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "ヤンバルクイナ"
-speciesGroup: "キジ・ニワトリ類"
+species: "ナベヅル"
+speciesGroup: "水鳥"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn005.jpg"
-coverImage: "syutenn005.jpg"
+figureTopImage: "syutenn038.jpg"
+coverImage: "syutenn038.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn005.jpg"
-      - "syutenn006.jpg"
+      - "syutenn038.jpg"
+      - "syutenn039.jpg"
     comment: |
-      リンク： 週刊日本の天然記念物のページトップへ 21.ニホンザル～40.ホタルイカへ 41.ヒメハルゼミ～リュウキュウヤマガメへ 関連付録＆キャンペーン品へ
+      シベリアや中国で繁殖し、冬に日本にくる渡り鳥。鹿児島県や山口県の特別天然記念物。すらっとしていてかっこいいですね。
 ---

@@ -1,5 +1,5 @@
 ---
-title: "岬馬"
+title: "アホウドリ"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/syutenn
@@ -7,22 +7,21 @@ figureId: "039"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "岬馬"
-speciesGroup: "奇蹄類"
+species: "アホウドリ"
+speciesGroup: "海鳥"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn079.jpg"
-coverImage: "syutenn079.jpg"
+figureTopImage: "syutenn054.jpg"
+coverImage: "syutenn054.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn079.jpg"
-      - "syutenn080.jpg"
-  - title: ""
-    images:
-      - "syutenn078.jpg"
+      - "syutenn054.jpg"
+      - "syutenn055.jpg"
+    comment: |
+      日本での主な繁殖地は伊豆諸島。頭のグラデーションが良いです。
 ---

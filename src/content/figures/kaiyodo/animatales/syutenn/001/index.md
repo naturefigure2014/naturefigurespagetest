@@ -15,13 +15,16 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "syutenn073_small1.jpg"
-coverImage: "syutenn073_small1.jpg"
+figureTopImage: "syutenn073.jpg"
+coverImage: "syutenn073.jpg"
 topics:
   - title: ""
     images:
-      - "syutenn073_small1.jpg"
-      - "syutenn095_small1.jpg"
-      - "syutenn052_small1.jpg"
-      - "syutenn034_small1.jpg"
+      - "syutenn073.jpg"
+      - "syutenn074.jpg"
+  - title: ""
+    images:
+      - "syutenn075.jpg"
+    comment: |
+      沖縄の西表島のみに生息する山猫。体は黒褐色に不明瞭な斑点模様。胴長で太い尻尾が山猫の特徴。 フィギュアは倒木から降りる高低差のあるポーズ。 今後何度も海洋堂から立体化されます。
 ---
