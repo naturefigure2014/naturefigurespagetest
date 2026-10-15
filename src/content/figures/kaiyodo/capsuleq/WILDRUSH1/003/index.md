@@ -1,10 +1,10 @@
 ---
-title: "3. グラントシマウマ"
+title: "グラントシマウマ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH1
 figureId: "003"
-species: "3. グラントシマウマ"
+species: "グラントシマウマ"
 speciesGroup: "奇蹄類"
 maker: "海洋堂"
 sculptor: "菅谷 中"
