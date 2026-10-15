@@ -1,10 +1,10 @@
 ---
-title: "5. シロサイ"
+title: "シロサイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH1
 figureId: "005"
-species: "5. シロサイ"
+species: "シロサイ"
 speciesGroup: "奇蹄類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
