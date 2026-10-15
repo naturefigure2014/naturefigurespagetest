@@ -14,7 +14,7 @@ seriesSections:
     # 未指定の場合は、カプセルQ配下の登録データを自動表示します。
     titleIds: []
     maxTitles: 100
-  - name: 恐竜化石発掘記
+  - name: 恐竜発掘記
     format: ガチャ
     # titleIdsを指定すると、その順番で表示できます。
     # 未指定の場合は、カプセルQ配下の登録データを自動表示します。

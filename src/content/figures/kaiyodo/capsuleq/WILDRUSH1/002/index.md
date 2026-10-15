@@ -1,10 +1,10 @@
 ---
-title: "2. サーバル"
+title: "サーバル"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH1
 figureId: "002"
-species: "2. サーバル"
+species: "サーバルキャット"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
