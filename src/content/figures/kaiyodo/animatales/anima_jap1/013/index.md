@@ -1,0 +1,27 @@
+---
+title: "キツネ"
+description: ""
+contentType: figure
+titleId: kaiyodo/animatales/anima_jap1
+figureId: "013"
+maker: "フルタ"
+sculptor: "松村しのぶ カプセルカラー：青"
+executiveProducer: "-"
+species: "キツネ"
+speciesGroup: "-"
+price: "-"
+releaseStart: "-"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "anima_jap1_052.jpg"
+coverImage: "anima_jap1_052.jpg"
+topics:
+  - title: ""
+    images:
+      - "anima_jap1_052.jpg"
+      - "anima_jap1_012.jpg"
+    comment: |
+      警戒心が強く、なかなか会えない。彩色見本は尾の先が白い。
+---

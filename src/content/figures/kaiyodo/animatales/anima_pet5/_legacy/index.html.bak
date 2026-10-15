@@ -1,0 +1,382 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>チョコQペット動物5</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>チョコQ アニマテイルズ　ペット動物5</h4>
+		<table width="100%">
+<tr><td><a href="img/ani_pet5_056.jpg">
+	<img height="283" src="img/ani_pet5_056_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_pet5/img/ani_pet5_056.jpg" --></a></td>
+</tr>
+</table>
+<!--
+<table width="100%">
+			<tr>
+				<td class="waku_left" style="width: 50%" valign="top">
+				<span class="font_small">126(P59A).ジャック・ラッセル・テリア タン＆ホワイト<br />
+				127(P59B).ジャック・ラッセル・テリア トライカラー<br />
+				128(P60A).フレンチブルドッグ ブリンドル＆ホワイト<br />
+				129(P60B).フレンチブルドッグ ブラック＆ホワイト<br />
+				130(P61A).ドーベルマン ブラック<br />
+				131(P61B).ドーベルマン ブラウン<br />
+				132(P62A).ブリティッシュショートヘアー ブルー<br />
+				133(P62B).ブリティッシュショートヘアー レッドタビー＆ホワイト<br />
+				134(P63A).オリエンタルショートヘアー シルバータビー<br />
+				135(P63B).オリエンタルショートヘアー キャリコ<br />
+				136(P64).ハルクインコンゴウインコ<br />
+				137(P65A).ジャービル レッド<br />
+				138(P65B).ジャービル シャム</span><br />
+				</td>
+								<td class="waku_right" style="width: 50%" valign="top">
+								<span class="font_small">139(P66A).ボシカメレオン 体色変化<br />
+				140(P66B).エボシカメレオン ハイイエロー<br />
+				141(P67A).ミニブタ 黒<br />
+				142(P67B).ミニブタ 黒白<br />
+				143(P68A).フレミッシュジャイアント サンディ<br />
+				144(P68B).フレミッシュジャイアント フォーン<br />
+				145(P69A).ポリプテルス・エンドリケリー ノーマル<br />
+				146(P69B).ポリプテルス・エンドリケリー 白化個体<br />
+				147(P70A).ツノガエル(幼生後期) ベルツノガエル<br />
+				148(P70B).ツノガエル(幼生後期) ペパーミント</span><br />
+								<span class="font_blue_small">(SECRET 04p-a) ひよこ カラーひよこa<br />
+				(SECRET 04p-b) ひよこ カラーひよこb<br />
+				(SECRET 04p-c) ひよこ カラーひよこc</span></td>
+
+			</tr>
+</table>-->
+<p >
+			発売日：2005年10月　販売元：タカラ<br />
+			原型製作：松村しのぶ　原型ペイント：古田悟郎<br />
+			■ラインナップ<br />
+			舌を出して表情のあるイヌや、躍動感のあるネコなど、全体的に出来の良い弾。<br />
+			シークレットのカラーひよこには賛否両論。動物虐待という意見や、その問題提起のためだという意見など。<br />
+			<br />
+			■コンプリートBOX<br />
+			パッケージにも書いてあるとおり、今回はコンプリートBOXが用意されました。一般販売されたものとキャンペーンで当選するものは同じものでしたが、キャンペーン当選品にはクリア版フィギュアが入っていました。ただし、その情報はキャンペーン時には公開されていませんでした。<br />
+			<br />
+			■次弾<br />
+			１月に<a href="../anima_jap11">日本の動物１１弾</a>の情報が公開、３月に発売されました。</p>
+</div>
+<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/ani_pet5_004_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/ani_pet5_006_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/ani_pet5_008_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/ani_pet5_010_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/ani_pet5_012_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/ani_pet5_014_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/ani_pet5_016_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/ani_pet5_018_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/ani_pet5_022_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/ani_pet5_020_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/ani_pet5_024_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/ani_pet5_026_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/ani_pet5_028_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/ani_pet5_030_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/ani_pet5_032_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#16">
+<img src="img/ani_pet5_034_small.jpg" width="146" /></a></td><td><a href="#17">
+<img src="img/ani_pet5_036_small.jpg" width="146" /></a></td><td><a href="#18">
+<img src="img/ani_pet5_038_small.jpg" width="146" /></a></td><td><a href="#19">
+<img src="img/ani_pet5_040_small.jpg" width="146" /></a></td><td><a href="#20">
+<img src="img/ani_pet5_042_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#21">
+<img src="img/ani_pet5_044_small.jpg" width="146" /></a></td><td><a href="#22">
+<img src="img/ani_pet5_046_small.jpg" width="146" /></a></td><td><a href="#23">
+<img src="img/ani_pet5_048_small.jpg" width="146" /></a></td><td><a href="#24">
+<img src="img/ani_pet5_050_small.jpg" width="146" /></a></td><td><a href="#25">
+<img src="img/ani_pet5_052_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#26">
+<img src="img/ani_pet5_054_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td><td>&nbsp;</td>
+		</tr>
+
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">126.ジャック・ラッセル・テリア タン＆ホワイト</th></tr>
+			<tr><td><a href="img/ani_pet5_004.jpg">
+<img height="283" src="img/ani_pet5_004_small.jpg" width="378" /></a><a href="img/ani_pet5_005.jpg"><img height="283" src="img/ani_pet5_005_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">イギリス原産のテリア。品種と認められてからの日は浅い。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">127.ジャック・ラッセル・テリア トライカラー</th></tr>
+			<tr><td><a href="img/ani_pet5_006.jpg">
+<img height="283" src="img/ani_pet5_006_small.jpg" width="378" /></a><a href="img/ani_pet5_007.jpg"><img height="283" src="img/ani_pet5_007_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="3">128.フレンチブルドッグ ブリンドル＆ホワイト</th></tr>
+			<tr><td><a href="img/ani_pet5_008.jpg">
+<img height="283" src="img/ani_pet5_008_small.jpg" width="378" /></a><a href="img/ani_pet5_009.jpg"><img height="283" src="img/ani_pet5_009_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">舌を出した口などとてもよく出来ています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">△129.フレンチブルドッグ ブラック＆ホワイト</th></tr>
+			<tr><td><a href="img/ani_pet5_010.jpg">
+<img height="283" src="img/ani_pet5_010_small.jpg" width="378" /></a><a href="img/ani_pet5_011.jpg"><img height="283" src="img/ani_pet5_011_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">大きく立った耳が特徴。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">130.ドーベルマン ブラック</th></tr>
+			<tr><td><a href="img/ani_pet5_012.jpg">
+<img height="283" src="img/ani_pet5_012_small.jpg" width="378" /></a><a href="img/ani_pet5_013.jpg"><img height="283" src="img/ani_pet5_013_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">軍用犬として活躍。街中で見かけるとすごい威圧感。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">131.ドーベルマン ブラウン</th></tr>
+			<tr><td><a href="img/ani_pet5_014.jpg">
+<img height="283" src="img/ani_pet5_014_small.jpg" width="378" /></a><a href="img/ani_pet5_015.jpg"><img height="283" src="img/ani_pet5_015_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="7">132.ブリティッシュショートヘアー <br />
+				ブルー</th></tr>
+			<tr><td><a href="img/ani_pet5_016.jpg">
+<img height="283" src="img/ani_pet5_016_small.jpg" width="378" /></a><a href="img/ani_pet5_017.jpg"><img height="283" src="img/ani_pet5_017_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ヨーロッパの土着猫の一種。</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">133.ブリティッシュショートヘアー <br />
+				レッドタビー＆ホワイト</th></tr>
+			<tr><td><a href="img/ani_pet5_018.jpg">
+<img height="283" src="img/ani_pet5_018_small.jpg" width="378" /></a><a href="img/ani_pet5_019.jpg"><img height="283" src="img/ani_pet5_019_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">これまでで最高の出来の猫フィギュアだと思っています。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">134.オリエンタルショートヘアー シルバータビー</th></tr>
+			<tr><td><a href="img/ani_pet5_022.jpg">
+<img height="283" src="img/ani_pet5_022_small.jpg" width="378" /></a><a href="img/ani_pet5_023.jpg"><img height="283" src="img/ani_pet5_023_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">シャムネコに毛色をプラスした品種。</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">135.オリエンタルショートヘアー キャリコ</th></tr>
+			<tr><td><a href="img/ani_pet5_020.jpg">
+<img height="283" src="img/ani_pet5_020_small.jpg" width="378" /></a><a href="img/ani_pet5_021.jpg"><img height="283" src="img/ani_pet5_021_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="11">136.ハルクインコンゴウインコ</th></tr>
+			<tr><td><a href="img/ani_pet5_024.jpg">
+<img height="283" src="img/ani_pet5_024_small.jpg" width="378" /></a><a href="img/ani_pet5_025.jpg"><img height="283" src="img/ani_pet5_025_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">とてもカラフル。顔の作りも細かい。</td></tr>
+			<!--
+			-->			
+			<tr><th id="12">137.ジャービル レッド</th></tr>
+			<tr><td><a href="img/ani_pet5_026.jpg">
+<img height="283" src="img/ani_pet5_026_small.jpg" width="378" /></a><a href="img/ani_pet5_027.jpg"><img height="283" src="img/ani_pet5_027_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ハムスターより古い飼いねずみ。</td></tr>
+			<!--
+			-->
+			<tr><th id="13">△138.ジャービル シャム</th></tr>
+			<tr><td><a href="img/ani_pet5_028.jpg">
+<img height="283" src="img/ani_pet5_028_small.jpg" width="378" /></a><a href="img/ani_pet5_029.jpg"><img height="283" src="img/ani_pet5_029_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="14">139.エボシカメレオン 体色変化</th></tr>
+			<tr><td><a href="img/ani_pet5_030.jpg">
+<img height="283" src="img/ani_pet5_030_small.jpg" width="378" /></a><a href="img/ani_pet5_031.jpg"><img height="283" src="img/ani_pet5_031_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">これまでよりも飼いやすいカメレオン。</td></tr>
+			<!--
+			-->
+			<tr><th id="15">140.エボシカメレオン ハイイエロー</th></tr>
+			<tr><td><a href="img/ani_pet5_032.jpg">
+<img height="283" src="img/ani_pet5_032_small.jpg" width="378" /></a><a href="img/ani_pet5_033.jpg"><img height="283" src="img/ani_pet5_033_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="16">141.ミニブタ 黒</th></tr>
+			<tr><td><a href="img/ani_pet5_034.jpg">
+<img height="283" src="img/ani_pet5_034_small.jpg" width="378" /></a><a href="img/ani_pet5_035.jpg"><img height="283" src="img/ani_pet5_035_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">もともとは医療用に作られた小型の豚。</td></tr>
+			<!--
+			-->
+			<tr><th id="17">142.ミニブタ 黒白</th></tr>
+			<tr><td><a href="img/ani_pet5_036.jpg">
+<img height="283" src="img/ani_pet5_036_small.jpg" width="378" /></a><a href="img/ani_pet5_037.jpg"><img height="283" src="img/ani_pet5_037_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="18">143.フレミッシュジャイアント サンディ</th></tr>
+			<tr><td><a href="img/ani_pet5_038.jpg">
+<img height="283" src="img/ani_pet5_038_small.jpg" width="378" /></a><a href="img/ani_pet5_039.jpg"><img height="283" src="img/ani_pet5_039_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">巨大なウサギ。体重9キロに達することも。</td></tr>
+			<!--
+			-->
+			<tr><th id="19">144.フレミッシュジャイアント フォーン</th></tr>
+			<tr><td><a href="img/ani_pet5_040.jpg">
+<img height="283" src="img/ani_pet5_040_small.jpg" width="378" /></a><a href="img/ani_pet5_041.jpg"><img height="283" src="img/ani_pet5_041_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="20">145.ポリプテルス・エンドリケリー ノーマル</th></tr>
+			<tr><td><a href="img/ani_pet5_042.jpg">
+<img height="283" src="img/ani_pet5_042_small.jpg" width="378" /></a><a href="img/ani_pet5_043.jpg"><img height="283" src="img/ani_pet5_043_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ペットとして人気の古代魚。クリアパーツをうまく使っています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="21">146.ポリプテルス・エンドリケリー 白化個体</th></tr>
+			<tr><td><a href="img/ani_pet5_044.jpg">
+<img height="283" src="img/ani_pet5_044_small.jpg" width="378" /></a><a href="img/ani_pet5_045.jpg"><img height="283" src="img/ani_pet5_045_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="22">147.ツノガエル(幼生後期) ベルツノガエル</th></tr>
+			<tr><td><a href="img/ani_pet5_046.jpg">
+<img height="283" src="img/ani_pet5_046_small.jpg" width="378" /></a><a href="img/ani_pet5_047.jpg"><img height="283" src="img/ani_pet5_047_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">おとなへの成長途中をフィギュア化。</td></tr>
+			<!--
+			-->			
+			<tr><th id="23">148.ツノガエル(幼生後期) ペパーミント</th></tr>
+			<tr><td><a href="img/ani_pet5_048.jpg">
+<img height="283" src="img/ani_pet5_048_small.jpg" width="378" /></a><a href="img/ani_pet5_049.jpg"><img height="283" src="img/ani_pet5_049_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="24"><span class="font_blue">(SECRET 04p-a) ひよこ カラーひよこa</span></th></tr>
+			<tr><td><a href="img/ani_pet5_050.jpg">
+<img height="283" src="img/ani_pet5_050_small.jpg" width="378" /></a><a href="img/ani_pet5_051.jpg"><img height="283" src="img/ani_pet5_051_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">かつては夜店でスプレーで着色されたひよこが売られていたそうです。</td></tr>
+			<!--
+			-->			
+			<tr><th id="25"><span class="font_blue">(SECRET 04p-b) ひよこ カラーひよこb</span></th></tr>
+			<tr><td><a href="img/ani_pet5_052.jpg">
+<img height="283" src="img/ani_pet5_052_small.jpg" width="378" /></a><a href="img/ani_pet5_053.jpg"><img height="283" src="img/ani_pet5_053_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="26"><span class="font_blue">(SECRET 04p-c) ひよこ カラーひよこc</span></th></tr>
+			<tr><td><a href="img/ani_pet5_054.jpg">
+<img height="283" src="img/ani_pet5_054_small.jpg" width="378" /></a><a href="img/ani_pet5_055.jpg"><img height="283" src="img/ani_pet5_055_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="27">解説書</th></tr>
+			<tr><td><a href="img/chocoqpet5kaisetsu.jpg">
+	<img height="303" src="img/chocoqpet5kaisetsu_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="28">外箱</th></tr>
+			<tr><td><a href="img/chocoqpet5.jpg">
+	<img height="591" src="img/chocoqpet5_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment">今回のテーマカラーである赤を基調としたデザイン。</td></tr>
+			<!--
+			-->			
+			<tr><th id="29">10個入り箱</th></tr>
+			<tr><td>
+	<img height="653" src="img/ChocoQPet5hakoL.jpg" width="756" /></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+						
+			</table>
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

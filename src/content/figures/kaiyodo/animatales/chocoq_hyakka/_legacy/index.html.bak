@@ -1,0 +1,164 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>チョコQ百科</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>BE-PAL SPECIAL EDITION　チョコQ百科</h4>
+			<p>
+			■概要<br />
+			発売日：2003年1月　価格：999円　出版社：小学館　<br />
+			松村しのぶ・監修　中川雄三とビーパルアニマテイルズ委員会・著<br />
+			■掲載範囲<br />
+			日本の動物6<br />
+			■付属フィギュア<br />
+			ミクラミヤマクワガタ2種<br />
+			■内容<br />
+			動物の情報、ペイントマスター写真、製品版写真、動物写真、亜種の有無、フィギュアデータ（重さ・パーツ数・塗装工程数）、松村さんと動物写真家中川さんの対談。<br />
+			■その他見所<br />
+			・松村さんの過去の作品（NatureTalesやAQUALANDなど）<br />
+			・7弾アカコッコ製作過程<br />
+			・「マエストロ原型師松村しのぶの自然観察島めぐり」<br />
+			■特徴<br />
+			究極のチョコエッグ解説本、「チョコエッグ百科」の正当後継書。<br />
+			本誌からアウトドア雑誌「BE-PAL」の特別誌という扱いになっています。<br />
+			残念ながら続巻することはありませんでした。<br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		
+			<table style="width: 100%">
+			<tr>
+<th>ミクラミヤマクワガタ(黄紋型)</th></tr>
+<tr>
+<td><a href="../chocoq_zassi/img/anima_chocoq_book004.jpg">
+		<img height="283" src="../chocoq_zassi/img/anima_chocoq_book004_small.jpg" width="378" /></a><a href="../chocoq_zassi/img/anima_chocoq_book005.jpg"><img height="283" src="../chocoq_zassi/img/anima_chocoq_book005_small.jpg" width="378" /></a></td>
+</tr>
+			<tr>
+<th>ミクラミヤマクワガタ(超黄紋型)</th></tr>
+<tr>
+<td><a href="../chocoq_zassi/img/anima_chocoq_book006.jpg">
+		<img height="283" src="../chocoq_zassi/img/anima_chocoq_book006_small.jpg" width="378" /></a><a href="../chocoq_zassi/img/anima_chocoq_book007.jpg"><img height="283" src="../chocoq_zassi/img/anima_chocoq_book007_small.jpg" width="378" /></a></td>
+</tr>
+<tr>
+<td class="comment"><a href="../anima_jap6/index.html">チョコQ第6弾</a>の色違い。<br />
+実際に松村さん達が捕まえた個体で、「マエストロ原型師松村しのぶの自然観察島めぐり」が採集記となっています。<br />
+この「超黄紋型」はクワガタ界を震撼させる発見だったとか。</td>
+</tr>
+			<tr>
+<th>解説書</th></tr>
+<tr>
+<td><a href="../chocoq_zassi/img/chocoqqhyakka.jpg">
+		<img height="304" src="../chocoq_zassi/img/chocoqqhyakka_small.jpg" width="756" /></a></td>
+</tr>
+<tr>
+<td class="comment">解説書も付属しました。</td>
+</tr>
+			<tr>
+<th>パッケージ</th></tr>
+<tr>
+<td>
+<img height="328" src="../../books/chocoQ/ChocoQhyakka/img/ChocoQhyakkabox.jpg" width="378" /></td>
+</tr>
+<tr>
+<td class="comment">
+BOXタイプのパッケージ。</td>
+</tr>
+			<tr>
+<th>本誌</th></tr>
+<tr>
+<td>
+<img height="260" src="../../books/chocoQ/ChocoQhyakka/img/ChocoQhyakkabook.jpg" width="378" /><img height="141" src="../../books/chocoQ/ChocoQhyakka/img/ChocoQhyakkapage1.jpg" width="185" /><img height="136" src="../../books/chocoQ/ChocoQhyakka/img/ChocoQhyakkapage2.jpg" width="185" /></td>
+</tr>
+			
+<tr>
+<td>
+&nbsp;</td>
+</tr>
+			
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

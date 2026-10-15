@@ -1,0 +1,27 @@
+---
+title: "ハマグリ"
+description: ""
+contentType: figure
+titleId: kaiyodo/animatales/anima_jap7
+figureId: "022"
+maker: "タカラ"
+sculptor: "松村しのぶ"
+executiveProducer: "-"
+species: "ハマグリ"
+speciesGroup: "-"
+price: "-"
+releaseStart: "2003.03"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "ani_jap7_007.jpg"
+coverImage: "ani_jap7_007.jpg"
+topics:
+  - title: ""
+    images:
+      - "ani_jap7_007.jpg"
+      - "ani_jap7_008.jpg"
+    comment: |
+      食用として有名な二枚貝。
+---

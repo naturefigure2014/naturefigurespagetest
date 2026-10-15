@@ -479,7 +479,7 @@ def write_title_page(
         f"titleId: {title_id}",
         "kind: series",
         f"maker: {quoted(maker or '-')}",
-        "figureIds:",
+        "figureIds:" if items else "figureIds: []",
     ]
     lines.extend(f"  - {title_id}/{index:03d}" for index in range(1, len(items) + 1))
     append_metadata(lines, metadata, (

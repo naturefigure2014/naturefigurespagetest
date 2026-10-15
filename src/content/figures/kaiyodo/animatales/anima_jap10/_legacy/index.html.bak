@@ -1,0 +1,390 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>チョコQ第10弾</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>チョコQ アニマテイルズ　日本の動物10</h4>
+				<table width="100%">
+		<tr><td><a href="img/ani_jap10_004.jpg">
+			<img height="283" src="img/ani_jap10_004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap10/img/ani_jap10_004.jpg" --></a></td>
+		</tr>
+		</table>
+
+		<table width="100%">
+			<!--<tr>
+				<th colspan="2">ラインナップ<br />
+				</th>
+			</tr>
+			<tr>
+				<td class="waku_left" valign="top">
+				223.タイワンザル<br />
+				224.ツシマヤマネコ(仔)<br />
+				225.チョウセンシマリス<br />
+				226.マンシュウハリネズミ<br />
+				227.サンコウチョウ(♂)<br />
+				228a.カンムリワシ(成鳥)<br />
+				228b.カンムリワシ(幼鳥)<br />
+				229.ハシブトガラス(Ⅱ)<br />
+				230a.ミシシッピアカミミガメ(♂)通常色固体<br />
+				230b.ミシシッピアカミミガメ(♂)黒化固体<br />
+				231.コモチカナヘビ<br />
+				</td>
+								<td class="waku_right" valign="top">
+				232a.シリケンイモリ アマミシリケンイモリ<br />
+				232b.シリケンイモリ オキナワシリケンイモリ<br />
+				233a.アブラゼミ(幼虫) 地中生活期<br />
+				233b.アブラゼミ(幼虫) 羽化直前状態<br />
+				234.コンジンテナガエビ<br />
+				235a.オイカワ 婚姻色<br />
+				235b.オイカワ 非繁殖期<br />
+				236.マダラロリカリア<br />
+				237.ウシガエル<br />
+				<span class="font_blue">S07a.ツチノコ(Ⅱ)"短胴"関西型<br />
+				S07b.ツチノコ(Ⅱ)"短胴"関東型 </span> </td>
+
+			</tr>-->
+		</table>
+		<p>
+			販売開始時期：2005年3月　販売元：タカラ　原型製作：松村しのぶ<br />
+			カプセルカラー：黄色　<a href="http://kaiyodo.co.jp/products/chocoq.html">海洋堂のホームページ</a><br />
+			■概要<br />
+			転売買占め大騒ぎの<a href="../chocoq_sp">スペシャルエディション</a>で大騒ぎの１月、海洋堂ホームページへの掲載をもって公開となりました。<br />
+			<br />
+			■ラインナップ<br />
+			全体的な色合いとしてはやや暗め。帰化生物が多いのは、このシーズンにペットシリーズを出さなかったからだとか。今回も、シークレットの混入率は低くは無かったようです。今回の人気商品はテナガエビでした。やはりどの弾でも甲殻類は人気ですね。９弾発売直後と比較しても、２ちゃんでの評判はなかなか良かったようです。<br />
+			<br />
+			■直近の出来事<br />
+			２月のワンフェスでは<a href="../../aqua/enosui/enosui2">新江ノ島水族館立体生物図録２</a>の情報が公開<br />
+			５月には<a href="../../kaiyodo_syokugann/birdtales2">バードテイルズ２</a>が公開<br />
+			７月<a href="../../kaiyodo_syokugann/fabre">ファーブル昆虫記</a>、<a href="../anima_pet5">ペット動物５</a>が公開<br />
+			<br />
+			■次弾<br />
+			販売元のタカラが業績不振により、１０弾発表直後からすでに次弾の存続が危ぶまれていましたが、無事<a href="../anima_pet5">ペット動物５</a>が発売。</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/ani_jap10_008_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/ani_jap10_010_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/ani_jap10_012_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/ani_jap10_014_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/ani_jap10_016_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/ani_jap10_018_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/ani_jap10_020_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/ani_jap10_022_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/ani_jap10_024_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/ani_jap10_027_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/ani_jap10_030_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/ani_jap10_033_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/ani_jap10_037_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/ani_jap10_039_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/ani_jap10_042_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#16">
+<img src="img/ani_jap10_045_small.jpg" width="146" /></a></td><td><a href="#17">
+<img src="img/ani_jap10_048_small.jpg" width="146" /></a></td><td><a href="#18">
+<img src="img/ani_jap10_051_small.jpg" width="146" /></a></td><td><a href="#19">
+<img src="img/ani_jap10_052_small.jpg" width="146" /></a></td><td><a href="#20">
+<img src="img/ani_jap10_054_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#21">
+<img src="img/ani_jap10_001_small.jpg" width="146" /></a></td><td><a href="#22">
+<img src="img/anima_jap10_058_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td>
+		</tr>
+
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">223.タイワンザル</th></tr>
+			<tr><td><a href="img/ani_jap10_008.jpg">
+					<img height="283" src="img/ani_jap10_008_small.jpg" width="378" /></a><a href="img/ani_jap10_009.jpg"><img height="283" src="img/ani_jap10_009_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">名前のとおり台湾固有のサル。分割線が目立ちます。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">224.ツシマヤマネコ(仔)</th></tr>
+			<tr><td>
+					<a href="img/ani_jap10_010.jpg">
+					<img height="283" src="img/ani_jap10_010_small.jpg" width="378" /></a><a href="img/ani_jap10_011.jpg"><img height="283" src="img/ani_jap10_011_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">成体は<a href="../anima_jap5/index.html">第5弾</a>。毛並みや模様が良くできています。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">225.チョウセンシマリス</th></tr>
+			<tr><td><a href="img/ani_jap10_012.jpg">
+					<img height="283" src="img/ani_jap10_012_small.jpg" width="378" /></a><a href="img/ani_jap10_013.jpg"><img height="283" src="img/ani_jap10_013_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ペットとして輸入されてきたリス。中部地方で野生化。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">226.マンシュウハリネズミ</th></tr>
+			<tr><td>
+					<a href="img/ani_jap10_014.jpg">
+					<img height="283" src="img/ani_jap10_014_small.jpg" width="378" /></a><a href="img/ani_jap10_015.jpg"><img height="283" src="img/ani_jap10_015_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">こちらもペットとして輸入されたものが神奈川や静岡で野生化。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">227.サンコウチョウ(♂)</th></tr>
+			<tr><td><a href="img/ani_jap10_016.jpg">
+					<img height="283" src="img/ani_jap10_016_small.jpg" width="378" /></a><a href="img/ani_jap10_017.jpg"><img height="283" src="img/ani_jap10_017_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">くもの巣に突っ込んでくもの糸を集め巣をつくる。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">228a.カンムリワシ(成鳥)</th></tr>
+			<tr><td>
+					<a href="img/ani_jap10_018.jpg">
+					<img height="283" src="img/ani_jap10_018_small.jpg" width="378" /></a><a href="img/ani_jap10_019.jpg"><img height="283" src="img/ani_jap10_019_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">八重山諸島に住む猛禽。特別天然記念物。</td></tr>
+			<!--
+			-->
+			<tr><th id="7">228b.カンムリワシ(幼鳥)</th></tr>
+			<tr><td><a href="img/ani_jap10_020.jpg">
+					<img height="283" src="img/ani_jap10_020_small.jpg" width="378" /></a><a href="img/ani_jap10_021.jpg"><img height="283" src="img/ani_jap10_021_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">こちらのほうが羽がきれい。</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">229.ハシブトガラス(Ⅱ)</th></tr>
+			<tr><td>
+					<a href="img/ani_jap10_022.jpg">
+					<img height="283" src="img/ani_jap10_022_small.jpg" width="378" /></a><a href="img/ani_jap10_023.jpg"><img height="283" src="img/ani_jap10_023_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">最も身近な鳥。ラメの入ったような塗装がきれいです。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">230a.ミシシッピアカミミガメ(♂)通常色固体</th></tr>
+			<tr><td>
+					<a href="img/ani_jap10_024.jpg">
+					<img height="283" src="img/ani_jap10_024_small.jpg" width="378" /></a><a href="img/ani_jap10_025.jpg"><img height="283" src="img/ani_jap10_025_small.jpg" width="378" /></a></td></tr>
+			<tr><td>
+					<a href="img/ani_jap10_026.jpg">
+					<img height="283" src="img/ani_jap10_026_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+					<a href="../anima_pet1/index.html">ミドリガメ</a>の成体。<br />
+					幼体のころの顔の模様が残っています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">△230b.ミシシッピアカミミガメ(♂)黒化固体</th></tr>
+			<tr><td>
+					<a href="img/ani_jap10_027.jpg">
+					<img height="283" src="img/ani_jap10_027_small.jpg" width="378" /></a><a href="img/ani_jap10_028.jpg"><img height="283" src="img/ani_jap10_028_small.jpg" width="378" /></a></td></tr>
+			<tr><td>
+					<a href="img/ani_jap10_029.jpg">
+					<img height="283" src="img/ani_jap10_029_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">オスはさらに成長すると黒くなって模様が消えてしまいます。</td></tr>
+			<!--
+			-->
+			<tr><th id="11">231.コモチカナヘビ</th></tr>
+			<tr><td>
+					<a href="img/ani_jap10_030.jpg">
+					<img height="283" src="img/ani_jap10_030_small.jpg" width="378" /></a><a href="img/ani_jap10_031.jpg"><img height="283" src="img/ani_jap10_031_small.jpg" width="378" /></a></td></tr>
+			<tr><td>
+					<a href="img/ani_jap10_032.jpg">
+					<img height="283" src="img/ani_jap10_032_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">北海道に住むトカゲ。裏側まで非常に良くできています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="12">232a.シリケンイモリ アマミシリケンイモリ</th></tr>
+			<tr><td>
+					<a href="img/ani_jap10_033.jpg">
+					<img height="283" src="img/ani_jap10_033_small.jpg" width="378" /></a><a href="img/ani_jap10_034.jpg"><img height="283" src="img/ani_jap10_034_small.jpg" width="378" /></a></td></tr>
+			<tr><td>
+					<a href="img/ani_jap10_035.jpg">
+					<img height="283" src="img/ani_jap10_035_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">奄美～沖縄に住む、本土のものより大きなイモリ。背中に斑紋が入らないものが多い。</td></tr>
+			<!--
+			-->
+			<tr><th id="13">232b.シリケンイモリ オキナワシリケンイモリ</th></tr>
+			<tr><td>
+					<a href="img/ani_jap10_037.jpg">
+					<img height="283" src="img/ani_jap10_037_small.jpg" width="378" /></a><a href="img/ani_jap10_038.jpg"><img height="283" src="img/ani_jap10_038_small.jpg" width="378" /></a></td></tr>
+			<tr><td>
+					<a href="img/ani_jap10_036.jpg">
+					<img height="283" src="img/ani_jap10_036_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">明色斑が入る個体が多い。</td></tr>
+			<!--
+			-->			
+			<tr><th id="14">233a.アブラゼミ(幼虫)地中生活期</th></tr>
+			<tr><td><a href="img/ani_jap10_039.jpg">
+					<img height="283" src="img/ani_jap10_039_small.jpg" width="378" /></a><a href="img/ani_jap10_040.jpg"><img height="283" src="img/ani_jap10_040_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/ani_jap10_041.jpg">
+					<img height="283" src="img/ani_jap10_041_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">セミの成虫ってシリーズにいましたっけ？</td></tr>
+			<!--
+			-->
+			<tr><th id="15">233b.アブラゼミ(幼虫)羽化直前状態</th></tr>
+			<tr><td>
+					<a href="img/ani_jap10_042.jpg">
+					<img height="283" src="img/ani_jap10_042_small.jpg" width="378" /></a><a href="img/ani_jap10_043.jpg"><img height="283" src="img/ani_jap10_043_small.jpg" width="378" /></a></td></tr>
+			<tr><td>
+					<a href="img/ani_jap10_044.jpg">
+					<img height="283" src="img/ani_jap10_044_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">羽化直前は眼が黒く、羽の模様も見えています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="16">234.コンジンテナガエビ</th></tr>
+			<tr><td><a href="img/ani_jap10_045.jpg">
+					<img height="283" src="img/ani_jap10_045_small.jpg" width="378" /></a><a href="img/ani_jap10_046.jpg"><img height="283" src="img/ani_jap10_046_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/ani_jap10_047.jpg">
+					<img height="283" src="img/ani_jap10_047_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">南西諸島に住む国内最大のテナガエビ。胴体はクリア素材で出来ています。</td></tr>
+			<!--
+			-->
+			<tr><th id="17">△235a.オイカワ 婚姻色</th></tr>
+			<tr><td><a href="img/ani_jap10_048.jpg">
+					<img height="283" src="img/ani_jap10_048_small.jpg" width="378" /></a><a href="img/ani_jap10_049.jpg"><img height="283" src="img/ani_jap10_049_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">メタリックな塗装がかっこいいです。</td></tr>
+			<!--
+			-->			
+			<tr><th id="18">235b.オイカワ 非繁殖期</th></tr>
+			<tr><td><a href="img/ani_jap10_051.jpg">
+					<img height="283" src="img/ani_jap10_051_small.jpg" width="378" /></a><a href="img/ani_jap10_050.jpg"><img height="283" src="img/ani_jap10_050_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">日本の川に住む淡水魚の代表。</td></tr>
+			<!--
+			-->
+			<tr><th id="19">236.マダラロリカリア</th></tr>
+			<tr><td><a href="img/ani_jap10_052.jpg">
+					<img height="283" src="img/ani_jap10_052_small.jpg" width="378" /></a><a href="img/ani_jap10_053.jpg"><img height="283" src="img/ani_jap10_053_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">最近プレコとして人気のナマズ。ヒレにはクリア素材が使われています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="20">237.ウシガエル</th></tr>
+			<tr><td><a href="img/ani_jap10_054.jpg">
+					<img height="283" src="img/ani_jap10_054_small.jpg" width="378" /></a><a href="img/ani_jap10_055.jpg"><img height="283" src="img/ani_jap10_055_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/ani_jap10_056.jpg">
+					<img height="283" src="img/ani_jap10_056_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">食用ガエル。腹のグラデーションが良くできています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="21"><span class="font_blue">S07a.ツチノコ(Ⅱ)"短胴"関西型</span></th></tr>
+			<tr><td><a href="img/ani_jap10_001.jpg">
+					<img height="283" src="img/ani_jap10_001_small.jpg" width="378" /></a><a href="img/ani_jap10_002.jpg"><img height="283" src="img/ani_jap10_002_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/ani_jap10_003.jpg">
+					<img height="283" src="img/ani_jap10_003_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">シークレットにツチノコが戻ってきました。<br />
+				蛇の奇形個体がツチノコの正体じゃないか、というのがこの胴体の短い蛇。背骨が少なくても内臓の量は変わらないので胴体が太くなっています。</td></tr>
+			<!--
+			-->
+			<tr><th id="22"><span class="font_blue">S07b.ツチノコ(Ⅱ)"短胴"関東型</span></th></tr>
+			<tr><td><a href="img/anima_jap10_058.jpg">
+					<img height="283" src="img/anima_jap10_058_small.jpg" width="378" /></a><a href="img/anima_jap10_059.jpg"><img height="283" src="img/anima_jap10_059_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/anima_jap10_057.jpg">
+					<img height="283" src="img/anima_jap10_057_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="23">解説書</th></tr>
+			<tr><td><a href="img/chocoq10kaisetsu.jpg">
+					<img height="312" src="img/chocoq10kaisetsu_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="24">10個入りパッケージ</th></tr>
+			<tr><td>
+					<img height="639" src="img/ChocoQ10hakoL.jpg" width="756" /></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+						
+			</table>
+		
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

@@ -1,0 +1,404 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>チョコQ第6弾</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>チョコQ アニマテイルズ　日本の動物6</h4>
+		<table style="width: 100%">
+			<tr>
+				<td colspan="2">
+				<a href="img/anima_jap6061.jpg">
+				<img height="283" src="img/anima_jap6061_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap6/img/anima_jap6061.jpg" --></a></td>
+			</tr>
+			<!--<tr>
+				<td class="waku_left" valign="top" style="width:50%">
+				<span class="auto-style1">145.カワウ</span><br class="auto-style1" />
+				<span class="auto-style1">146.ツシマテン</span><br class="auto-style1" />
+				<span class="auto-style1">147.ミコアイサ</span><br class="auto-style1" />
+				<span class="auto-style1">148.トラフズク</span><br class="auto-style1" />
+				<span class="auto-style1">149.ニホンアシカ</span><br class="auto-style1" />
+				<span class="auto-style1">150.エゾモモンガ</span><br class="auto-style1" />
+				<span class="auto-style1">151.アオウミガメ</span><br class="auto-style1" />
+				<span class="auto-style1">152.キタキツネ</span><br class="auto-style1" />
+				<span class="auto-style1">153.オヤニラミ</span><br class="auto-style1" />
+				<span class="auto-style1">154.クロアカコウモリ</span><br class="auto-style1" />
+				<span class="auto-style1">155.タカアシガニ</span><br class="auto-style1" />
+				<span class="auto-style1">156.リュウキュウイノシシ</span><br class="auto-style1" />
+				<span class="auto-style1">157.ハス</span><br class="auto-style1" />
+				<span class="auto-style1">158.ワカケホンセイインコ</span><br class="auto-style1" />
+				</td>
+				<td class="waku_right" valign="top" style="width:50%">
+				<span class="auto-style1">159.ヒメアマガエル</span><br class="auto-style1" />
+				<span class="auto-style1">160.トガリネズミ</span><br class="auto-style1" />
+				<span class="auto-style1">161.ニホンザル（II）</span><br class="auto-style1" />
+				<span class="auto-style1">162.カスミサンショウウオ</span><br class="auto-style1" />
+				<span class="auto-style1">163.ザトウクジラ</span><br class="auto-style1" />
+				<span class="auto-style1">164.オオミズナギドリ</span><br class="auto-style1" />
+				<span class="auto-style1">165.アカマタ</span><br class="auto-style1" />
+				<span class="auto-style1">166.オキナエビスガイ</span><br class="auto-style1" />
+				<span class="auto-style1">167.スズメ</span><br class="auto-style1" />
+				<span class="auto-style1">168.ミクラミヤマクワガタ</span><br class="auto-style1" />
+				<span class="font_blue"><span class="auto-style1">キタダニリュウ</span><br class="auto-style1" />
+				<span class="auto-style1">ツチノコ</span><br class="auto-style1" />
+				<span class="auto-style1">イリオモテオオヤマネコ</span></span></td>
+			</tr>-->
+		</table>
+			<p>
+			■概要<br />
+			販売開始：2002年9月　販売元：タカラ　原型製作：松村しのぶ<br />
+			チョコエッグからチョコQへ販売形態を変更した第6弾。<a href="../anima_pet3">ペット動物第3弾</a>と同時発売されました。このチョコQ発売までのイベントは下記のとおり。<br />
+			■発売までの経緯<br />
+			<span class="font_small">2002/02</span><br />
+			海洋堂とフルタ製菓の決別により、チョコエッグでの日本の動物シリーズが終了。<br />
+			<span class="font_small">2002/03</span><br />
+			タカラから「チョコQ」として日本の動物シリーズが再開されることが発表。<br />
+			すでに「チョコエッグ日本の動物6」として製作されていたこの弾はチョコQとして販売されることに。これに伴い、これまでの「日本の動物シリーズ」や「ペット動物シリーズ」を「<span class="font_Bold">アニマテイルズ</span>」と呼称するようになりました。<br />
+			このころ「海洋堂がフルタに製品金型廃棄を要請」、「1～５弾をディテールアップして再販」という噂が立ちました（後者は「わがままな天然列島」として一部実現）。<br />
+			<span class="font_small">2002/06</span><br />
+			週刊<a href="../syutenn">日本の天然記念物動物編</a>発売。<br />
+			<span class="font_small">2002/09/05</span><br />
+			池袋で「チョコQミュージアム2002」開催（<a href="https://ascii.jp/elem/000/000/333/333226/">詳細</a>）。会場では「チョコQ発売記念限定 
+			動物＆ペット特別セット」を100万個限定販売。内容は先行発売となる日本の動物6、ペット動物3に加え、どちらかからさらにひとつ、わがままな天然列島カード一枚。さらに1会計ごとにパルコ限定ヒメネズミ（ハート有/無ランダム）が配布。このときは一般販売分よりもシークレットが出やすかったのか、10パック買うと1個（2個？）シークレットが出たとか。1パックにフィギュア3個なので、なんともですが。<br />
+			<span class="font_small">2002/09/09</span><br />
+			上記記念パッケージ一般販売。<br />
+			<span class="font_small">2002/09/16</span><br />
+			関東でペット動物3、関西で日本の動物6発売。１２月に入れ替え。<br />
+			<br />
+			■ラインナップについて<br />
+			区切りを意識してか、シークレットはこれまでのシークレット3種を全部投入（ペット動物３も過去の2種）。販売当時はやはりタカアシガニが人気、サーチの対象となっていたようです（クワガタと間違えやすい）。<br />
+			<br />
+			■チョコレート<br />
+			チョコレートは日本の動物とペット動物で製造場所が違い（中国/イタリア）、当時の２ちゃんを見る限り日本の動物のチョコは不評だったようです。<br />
+			<br />
+			■関連書籍<br />
+			2003年1月にはこの「日本の動物６」を中心に特集した「<a href="../chocoq_hyakka">チョコQ百科</a>」が発売。こちらにはミクラミヤマクワガタ（黄紋型、超黄紋型）が付属しました。全24種の原型に対する松村さんのコメントもみどころ。<br />
+			かつては多くの出版社から関連本が出ていましたが、チョコQになってからはこちらの一冊のみ。その本も6弾をカバーした後、続巻を出すことはありませんでした。<br />
+			<br />
+			■ナチュロッQジオワールド<br />
+			チョコQフィギュアとジオラマ作成素材がセットになった、「ナチュロッQジオワールド」が日本ナチュロック（株）とのコラボで発売されました（\2,980）。3種類あり、それぞれに以下が付属。<br />
+			【川シリーズ】ミコアイサ、ヒメアマガエル、カスミサンショウウオ<br />
+			【山シリーズ】ニホンザル、ツシマテン、キタキツネ<br />
+			【海シリーズ】タカアシガニ、アオウミガメ、オオミズナギドリ</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/anima_jap6004_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/anima_jap6005_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/anima_jap6007_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/anima_jap6009_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/anima_jap6011_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/anima_jap6013_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/anima_jap6015_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/anima_jap6017_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/anima_jap6019_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/anima_jap6021_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/anima_jap6059_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/anima_jap6023_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/anima_jap6025_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/anima_jap6027_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/anima_jap6030_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#16">
+<img src="img/anima_jap6031_small.jpg" width="146" /></a></td><td><a href="#17">
+<img src="img/anima_jap6033_small.jpg" width="146" /></a></td><td><a href="#18">
+<img src="img/anima_jap6035_small.jpg" width="146" /></a></td><td><a href="#19">
+<img src="img/anima_jap6038_small.jpg" width="146" /></a></td><td><a href="#20">
+<img src="img/anima_jap6039_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#21">
+<img src="img/anima_jap6042_small.jpg" width="146" /></a></td><td><a href="#22">
+<img src="img/anima_jap6043_small.jpg" width="146" /></a></td><td><a href="#23">
+<img src="img/anima_jap6045_small.jpg" width="146" /></a></td><td><a href="#24">
+<img src="img/anima_jap6047_small.jpg" width="146" /></a></td><td><a href="#25">
+<img src="img/anima_jap6057_small.jpg" width="146" /></a></td>
+		</tr>
+
+		<tr>
+		<td><a href="#26">
+<img src="img/anima_jap6049_small.jpg" width="146" /></a></td><td><a href="#27">
+<img src="img/anima_jap6053_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td>
+		</tr>
+
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">145.カワウ</th></tr>
+			<tr><td><a href="img/anima_jap6004.jpg">
+					<img height="283" src="img/anima_jap6004_small.jpg" width="378" /></a><a href="img/anima_jap6003.jpg"><img height="283" src="img/anima_jap6003_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ラメ入り塗装が美しい。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">146.ツシマテン</th></tr>
+			<tr><td><a href="img/anima_jap6005.jpg">
+					<img height="283" src="img/anima_jap6005_small.jpg" width="378" /></a><a href="img/anima_jap6006.jpg"><img height="283" src="img/anima_jap6006_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型よりすっきりした顔。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">147.ミコアイサ</th></tr>
+			<tr><td><a href="img/anima_jap6007.jpg">
+					<img height="283" src="img/anima_jap6007_small.jpg" width="378" /></a><a href="img/anima_jap6008.jpg"><img height="283" src="img/anima_jap6008_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">通称「パンダカモ」。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">148.トラフズク</th></tr>
+			<tr><td><a href="img/anima_jap6009.jpg">
+					<img height="283" src="img/anima_jap6009_small.jpg" width="378" /></a><a href="img/anima_jap6010.jpg"><img height="283" src="img/anima_jap6010_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">彩色見本よりのっぺりしてしまいました。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">149.ニホンアシカ</th></tr>
+			<tr><td><a href="img/anima_jap6011.jpg">
+					<img height="283" src="img/anima_jap6011_small.jpg" width="378" /></a><a href="img/anima_jap6012.jpg"><img height="283" src="img/anima_jap6012_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">彩色見本には目の周りの茶色や白目はない。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">150.エゾモモンガ</th></tr>
+			<tr><td><a href="img/anima_jap6013.jpg">
+					<img height="283" src="img/anima_jap6013_small.jpg" width="378" /></a><a href="img/anima_jap6014.jpg"><img height="283" src="img/anima_jap6014_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">毛並みなど良くできていますが分割線だけが残念。</td></tr>
+			<!--
+			-->
+			<tr><th id="7">151.アオウミガメ</th></tr>
+			<tr><td><a href="img/anima_jap6015.jpg">
+					<img height="283" src="img/anima_jap6015_small.jpg" width="378" /></a><a href="img/anima_jap6016.jpg"><img height="283" src="img/anima_jap6016_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">うろこの表現が良くできています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">152.キタキツネ</th></tr>
+			<tr><td><a href="img/anima_jap6017.jpg">
+					<img height="283" src="img/anima_jap6017_small.jpg" width="378" /></a><a href="img/anima_jap6018.jpg"><img height="283" src="img/anima_jap6018_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">目の上の模様が少し残念。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">153.オヤニラミ</th></tr>
+			<tr><td><a href="img/anima_jap6019.jpg">
+					<img height="283" src="img/anima_jap6019_small.jpg" width="378" /></a><a href="img/anima_jap6020.jpg"><img height="283" src="img/anima_jap6020_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">模様がきれいです。</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">154.クロアカコウモリ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap6021.jpg">
+					<img height="283" src="img/anima_jap6021_small.jpg" width="378" /></a><a href="img/anima_jap6022.jpg"><img height="283" src="img/anima_jap6022_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">かわいい目。</td></tr>
+			<!--
+			-->
+			<tr><th id="11">155.タカアシガニ</th></tr>
+			<tr><td><a href="img/anima_jap6059.jpg">
+					<img height="283" src="img/anima_jap6059_small.jpg" width="378" /></a><a href="img/anima_jap6060.jpg"><img height="283" src="img/anima_jap6060_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">これがカプセルに入っていたとは思えません。</td></tr>
+			<!--
+			-->			
+			<tr><th id="12">156.リュウキュウイノシシ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap6023.jpg">
+					<img height="283" src="img/anima_jap6023_small.jpg" width="378" /></a><a href="img/anima_jap6024.jpg"><img height="283" src="img/anima_jap6024_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">顔周りが良くできています。</td></tr>
+			<!--
+			-->
+			<tr><th id="13">157.ハス</th></tr>
+			<tr><td><a href="img/anima_jap6025.jpg">
+					<img height="283" src="img/anima_jap6025_small.jpg" width="378" /></a><a href="img/anima_jap6026.jpg"><img height="283" src="img/anima_jap6026_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">造形はよく出来ていますが側面の模様が少し適当。</td></tr>
+			<!--
+			-->			
+			<tr><th id="14">158.ワカケホンセイインコ</th></tr>
+			<tr><td><a href="img/anima_jap6027.jpg">
+					<img height="283" src="img/anima_jap6027_small.jpg" width="378" /></a><a href="img/anima_jap6028.jpg"><img height="283" src="img/anima_jap6028_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">グラデーションが美しいです。</td></tr>
+			<!--
+			-->
+			<tr><th id="15">159.ヒメアマガエル</th></tr>
+			<tr><td><a href="img/anima_jap6029.jpg">
+					<img height="283" src="img/anima_jap6029_small.jpg" width="378" /></a><a href="img/anima_jap6030.jpg"><img height="283" src="img/anima_jap6030_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">脚の分割線はうまく隠せていますが首がもったいない。</td></tr>
+			<!--
+			-->			
+			<tr><th id="16">160.トガリネズミ</th></tr>
+			<tr><td><a href="img/anima_jap6031.jpg">
+					<img height="283" src="img/anima_jap6031_small.jpg" width="378" /></a><a href="img/anima_jap6032.jpg"><img height="283" src="img/anima_jap6032_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">特に小さいねずみ。</td></tr>
+			<!--
+			-->
+			<tr><th id="17">161.ニホンザル（II）</th></tr>
+			<tr><td><a href="img/anima_jap6033.jpg">
+					<img height="283" src="img/anima_jap6033_small.jpg" width="378" /></a><a href="img/anima_jap6034.jpg"><img height="283" src="img/anima_jap6034_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">良いポージング。</td></tr>
+			<!--
+			-->			
+			<tr><th id="18">162.カスミサンショウウオ</th></tr>
+			<tr><td><a href="img/anima_jap6035.jpg">
+					<img height="283" src="img/anima_jap6035_small.jpg" width="378" /></a><a href="img/anima_jap6036.jpg"><img height="283" src="img/anima_jap6036_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ヌメっとした質感がよくできています。</td></tr>
+			<!--
+			-->
+			<tr><th id="19">163.ザトウクジラ</th></tr>
+			<tr><td><a href="img/anima_jap6038.jpg">
+					<img height="283" src="img/anima_jap6038_small.jpg" width="378" /></a><a href="img/anima_jap6037.jpg"><img height="283" src="img/anima_jap6037_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">サイズが小さいのが惜しい。</td></tr>
+			<!--
+			-->			
+			<tr><th id="20">164.オオミズナギドリ</th></tr>
+			<tr><td><a href="img/anima_jap6039.jpg">
+					<img height="283" src="img/anima_jap6039_small.jpg" width="378" /></a><a href="img/anima_jap6040.jpg"><img height="283" src="img/anima_jap6040_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">躍動感のあるポーズ。</td></tr>
+			<!--
+			-->			
+			<tr><th id="21">165.アカマタ</th></tr>
+			<tr><td><a href="img/anima_jap6041.jpg">
+					<img height="283" src="img/anima_jap6041_small.jpg" width="378" /></a><a href="img/anima_jap6042.jpg"><img height="283" src="img/anima_jap6042_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">模様がきれいです。顔の造形もよくできています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="22">166.オキナエビスガイ</th></tr>
+			<tr><td><a href="img/anima_jap6043.jpg">
+					<img height="283" src="img/anima_jap6043_small.jpg" width="378" /></a><a href="img/anima_jap6044.jpg"><img height="283" src="img/anima_jap6044_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">特徴である鮮やかな貝殻の塗装が簡略化されています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="23">167.スズメ</th></tr>
+			<tr><td><a href="img/anima_jap6045.jpg">
+					<img height="283" src="img/anima_jap6045_small.jpg" width="378" /></a><a href="img/anima_jap6046.jpg"><img height="283" src="img/anima_jap6046_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">つるっとしてしまったのが残念。</td></tr>
+			<!--
+			-->			
+			<tr><th id="24">168.ミクラミヤマクワガタ</th></tr>
+			<tr><td><a href="img/anima_jap6047.jpg">
+					<img height="283" src="img/anima_jap6047_small.jpg" width="378" /></a><a href="img/anima_jap6048.jpg"><img height="283" src="img/anima_jap6048_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">立ち上がったポーズ。<a href="../chocoq_zassi">別バージョン</a>もあります。</td></tr>
+			<!--
+			-->			
+			<tr><th id="25"><span class="font_blue">キタダニリュウ</span></th></tr>
+			<tr><td><a href="img/anima_jap6057.jpg">
+					<img height="283" src="img/anima_jap6057_small.jpg" width="378" /></a><a href="img/anima_jap6058.jpg"><img height="283" src="img/anima_jap6058_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/anima_jap6001.jpg">
+					<img height="283" src="img/anima_jap6001_small.jpg" width="378" /></a><a href="img/anima_jap6002.jpg"><img height="283" src="img/anima_jap6002_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">塗装によって印象がだいぶ変わります。</td></tr>
+			<!--
+			-->			
+			<tr><th id="26">
+				<span class="font_blue">ツチノコ</span></th></tr>
+			<tr><td><a href="img/anima_jap6049.jpg">
+					<img height="283" src="img/anima_jap6049_small.jpg" width="378" /></a><a href="img/anima_jap6050.jpg"><img height="283" src="img/anima_jap6050_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/anima_jap6051.jpg">
+					<img height="283" src="img/anima_jap6051_small.jpg" width="378" /></a><a href="img/anima_jap6052.jpg"><img height="283" src="img/anima_jap6052_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->			
+			<tr><th id="27">
+				<span class="font_blue">イリオモテオオヤマネコ</span></th></tr>
+			<tr><td><a href="img/anima_jap6053.jpg">
+					<img height="283" src="img/anima_jap6053_small.jpg" width="378" /></a><a href="img/anima_jap6054.jpg"><img height="283" src="img/anima_jap6054_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">真っ黒かと思いきや若干模様があります。</td></tr>
+			<tr><td><a href="img/anima_jap6055.jpg">
+					<img height="283" src="img/anima_jap6055_small.jpg" width="378" /></a><a href="img/anima_jap6056.jpg"><img height="283" src="img/anima_jap6056_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->			
+			<tr><th id="28">解説書</th></tr>
+			<tr><td><a href="img/chocoq6book.jpg">
+					<img height="288" src="img/chocoq6book_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment">チョコQは毎弾、カラーが決まっています。今回のカラーはクリーム色。　</td></tr>
+			<!--
+			-->			
+						
+			</table>
+		
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

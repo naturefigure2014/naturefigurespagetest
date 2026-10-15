@@ -1,0 +1,27 @@
+---
+title: "オオハクチョウ"
+description: ""
+contentType: figure
+titleId: kaiyodo/animatales/anima_jap3
+figureId: "007"
+maker: "フルタ"
+sculptor: "松村しのぶ カプセルカラー：青"
+executiveProducer: "-"
+species: "オオハクチョウ"
+speciesGroup: "-"
+price: "-"
+releaseStart: "2000.02"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "anima_jap3_045.jpg"
+coverImage: "anima_jap3_045.jpg"
+topics:
+  - title: ""
+    images:
+      - "anima_jap3_045.jpg"
+      - "anima_jap3_046.jpg"
+    comment: |
+      若干片足が見えている点に注目。翼の紫色は色見本のスミイレがディフォルメされたもの。
+---

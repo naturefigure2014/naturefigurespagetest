@@ -1,0 +1,30 @@
+---
+title: "ニホンイシガメ(幼体)"
+description: ""
+contentType: figure
+titleId: kaiyodo/animatales/anima_jap11
+figureId: "006"
+maker: "すばる堂(タカラトミー系列)"
+sculptor: "松村しのぶ"
+executiveProducer: "-"
+species: "ニホンイシガメ(幼体)"
+speciesGroup: "-"
+price: "180円"
+releaseStart: "2006.03"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "ani_jap11_013.jpg"
+coverImage: "ani_jap11_013.jpg"
+topics:
+  - title: ""
+    images:
+      - "ani_jap11_013.jpg"
+      - "ani_jap11_014.jpg"
+  - title: ""
+    images:
+      - "ani_jap11_015.jpg"
+    comment: |
+      幼体は尾が長いことが特徴。甲羅の塗装がとてもよくできています。
+---

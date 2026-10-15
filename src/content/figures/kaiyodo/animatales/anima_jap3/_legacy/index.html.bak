@@ -1,0 +1,436 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>チョコエッグ日本の動物3</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>チョコエッグ　日本の動物コレクション第3弾</h4>
+		<table style="width: 100%">
+		<tr><td><a href="img/anima_jap3_071.jpg">
+			<img height="283" src="img/anima_jap3_071_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap3/img/anima_jap3_071.jpg" --></a><a href="img/anima_jap3_081.jpg"><img height="283" src="img/anima_jap3_081_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap3/img/anima_jap3_081.jpg" --></a></td></tr></table>
+<!--<table style="width: 100%">		
+	<tr>
+				<th colspan="3" >ラインナップ<br />
+				</th>
+			</tr>
+			<tr>
+				<td class="waku_left" valign="top" style="width:33%">
+				049. アカメ<br />
+				050. スッポン<br />
+				051. タツノオトシゴ<br />
+				052. アオウミウシ<br />
+				053. アマミノクロウサギ<br />
+				054. アユ<br />
+				055. オオハクチョウ<br />
+				056. オニイトマキエイ<br />
+				057. カヤネズミ<br />
+				058. トド<br />
+				059. クマゲラ<br />
+				060. ジンベエザメ<br />
+				061. イノシシ（仔）<br />
+				062. ヤマセミ<br />
+				063. アナグマ<br />
+				064. マガモ<br />
+				065. セミクジラ<br />
+				</td>
+				<td class="waku_center" valign="top" style="width:33%">
+				066. ヌートリア<br />
+				067. ミヤコタナゴ<br />
+				068. シマヘビ<br />
+				069. ハヤブサ<br />
+				070. ゲンゴロウ<br />
+				071. メグロ<br />
+				072. ヤエヤマツダナナフシ<br />
+				073. ラッコ<br />
+				074. ニホンイシガメ<br />
+				075. イトウ<br />
+				076. エゾシマリス<br />
+				077. ヤンバルクイナ<br />
+				078. ウスバカゲロウ（幼虫）<br />
+				079. ニタリクジラ<br />
+				080. ツキノワグマ<br />
+				081. ルリカケス<br />
+				082. アカスジキンカメムシ</td>
+								<td class="waku_right" valign="top" style="width:33%">
+				083. アカテガニ<br />
+				084. オオムラサキ<br />
+				085. キジ<br />
+				086. アカウミガメ<br />
+				087. ニホントカゲ（幼体）<br />
+				088. オニヤンマ<br />
+				089. ミヤコヒキガエル<br />
+				090. ヤクシカ<br />
+				091. オオクチバス<br />
+				092. ハコエビ<br />
+				093. ツバメ<br />
+				094. タンチョウ<br />
+				095. アカナマダ<br />
+				096. ニホンリス（夏毛）<br />
+								SP. ツチノコ 紫<br />
+								SP. ツチノコ 黒<br />
+								SP. ツチノコ 橙</td>
+
+			</tr>
+		</table>-->
+			<p>
+			販売開始時期：2000年2月　販売元：フルタ　原型製作：松村しのぶ　カプセルカラー：青<br />
+			弾としては48種という大量のラインナップ。実際は前半の２４種は第２弾に「予告」として混入され、後に正式に第３弾全４８種として発売されました。前半の魚類は片側に付ける土台が付属しましたが、フィギュアを見られる方向が決まってしまうため、後半の２４種の魚類はいつもの土台に変更されています。工場の技術力もかなり高まっており、第１弾とは比べ物にならない出来のものも多いです。<br />
+			2000年４月には第１弾～第３弾の全９2種+シークレット3種を混入させた総集編が発売され、ブームを加速させます。夏場はチョコが溶けるため販売を休止。ここまでがチョコエッグ日本の動物前半戦と言われています。<br />
+			過去弾：<a href="../anima_jap1">日本の動物コレクション1</a>、<a href="../anima_jap2">日本の動物コレクション2</a>　次弾：<a href="../anima_jap4">日本の動物コレクション4</a></p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/anima_jap3_013_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/anima_jap3_049_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/anima_jap3_053_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/anima_jap3_035_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/anima_jap3_010_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/anima_jap3_057_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/anima_jap3_045_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/anima_jap3_051_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/anima_jap3_047_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/anima_jap3_012_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/anima_jap3_040_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/anima_jap3_069_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/anima_jap3_043_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/anima_jap3_037_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/anima_jap3_041_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#16">
+<img src="img/anima_jap3_061_small.jpg" width="146" /></a></td><td><a href="#17">
+<img src="img/anima_jap3_055_small.jpg" width="146" /></a></td><td><a href="#18">
+<img src="img/anima_jap3_072_small.jpg" width="146" /></a></td><td><a href="#19">
+<img src="img/anima_jap3_025_small.jpg" width="146" /></a></td><td><a href="#20">
+<img src="img/anima_jap3_004_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#21">
+<img src="img/anima_jap3_067_small.jpg" width="146" /></a></td><td><a href="#22">
+<img src="img/anima_jap3_059_small.jpg" width="146" /></a></td><td><a href="#23">
+<img src="img/anima_jap3_065_small.jpg" width="146" /></a></td><td><a href="#24">
+<img src="img/anima_jap3_063_small.jpg" width="146" /></a></td><td><a href="index2.html#1">
+<img src="img/anima_jap3_075_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="index2.html#2">
+<img src="img/anima_jap3_086_small.jpg" width="146" /></a></td><td><a href="index2.html#3">
+<img src="img/anima_jap3_074_small.jpg" width="146" /></a></td><td><a href="index2.html#4">
+<img src="img/anima_jap3_019_small.jpg" width="146" /></a></td><td><a href="index2.html#5">
+<img src="img/anima_jap3_084_small.jpg" width="146" /></a></td><td><a href="index2.html#6">
+<img src="img/anima_jap3_077_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="index2.html#7">
+<img src="img/anima_jap3_095_small.jpg" width="146" /></a></td><td><a href="index2.html#8">
+<img src="img/anima_jap3_092_small.jpg" width="146" /></a></td><td><a href="index2.html#9">
+<img src="img/anima_jap3_017_small.jpg" width="146" /></a></td><td><a href="index2.html#10">
+<img src="img/anima_jap3_021_small.jpg" width="146" /></a></td><td><a href="index2.html#11">
+<img src="img/anima_jap3_027_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="index2.html#12">
+<img src="img/anima_jap3_096_small.jpg" width="146" /></a></td><td><a href="index2.html#13">
+<img src="img/anima_jap3_006_small.jpg" width="146" /></a></td><td><a href="index2.html#14">
+<img src="img/anima_jap3_033_small.jpg" width="146" /></a></td><td><a href="index2.html#15">
+<img src="img/anima_jap3_002_small.jpg" width="146" /></a></td><td><a href="index2.html#16">
+<img src="img/anima_jap3_079_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="index2.html#17">
+<img src="img/anima_jap3_090_small.jpg" width="146" /></a></td><td><a href="index2.html#18">
+<img src="img/anima_jap3_023_small.jpg" width="146" /></a></td><td><a href="index2.html#19">
+<img src="img/anima_jap3_015_small.jpg" width="146" /></a></td><td><a href="index2.html#20">
+<img src="img/anima_jap3_029_small.jpg" width="146" /></a></td><td><a href="index2.html#21">
+<img src="img/anima_jap3_032_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="index2.html#22">
+<img src="img/anima_jap3_083_small.jpg" width="146" /></a></td><td><a href="index2.html#23">
+<img src="img/anima_jap3_088_small.jpg" width="146" /></a></td><td><a href="index2.html#24">
+<img src="img/anima_jap3_009_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+		
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">049. アカメ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_013.jpg">
+					<img height="283" src="img/anima_jap3_013_small.jpg" width="378" /></a><a href="img/anima_jap3_014.jpg"><img height="283" src="img/anima_jap3_014_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">西日本の太平洋岸だけに生息する大型の肉食魚。<br />
+				大きさを表現するためにあえて小さめに顔を作ったとのこと。見られる方向が決まってしまう台座の付け方。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">050. スッポン</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_049.jpg">
+					<img height="283" src="img/anima_jap3_049_small.jpg" width="378" /></a><a href="img/anima_jap3_050.jpg"><img height="283" src="img/anima_jap3_050_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				柔らかい甲羅をもつカメ。首を長く伸ばした若い固体。首の模様と甲羅の斑点は色見本と比べて若干省略。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">051. タツノオトシゴ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_053.jpg">
+					<img height="283" src="img/anima_jap3_053_small.jpg" width="378" /></a><a href="img/anima_jap3_054.jpg"><img height="283" src="img/anima_jap3_054_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">尻尾を珊瑚に絡ませることで、生態を表現しつつ、自立させています</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">052. アオウミウシ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_035.jpg">
+					<img height="283" src="img/anima_jap3_035_small.jpg" width="378" /></a><a href="img/anima_jap3_036.jpg"><img height="283" src="img/anima_jap3_036_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				ほぼ実寸大で再現されたウミウシ。なめくじっぽさからフルタ側も最初は難色を示したようですが強行突破。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">053. アマミノクロウサギ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_010.jpg">
+					<img height="283" src="img/anima_jap3_010_small.jpg" width="378" /></a><a href="img/anima_jap3_011.jpg"><img height="283" src="img/anima_jap3_011_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				奄美大島に生息する日本固有種で原始的な特徴を残しているウサギ。目が赤いのは工場側の謎判断。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">054. アユ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_057.jpg">
+					<img height="283" src="img/anima_jap3_057_small.jpg" width="378" /></a><a href="img/anima_jap3_058.jpg"><img height="283" src="img/anima_jap3_058_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">日本を代表する淡水魚。緑が濃すぎたため、<a href="../chocoegg_classic">クラシック版</a>は色見本に近いカラーに修正。</td></tr>
+			<!--
+			-->
+			<tr><th id="7">055. オオハクチョウ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_045.jpg">
+					<img height="283" src="img/anima_jap3_045_small.jpg" width="378" /></a><a href="img/anima_jap3_046.jpg"><img height="283" src="img/anima_jap3_046_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">若干片足が見えている点に注目。翼の紫色は色見本のスミイレがディフォルメされたもの。</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">056. オニイトマキエイ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_051.jpg">
+					<img height="283" src="img/anima_jap3_051_small.jpg" width="378" /></a><a href="img/anima_jap3_052.jpg"><img height="283" src="img/anima_jap3_052_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">マンタとも呼ばれるエイの仲間。下半身が退化した尻尾は限界まで薄く表現されています。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">057. カヤネズミ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_047.jpg">
+					<img height="283" src="img/anima_jap3_047_small.jpg" width="378" /></a><a href="img/anima_jap3_048.jpg"><img height="283" src="img/anima_jap3_048_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				稲が密生した場所に棲む世界で最も小さな哺乳類のひとつ。特徴である長い尾も自然に表現されています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">058. トド</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_012.jpg">
+					<img height="283" src="img/anima_jap3_012_small.jpg" width="378" /></a><a href="img/anima_jap3_001.jpg"><img height="283" src="img/anima_jap3_001_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">日本には北海道沿岸域に回遊してくる。原型の皮膚の質感はさすがに再現できず。</td></tr>
+			<!--
+			-->
+			<tr><th id="11">059. クマゲラ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_040.jpg">
+					<img height="283" src="img/anima_jap3_040_small.jpg" width="378" /></a><a href="img/anima_jap3_039.jpg"><img height="283" src="img/anima_jap3_039_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				大型のキツツキ。絶滅したキタタキと混同してしまい、尖った頭頂部にしてしまったとのこと。風でなびいているという設定で見ましょう。</td></tr>
+			<!--
+			-->			
+			<tr><th id="12">060. ジンベエザメ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_069.jpg">
+					<img height="283" src="img/anima_jap3_069_small.jpg" width="378" /></a><a href="img/anima_jap3_070.jpg"><img height="283" src="img/anima_jap3_070_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				今後何度も海洋堂から立体化されるジンベエザメ。このときから体のラインなどとてもよく出来ています。</td></tr>
+			<!--
+			-->
+			<tr><th id="13">061. イノシシ（仔）</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_043.jpg">
+					<img height="283" src="img/anima_jap3_043_small.jpg" width="378" /></a><a href="img/anima_jap3_044.jpg"><img height="283" src="img/anima_jap3_044_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				ウリ坊とも呼ばれるイノシシの仔。明るい体色と模様は子供のうちだけ。残念ながら模様は簡略化。</td></tr>
+			<!--
+			-->			
+			<tr><th id="14">062. ヤマセミ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_037.jpg">
+					<img height="283" src="img/anima_jap3_037_small.jpg" width="378" /></a><a href="img/anima_jap3_038.jpg"><img height="283" src="img/anima_jap3_038_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">冠羽の表現に松村氏のこだわりがあります。斑点が青い初期版も存在するようです。</td></tr>
+			<!--
+			-->
+			<tr><th id="15">063. アナグマ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_041.jpg">
+					<img height="283" src="img/anima_jap3_041_small.jpg" width="378" /></a><a href="img/anima_jap3_042.jpg"><img height="283" src="img/anima_jap3_042_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ずんぐりした体形のイタチの仲間。平たく見える姿勢が面白い。</td></tr>
+			<!--
+			-->			
+			<tr><th id="16">064. マガモ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_061.jpg">
+					<img height="283" src="img/anima_jap3_061_small.jpg" width="378" /></a><a href="img/anima_jap3_062.jpg"><img height="283" src="img/anima_jap3_062_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				水鳥であることを強調するために、オレンジ色が美しい脚は見せなかったそうです。製品版は翼の先端の紫色を塗り忘れてしまっています。</td></tr>
+			<!--
+			-->
+			<tr><th id="17">065. セミクジラ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_055.jpg">
+					<img height="283" src="img/anima_jap3_055_small.jpg" width="378" /></a><a href="img/anima_jap3_056.jpg"><img height="283" src="img/anima_jap3_056_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">湾曲した下あごや頭のこぶが特徴のヒゲクジラ。フジツボも表現されています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="18">066. ヌートリア</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_072.jpg">
+					<img height="283" src="img/anima_jap3_072_small.jpg" width="378" /></a><a href="img/anima_jap3_073.jpg"><img height="283" src="img/anima_jap3_073_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				水棲のヤマアラシで、戦時に日本に持ち込まれた帰化動物。顔が若干角ばってしまったが良くできています。</td></tr>
+			<!--
+			-->
+			<tr><th id="19">067. ミヤコタナゴ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_025.jpg">
+					<img height="283" src="img/anima_jap3_025_small.jpg" width="378" /></a><a href="img/anima_jap3_026.jpg"><img height="283" src="img/anima_jap3_026_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				関東地方の一部に生息する天然記念物。明るいオレンジ色がきれいですが、原型とはまったく違った塗装になっています。まだ工場がグラデーションが苦手だったようです。</td></tr>
+			<!--
+			-->			
+			<tr><th id="20">068. シマヘビ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_004.jpg">
+					<img height="283" src="img/anima_jap3_004_small.jpg" width="378" /></a><a href="img/anima_jap3_005.jpg"><img height="283" src="img/anima_jap3_005_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				日本固有種で日本中に生息するヘビ。細かい目の塗りもしっかりされています。分割もうまくされています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="21">069. ハヤブサ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_067.jpg">
+					<img height="283" src="img/anima_jap3_067_small.jpg" width="378" /></a><a href="img/anima_jap3_068.jpg"><img height="283" src="img/anima_jap3_068_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">太めに見える胴体は筋肉の塊。ワシタカ類では最速で飛べる。原型を忠実に再現。</td></tr>
+			<!--
+			-->
+			<tr><th id="22">070. ゲンゴロウ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_059.jpg">
+					<img height="283" src="img/anima_jap3_059_small.jpg" width="378" /></a><a href="img/anima_jap3_060.jpg"><img height="283" src="img/anima_jap3_060_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">触覚や吸盤の先の爪は意図的に省略。いかにも速く泳ぐというイメージを優先した造形。</td></tr>
+			<!--
+			-->			
+			<tr><th id="23">071. メグロ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap3_065.jpg">
+					<img height="283" src="img/anima_jap3_065_small.jpg" width="378" /></a><a href="img/anima_jap3_066.jpg"><img height="283" src="img/anima_jap3_066_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				小笠原諸島にのみ生息する鳥。グラデーションをあきらめ、塗り分けにすることで美しい体色を表現。</td></tr>
+			<!--
+			-->
+			<tr><th id="24">072. ヤエヤマツダナナフシ</th></tr>
+			<tr><td><a href="img/anima_jap3_063.jpg">
+					<img height="283" src="img/anima_jap3_063_small.jpg" width="378" /></a><a href="img/anima_jap3_064.jpg"><img height="283" src="img/anima_jap3_064_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				西表島に生息する大型のナナフシ。前脚をぴったりくっつけることで擬態化しています。塗装は色見本とまったく違ってしまいました。</td></tr>
+			
+			<tr><td class="comment">
+				<a href="index2.html">2ページ目へ続く</a>。</td></tr>
+			
+			</table>
+
+		
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

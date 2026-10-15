@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>チョコエッグ 箱</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>チョコエッグ　パッケージ</h4>
+			<p>
+			各ページに掲載しているパッケージを再度まとめました。すぐに捨ててしまいがちなので貴重です。詳細・裏面の画像は各ページに掲載してあります。<br />
+			香港版のパッケージは<a href="../chocoegg_hongkong/index.html">コチラ</a><br />
+			チョコQのパッケージは<a href="../chocoq_hako">コチラ</a><br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		
+			<table style="width: 100%">
+			<tr>
+<th colspan="2">日本の動物コレクション1</th></tr>
+<tr>
+<td><a href="../anima_jap1/img/hako015.jpg">
+					<img height="283" src="../anima_jap1/img/hako015_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap1/img/hako015.jpg" --></a></td>
+<td class="comment">それぞれの詳細は<a href="../anima_jap1">日本の動物コレクション1</a>参照。</td>
+</tr>
+<tr>
+<td><a href="../anima_jap1/img/chocoegg1hako2.jpg">
+<img height="339" src="img/chocoegg1hako2_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap1/img/chocoegg1hako2.jpg" --></a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2">
+					<img height="434" src="../anima_jap1/img/chocoegg1hako1.jpg" width="756" /></td>
+</tr>
+				<tr>
+<th colspan="2">日本の動物コレクション2</th></tr>
+<tr>
+<td>
+					<a href="../anima_jap2/img/chocoegg2hako1.jpg">
+				<img height="339" src="img/chocoegg2hako1_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap2/img/chocoegg2hako1.jpg" --></a></td>
+<td class="comment">&nbsp;</td>
+</tr>
+
+<tr>
+<td colspan="2">
+				<img height="423" src="../anima_jap2/img/chocoegg2hako2.jpg" width="756" /></td>
+</tr>
+
+<tr>
+<th colspan="2">日本の動物コレクション3</th></tr>
+<tr>
+<td>
+					<a href="../anima_jap3/img/chocoegg3hako1.jpg">
+					<img height="340" src="img/chocoegg3hako1_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap3/img/chocoegg3hako1.jpg" --></a></td>
+<td><a href="../anima_jap3/img/chocoegg3hakoL_small.jpg">
+<img height="306" src="img/chocoegg3hakoL_small_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap3/img/chocoegg3hakoL_small.jpg" --></a></td>
+</tr>
+<tr>
+<td colspan="2">
+<img height="428" src="../anima_jap3/img/chocoegg3hako3.jpg" width="756" /></td>
+</tr>
+<tr>
+<th colspan="2">総集編</th></tr>
+<tr>
+<td>
+					<a href="../anima_jap3/img/chocoeggsyosyuhako1.jpg">
+					<img height="339" src="img/chocoeggsyosyuhako1_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap3/img/chocoeggsyosyuhako1.jpg" --></a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2">
+					<a href="../anima_jap3/img/anima123hako.jpg">
+					<img height="435" src="../anima_jap3/img/anima123hako_small.jpg" width="756" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap3/img/anima123hako.jpg" --></a></td>
+</tr>
+<tr>
+<th colspan="2">日本の動物コレクション4</th></tr>
+<tr>
+<td><a href="../anima_jap4/img/chocoegg4hako.jpg">
+<img height="342" src="img/chocoegg4hako_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap4/img/chocoegg4hako.jpg" --></a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<th colspan="2">ペット動物コレクション1</th></tr>
+<tr>
+<td><a href="../anima_pet1/img/pet1hako.jpg">
+<img height="341" src="img/pet1hako_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_pet1/img/pet1hako.jpg" --></a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<th colspan="2">日本の動物コレクション5</th></tr>
+<tr>
+<td><a href="img/chocoegg5hako.jpg">
+<img height="339" src="img/chocoegg5hako_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/chocoegg_hako/img/chocoegg5hako.jpg" --></a></td>
+<td><a href="img/parcohako.jpg">
+<img height="339" src="img/parcohako_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/chocoegg_hako/img/parcohako.jpg" --></a></td>
+</tr>
+<tr>
+<th colspan="2">ペット動物コレクション2</th></tr>
+<tr>
+<td><a href="img/pet2hako.jpg">
+<img height="342" src="img/pet2hako_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/chocoegg_hako/img/pet2hako.jpg" --></a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

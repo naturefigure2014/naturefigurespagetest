@@ -1,0 +1,25 @@
+---
+title: "アゴヒゲトカゲ（レッド）"
+description: ""
+contentType: figure
+titleId: kaiyodo/animatales/anima_pet4
+figureId: "019"
+maker: "タカラ"
+sculptor: "松村しのぶ カプセルカラー：薄い黄緑"
+executiveProducer: "-"
+species: "アゴヒゲトカゲ（レッド）"
+speciesGroup: "-"
+price: "-"
+releaseStart: "2003.03"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "aqua_pet4_049.jpg"
+coverImage: "aqua_pet4_049.jpg"
+topics:
+  - title: ""
+    images:
+      - "aqua_pet4_049.jpg"
+      - "aqua_pet4_050.jpg"
+---

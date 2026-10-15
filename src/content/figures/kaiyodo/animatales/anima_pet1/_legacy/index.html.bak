@@ -1,0 +1,492 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>チョコエッグペット動物1</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>チョコエッグ ペット動物コレクション 第1弾</h4>
+				<table width="100%">
+		<tr><td>
+			<a href="img/anima_pet1_007.jpg">
+			<img height="283" src="img/anima_pet1_007_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_pet1/img/anima_pet1_007.jpg" --></a>
+		</td></tr></table>
+
+		<!--<table width="100%">
+			<tr>
+					<th colspan="2">ラインナップ<br />
+				</th>
+			</tr>
+			<tr>
+				<td class="waku_left" valign="top" style="width: 450px">
+				001. 柴犬(赤)<br />
+				002. 柴犬(ブラック＆タン)<br />
+				003. シャム(シールポイント)<br />
+				004. ブンチョウ(桜文鳥)<br />
+				005. ブンチョウ（白文鳥)<br />
+				006. アメリカンショートヘアー（シルバークラシックタビー）<br />
+				007. アメリカンショートヘアー（ブラウンクラシックタビー）<br />
+				008. ヒョウモントカゲモドキ（ハイイエロー）<br />
+				009. ウィペット（フォーン＆ホワイト） <br />
+				010. ウィペット（プリンドル＆ホワイト） <br />
+				011. フェレット（セーブル）<br />
+				012. フェレット（アルビノ）<br />
+				013. セキセイインコ（ノーマル）<br />
+				014. セキセイインコ(ブルー)<br />
+				015. セキセイインコ（ルチノー）<br />
+				016. ゴールデンハムスター(野生種型)<br />017. ゴールデンハムスター(茶＆白) <br />
+				018. ゴールデンハムスター(ベージュ)<br />
+				019. ランチュウ(黒)</td><td class="waku_right" valign="top" style="width: 450px">
+				020. ランチュウ（更紗）<br />
+				021. ネザーランド ドワーフ（黒）<br />
+				022. ネザーランド ドワーフ（グレー）<br />
+				023. ネザーランド ドワーフ（茶）<br />
+				024. ゴールデンレトリバー<br />
+				025. ダックスフンド(ﾐﾆﾁｭｱ・ﾛﾝｸﾞ)(ブラック＆タン)<br />
+				026. ダックスフンド(ﾐﾆﾁｭｱ・ﾛﾝｸﾞ)(レッド)<br />
+				027. 日本猫(三毛)<br />
+				028. 日本猫（黒白ぶち）<br />
+				029. スコティッシュ フォールド(ﾄｰﾀｼｪﾙ＆ﾎﾜｲﾄ)<br />
+				030. スコティッシュ フォールド(ﾌﾞﾗｳﾝﾏｯｶﾚﾙﾀﾋﾞｰ)<br />
+				031. ダッチ<br />
+				032. チャボ(白)<br />
+				033. チャボ(ゴイシチャボ)<br />
+				034. ミドリガメ(ノーマル)<br />
+				035. ミドリガメ(アルビノ)<br />
+				<span class="font_blue">ラブラドールレトリバー(盲導犬)(黒)<br />
+				ラブラドールレトリバー(盲導犬)(白)<br />
+				ラブラドールレトリバー(盲導犬)(茶) </span> <br />
+				</td>
+			</tr>
+		</table>-->
+			<p>
+			販売開始時期：2000年9月　販売元：フルタ　<br />
+			原型製作：松村しのぶ　カプセルカラー：クリア<br />
+			日本の動物4と同時期に発売されました。「35種」ではなく「35タイプ」なのは色違いが含まれるためだそうです。マニアックなラインナップな日本の動物に対して、女性人気獲得のためにペット編が発売されたという噂。<br />
+			</p>
+		</div>
+
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/anima_pet1_008_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/anima_pet1_010_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/anima_pet1_012_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/anima_pet1_014_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/anima_pet1_016_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/anima_pet1_018_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/anima_pet1_020_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/anima_pet1_022_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/anima_pet1_024_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/anima_pet1_026_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/anima_pet1_028_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/anima_pet1_030_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/anima_pet1_032_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/anima_pet1_034_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/anima_pet1_036_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#16">
+<img src="img/anima_pet1_038_small.jpg" width="146" /></a></td><td><a href="#17">
+<img src="img/anima_pet1_040_small.jpg" width="146" /></a></td><td><a href="#18">
+<img src="img/anima_pet1_042_small.jpg" width="146" /></a></td><td><a href="#19">
+<img src="img/anima_pet1_044_small.jpg" width="146" /></a></td><td><a href="#20">
+<img src="img/anima_pet1_046_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#21">
+<img src="img/anima_pet1_048_small.jpg" width="146" /></a></td><td><a href="#22">
+<img src="img/anima_pet1_050_small.jpg" width="146" /></a></td><td><a href="#23">
+<img src="img/anima_pet1_052_small.jpg" width="146" /></a></td><td><a href="#24">
+<img src="img/anima_pet1_054_small.jpg" width="146" /></a></td><td><a href="#25">
+<img src="img/anima_pet1_056_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#26">
+<img src="img/anima_pet1_058_small.jpg" width="146" /></a></td><td><a href="#27">
+<img src="img/anima_pet1_060_small.jpg" width="146" /></a></td><td><a href="#28">
+<img src="img/anima_pet1_062_small.jpg" width="146" /></a></td><td><a href="#29">
+<img src="img/anima_pet1_064_small.jpg" width="146" /></a></td><td><a href="#30">
+<img src="img/anima_pet1_066_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#31">
+<img src="img/anima_pet1_068_small.jpg" width="146" /></a></td><td><a href="#32">
+<img src="img/anima_pet1_070_small.jpg" width="146" /></a></td><td><a href="#33">
+<img src="img/anima_pet1_072_small.jpg" width="146" /></a></td><td><a href="#34">
+<img src="img/anima_pet1_074_small.jpg" width="146" /></a></td><td><a href="#35">
+<img src="img/anima_pet1_002_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#36">
+<img src="img/anima_pet1_081_small.jpg" width="146" /></a></td><td><a href="#37">
+<img src="img/anima_pet1_004_small.jpg" width="146" /></a></td><td><a href="#38">
+<img src="img/anima_pet1_077_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>
+			&nbsp;</td>
+		</tr>
+
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">001. 柴犬(赤)</th></tr>
+			<tr><td><a href="img/anima_pet1_008.jpg">
+					<img height="283" src="img/anima_pet1_008_small.jpg" width="378" /></a><a href="img/anima_pet1_009.jpg"><img height="283" src="img/anima_pet1_009_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">いわゆる日本犬。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">002. 柴犬(ブラック＆タン)</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_010.jpg">
+					<img height="283" src="img/anima_pet1_010_small.jpg" width="378" /></a><a href="img/anima_pet1_011.jpg"><img height="283" src="img/anima_pet1_011_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="3">003. シャム(シールポイント)</th></tr>
+			<tr><td><a href="img/anima_pet1_012.jpg">
+					<img height="283" src="img/anima_pet1_012_small.jpg" width="378" /></a><a href="img/anima_pet1_013.jpg"><img height="283" src="img/anima_pet1_013_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">タイの宮殿の中で飼われていたらしい。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">004. ブンチョウ(桜文鳥)</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_014.jpg">
+					<img height="283" src="img/anima_pet1_014_small.jpg" width="378" /></a><a href="img/anima_pet1_015.jpg"><img height="283" src="img/anima_pet1_015_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ジャワ原産。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">005. ブンチョウ（白文鳥)</th></tr>
+			<tr><td><a href="img/anima_pet1_016.jpg">
+					<img height="283" src="img/anima_pet1_016_small.jpg" width="378" /></a><a href="img/anima_pet1_017.jpg"><img height="283" src="img/anima_pet1_017_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">白は日本生まれ。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">006. アメリカンショートヘアー<br />
+				（シルバークラシックタビー）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_018.jpg">
+					<img height="283" src="img/anima_pet1_018_small.jpg" width="378" /></a><a href="img/anima_pet1_019.jpg"><img height="283" src="img/anima_pet1_019_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">渦巻状の模様が特徴。</td></tr>
+			<!--
+			-->
+			<tr><th id="7">007. アメリカンショートヘアー<br />
+				（ブラウンクラシックタビー）</th></tr>
+			<tr><td><a href="img/anima_pet1_020.jpg">
+					<img height="283" src="img/anima_pet1_020_small.jpg" width="378" /></a><a href="img/anima_pet1_021.jpg"><img height="283" src="img/anima_pet1_021_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="8">008. ヒョウモントカゲモドキ<br />
+				（ハイイエロー）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_022.jpg">
+					<img height="283" src="img/anima_pet1_022_small.jpg" width="378" /></a><a href="img/anima_pet1_023.jpg"><img height="283" src="img/anima_pet1_023_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">色違いのバリエーションが豊富。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">009. ウィペット（フォーン＆ホワイト）</th></tr>
+			<tr><td><a href="img/anima_pet1_024.jpg">
+					<img height="283" src="img/anima_pet1_024_small.jpg" width="378" /></a><a href="img/anima_pet1_025.jpg"><img height="283" src="img/anima_pet1_025_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">イギリス原産の中型犬。</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">010. ウィペット（プリンドル＆ホワイト）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_026.jpg">
+					<img height="283" src="img/anima_pet1_026_small.jpg" width="378" /></a><a href="img/anima_pet1_027.jpg"><img height="283" src="img/anima_pet1_027_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="11">011. フェレット（セーブル）</th></tr>
+			<tr><td><a href="img/anima_pet1_028.jpg">
+					<img height="283" src="img/anima_pet1_028_small.jpg" width="378" /></a><a href="img/anima_pet1_029.jpg"><img height="283" src="img/anima_pet1_029_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">イタチを家畜化したもの。</td></tr>
+			<!--
+			-->			
+			<tr><th id="12">012. フェレット（アルビノ）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_030.jpg">
+					<img height="283" src="img/anima_pet1_030_small.jpg" width="378" /></a><a href="img/anima_pet1_031.jpg"><img height="283" src="img/anima_pet1_031_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="13">013. セキセイインコ（ノーマル）</th></tr>
+			<tr><td><a href="img/anima_pet1_032.jpg">
+					<img height="283" src="img/anima_pet1_032_small.jpg" width="378" /></a><a href="img/anima_pet1_033.jpg"><img height="283" src="img/anima_pet1_033_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ものまねもできる。</td></tr>
+			<!--
+			-->			
+			<tr><th id="14">014. セキセイインコ(ブルー)</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_034.jpg">
+					<img height="283" src="img/anima_pet1_034_small.jpg" width="378" /></a><a href="img/anima_pet1_035.jpg"><img height="283" src="img/anima_pet1_035_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="15">015. セキセイインコ（ルチノー）</th></tr>
+			<tr><td><a href="img/anima_pet1_036.jpg">
+					<img height="283" src="img/anima_pet1_036_small.jpg" width="378" /></a><a href="img/anima_pet1_037.jpg"><img height="283" src="img/anima_pet1_037_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="16">016. ゴールデンハムスター(野生種型)</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_038.jpg">
+					<img height="283" src="img/anima_pet1_038_small.jpg" width="378" /></a><a href="img/anima_pet1_039.jpg"><img height="283" src="img/anima_pet1_039_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">最も古くから飼われていた種類。</td></tr>
+			<!--
+			-->
+			<tr><th id="17">017. ゴールデンハムスター(茶＆白)</th></tr>
+			<tr><td><a href="img/anima_pet1_040.jpg">
+					<img height="283" src="img/anima_pet1_040_small.jpg" width="378" /></a><a href="img/anima_pet1_041.jpg"><img height="283" src="img/anima_pet1_041_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="18">018. ゴールデンハムスター(ベージュ)</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_042.jpg">
+					<img height="283" src="img/anima_pet1_042_small.jpg" width="378" /></a><a href="img/anima_pet1_043.jpg"><img height="283" src="img/anima_pet1_043_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="19">019. ランチュウ(黒)</th></tr>
+			<tr><td><a href="img/anima_pet1_044.jpg">
+					<img height="283" src="img/anima_pet1_044_small.jpg" width="378" /></a><a href="img/anima_pet1_045.jpg"><img height="283" src="img/anima_pet1_045_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">日本で生まれた品種。</td></tr>
+			<!--
+			-->			
+			<tr><th id="20">020. ランチュウ（更紗）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_046.jpg">
+					<img height="283" src="img/anima_pet1_046_small.jpg" width="378" /></a><a href="img/anima_pet1_047.jpg"><img height="283" src="img/anima_pet1_047_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="21">021. ネザーランド ドワーフ（黒）</th></tr>
+			<tr><td><a href="img/anima_pet1_048.jpg">
+					<img height="283" src="img/anima_pet1_048_small.jpg" width="378" /></a><a href="img/anima_pet1_049.jpg"><img height="283" src="img/anima_pet1_049_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">顔が丸くて耳が小さいのが特徴。</td></tr>
+			<!--
+			-->
+			<tr><th id="22">022. ネザーランド ドワーフ（グレー）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_050.jpg">
+					<img height="283" src="img/anima_pet1_050_small.jpg" width="378" /></a><a href="img/anima_pet1_051.jpg"><img height="283" src="img/anima_pet1_051_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="23">023. ネザーランド ドワーフ（茶）</th></tr>
+			<tr><td><a href="img/anima_pet1_052.jpg">
+					<img height="283" src="img/anima_pet1_052_small.jpg" width="378" /></a><a href="img/anima_pet1_053.jpg"><img height="283" src="img/anima_pet1_053_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="24">024. ゴールデンレトリバー</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_054.jpg">
+					<img height="283" src="img/anima_pet1_054_small.jpg" width="378" /></a><a href="img/anima_pet1_055.jpg"><img height="283" src="img/anima_pet1_055_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">水辺での活動が得意。</td></tr>
+			<!--
+			-->			
+			<tr><th id="25">025. ダックスフンド(ﾐﾆﾁｭｱ・ﾛﾝｸﾞ)<br />
+				(ブラック＆タン)</th></tr>
+			<tr><td><a href="img/anima_pet1_056.jpg">
+					<img height="283" src="img/anima_pet1_056_small.jpg" width="378" /></a><a href="img/anima_pet1_057.jpg"><img height="283" src="img/anima_pet1_057_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">アナグマ狩り用に胴長短足に。</td></tr>
+			<!--
+			-->
+			<tr><th id="26">026. ダックスフンド(ﾐﾆﾁｭｱ・ﾛﾝｸﾞ)<br />
+				(レッド)</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_058.jpg">
+					<img height="283" src="img/anima_pet1_058_small.jpg" width="378" /></a><a href="img/anima_pet1_059.jpg"><img height="283" src="img/anima_pet1_059_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="27">027. 日本猫(三毛)</th></tr>
+			<tr><td><a href="img/anima_pet1_060.jpg">
+					<img height="283" src="img/anima_pet1_060_small.jpg" width="378" /></a><a href="img/anima_pet1_061.jpg"><img height="283" src="img/anima_pet1_061_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">平安時代に中国から渡来。</td></tr>
+			<!--
+			-->
+			<tr><th id="28">028. 日本猫（黒白ぶち）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_062.jpg">
+					<img height="283" src="img/anima_pet1_062_small.jpg" width="378" /></a><a href="img/anima_pet1_063.jpg"><img height="283" src="img/anima_pet1_063_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="29">029. スコティッシュ フォールド(ﾄｰﾀｼｪﾙ＆ﾎﾜｲﾄ)</th></tr>
+			<tr><td><a href="img/anima_pet1_064.jpg">
+					<img height="283" src="img/anima_pet1_064_small.jpg" width="378" /></a><a href="img/anima_pet1_065.jpg"><img height="283" src="img/anima_pet1_065_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">珍しくたれ耳の品種。</td></tr>
+			<!--
+			-->
+			<tr><th id="30">030. スコティッシュ フォールド(ﾌﾞﾗｳﾝﾏｯｶﾚﾙﾀﾋﾞｰ)</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_066.jpg">
+					<img height="283" src="img/anima_pet1_066_small.jpg" width="378" /></a><a href="img/anima_pet1_067.jpg"><img height="283" src="img/anima_pet1_067_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="31">031. ダッチ</th></tr>
+			<tr><td><a href="img/anima_pet1_068.jpg">
+					<img height="283" src="img/anima_pet1_068_small.jpg" width="378" /></a><a href="img/anima_pet1_069.jpg"><img height="283" src="img/anima_pet1_069_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">オランダ原産の小型種。ミニウサギの一種。</td></tr>
+			<!--
+			-->
+			<tr><th id="32">032. チャボ(白)</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_070.jpg">
+					<img height="283" src="img/anima_pet1_070_small.jpg" width="378" /></a><a href="img/anima_pet1_071.jpg"><img height="283" src="img/anima_pet1_071_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">江戸時代にベドナムから渡来。</td></tr>
+			<!--
+			-->			
+			<tr><th id="33">033. チャボ(ゴイシチャボ)</th></tr>
+			<tr><td><a href="img/anima_pet1_072.jpg">
+					<img height="283" src="img/anima_pet1_072_small.jpg" width="378" /></a><a href="img/anima_pet1_073.jpg"><img height="283" src="img/anima_pet1_073_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="34">034. ミドリガメ(ノーマル)</th></tr>
+			<tr><td>
+					<a href="img/anima_pet1_074.jpg">
+					<img height="283" src="img/anima_pet1_074_small.jpg" width="378" /></a><a href="img/anima_pet1_001.jpg"><img height="283" src="img/anima_pet1_001_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ミシシッピアカミミガメの幼体。</td></tr>
+			<!--
+			-->
+			<tr><th id="35">035. ミドリガメ(アルビノ)</th></tr>
+			<tr><td><a href="img/anima_pet1_002.jpg">
+					<img height="283" src="img/anima_pet1_002_small.jpg" width="378" /></a><a href="img/anima_pet1_003.jpg"><img height="283" src="img/anima_pet1_003_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="36"><span class="font_blue">ラブラドールレトリバー(盲導犬)(黒)</span></th></tr>
+			<tr><td><a href="img/anima_pet1_081.jpg">
+					<img height="283" src="img/anima_pet1_081_small.jpg" width="378" /></a><a href="img/anima_pet1_075.jpg"><img height="283" src="img/anima_pet1_075_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/anima_pet1_076.jpg">
+					<img height="283" src="img/anima_pet1_076_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">イギリス原産の狩猟犬の一種。最近ではペットの他、盲導犬として活躍。</td></tr>
+			<!--
+			-->
+			<tr><th id="37"><span class="font_blue">ラブラドールレトリバー(盲導犬)(白)</span></th></tr>
+			<tr><td><a href="img/anima_pet1_004.jpg">
+					<img height="283" src="img/anima_pet1_004_small.jpg" width="378" /></a><a href="img/anima_pet1_005.jpg"><img height="283" src="img/anima_pet1_005_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/anima_pet1_006.jpg">
+					<img height="283" src="img/anima_pet1_006_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->			
+			<tr><th id="38"><span class="font_blue">ラブラドールレトリバー(盲導犬)(茶) </span></th></tr>
+			<tr><td><a href="img/anima_pet1_077.jpg">
+					<img height="283" src="img/anima_pet1_077_small.jpg" width="378" /></a><a href="img/anima_pet1_078.jpg"><img height="283" src="img/anima_pet1_078_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/anima_pet1_079.jpg">
+					<img height="283" src="img/anima_pet1_079_small.jpg" width="378" /></a><a href="img/anima_pet1_080.jpg"><img height="283" src="img/anima_pet1_080_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="39">解説書</th></tr>
+			<tr><td><a href="img/pet1book.jpg">
+					<img height="549" src="img/pet1book_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			
+			<!--
+			-->			
+			<tr><th id="40">箱</th></tr>
+			<tr><td>
+					<img height="683" src="img/pet1hako.jpg" width="756" /></td></tr>
+			<tr><td class="comment"></td></tr>
+			
+			
+			</table>
+				</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

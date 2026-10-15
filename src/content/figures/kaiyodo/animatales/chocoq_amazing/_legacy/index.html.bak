@@ -1,0 +1,393 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>チョコQ動物奇想天外</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>チョコQ アニマテイルズ　どうぶつ奇想天外！編</h4>
+				<table width="100%">
+		<tr><td><a href="img/amazing_060.jpg">
+			<img height="283" src="img/amazing_060_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/chocoq_amazing/img/amazing_060.jpg" --></a></td>
+		</tr>
+		</table>
+
+		<!--<table width="100%">
+			<tr>
+				<td class="waku_left" valign="top" style="width: 50%">
+				<span class="font_small">K01.オオカミ(A)<br />
+				K01.オオカミ(B)<br />
+				K02.チンパンジー<br />
+				K03.ニホンザル(A)<br />
+				K04.ニホンザル(B)<br />
+				K05.ライオン<br />
+				K06.ヤマネ(A)<br />
+				K06.ヤマネ(B)<br />
+				K07.ビンタゾウガメ(ロンサムジョージ)<br />
+				K08.盲導犬(イエロー)<br />
+				K08.盲導犬(ブラック)<br />
+				K09.ヨウスコウアリゲーター(ふ化)<br />
+				K10.ウミイグアナ(フェルナンディア島)</span></td>
+								<td class="waku_right" valign="top" style="width: 50%">
+								<span class="font_small">K10.ウミイグアナ(エスパニョーラ島)<br />
+				K11.チーター<br />
+				K11.キングチーター<br />
+				K12.ナイルワニ<br />
+				K13.クマドリイザリウオ(A) <br />
+				K13.クマドリイザリウオ(B)<br />
+				K14(111).日本猫(三毛)<br />
+				K14(112).日本猫(白)<br />
+				K15.ハッピー</span><br />
+								<span class="font_blue_small">(SECRET) イチゴヤドクガエル　コスタリカ<br />
+				(SECRET) イチゴヤドクガエル　コロン島<br />
+				(SECRET) イチゴヤドクガエル　バスティメントス島</span></td>
+
+			</tr>
+		</table>-->
+		<p>
+			販売開始時期：2003年11月　発売者：タカラ　販売者：ドリームズ・カム・トゥルー<br />
+			原型製作：松村しのぶ<br />
+			2003年夏のワンフェスで日本の動物８と同時に発表されました。TBS系列の番組、「どうぶつ奇想天外」とのコラボレーションは、ムツゴロウさんとコラボしているフルタ「チョコエッグおもしろ動物編」に対抗するためでは？と言われていました。これの発売によりペット動物は終了かと思いきやそうでもありませんでした。発表時の２ちゃんでは賛否両論。「ラインナップが海洋堂らしくない」、「フ○タがやりそう」などなど。チョコはバナナ味。<br />
+			アニマテイルズとしての通し番号は与えられておらず、まったく独立したものになっています。しかし、K14の日本猫はもともとは<a href="../anima_pet4/index.html">ペット動物4</a>のラインナップとして発表されていました。<br />
+			シークレットのヤドクガエルはパーツが多い上に小さいため、簡単にサーチ出来たようです。</p>
+		
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/amazing_002_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/amazing_004_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/amazing_006_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/amazing_008_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/amazing_010_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/amazing_012_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/amazing_014_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/amazing_016_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/amazing_018_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/amazing_020_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/amazing_022_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/amazing_024_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/amazing_026_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/amazing_028_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/amazing_030_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#16">
+<img src="img/amazing_032_small.jpg" width="146" /></a></td><td><a href="#17">
+<img src="img/amazing_036_small.jpg" width="146" /></a></td><td><a href="#18">
+<img src="img/amazing_039_small.jpg" width="146" /></a></td><td><a href="#19">
+<img src="img/amazing_042_small.jpg" width="146" /></a></td><td><a href="#20">
+<img src="img/amazing_045_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#21">
+<img src="img/amazing_047_small.jpg" width="146" /></a></td><td><a href="#22">
+<img src="img/amazing_049_small.jpg" width="146" /></a></td><td><a href="#23">
+<img src="img/amazing_051_small.jpg" width="146" /></a></td><td><a href="#24">
+<img src="img/amazing_053_small.jpg" width="146" /></a></td><td><a href="#25">
+<img src="img/amazing_055_small.jpg" width="146" /></a></td>
+		</tr>
+		
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">K01.オオカミ(A)</th></tr>
+			<tr><td><a href="img/amazing_002.jpg">
+					<img height="283" src="img/amazing_002_small.jpg" width="378" /></a><a href="img/amazing_003.jpg"><img height="283" src="img/amazing_003_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">北半球に広く存在し、タイリクオオカミとも呼ばれる。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">K01.オオカミ(B)</th></tr>
+			<tr><td>
+					<a href="img/amazing_004.jpg">
+					<img height="283" src="img/amazing_004_small.jpg" width="378" /></a><a href="img/amazing_005.jpg"><img height="283" src="img/amazing_005_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">毛並みがとても良く出来ています。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">K02.チンパンジー</th></tr>
+			<tr><td><a href="img/amazing_006.jpg">
+					<img height="283" src="img/amazing_006_small.jpg" width="378" /></a><a href="img/amazing_007.jpg"><img height="283" src="img/amazing_007_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">鏡に映っているのが自分だと理解できているらしい。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">K03.ニホンザル(A)</th></tr>
+			<tr><td>
+					<a href="img/amazing_008.jpg">
+					<img height="283" src="img/amazing_008_small.jpg" width="378" /></a><a href="img/amazing_009.jpg"><img height="283" src="img/amazing_009_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">訓練することにより直立が可能に。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">K04.ニホンザル(B)</th></tr>
+			<tr><td><a href="img/amazing_010.jpg">
+					<img height="283" src="img/amazing_010_small.jpg" width="378" /></a><a href="img/amazing_011.jpg"><img height="283" src="img/amazing_011_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/amazing_057.jpg">
+					<img height="283" src="img/amazing_057_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">こちらは少しデフォルメされているような気がします。<br />
+					<a href="../anima_jap6/index.html">6弾</a>が野生らしい姿なのに対し、この弾ではかなり人馴れしているような感じです。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">K05.ライオン</th></tr>
+			<tr><td>
+					<a href="img/amazing_012.jpg">
+					<img height="283" src="img/amazing_012_small.jpg" width="378" /></a><a href="img/amazing_013.jpg"><img height="283" src="img/amazing_013_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				オスライオンは群れを他のオスライオンから守るのが仕事。それ以外のときはこんな感じでしょうか。</td></tr>
+			<!--
+			-->
+			<tr><th id="7">K06.ヤマネ(A)</th></tr>
+			<tr><td><a href="img/amazing_014.jpg">
+					<img height="283" src="img/amazing_014_small.jpg" width="378" /></a><a href="img/amazing_015.jpg"><img height="283" src="img/amazing_015_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">日本特産のネズミの仲間。ボールのように丸くなって冬眠します。</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">K06.ヤマネ(B)</th></tr>
+			<tr><td>
+					<a href="img/amazing_016.jpg">
+					<img height="283" src="img/amazing_016_small.jpg" width="378" /></a><a href="img/amazing_017.jpg"><img height="283" src="img/amazing_017_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="9">K07.ビンタゾウガメ(ロンサムジョージ)</th></tr>
+			<tr><td>
+					<a href="img/amazing_018.jpg">
+					<img height="283" src="img/amazing_018_small.jpg" width="378" /></a><a href="img/amazing_019.jpg"><img height="283" src="img/amazing_019_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				ガラパゴスゾウガメの亜種でガラパゴス諸島のビンタ島が原産。ロンサムジョージと呼ばれる最後の一匹が死んだときビンタゾウガメは絶滅したことになる。</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">K08.盲導犬(イエロー)</th></tr>
+			<tr><td>
+					<a href="img/amazing_020.jpg">
+					<img height="283" src="img/amazing_020_small.jpg" width="378" /></a><a href="img/amazing_021.jpg"><img height="283" src="img/amazing_021_small.jpg" width="378" /></a></td></tr>
+			<tr><td>
+					<a href="img/amazing_059.jpg">
+					<img height="283" src="img/amazing_059_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+					<a href="../anima_pet1/index.html">ペット動物１</a>のときよりもリラックスしたポーズ。</td></tr>
+			<!--
+			-->
+			<tr><th id="11">K08.盲導犬(ブラック)</th></tr>
+			<tr><td>
+					<a href="img/amazing_022.jpg">
+					<img height="283" src="img/amazing_022_small.jpg" width="378" /></a><a href="img/amazing_023.jpg"><img height="283" src="img/amazing_023_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="12">K09.ヨウスコウアリゲーター(ふ化)</th></tr>
+			<tr><td>
+					<a href="img/amazing_024.jpg">
+					<img height="283" src="img/amazing_024_small.jpg" width="378" /></a><a href="img/amazing_025.jpg"><img height="283" src="img/amazing_025_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">爬虫類の孵化シーンは松村氏の十八番のようです。</td></tr>
+			<!--
+			-->
+			<tr><th id="13">K10.ウミイグアナ(フェルナンディア島)</th></tr>
+			<tr><td>
+					<a href="img/amazing_026.jpg">
+					<img height="283" src="img/amazing_026_small.jpg" width="378" /></a><a href="img/amazing_027.jpg"><img height="283" src="img/amazing_027_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ガラパゴス諸島特産の海トカゲ。</td></tr>
+			<!--
+			-->			
+			<tr><th id="14">K10.ウミイグアナ(エスパニョーラ島)</th></tr>
+			<tr><td><a href="img/amazing_028.jpg">
+					<img height="283" src="img/amazing_028_small.jpg" width="378" /></a><a href="img/amazing_029.jpg"><img height="283" src="img/amazing_029_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="15">K11.チーター</th></tr>
+			<tr><td>
+					<a href="img/amazing_030.jpg">
+					<img height="283" src="img/amazing_030_small.jpg" width="378" /></a><a href="img/amazing_035.jpg"><img height="283" src="img/amazing_035_small.jpg" width="378" /></a></td></tr>
+			<tr><td>
+					<a href="img/amazing_031.jpg">
+					<img height="283" src="img/amazing_031_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">細かい斑点がとてもきれいです。</td></tr>
+			<!--
+			-->			
+			<tr><th id="16">K11.キングチーター</th></tr>
+			<tr><td><a href="img/amazing_032.jpg">
+					<img height="283" src="img/amazing_032_small.jpg" width="378" /></a><a href="img/amazing_034.jpg"><img height="283" src="img/amazing_034_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/amazing_033.jpg">
+					<img height="283" src="img/amazing_033_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ジンバブエでは斑点がつながった個体が生まれることがあり、キングチーターと呼ばれる。</td></tr>
+			<!--
+			-->
+			<tr><th id="17">K12.ナイルワニ</th></tr>
+			<tr><td><a href="img/amazing_036.jpg">
+					<img height="283" src="img/amazing_036_small.jpg" width="378" /></a><a href="img/amazing_037.jpg"><img height="283" src="img/amazing_037_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/amazing_038.jpg">
+					<img height="283" src="img/amazing_038_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">非常によく出来ています。命がけの一瞬を立体化した逸品だと思います。</td></tr>
+			<!--
+			-->			
+			<tr><th id="18">K13.クマドリイザリウオ(A)</th></tr>
+			<tr><td><a href="img/amazing_039.jpg">
+					<img height="283" src="img/amazing_039_small.jpg" width="378" /></a><a href="img/amazing_040.jpg"><img height="283" src="img/amazing_040_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/amazing_041.jpg">
+					<img height="283" src="img/amazing_041_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">アニマテイルズには珍しく口がギミックになっています。</td></tr>
+			<!--
+			-->
+			<tr><th id="19">K13.クマドリイザリウオ(B)</th></tr>
+			<tr><td><a href="img/amazing_042.jpg">
+					<img height="283" src="img/amazing_042_small.jpg" width="378" /></a><a href="img/amazing_043.jpg"><img height="283" src="img/amazing_043_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/amazing_044.jpg">
+					<img height="283" src="img/amazing_044_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">カエルアンコウの仲間。<a href="../../aqua/komekko2/index.html">黒潮コメッコ</a>にもいました。「イザリウオ」は差別的な言葉を含むため、「カエルアンコウ」に変更になりました。</td></tr>
+			<!--
+			-->			
+			<tr><th id="20">K14.日本猫(三毛)</th></tr>
+			<tr><td><a href="img/amazing_045.jpg">
+					<img height="283" src="img/amazing_045_small.jpg" width="378" /></a><a href="img/amazing_046.jpg"><img height="283" src="img/amazing_046_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/amazing_058.jpg">
+					<img height="283" src="img/amazing_058_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+					<a href="../anima_pet1/index.html">ペット1弾</a>よりも生き生きしたポーズに。</td></tr>
+			<!--
+			-->			
+			<tr><th id="21">K14.日本猫(白)</th></tr>
+			<tr><td><a href="img/amazing_047.jpg">
+					<img height="283" src="img/amazing_047_small.jpg" width="378" /></a><a href="img/amazing_048.jpg"><img height="283" src="img/amazing_048_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="22">K15.ハッピー</th></tr>
+			<tr><td><a href="img/amazing_049.jpg">
+					<img height="283" src="img/amazing_049_small.jpg" width="378" /></a><a href="img/amazing_050.jpg"><img height="283" src="img/amazing_050_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">番組のマスコットキャラクター。</td></tr>
+			<!--
+			-->			
+			<tr><th id="23"><span class="font_blue">イチゴヤドクガエル　コスタリカ</span></th></tr>
+			<tr><td><a href="img/amazing_051.jpg">
+					<img height="283" src="img/amazing_051_small.jpg" width="378" /></a><a href="img/amazing_052.jpg"><img height="283" src="img/amazing_052_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">オスは相撲のように押し合い、力比べをします。</td></tr>
+			<!--
+			-->
+			<tr><th id="24"><span class="font_blue">イチゴヤドクガエル　コロン島</span></th></tr>
+			<tr><td><a href="img/amazing_053.jpg">
+					<img height="283" src="img/amazing_053_small.jpg" width="378" /></a><a href="img/amazing_054.jpg"><img height="283" src="img/amazing_054_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">地域でかなり色や模様が違うようです。</td></tr>
+			<!--
+			-->			
+			<tr><th id="25"><span class="font_blue">イチゴヤドクガエル　バスティメントス島</span></th></tr>
+			<tr><td><a href="img/amazing_055.jpg">
+					<img height="283" src="img/amazing_055_small.jpg" width="378" /></a><a href="img/amazing_056.jpg"><img height="283" src="img/amazing_056_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">パーツが細かすぎて何本か脚を破損しました。</td></tr>
+			<!--
+			-->
+			<tr><th id="26">解説書</th></tr>
+			<tr><td><a href="img/chocoqamazingkaisetsu.jpg">
+					<img height="297" src="img/chocoqamazingkaisetsu_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="27">10個入りパッケージ</th></tr>
+			<tr><td>
+					<img height="649" src="img/ChocoQAAhakoL.jpg" width="756" /></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+						
+			</table>
+		
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

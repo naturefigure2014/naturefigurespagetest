@@ -1,0 +1,27 @@
+---
+title: "トド"
+description: ""
+contentType: figure
+titleId: kaiyodo/animatales/anima_jap3
+figureId: "010"
+maker: "フルタ"
+sculptor: "松村しのぶ カプセルカラー：青"
+executiveProducer: "-"
+species: "トド"
+speciesGroup: "-"
+price: "-"
+releaseStart: "2000.02"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "anima_jap3_012.jpg"
+coverImage: "anima_jap3_012.jpg"
+topics:
+  - title: ""
+    images:
+      - "anima_jap3_012.jpg"
+      - "anima_jap3_001.jpg"
+    comment: |
+      日本には北海道沿岸域に回遊してくる。原型の皮膚の質感はさすがに再現できず。
+---

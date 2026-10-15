@@ -1,0 +1,27 @@
+---
+title: "ミズラモグラ"
+description: ""
+contentType: figure
+titleId: kaiyodo/animatales/anima_jap7
+figureId: "004"
+maker: "タカラ"
+sculptor: "松村しのぶ"
+executiveProducer: "-"
+species: "ミズラモグラ"
+speciesGroup: "-"
+price: "-"
+releaseStart: "2003.03"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "ani_jap7_025.jpg"
+coverImage: "ani_jap7_025.jpg"
+topics:
+  - title: ""
+    images:
+      - "ani_jap7_025.jpg"
+      - "ani_jap7_026.jpg"
+    comment: |
+      日本固有のモグラ。
+---

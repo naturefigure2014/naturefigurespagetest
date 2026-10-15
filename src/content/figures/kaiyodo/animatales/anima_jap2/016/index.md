@@ -1,0 +1,27 @@
+---
+title: "クチベニマイマイ"
+description: ""
+contentType: figure
+titleId: kaiyodo/animatales/anima_jap2
+figureId: "016"
+maker: "フルタ"
+sculptor: "松村しのぶ カプセルカラー：青"
+executiveProducer: "-"
+species: "クチベニマイマイ"
+speciesGroup: "-"
+price: "-"
+releaseStart: "-"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "anima_jap2_040.jpg"
+coverImage: "anima_jap2_040.jpg"
+topics:
+  - title: ""
+    images:
+      - "anima_jap2_040.jpg"
+      - "anima_jap2_041.jpg"
+    comment: |
+      近畿地方では普通に見られる樹上性のカタツムリ。ヌラっとした体色が製品版でも再現されています。
+---

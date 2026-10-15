@@ -1,0 +1,436 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>チョコエッグ日本の動物1</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>チョコエッグ　日本の動物コレクション第1弾</h4>
+		<table width="100%">
+			<tr>
+				<td colspan="2">
+				<a href="img/anima_jap1_033.jpg">
+				<img height="283" src="img/anima_jap1_033_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_jap1/img/anima_jap1_033.jpg" --></a></td>
+			</tr>
+			<!--<tr>
+				<td class="waku_left" valign="top" style="width: 50%">
+				<span class="auto-style1">001.ニホンザル</span><br class="auto-style1" />
+				<span class="auto-style1">002.ヤマネ</span><br class="auto-style1" />
+				<span class="auto-style1">003.トキ</span><br class="auto-style1" />
+				<span class="auto-style1">004.テン</span><br class="auto-style1" />
+				<span class="auto-style1">005.オオサンショウウオ</span><br class="auto-style1" />
+				<span class="auto-style1">006.ギフチョウ</span><br class="auto-style1" />
+				<span class="auto-style1">007.クサガメ</span><br class="auto-style1" />
+				<span class="auto-style1">008.ノウサギ</span><br class="auto-style1" />
+				<span class="auto-style1">009.カワセミ</span><br class="auto-style1" />
+				<span class="auto-style1">010.カブトムシ</span><br class="auto-style1" />
+				<span class="auto-style1">011.ニホンカモシカ</span><br class="auto-style1" />
+				<span class="auto-style1">012.メダカ</span><br class="auto-style1" />
+				<span class="auto-style1">013.キツネ</span><br class="auto-style1" />
+				<span class="auto-style1">014.オオクワガタ</span><br />
+				</td>
+				<td class="waku_right" valign="top" style="width: 50%">
+				<span class="auto-style1">015.オキナワキノボリトカゲ</span><br class="auto-style1" />
+				<span class="auto-style1">016.ヒミズ</span><br class="auto-style1" />
+				<span class="auto-style1">017.スナメリ</span><br class="auto-style1" />
+				<span class="auto-style1">018.ニホンアマガエル</span><br class="auto-style1" />
+				<span class="auto-style1">019.イリオモテヤマネコ</span><br class="auto-style1" />
+				<span class="auto-style1">020.クラカケアザラシ</span><br class="auto-style1" />
+				<span class="auto-style1">021.キビタキ</span><br class="auto-style1" />
+				<span class="auto-style1">022.ラブカ</span><br class="auto-style1" />
+				<span class="auto-style1">023.エトピリカ</span><br class="auto-style1" />
+				<span class="auto-style1">024.イトヨ(陸封型)</span></td>
+			</tr>-->
+		</table>
+			<p>
+			販売時期(最初期)：1999年9月～12月　販売元：フルタ　原型製作：松村しのぶ　カプセルカラー：青<br />
+			■概要<br />
+			日本の動物シリーズの第1弾。<br />
+			製造している中国の工場は、松村氏の指示や自発的に金型や塗装を改良しながら生産を続けました。そのため、多くの亜種が存在します(ページ下部参照)。販促物の「日本地図」は高値で取引されています。また、関西地方ではCMも流れたそうです。<br />
+			■解説書<br />
+			アニマテイルズシリーズの定番となった個別解説書ですが、第1弾の解説書は素材違いが目立ちます。また、001～012までの解説書はなぜか組み立て図が存在しないため、11cmの短いものでした。ちなみに後に追加されたシークレットのツチノコの解説書もこの長さでした(<a href="../../books/kaiyodo_etc/omakekaiyodo">おまけフィギュア海洋堂全カタログ</a>, 
+			朝日ソノラマ, 2001)。<br />
+			■販売方法<br />
+			この第1弾は計5回販売され、毎回異なったパッケージでした。<br />
+			1回目：12個入りの卵ケースのようなもの<br />
+			2回目：いつものサイズの1個入りパッケージ・2個入りパッケージ(黄色・水色)<br />
+			3回目：1弾・2弾がミックスされた2弾のパッケージ(リストは1弾、2弾のリバーシブル仕様)<br />
+			4回目：1～3弾の総集編。1個入りパッケージ・<a href="../anima_jap3">2個入りパッケージ</a>(ツチノコはこの頃から(?))<br />
+			5回目：香港版<br />
+			<br />
+			■亜種・エラー品<br />
+			塗装の違いや分割の手法などで多くの亜種・バージョン違いが存在します。<br />
+			ここでは違いのはっきりした亜種や当時マニアを沸かせたエラー品については「小学館 
+			チョコエッグ百科」に写真が載っています。また、当時のコレクターの方にもメールにてお話を聞かせていただきました。<br />
+			<br />
+			次弾：<a href="../anima_jap2">日本の動物コレクション2</a></p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/anima_jap1_034_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/anima_jap1_027_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/anima_jap1_019_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/anima_jap1_021_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/anima_jap1_025_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/anima_jap1_017_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/anima_jap1_006_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/anima_jap1_036_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/anima_jap1_046_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/anima_jap1_010_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/anima_jap1_004_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/anima_jap1_015_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/anima_jap1_052_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/anima_jap1_023_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/anima_jap1_002_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#16">
+<img src="img/anima_jap1_042_small.jpg" width="146" /></a></td><td><a href="#17">
+<img src="img/anima_jap1_013_small.jpg" width="146" /></a></td><td><a href="#18">
+<img src="img/anima_jap1_031_small.jpg" width="146" /></a></td><td><a href="#19">
+<img src="img/anima_jap1_029_small.jpg" width="146" /></a></td><td><a href="#20">
+<img src="img/anima_jap1_048_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#21">
+<img src="img/anima_jap1_038_small.jpg" width="146" /></a></td><td><a href="#22">
+<img src="img/anima_jap1_044_small.jpg" width="146" /></a></td><td><a href="#23">
+<img src="img/anima_jap1_041_small.jpg" width="146" /></a></td><td><a href="#24">
+<img src="img/anima_jap1_050_small.jpg" width="146" /></a></td><td>&nbsp;</td>
+		</tr>
+		
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">001.ニホンザル</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_034.jpg">
+					<img height="283" src="img/anima_jap1_034_small.jpg" width="378" /></a><a href="img/anima_jap1_035.jpg"><img height="283" src="img/anima_jap1_035_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">日本固有種のサル。塗りやすくするために顔を大きくした結果、小猿のようなプロポーションに。<br />
+				<br />
+				初期版は肩で分割していたために顔が削れてしまった。後期版は首分割に変更。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">002.ヤマネ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_027.jpg">
+					<img height="283" src="img/anima_jap1_027_small.jpg" width="378" /></a><a href="img/anima_jap1_028.jpg"><img height="283" src="img/anima_jap1_028_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">樹上に生息する。原型でふっくらしていた顔は製品版ではシャープに。<br />
+				<br />
+				エラー品として茶目のものが存在。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">003.トキ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_019.jpg">
+					<img height="283" src="img/anima_jap1_019_small.jpg" width="378" /></a><a href="img/anima_jap1_020.jpg"><img height="283" src="img/anima_jap1_020_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">日本の野生種は絶滅してしまった鳥。カプセルに入れるために脚の短いトキをチョイスしたとか。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">004.テン</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_021.jpg">
+					<img height="283" src="img/anima_jap1_021_small.jpg" width="378" /></a><a href="img/anima_jap1_022.jpg"><img height="283" src="img/anima_jap1_022_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">冬にはカラフルな哺乳類。顔は白かったり黒かったり。初期版のフィギュアは耳が寝ていて松村氏を失望させた。</td></tr>
+			<tr><td>
+				<a href="img/neten.jpg">
+				<img height="283" src="img/neten_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">初期版の寝耳。金型の変更により、立ち耳に。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">005.オオサンショウウオ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_025.jpg">
+					<img height="283" src="img/anima_jap1_025_small.jpg" width="378" /></a><a href="img/anima_jap1_026.jpg"><img height="283" src="img/anima_jap1_026_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">説明不要の世界最大の両生類のひとつ。原型の口元のカーブは製品版ではまっすぐに省略。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">006.ギフチョウ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_017.jpg">
+					<img height="283" src="img/anima_jap1_017_small.jpg" width="378" /></a><a href="img/anima_jap1_018.jpg"><img height="283" src="img/anima_jap1_018_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">日本の各地ではねの形や模様が違う。毛深さを厚めのはねで再現。<br />
+				<br />
+				製品版は襟巻きの毛がオレンジ色だが、黄色のエラー品が存在。しかし自然界にはこのような突然変異が存在するため、マニア大騒ぎ。</td></tr>
+			<!--
+			-->
+			<tr><th id="7">007.クサガメ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_006.jpg">
+					<img height="283" src="img/anima_jap1_006_small.jpg" width="378" /></a><a href="img/anima_jap1_007.jpg"><img height="283" src="img/anima_jap1_007_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				成熟した個体は臭いを出すためこの名が付いた。甲羅の溝は首の模様のついでに塗ったため同じ色に？</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">008.ノウサギ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_036.jpg">
+					<img height="283" src="img/anima_jap1_036_small.jpg" width="378" /></a><a href="img/anima_jap1_037.jpg"><img height="283" src="img/anima_jap1_037_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">巣穴を持たず地面で子育てをするウサギ。製品版は色見本よりもかなり色が濃い。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">009.カワセミ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_046.jpg">
+					<img height="283" src="img/anima_jap1_046_small.jpg" width="378" /></a><a href="img/anima_jap1_047.jpg"><img height="283" src="img/anima_jap1_047_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				最近都市部の川にも戻ってきた美しい鳥。光の加減によって青にも緑にも見える。彩色見本は青だが製品版は緑。<br />
+				<br />
+				はねの斑点を忘れたエラー品あり。</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">010.カブトムシ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_010.jpg">
+					<img height="283" src="img/anima_jap1_010_small.jpg" width="378" /></a><a href="img/anima_jap1_011.jpg"><img height="283" src="img/anima_jap1_011_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				製品版では胸部の首周りがごっそり削られたうえ左右非対称。松村氏ガッカリ。横から見ればセーフ。<br />
+				<br />
+				ツヤの強い亜種が存在。</td></tr>
+			<!--
+			-->
+			<tr><th id="11">011.ニホンカモシカ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_004.jpg">
+					<img height="283" src="img/anima_jap1_004_small.jpg" width="378" /></a><a href="img/anima_jap1_005.jpg"><img height="283" src="img/anima_jap1_005_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">山岳地帯に住む牛の仲間。面倒だから座らせたんだって。彩色見本は茶色だったのに・・・?<br />
+				<br />
+				黒目が細いものと丸いものが存在。</td></tr>
+			<!--
+			-->			
+			<tr><th id="12">012.メダカ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_015.jpg">
+					<img height="283" src="img/anima_jap1_015_small.jpg" width="378" /></a><a href="img/anima_jap1_016.jpg"><img height="283" src="img/anima_jap1_016_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">松村氏曰く、「愛のある分割」。<br />
+				<br />
+				体色が金色と銀色が存在。</td></tr>
+			<!--
+			-->
+			<tr><th id="13">013.キツネ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_052.jpg">
+					<img height="283" src="img/anima_jap1_052_small.jpg" width="378" /></a><a href="img/anima_jap1_012.jpg"><img height="283" src="img/anima_jap1_012_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">警戒心が強く、なかなか会えない。彩色見本は尾の先が白い。</td></tr>
+			<!--
+			-->			
+			<tr><th id="14">014.オオクワガタ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_023.jpg">
+					<img height="283" src="img/anima_jap1_023_small.jpg" width="378" /></a><a href="img/anima_jap1_024.jpg"><img height="283" src="img/anima_jap1_024_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">カブトムシと同じく胸部がずれてる・・・。<br />
+				<br />
+				ツヤの強い亜種が存在</td></tr>
+			<!--
+			-->
+			<tr><th id="15">015.オキナワキノボリトカゲ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_002.jpg">
+					<img height="283" src="img/anima_jap1_002_small.jpg" width="378" /></a><a href="img/anima_jap1_003.jpg"><img height="283" src="img/anima_jap1_003_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">奄美大島などに生息する色鮮やかなトカゲ・・・のはずが、彩色見本の面影は皆無。</td></tr>
+			<!--
+			-->			
+			<tr><th id="16">016.ヒミズ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_042.jpg">
+					<img height="283" src="img/anima_jap1_042_small.jpg" width="378" /></a><a href="img/anima_jap1_043.jpg"><img height="283" src="img/anima_jap1_043_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">地中に生息するネズミ。モグラではない。彩色見本では手足はピンク、白目はない。</td></tr>
+			<!--
+			-->
+			<tr><th id="17">017.スナメリ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_013.jpg">
+					<img height="283" src="img/anima_jap1_013_small.jpg" width="378" /></a><a href="img/anima_jap1_014.jpg"><img height="283" src="img/anima_jap1_014_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">背ビレのないイルカのなかま。成形素材の色をそのまま生かした塗装。手抜きではない。</td></tr>
+			<!--
+			-->			
+			<tr><th id="18">018.ニホンアマガエル</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_031.jpg">
+					<img height="283" src="img/anima_jap1_031_small.jpg" width="378" /></a><a href="img/anima_jap1_032.jpg"><img height="283" src="img/anima_jap1_032_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">カエルの指の型抜きは難しく、今後も課題となったようです。体の黒い模様は簡略化。</td></tr>
+			<!--
+			-->
+			<tr><th id="19">019.イリオモテヤマネコ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_029.jpg">
+					<img height="283" src="img/anima_jap1_029_small.jpg" width="378" /></a><a href="img/anima_jap1_030.jpg"><img height="283" src="img/anima_jap1_030_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">彩色見本より色が濃いですが、この弾において塗装では一番良くできていると思っています。<br />
+				<br />
+				成型色違いが多数存在。</td></tr>
+			<!--
+			-->			
+			<tr><th id="20">020.クラカケアザラシ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_048.jpg">
+					<img height="283" src="img/anima_jap1_048_small.jpg" width="378" /></a><a href="img/anima_jap1_049.jpg"><img height="283" src="img/anima_jap1_049_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">北海道北部に生息する、鞍状の模様を持つアザラシ。分割による模様のズレが少し気になる。</td></tr>
+			<!--
+			-->			
+			<tr><th id="21">021.キビタキ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_038.jpg">
+					<img height="283" src="img/anima_jap1_038_small.jpg" width="378" /></a><a href="img/anima_jap1_039.jpg"><img height="283" src="img/anima_jap1_039_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				街中でも見られる美しい鳥。脚の分割は今では考えられない手法をとっています。確認してみてください。</td></tr>
+			<!--
+			-->
+			<tr><th id="22">022.ラブカ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_044.jpg">
+					<img height="283" src="img/anima_jap1_044_small.jpg" width="378" /></a><a href="img/anima_jap1_045.jpg"><img height="283" src="img/anima_jap1_045_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				この頃から深海魚をラインナップに加えるあたりさすが。6対のエラ穴のうち、5つだけなぜか白く塗られています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="23">023.エトピリカ</th></tr>
+			<tr><td>
+					<a href="img/anima_jap1_041.jpg">
+					<img height="283" src="img/anima_jap1_041_small.jpg" width="378" /></a><a href="img/anima_jap1_040.jpg"><img height="283" src="img/anima_jap1_040_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">アイヌ語で「美しいくちばし」と言う意味。クチバシは製品版はオレンジ色になっている。</td></tr>
+			<!--
+			-->
+			<tr><th id="24">024.イトヨ(陸封型)</th></tr>
+			<tr><td><a href="img/anima_jap1_050.jpg">
+					<img height="283" src="img/anima_jap1_050_small.jpg" width="378" /></a><a href="img/anima_jap1_051.jpg"><img height="283" src="img/anima_jap1_051_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">降海型より陸封型を選んだのは体色がきれいだからだそうです。支柱が長い。</td></tr>
+			<!--
+			-->			
+			<tr><th id="25">解説書</th></tr>
+			<tr><td><a href="img/anima1book.jpg">
+					<img height="228" src="img/anima1book_small.jpg" width="756" /></a></td></tr>
+			<tr><td><a href="img/anima1book2.jpg">
+					<img height="139" src="img/anima1book2_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="26">パッケージ(最初期)</th></tr>
+			<tr><td><a href="img/hako015.jpg">
+					<img height="283" src="img/hako015_small.jpg" width="378" /></a><a href="img/hako016.jpg"><img height="283" src="img/hako016_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">最初はこのように個別包装の箱は無く、卵をそのままレジへ持っていく販売方法でした。</td></tr>
+			<!--
+			-->			
+			<tr><th id="27">パッケージ(単品)</th></tr>
+			<tr><td>
+					<img height="679" src="img/chocoegg1hako2.jpg" width="756" /></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="28">パッケージ(2個セット)</th></tr>
+			<tr><td>
+					<img height="434" src="img/chocoegg1hako1.jpg" width="756" /></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="29">パッケージ(香港版)</th></tr>
+			<tr><td><a href="img/anima1hako2.jpg">
+					<img height="642" src="img/anima1hako2_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment">香港版ですが底の表記が変更されたのみ。解説書も日本語だったとか。</td></tr>
+			<!--
+			-->
+			<tr><th id="30">包装紙</th></tr>
+			<tr><td>
+					<img height="228" src="img/chocoegg_kami.jpg" width="378" /></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+						
+			</table>
+		
+			</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

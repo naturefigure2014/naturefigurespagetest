@@ -1,0 +1,443 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>チョコQペット動物4</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>チョコQ アニマテイルズ　ペット動物4</h4>
+				<table width="100%">
+		<tr><td>
+			<a href="img/anima_pet4_004.jpg">
+			<img height="283" src="img/anima_pet4_004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_pet4/img/anima_pet4_004.jpg" --></a></td><td>
+			<a href="img/aqua_pet4_061.jpg">
+			<img height="283" src="img/aqua_pet4_061_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/anima/anima_pet4/img/aqua_pet4_061.jpg" --></a></td></tr></table>
+						
+		<table style="width: 100%">
+			<!--<tr>
+				<td class="waku_left" valign="top" style="width:50%">
+				<span class="font_small">96(P44A). アホロートル(白)<br />
+				97(P44B). アホロートル(ゴールデン)<br />
+				98(P44C). アホロートル(マーブル)<br />
+				99(P45A). ブルドッグ（レッドブリンドル）<br />
+				100(P45B). ブルドック（白)<br />
+				101(P46A). シベリアンハスキー（赤）<br />
+				102(P46B) シベリアンハスキー（グレー）<br />
+				103(P47A). チンチラ（バイオレット）<br />
+				104(P47B). チンチラ（バイド） <br />
+				105(P48A). ネザーランドドワーフ（レッド） <br />
+				106(P48B). ネザーランドドワーフ（ブラック）<br />
+				107(P49A). セキセインコ（ヒナ）ノーマル<br />
+				108(P49B). セキセインコ（ヒナ）ブルーハルクイン<br />
+				109(P49C). セキセインコ（ヒナ）ルチノー<br />
+				110(P50). 銭亀<br />
+				111(P51A). 　※欠番<br />
+				112(P51B). 　※欠番</span></td>
+				<td class="waku_right" valign="top" style="width: 50%">
+				<span class="font_small">113(P52A).&nbsp; レッキス（グレー）<br />
+				114(P52B).&nbsp; レッキス（アグーチ）<br />
+				115(P53A). アゴヒゲトカゲ（ノーマル）<br />
+				116(P53B). アゴヒゲトカゲ（レッド）<br />
+				117(P54A). うずら尾（赤笹）<br />
+				118(P54B). うずら尾（三色墓石）<br />
+				119(P55A). ボーダーコリー（黒白）<br />
+				120(P55B). ボーダーコリー（赤白）<br />
+				121(P56A). コリドラス（ノーマル）<br />
+				122(P56B). コリドラス（アルビノ）<br />
+				123(P57A). メインクーン（ブラウンタビ-＆ホワイト）<br />
+				124(P57B). メインクーンシルバータビー<br />
+				125(P58). ワカケホンセイインコ（ブルー）</span><br />
+				<span class="font_blue_small">(SECRET 03p-a)福猫　三毛a<br />
+				(SECRET 03p-b)福猫　三毛b<br />
+				(SECRET 03p-c)福猫　黒 </span> <br />
+				</td>
+			</tr>-->
+		</table>
+<p>
+			販売開始時期：2003年3月　販売元：タカラ　原型製作：松村しのぶ　カプセルカラー：薄い黄緑  
+			<br />
+						今回も前弾と同じく、日本の動物と同時発売でした（※東西入れ替え制）。ペットシリーズも弾を重ねるごとにぐんぐんクオリティがあがっています。今回も犬猫から鳥類、爬虫類・両生類と幅広いラインナップ。日本の動物6でラインナップされたワカケホンセイインコの色違いがラインナップされているのは面白いですね。セキセイインコヒナが人気でした（混入率が低かった？）。<br />
+						シークレットの招き猫は<a href="../anima_pet2">バステト神</a>からの流れでしょうか。<br />
+						No.111、112は欠番となっていますが、２ちゃん情報によるとワンフェスでこの弾が発表されたときは<a href="../chocoq_amazing">動物奇想天外編</a>の日本猫が展示されていたとのこと。<br />
+			</p>
+
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/anima_pet4_010_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/aqua_pet4_062_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/anima_pet4_040_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/anima_pet4_012_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/aqua_pet4_047_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/aqua_pet4_067_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/aqua_pet4_064_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/anima_pet4_022_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/anima_pet4_024_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/anima_pet4_014_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/anima_pet4_016_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/aqua_pet4_057_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/anima_pet4_036_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/aqua_pet4_059_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/anima_pet4_026_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#16">
+<img src="img/anima_pet4_018_small.jpg" width="146" /></a></td><td><a href="#17">
+<img src="img/anima_pet4_020_small.jpg" width="146" /></a></td><td><a href="#18">
+<img src="img/anima_pet4_035_small.jpg" width="146" /></a></td><td><a href="#19">
+<img src="img/aqua_pet4_049_small.jpg" width="146" /></a></td><td><a href="#20">
+<img src="img/anima_pet4_002_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#21">
+<img src="img/aqua_pet4_051_small.jpg" width="146" /></a></td><td><a href="#22">
+<img src="img/aqua_pet4_045_small.jpg" width="146" /></a></td><td><a href="#23">
+<img src="img/anima_pet4_028_small.jpg" width="146" /></a></td><td><a href="#24">
+<img src="img/aqua_pet4_044_small.jpg" width="146" /></a></td><td><a href="#25">
+<img src="img/aqua_pet4_053_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#26">
+<img src="img/anima_pet4_032_small.jpg" width="146" /></a></td><td><a href="#27">
+<img src="img/anima_pet4_030_small.jpg" width="146" /></a></td><td><a href="#28">
+<img src="img/aqua_pet4_056_small.jpg" width="146" /></a></td><td><a href="#29">
+<img src="img/anima_pet4_045_small.jpg" width="146" /></a></td><td><a href="#30">
+<img src="img/anima_pet4_039_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#31">
+<img src="img/anima_pet4_048_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td>
+		</tr>
+
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">96. アホロートル(白)</th></tr>
+			<tr><td><a href="img/anima_pet4_010.jpg">
+					<img height="283" src="img/anima_pet4_010_small.jpg" width="378" /></a><a href="img/anima_pet4_011.jpg"><img height="283" src="img/anima_pet4_011_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">いわゆるウーパールーパー。メキシコサラマンダーの幼生が変態せず大人になったもの。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">97. アホロートル(ゴールデン)</th></tr>
+			<tr><td>
+					<a href="img/aqua_pet4_062.jpg">
+					<img height="283" src="img/aqua_pet4_062_small.jpg" width="378" /></a><a href="img/aqua_pet4_063.jpg"><img height="283" src="img/aqua_pet4_063_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="3">98. アホロートル(マーブル)</th></tr>
+			<tr><td><a href="img/anima_pet4_040.jpg">
+					<img height="283" src="img/anima_pet4_040_small.jpg" width="378" /></a><a href="img/anima_pet4_042.jpg"><img height="283" src="img/anima_pet4_042_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="4">99. ブルドッグ（レッドブリンドル）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_012.jpg">
+					<img height="283" src="img/anima_pet4_012_small.jpg" width="378" /></a><a href="img/anima_pet4_013.jpg"><img height="283" src="img/anima_pet4_013_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">現在はイギリスの国の犬。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">100. ブルドック（白)</th></tr>
+			<tr><td>
+					<a href="img/aqua_pet4_047.jpg">
+					<img height="283" src="img/aqua_pet4_047_small.jpg" width="378" /></a><a href="img/aqua_pet4_048.jpg"><img height="283" src="img/aqua_pet4_048_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="6">101. シベリアンハスキー（赤）</th></tr>
+			<tr><td>
+					<a href="img/aqua_pet4_067.jpg">
+					<img height="283" src="img/aqua_pet4_067_small.jpg" width="378" /></a><a href="img/aqua_pet4_066.jpg"><img height="283" src="img/aqua_pet4_066_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">シベリア原産のそり犬を祖先にもつ古いタイプの犬。</td></tr>
+			<!--
+			-->
+			<tr><th id="7">102 シベリアンハスキー（グレー）</th></tr>
+			<tr><td>
+					<a href="img/aqua_pet4_064.jpg">
+					<img height="283" src="img/aqua_pet4_064_small.jpg" width="378" /></a><a href="img/aqua_pet4_065.jpg"><img height="283" src="img/aqua_pet4_065_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="8">103. チンチラ（バイオレット）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_022.jpg">
+					<img height="283" src="img/anima_pet4_022_small.jpg" width="378" /></a><a href="img/anima_pet4_023.jpg"><img height="283" src="img/anima_pet4_023_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="9">104. チンチラ（バイド）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_024.jpg">
+					<img height="283" src="img/anima_pet4_024_small.jpg" width="378" /></a><a href="img/anima_pet4_025.jpg"><img height="283" src="img/anima_pet4_025_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">モルモットの仲間。</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">105. ネザーランドドワーフ（レッド）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_014.jpg">
+					<img height="283" src="img/anima_pet4_014_small.jpg" width="378" /></a><a href="img/anima_pet4_015.jpg"><img height="283" src="img/anima_pet4_015_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ピーターラビットでおなじみ。</td></tr>
+			<!--
+			-->
+			<tr><th id="11">106. ネザーランドドワーフ（ブラック）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_016.jpg">
+					<img height="283" src="img/anima_pet4_016_small.jpg" width="378" /></a><a href="img/anima_pet4_017.jpg"><img height="283" src="img/anima_pet4_017_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="12">107. セキセインコ（ヒナ）ノーマル</th></tr>
+			<tr><td>
+					<a href="img/aqua_pet4_057.jpg">
+					<img height="283" src="img/aqua_pet4_057_small.jpg" width="378" /></a><a href="img/aqua_pet4_058.jpg"><img height="283" src="img/aqua_pet4_058_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">ペットとしておなじみ。</td></tr>
+			<!--
+			-->
+			<tr><th id="13">108. セキセインコ（ヒナ）ブルーハルクイン</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_036.jpg">
+					<img height="283" src="img/anima_pet4_036_small.jpg" width="378" /></a><a href="img/anima_pet4_001.jpg"><img height="283" src="img/anima_pet4_001_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/anima_pet4_009.jpg">
+	<img height="283" src="img/anima_pet4_009_small.jpg" width="378" /></a><a href="img/anima_pet4_008.jpg"><img height="283" src="img/anima_pet4_008_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="14">109. セキセインコ（ヒナ）ルチノー</th></tr>
+			<tr><td>
+					<a href="img/aqua_pet4_059.jpg">
+					<img height="283" src="img/aqua_pet4_059_small.jpg" width="378" /></a><a href="img/aqua_pet4_060.jpg"><img height="283" src="img/aqua_pet4_060_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="15">110. 銭亀</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_026.jpg">
+					<img height="283" src="img/anima_pet4_026_small.jpg" width="378" /></a><a href="img/anima_pet4_027.jpg"><img height="283" src="img/anima_pet4_027_small.jpg" width="378" /></a></td></tr>
+			<tr><td>クサガメの仔亀。</td></tr>
+			<tr><td><a href="img/anima_pet4_006.jpg">
+	<img height="283" src="img/anima_pet4_006_small.jpg" width="378" /></a><a href="img/anima_pet4_007.jpg"><img height="283" src="img/anima_pet4_007_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">お財布亀と比較。こちらはツヤありとなっています。<br />
+				腹の模様は違っていますね。</td></tr>
+			<!--
+			-->			
+			<tr><th id="16">113. レッキス（グレー）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_018.jpg">
+					<img height="283" src="img/anima_pet4_018_small.jpg" width="378" /></a><a href="img/anima_pet4_019.jpg"><img height="283" src="img/anima_pet4_019_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">フランス原産。とても手触りのよい毛並みを持つ。</td></tr>
+			<!--
+			-->
+			<tr><th id="17">114. レッキス（アグーチ）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_020.jpg">
+					<img height="283" src="img/anima_pet4_020_small.jpg" width="378" /></a><a href="img/anima_pet4_021.jpg"><img height="283" src="img/anima_pet4_021_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="18">115. アゴヒゲトカゲ（ノーマル）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_035.jpg">
+					<img height="283" src="img/anima_pet4_035_small.jpg" width="378" /></a><a href="img/anima_pet4_034.jpg"><img height="283" src="img/anima_pet4_034_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">興奮するとあごひげを拡げる。</td></tr>
+			<!--
+			-->
+			<tr><th id="19">116. アゴヒゲトカゲ（レッド）</th></tr>
+			<tr><td>
+					<a href="img/aqua_pet4_049.jpg">
+					<img height="283" src="img/aqua_pet4_049_small.jpg" width="378" /></a><a href="img/aqua_pet4_050.jpg"><img height="283" src="img/aqua_pet4_050_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="20">117. うずら尾（赤笹）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_002.jpg">
+					<img height="283" src="img/anima_pet4_002_small.jpg" width="378" /></a><a href="img/anima_pet4_003.jpg"><img height="283" src="img/anima_pet4_003_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">高知県で飼われていた尾羽のない鶏。</td></tr>
+			<!--
+			-->			
+			<tr><th id="21">118. うずら尾（三色墓石）</th></tr>
+			<tr><td>
+					<a href="img/aqua_pet4_051.jpg">
+					<img height="283" src="img/aqua_pet4_051_small.jpg" width="378" /></a><a href="img/aqua_pet4_052.jpg"><img height="283" src="img/aqua_pet4_052_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="22">119. ボーダーコリー（黒白）</th></tr>
+			<tr><td>
+					<a href="img/aqua_pet4_045.jpg">
+					<img height="283" src="img/aqua_pet4_045_small.jpg" width="378" /></a><a href="img/aqua_pet4_046.jpg"><img height="283" src="img/aqua_pet4_046_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">スコットランド原産。雑種ではない。</td></tr>
+			<!--
+			-->			
+			<tr><th id="23">120. ボーダーコリー（赤白）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_028.jpg">
+					<img height="283" src="img/anima_pet4_028_small.jpg" width="378" /></a><a href="img/anima_pet4_029.jpg"><img height="283" src="img/anima_pet4_029_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="24">121. コリドラス（ノーマル）</th></tr>
+			<tr><td>
+					<a href="img/aqua_pet4_043.jpg">
+					<img height="283" src="img/aqua_pet4_043_small.jpg" width="378" /></a><a href="img/aqua_pet4_044.jpg"><img height="283" src="img/aqua_pet4_044_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">最近はペットとして人気の南アメリカ原産のナマズ。クリア素材のヒレがステキ。</td></tr>
+			<!--
+			-->			
+			<tr><th id="25">122. コリドラス（アルビノ）</th></tr>
+			<tr><td>
+					<a href="img/aqua_pet4_054.jpg">
+					<img height="283" src="img/aqua_pet4_054_small.jpg" width="378" /></a><a href="img/aqua_pet4_053.jpg"><img height="283" src="img/aqua_pet4_053_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="26">123. メインクーン（ブラウンタビ-＆ホワイト）</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_032.jpg">
+					<img height="283" src="img/anima_pet4_032_small.jpg" width="378" /></a><a href="img/anima_pet4_033.jpg"><img height="283" src="img/anima_pet4_033_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">”メイン州のアライグマ”という意味。お上品に見えます。</td></tr>
+			<!--
+			-->			
+			<tr><th id="27">124. メインクーンシルバータビー</th></tr>
+			<tr><td>
+					<a href="img/anima_pet4_030.jpg">
+					<img height="283" src="img/anima_pet4_030_small.jpg" width="378" /></a><a href="img/anima_pet4_031.jpg"><img height="283" src="img/anima_pet4_031_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/anima_pet4_005.jpg">
+	<img height="283" src="img/anima_pet4_005_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">顔の塗装がとても良く出来ています。<br />
+				キリッとしていますね。</td></tr>
+			<!--
+			-->
+			<tr><th id="28">125. ワカケホンセイインコ（ブルー）</th></tr>
+			<tr><td><a href="img/aqua_pet4_056.jpg">
+					<img height="283" src="img/aqua_pet4_056_small.jpg" width="378" /></a><a href="img/aqua_pet4_055.jpg"><img height="283" src="img/aqua_pet4_055_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">東南アジアから輸入するインコ。<a href="../anima_jap6">日本の動物6</a>の色違いですが、分割は変更。</td></tr>
+			<!--
+			-->			
+			<tr><th id="29"><span class="font_blue">福猫 三毛a</span></th></tr>
+			<tr><td><a href="img/anima_pet4_045.jpg">
+					<img height="283" src="img/anima_pet4_045_small.jpg" width="378" /></a><a href="img/anima_pet4_046.jpg"><img height="283" src="img/anima_pet4_046_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/anima_pet4_047.jpg">
+					<img height="283" src="img/anima_pet4_047_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">オスの三毛猫は珍しく、福猫として大切にされてきました。</td></tr>
+			<!--
+			-->
+			<tr><th id="30"><span class="font_blue">福猫 三毛b</span></th></tr>
+			<tr><td><a href="img/anima_pet4_039.jpg">
+					<img height="283" src="img/anima_pet4_039_small.jpg" width="378" /></a><a href="img/anima_pet4_037.jpg"><img height="283" src="img/anima_pet4_037_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/anima_pet4_038.jpg">
+					<img height="283" src="img/anima_pet4_038_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="31"><span class="font_blue">福猫 黒</span></th></tr>
+			<tr><td><a href="img/anima_pet4_048.jpg">
+					<img height="283" src="img/anima_pet4_048_small.jpg" width="378" /></a><a href="img/anima_pet4_049.jpg"><img height="283" src="img/anima_pet4_049_small.jpg" width="378" /></a></td></tr>
+			<tr><td><a href="img/anima_pet4_050.jpg">
+					<img height="283" src="img/anima_pet4_050_small.jpg" width="378" /></a><a href="img/anima_pet4_051.jpg"><img height="283" src="img/anima_pet4_051_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->
+			<tr><th id="32">解説書</th></tr>
+			<tr><td><a href="img/chocoqpet4kaisetsu.jpg">
+					<img height="312" src="img/chocoqpet4kaisetsu_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+						
+			</table>
+		
+				</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

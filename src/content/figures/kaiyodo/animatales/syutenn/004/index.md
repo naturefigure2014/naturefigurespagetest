@@ -1,0 +1,27 @@
+---
+title: "秋田犬"
+description: ""
+contentType: figure
+titleId: kaiyodo/animatales/syutenn
+figureId: "004"
+maker: "海洋堂"
+sculptor: "-"
+executiveProducer: "-"
+species: "秋田犬"
+speciesGroup: "-"
+price: "850円（1号のみ500円）"
+releaseStart: "2002.06"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "syutenn016_small1.jpg"
+coverImage: "syutenn016_small1.jpg"
+topics:
+  - title: ""
+    images:
+      - "syutenn016_small1.jpg"
+      - "syutenn018_small1.jpg"
+      - "syutenn003_small1.jpg"
+      - "syutenn059_small1.jpg"
+---

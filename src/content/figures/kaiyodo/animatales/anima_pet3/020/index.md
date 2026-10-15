@@ -1,0 +1,27 @@
+---
+title: "ボストンテリア"
+description: ""
+contentType: figure
+titleId: kaiyodo/animatales/anima_pet3
+figureId: "020"
+maker: "タカラ"
+sculptor: "松村しのぶ"
+executiveProducer: "-"
+species: "ボストンテリア"
+speciesGroup: "-"
+price: "-"
+releaseStart: "2002.09"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "anima_pet3_038.jpg"
+coverImage: "anima_pet3_038.jpg"
+topics:
+  - title: ""
+    images:
+      - "anima_pet3_038.jpg"
+      - "anima_pet3_039.jpg"
+    comment: |
+      ブルドッグとブルテリアを交配した種。
+---
