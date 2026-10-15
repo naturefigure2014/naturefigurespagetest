@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ウミネコ"
-speciesGroup: "食肉類"
+speciesGroup: "海鳥"
 price: "980円 出版社：講談社"
 releaseStart: "2000.09"
 genre:
