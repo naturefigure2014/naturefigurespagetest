@@ -42,6 +42,9 @@ for (const figure of figures) {
   }
 }
 const speciesEntries = Array.from(speciesCards.values());
+const sortedSpeciesEntries = [...speciesEntries].sort((a, b) =>
+  a.species.localeCompare(b.species, "ja")
+);
 const countForSpecies = (species: string) =>
   figures.filter((figure) =>
     getSpeciesEntries(figure.data).some(
@@ -87,7 +90,7 @@ const featured = speciesEntries.slice(0, 3);
     <section class="primates-section primates-list-section">
       <h2>☷ {title}の種一覧</h2>
       <div class="primate-list">
-        {speciesEntries.map((entry) => (
+        {sortedSpeciesEntries.map((entry) => (
           <a class="primate-list-item" href={speciesHref(entry.species)}>
             <img src={imageFor(entry.figure)} alt="" loading="lazy" />
             <span>
