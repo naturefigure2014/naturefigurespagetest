@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "マンシュウハリネズミ"
-speciesGroup: "-"
+speciesGroup: "齧歯・兎類"
 price: "-"
 releaseStart: "2005.03"
 genre:

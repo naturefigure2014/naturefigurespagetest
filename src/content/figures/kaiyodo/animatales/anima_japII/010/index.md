@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "263-b. イボイモリ［褐色型］"
-speciesGroup: "-"
+speciesGroup: "イモリ・サンショウウオ類"
 price: "300円 造形企画制作：海洋堂"
 releaseStart: "2013.05"
 genre:

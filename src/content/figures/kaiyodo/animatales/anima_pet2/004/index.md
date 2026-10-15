@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：黄緑"
 executiveProducer: "-"
 species: "ベルツノガエル(ノーマル)"
-speciesGroup: "-"
+speciesGroup: "カエル類"
 price: "-"
 releaseStart: "2001.09"
 genre:

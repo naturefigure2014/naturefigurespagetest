@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "ギフチョウ"
-speciesGroup: "-"
+speciesGroup: "チョウ・ガ類"
 price: "-"
 releaseStart: "-"
 genre:

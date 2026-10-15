@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ハロウェルアマガエル"
-speciesGroup: "-"
+speciesGroup: "カエル類"
 price: "-"
 releaseStart: "2004.10"
 genre:

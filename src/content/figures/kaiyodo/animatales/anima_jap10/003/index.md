@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "チョウセンシマリス"
-speciesGroup: "-"
+speciesGroup: "チョウ・ガ類"
 price: "-"
 releaseStart: "2005.03"
 genre:

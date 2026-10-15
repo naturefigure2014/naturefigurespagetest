@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "K05.ライオン"
-speciesGroup: "-"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "2003.11"
 genre:

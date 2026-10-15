@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "233a.アブラゼミ(幼虫)地中生活期"
-speciesGroup: "-"
+speciesGroup: "その他昆虫"
 price: "-"
 releaseStart: "2005.03"
 genre:

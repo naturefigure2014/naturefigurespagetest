@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "K07.ビンタゾウガメ(ロンサムジョージ)"
-speciesGroup: "-"
+speciesGroup: "カメ類"
 price: "-"
 releaseStart: "2003.11"
 genre:

@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "ヤエヤマセマルハコガメ"
-speciesGroup: "-"
+speciesGroup: "カメ類"
 price: "-"
 releaseStart: "-"
 genre:

@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：オレンジ"
 executiveProducer: "-"
 species: "061C.イノシシ(仔)"
-speciesGroup: "-"
+speciesGroup: "偶蹄類"
 price: "-"
 releaseStart: "2002.02"
 genre:

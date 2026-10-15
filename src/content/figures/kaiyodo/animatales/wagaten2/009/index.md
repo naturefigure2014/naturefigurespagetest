@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "R0027. ツシマヤマネコ"
-speciesGroup: "-"
+speciesGroup: "齧歯・兎類"
 price: "-"
 releaseStart: "2002.12"
 genre:

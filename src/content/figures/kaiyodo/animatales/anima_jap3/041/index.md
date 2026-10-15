@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "ミヤコヒキガエル"
-speciesGroup: "-"
+speciesGroup: "カエル類"
 price: "-"
 releaseStart: "2000.02"
 genre:

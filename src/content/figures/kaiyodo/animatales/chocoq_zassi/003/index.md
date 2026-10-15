@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "マンチカン(茶トラ)"
-speciesGroup: "-"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "-"
 genre:

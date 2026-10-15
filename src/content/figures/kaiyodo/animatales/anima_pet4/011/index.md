@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ カプセルカラー：薄い黄緑"
 executiveProducer: "-"
 species: "ネザーランドドワーフ（ブラック）"
-speciesGroup: "-"
+speciesGroup: "齧歯・兎類"
 price: "-"
 releaseStart: "2003.03"
 genre:

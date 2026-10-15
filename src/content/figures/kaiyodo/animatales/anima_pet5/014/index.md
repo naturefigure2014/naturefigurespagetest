@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ 原型ペイント：古田悟郎"
 executiveProducer: "-"
 species: "エボシカメレオン 体色変化"
-speciesGroup: "-"
+speciesGroup: "カメ類"
 price: "-"
 releaseStart: "2005.10"
 genre:

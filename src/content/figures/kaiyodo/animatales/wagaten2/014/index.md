@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "R0032. ニホンイタチ"
-speciesGroup: "-"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "2002.12"
 genre:

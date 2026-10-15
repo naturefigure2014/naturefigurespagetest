@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：オレンジ"
 executiveProducer: "-"
 species: "011C.ニホンカモシカ"
-speciesGroup: "-"
+speciesGroup: "偶蹄類"
 price: "-"
 releaseStart: "2002.02"
 genre:

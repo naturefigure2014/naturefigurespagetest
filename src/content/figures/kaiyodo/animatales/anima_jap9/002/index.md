@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "209a.ムササビ(II)淡色型"
-speciesGroup: "-"
+speciesGroup: "齧歯・兎類"
 price: "-"
 releaseStart: "2004.10"
 genre:

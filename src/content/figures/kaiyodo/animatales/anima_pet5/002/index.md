@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ 原型ペイント：古田悟郎"
 executiveProducer: "-"
 species: "ジャック・ラッセル・テリア トライカラー"
-speciesGroup: "-"
+speciesGroup: "イカ類"
 price: "-"
 releaseStart: "2005.10"
 genre:

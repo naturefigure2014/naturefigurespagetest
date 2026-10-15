@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0006. エラブウミヘビ"
-speciesGroup: "-"
+speciesGroup: "ヘビ類"
 price: "-"
 releaseStart: "2003.04"
 genre:

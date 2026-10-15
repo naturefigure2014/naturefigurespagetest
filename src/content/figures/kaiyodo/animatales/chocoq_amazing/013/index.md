@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "K10.ウミイグアナ(フェルナンディア島)"
-speciesGroup: "-"
+speciesGroup: "トカゲ類"
 price: "-"
 releaseStart: "2003.11"
 genre:

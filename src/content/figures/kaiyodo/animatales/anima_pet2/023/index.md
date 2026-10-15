@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：黄緑"
 executiveProducer: "-"
 species: "イエリクロボタンインコ(ヤマブキボタン)"
-speciesGroup: "-"
+speciesGroup: "オウム・インコ類"
 price: "-"
 releaseStart: "2001.09"
 genre:

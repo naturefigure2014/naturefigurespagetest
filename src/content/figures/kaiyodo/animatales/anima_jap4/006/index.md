@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "カンムリカイツブリ"
-speciesGroup: "-"
+speciesGroup: "水鳥"
 price: "-"
 releaseStart: "2000.09"
 genre:

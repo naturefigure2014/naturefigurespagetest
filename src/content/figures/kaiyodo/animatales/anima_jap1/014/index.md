@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "オオクワガタ"
-speciesGroup: "-"
+speciesGroup: "チョウ・ガ類"
 price: "-"
 releaseStart: "-"
 genre:

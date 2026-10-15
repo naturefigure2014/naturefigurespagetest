@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "R0019.アオミオカタニシ"
-speciesGroup: "-"
+speciesGroup: "巻貝類"
 price: "-"
 releaseStart: "2002.12"
 genre:

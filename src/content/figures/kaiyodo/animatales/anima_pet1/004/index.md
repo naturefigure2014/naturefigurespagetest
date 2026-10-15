@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：クリア"
 executiveProducer: "-"
 species: "ブンチョウ(桜文鳥)"
-speciesGroup: "-"
+speciesGroup: "チョウ・ガ類"
 price: "-"
 releaseStart: "2000.09"
 genre:

@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アカザ"
-speciesGroup: "-"
+speciesGroup: "ウナギ・ナマズ類"
 price: "-"
 releaseStart: "2000.09"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "K08.盲導犬(イエロー)"
-speciesGroup: "-"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "2003.11"
 genre:

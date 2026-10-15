@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ウシガエル"
-speciesGroup: "-"
+speciesGroup: "カエル類"
 price: "-"
 releaseStart: "2005.03"
 genre:

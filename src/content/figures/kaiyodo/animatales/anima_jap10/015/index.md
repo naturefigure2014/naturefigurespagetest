@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "233b.アブラゼミ(幼虫)羽化直前状態"
-speciesGroup: "-"
+speciesGroup: "その他昆虫"
 price: "-"
 releaseStart: "2005.03"
 genre:

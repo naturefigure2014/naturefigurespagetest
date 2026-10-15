@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：クリア"
 executiveProducer: "-"
 species: "セキセイインコ(ブルー)"
-speciesGroup: "-"
+speciesGroup: "オウム・インコ類"
 price: "-"
 releaseStart: "2000.09"
 genre:

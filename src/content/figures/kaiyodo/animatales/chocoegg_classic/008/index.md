@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：オレンジ"
 executiveProducer: "-"
 species: "023C.エトピリカ"
-speciesGroup: "-"
+speciesGroup: "その他鳥類"
 price: "-"
 releaseStart: "2002.02"
 genre:

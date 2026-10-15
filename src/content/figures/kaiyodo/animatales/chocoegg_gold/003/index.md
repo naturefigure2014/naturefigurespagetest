@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "モリアオガエル"
-speciesGroup: "-"
+speciesGroup: "カエル類"
 price: "-"
 releaseStart: "-"
 genre:

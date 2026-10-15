@@ -8,7 +8,7 @@ maker: "すばる堂(タカラトミー系列)"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アカネズミ"
-speciesGroup: "-"
+speciesGroup: "齧歯・兎類"
 price: "180円"
 releaseStart: "2006.03"
 genre:

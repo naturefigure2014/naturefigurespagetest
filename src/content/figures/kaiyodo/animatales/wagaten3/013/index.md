@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0013. ゼニガタアザラシ(明色型)"
-speciesGroup: "-"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "2003.04"
 genre:

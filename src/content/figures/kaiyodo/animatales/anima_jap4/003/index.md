@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "メガマウス"
-speciesGroup: "-"
+speciesGroup: "サメ・エイ類"
 price: "-"
 releaseStart: "2000.09"
 genre:

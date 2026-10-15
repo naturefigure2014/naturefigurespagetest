@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "SP0003. 柴犬(クリアータイプ)"
-speciesGroup: "-"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "2002.12"
 genre:

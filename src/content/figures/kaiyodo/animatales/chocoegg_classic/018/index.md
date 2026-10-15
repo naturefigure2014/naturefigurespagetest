@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：オレンジ"
 executiveProducer: "-"
 species: "055C.オオハクチョウ"
-speciesGroup: "-"
+speciesGroup: "チョウ・ガ類"
 price: "-"
 releaseStart: "2002.02"
 genre:

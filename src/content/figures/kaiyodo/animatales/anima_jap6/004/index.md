@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "トラフズク"
-speciesGroup: "-"
+speciesGroup: "猛禽類"
 price: "-"
 releaseStart: "2002.09"
 genre:

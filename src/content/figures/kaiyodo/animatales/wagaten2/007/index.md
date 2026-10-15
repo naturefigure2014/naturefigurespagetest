@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "R0025. グリーンアノール(体色変化・茶色)"
-speciesGroup: "-"
+speciesGroup: "トカゲ類"
 price: "-"
 releaseStart: "2002.12"
 genre:

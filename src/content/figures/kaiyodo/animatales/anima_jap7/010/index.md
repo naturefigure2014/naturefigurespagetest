@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "キンクロハジロ"
-speciesGroup: "-"
+speciesGroup: "水鳥"
 price: "-"
 releaseStart: "2003.03"
 genre:

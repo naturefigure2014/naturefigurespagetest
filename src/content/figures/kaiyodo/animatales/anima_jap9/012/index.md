@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "216b.タマシギ(♀)"
-speciesGroup: "-"
+speciesGroup: "水鳥"
 price: "-"
 releaseStart: "2004.10"
 genre:

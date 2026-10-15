@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "K04.ニホンザル(B)"
-speciesGroup: "-"
+speciesGroup: "霊長類"
 price: "-"
 releaseStart: "2003.11"
 genre:

@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "スズメ"
-speciesGroup: "-"
+speciesGroup: "その他鳥類"
 price: "-"
 releaseStart: "2002.09"
 genre:

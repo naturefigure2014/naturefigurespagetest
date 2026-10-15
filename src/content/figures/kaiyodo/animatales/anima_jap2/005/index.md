@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "オビトカゲモドキ"
-speciesGroup: "-"
+speciesGroup: "トカゲ類"
 price: "-"
 releaseStart: "-"
 genre:

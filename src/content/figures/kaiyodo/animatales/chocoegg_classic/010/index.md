@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：オレンジ"
 executiveProducer: "-"
 species: "040C.クチベニマイマイ"
-speciesGroup: "-"
+speciesGroup: "カタツムリ・ナメクジ類"
 price: "-"
 releaseStart: "2002.02"
 genre:

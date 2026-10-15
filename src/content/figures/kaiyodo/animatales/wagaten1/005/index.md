@@ -8,7 +8,7 @@ maker: "天田印刷加工株式会社"
 sculptor: "-"
 executiveProducer: "-"
 species: "アカショウビン"
-speciesGroup: "-"
+speciesGroup: "その他鳥類"
 price: "1000円"
 releaseStart: "2002.07"
 genre:

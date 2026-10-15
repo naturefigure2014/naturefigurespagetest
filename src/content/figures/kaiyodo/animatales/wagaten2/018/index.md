@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "R0036. ヤエヤマセマルハコガメ"
-speciesGroup: "-"
+speciesGroup: "カメ類"
 price: "-"
 releaseStart: "2002.12"
 genre:

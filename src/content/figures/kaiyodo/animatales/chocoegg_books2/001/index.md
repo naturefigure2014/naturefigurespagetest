@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "カンムリツクシガモ"
-speciesGroup: "-"
+speciesGroup: "水鳥"
 price: "950円 出版社：平凡社 木村義志・著"
 releaseStart: "2000.10"
 genre:

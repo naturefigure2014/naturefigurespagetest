@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "221b.サワガニ(赤褐色型)"
-speciesGroup: "-"
+speciesGroup: "カニ類"
 price: "-"
 releaseStart: "2004.10"
 genre:

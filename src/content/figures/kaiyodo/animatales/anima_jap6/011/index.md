@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "タカアシガニ"
-speciesGroup: "-"
+speciesGroup: "カニ類"
 price: "-"
 releaseStart: "2002.09"
 genre:

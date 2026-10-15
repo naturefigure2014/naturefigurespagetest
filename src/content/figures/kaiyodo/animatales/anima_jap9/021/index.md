@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "S06.ツノシマクジラ"
-speciesGroup: "-"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "2004.10"
 genre:

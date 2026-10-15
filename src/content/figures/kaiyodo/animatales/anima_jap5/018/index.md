@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "ミズクラゲ"
-speciesGroup: "-"
+speciesGroup: "その他/その他"
 price: "-"
 releaseStart: "2001.03"
 genre:

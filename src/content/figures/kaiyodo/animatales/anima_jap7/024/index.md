@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "S04a. オオクワガタ(さなぎ)第一段階"
-speciesGroup: "-"
+speciesGroup: "カブトムシ・クワガタ類"
 price: "-"
 releaseStart: "2003.03"
 genre:

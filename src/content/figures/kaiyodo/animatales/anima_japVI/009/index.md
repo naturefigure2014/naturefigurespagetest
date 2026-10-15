@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "296-b. シャチ(閉口)"
-speciesGroup: "-"
+speciesGroup: "クジラ・イルカ類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2014.06"
 genre:

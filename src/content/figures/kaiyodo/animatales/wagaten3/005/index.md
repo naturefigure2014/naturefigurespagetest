@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0005. イシダイ♂(若齢個体)"
-speciesGroup: "-"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "2003.04"
 genre:

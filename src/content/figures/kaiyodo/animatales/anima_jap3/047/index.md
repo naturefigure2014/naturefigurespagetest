@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "アカナマダ"
-speciesGroup: "-"
+speciesGroup: "その他魚類"
 price: "-"
 releaseStart: "2000.02"
 genre:

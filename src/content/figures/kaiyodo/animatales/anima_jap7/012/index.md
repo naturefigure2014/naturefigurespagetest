@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "キヌバリ"
-speciesGroup: "-"
+speciesGroup: "その他魚類"
 price: "-"
 releaseStart: "2003.03"
 genre:

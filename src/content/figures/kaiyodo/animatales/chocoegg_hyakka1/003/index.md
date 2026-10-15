@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "オコジョ(冬毛)"
-speciesGroup: "-"
+speciesGroup: "食肉類"
 price: "3,500円(BOX版) 1,300円(通常版) 出版社：小学館"
 releaseStart: "2000.10"
 genre:

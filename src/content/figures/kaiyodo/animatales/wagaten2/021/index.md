@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "パッケーシ"
-speciesGroup: "-"
+speciesGroup: "その他/未分類"
 price: "-"
 releaseStart: "2002.12"
 genre:

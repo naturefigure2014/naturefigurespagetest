@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "ライチョウ(冬羽)"
-speciesGroup: "-"
+speciesGroup: "チョウ・ガ類"
 price: "3,500円(BOX版) 1,300円(通常版) 出版社：小学館"
 releaseStart: "2000.10"
 genre:

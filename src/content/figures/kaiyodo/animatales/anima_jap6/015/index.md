@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ヒメアマガエル"
-speciesGroup: "-"
+speciesGroup: "カエル類"
 price: "-"
 releaseStart: "2002.09"
 genre:

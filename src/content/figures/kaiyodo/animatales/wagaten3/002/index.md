@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0002. ヒメダカ"
-speciesGroup: "-"
+speciesGroup: "その他魚類"
 price: "-"
 releaseStart: "2003.04"
 genre:

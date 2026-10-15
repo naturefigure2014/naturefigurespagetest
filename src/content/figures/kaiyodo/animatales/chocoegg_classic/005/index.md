@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：オレンジ"
 executiveProducer: "-"
 species: "012C.メダカ"
-speciesGroup: "-"
+speciesGroup: "その他魚類"
 price: "-"
 releaseStart: "2002.02"
 genre:

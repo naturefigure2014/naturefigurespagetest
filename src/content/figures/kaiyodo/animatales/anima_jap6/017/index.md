@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ニホンザル（II）"
-speciesGroup: "-"
+speciesGroup: "霊長類"
 price: "-"
 releaseStart: "2002.09"
 genre:

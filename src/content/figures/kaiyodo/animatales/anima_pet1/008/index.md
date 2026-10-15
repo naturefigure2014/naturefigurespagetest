@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：クリア"
 executiveProducer: "-"
 species: "ヒョウモントカゲモドキ （ハイイエロー）"
-speciesGroup: "-"
+speciesGroup: "トカゲ類"
 price: "-"
 releaseStart: "2000.09"
 genre:

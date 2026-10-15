@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：黄緑"
 executiveProducer: "-"
 species: "ジャンガリアンハムスター(ホワイト)"
-speciesGroup: "-"
+speciesGroup: "齧歯・兎類"
 price: "-"
 releaseStart: "2001.09"
 genre:

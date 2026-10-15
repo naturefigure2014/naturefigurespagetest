@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "コブダイ(♂)"
-speciesGroup: "-"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "2004.02"
 genre:

@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0004. アカウミガメ"
-speciesGroup: "-"
+speciesGroup: "カメ類"
 price: "-"
 releaseStart: "2003.04"
 genre:

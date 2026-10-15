@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ カプセルカラー：薄い黄緑"
 executiveProducer: "-"
 species: "うずら尾（三色墓石）"
-speciesGroup: "-"
+speciesGroup: "キジ・ニワトリ類"
 price: "-"
 releaseStart: "2003.03"
 genre:

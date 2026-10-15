@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0012. カマイルカ"
-speciesGroup: "-"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "2003.04"
 genre:

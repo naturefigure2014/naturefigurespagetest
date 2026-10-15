@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ニホンザリガニ色彩変異【青】"
-speciesGroup: "-"
+speciesGroup: "エビ類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2013.01"
 genre:

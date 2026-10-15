@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：黄緑"
 executiveProducer: "-"
 species: "ディスカス(ブラウン)"
-speciesGroup: "-"
+speciesGroup: "その他魚類"
 price: "-"
 releaseStart: "2001.09"
 genre:

@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "△235a.オイカワ 婚姻色"
-speciesGroup: "-"
+speciesGroup: "イカ類"
 price: "-"
 releaseStart: "2005.03"
 genre:

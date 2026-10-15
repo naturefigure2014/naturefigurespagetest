@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "261-b. リュウキュウヤマガメ［赤色型]"
-speciesGroup: "-"
+speciesGroup: "カメ類"
 price: "300円 造形企画制作：海洋堂"
 releaseStart: "2013.05"
 genre:

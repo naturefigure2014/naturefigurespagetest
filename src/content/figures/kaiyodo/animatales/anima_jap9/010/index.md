@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "カッコウ"
-speciesGroup: "-"
+speciesGroup: "その他鳥類"
 price: "-"
 releaseStart: "2004.10"
 genre:

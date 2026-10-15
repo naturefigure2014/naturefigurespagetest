@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "ライチョウ"
-speciesGroup: "-"
+speciesGroup: "チョウ・ガ類"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:

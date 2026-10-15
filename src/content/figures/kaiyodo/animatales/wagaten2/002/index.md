@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "R0020. アカショウビン"
-speciesGroup: "-"
+speciesGroup: "その他鳥類"
 price: "-"
 releaseStart: "2002.12"
 genre:

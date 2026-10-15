@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0009. スルメイカ(銀色色素反射状態)"
-speciesGroup: "-"
+speciesGroup: "イカ類"
 price: "-"
 releaseStart: "2003.04"
 genre:

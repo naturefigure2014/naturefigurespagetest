@@ -8,7 +8,7 @@ maker: "すばる堂(タカラトミー系列)"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "249b.ニホンアマガエル体色変化"
-speciesGroup: "-"
+speciesGroup: "カエル類"
 price: "180円"
 releaseStart: "2006.03"
 genre:

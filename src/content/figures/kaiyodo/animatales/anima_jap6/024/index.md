@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ミクラミヤマクワガタ"
-speciesGroup: "-"
+speciesGroup: "カブトムシ・クワガタ類"
 price: "-"
 releaseStart: "2002.09"
 genre:

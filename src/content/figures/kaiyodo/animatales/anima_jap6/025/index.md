@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "キタダニリュウ"
-speciesGroup: "-"
+speciesGroup: "その他古生物"
 price: "-"
 releaseStart: "2002.09"
 genre:

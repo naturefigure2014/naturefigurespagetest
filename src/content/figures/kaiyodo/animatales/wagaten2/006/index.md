@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "R0024. カブトムシ♂(赤褐色個体)"
-speciesGroup: "-"
+speciesGroup: "カブトムシ・クワガタ類"
 price: "-"
 releaseStart: "2002.12"
 genre:

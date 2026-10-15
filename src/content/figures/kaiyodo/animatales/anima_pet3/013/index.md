@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "オカメインコ(ホワイトフェイス)"
-speciesGroup: "-"
+speciesGroup: "オウム・インコ類"
 price: "-"
 releaseStart: "2002.09"
 genre:

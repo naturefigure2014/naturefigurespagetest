@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "228a.カンムリワシ(成鳥)"
-speciesGroup: "-"
+speciesGroup: "猛禽類"
 price: "-"
 releaseStart: "2005.03"
 genre:

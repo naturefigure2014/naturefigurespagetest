@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "パピヨン・わんこみっくす版"
-speciesGroup: "-"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "-"
 genre:

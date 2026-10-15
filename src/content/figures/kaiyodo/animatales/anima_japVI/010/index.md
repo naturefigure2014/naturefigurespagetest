@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "QMN6. シークレット 河童"
-speciesGroup: "-"
+speciesGroup: "妖怪"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2014.06"
 genre:

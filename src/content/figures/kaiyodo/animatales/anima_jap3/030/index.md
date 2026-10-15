@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "ウスバカゲロウ（幼虫）"
-speciesGroup: "-"
+speciesGroup: "その他昆虫"
 price: "-"
 releaseStart: "2000.02"
 genre:

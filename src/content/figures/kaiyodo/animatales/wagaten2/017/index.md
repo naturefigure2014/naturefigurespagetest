@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "R0035. フクロウ"
-speciesGroup: "-"
+speciesGroup: "猛禽類"
 price: "-"
 releaseStart: "2002.12"
 genre:

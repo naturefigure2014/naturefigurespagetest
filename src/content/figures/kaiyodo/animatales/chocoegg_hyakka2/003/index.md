@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "アマガエル (体色変化途中個体)"
-speciesGroup: "-"
+speciesGroup: "カエル類"
 price: "3,200円(BOX版) 1,300円(通常版) 出版社：小学館"
 releaseStart: "2001.04"
 genre:

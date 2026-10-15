@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "214b.アオカナヘビ(♀)"
-speciesGroup: "-"
+speciesGroup: "ヘビ類"
 price: "-"
 releaseStart: "2004.10"
 genre:

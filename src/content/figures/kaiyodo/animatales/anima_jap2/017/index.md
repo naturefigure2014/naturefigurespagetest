@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "フクロウ"
-speciesGroup: "-"
+speciesGroup: "猛禽類"
 price: "-"
 releaseStart: "-"
 genre:

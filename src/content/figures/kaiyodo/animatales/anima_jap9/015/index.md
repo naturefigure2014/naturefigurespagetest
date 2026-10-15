@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ヤマトメリベ"
-speciesGroup: "-"
+speciesGroup: "カタツムリ・ナメクジ類"
 price: "-"
 releaseStart: "2004.10"
 genre:

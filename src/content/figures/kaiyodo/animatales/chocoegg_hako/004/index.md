@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "総集編"
-speciesGroup: "-"
+speciesGroup: "その他/未分類"
 price: "-"
 releaseStart: "-"
 genre:

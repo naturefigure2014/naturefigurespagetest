@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "K09.ヨウスコウアリゲーター(ふ化)"
-speciesGroup: "-"
+speciesGroup: "ワニ類"
 price: "-"
 releaseStart: "2003.11"
 genre:

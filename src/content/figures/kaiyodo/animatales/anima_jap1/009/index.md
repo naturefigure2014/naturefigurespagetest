@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "カワセミ"
-speciesGroup: "-"
+speciesGroup: "その他昆虫"
 price: "-"
 releaseStart: "-"
 genre:

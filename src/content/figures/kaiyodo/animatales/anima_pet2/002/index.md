@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：黄緑"
 executiveProducer: "-"
 species: "錦鯉(三色)"
-speciesGroup: "-"
+speciesGroup: "コイ・フナ類"
 price: "-"
 releaseStart: "2001.09"
 genre:

@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：オレンジ"
 executiveProducer: "-"
 species: "091C.オオクチバス"
-speciesGroup: "-"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "2002.02"
 genre:

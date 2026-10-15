@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ カプセルカラー：薄い黄緑"
 executiveProducer: "-"
 species: "福猫 三毛a"
-speciesGroup: "-"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "2003.03"
 genre:

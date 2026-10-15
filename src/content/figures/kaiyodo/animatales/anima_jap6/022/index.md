@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "オキナエビスガイ"
-speciesGroup: "-"
+speciesGroup: "エビ類"
 price: "-"
 releaseStart: "2002.09"
 genre:

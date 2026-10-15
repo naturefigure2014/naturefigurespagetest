@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "ジュゴン"
-speciesGroup: "-"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "2001.03"
 genre:

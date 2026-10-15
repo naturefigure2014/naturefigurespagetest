@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "モリアオガエル"
-speciesGroup: "-"
+speciesGroup: "カエル類"
 price: "-"
 releaseStart: "2000.09"
 genre:

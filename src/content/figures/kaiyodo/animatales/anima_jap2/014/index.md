@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "イヌワシ"
-speciesGroup: "-"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "-"
 genre:

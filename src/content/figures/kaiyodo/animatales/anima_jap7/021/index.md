@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "イイダコ"
-speciesGroup: "-"
+speciesGroup: "タコ類"
 price: "-"
 releaseStart: "2003.03"
 genre:

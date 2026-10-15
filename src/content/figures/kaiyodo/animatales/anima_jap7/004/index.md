@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ミズラモグラ"
-speciesGroup: "-"
+speciesGroup: "その他哺乳類"
 price: "-"
 releaseStart: "2003.03"
 genre:

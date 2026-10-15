@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ザトウクジラ"
-speciesGroup: "-"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "2002.09"
 genre:

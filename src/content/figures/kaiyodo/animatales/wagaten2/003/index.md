@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "R0021. アズマモグラ"
-speciesGroup: "-"
+speciesGroup: "その他哺乳類"
 price: "-"
 releaseStart: "2002.12"
 genre:

@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "シャモ(赤ミノ)"
-speciesGroup: "-"
+speciesGroup: "キジ・ニワトリ類"
 price: "-"
 releaseStart: "2002.09"
 genre:

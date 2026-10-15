@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0001. アユ(婚姻色)"
-speciesGroup: "-"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "2003.04"
 genre:

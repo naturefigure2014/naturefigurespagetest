@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アオミオカタニシ"
-speciesGroup: "-"
+speciesGroup: "巻貝類"
 price: "-"
 releaseStart: "2000.09"
 genre:

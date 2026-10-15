@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "ヤエヤマミナミイシガメ(亜成体)"
-speciesGroup: "-"
+speciesGroup: "カメ類"
 price: "1,280円 発行：（株）大洋書房 発売：アクアハウス（株）"
 releaseStart: "-"
 genre:

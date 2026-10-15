@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "オヤニラミ"
-speciesGroup: "-"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "2002.09"
 genre:

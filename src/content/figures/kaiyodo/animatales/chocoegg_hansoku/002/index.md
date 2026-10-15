@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "下敷き"
-speciesGroup: "-"
+speciesGroup: "その他/未分類"
 price: "-"
 releaseStart: "-"
 genre:

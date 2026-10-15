@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "ノウサギ (トウホクノウサギ冬毛)"
-speciesGroup: "-"
+speciesGroup: "齧歯・兎類"
 price: "3,200円(BOX版) 1,300円(通常版) 出版社：小学館"
 releaseStart: "2001.04"
 genre:

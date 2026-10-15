@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ 原型ペイント：古田悟郎"
 executiveProducer: "-"
 species: "△138.ジャービル シャム"
-speciesGroup: "-"
+speciesGroup: "齧歯・兎類"
 price: "-"
 releaseStart: "2005.10"
 genre:

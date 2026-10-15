@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "セレクションシール"
-speciesGroup: "-"
+speciesGroup: "その他/未分類"
 price: "-"
 releaseStart: "-"
 genre:

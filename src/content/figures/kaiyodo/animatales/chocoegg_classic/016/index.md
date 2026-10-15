@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：オレンジ"
 executiveProducer: "-"
 species: "052C.アオウミウシ"
-speciesGroup: "-"
+speciesGroup: "その他/その他"
 price: "-"
 releaseStart: "2002.02"
 genre:

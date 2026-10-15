@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "キタカブリ色彩変異【青】"
-speciesGroup: "-"
+speciesGroup: "猛禽類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2013.01"
 genre:

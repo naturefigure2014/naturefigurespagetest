@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "ウミネコ(幼鳥)"
-speciesGroup: "-"
+speciesGroup: "食肉類"
 price: "980円 出版社：講談社"
 releaseStart: "2000.09"
 genre:

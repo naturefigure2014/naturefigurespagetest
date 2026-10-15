@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：クリア"
 executiveProducer: "-"
 species: "ダックスフンド(ﾐﾆﾁｭｱ・ﾛﾝｸﾞ) (レッド)"
-speciesGroup: "-"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "2000.09"
 genre:

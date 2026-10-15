@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アルゼンチンアリ"
-speciesGroup: "-"
+speciesGroup: "ハチ・アリ類"
 price: "300円 造形企画制作：海洋堂"
 releaseStart: "2015.03"
 genre:

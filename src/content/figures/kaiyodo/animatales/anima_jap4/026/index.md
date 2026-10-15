@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "キタダニリュウ(白)"
-speciesGroup: "-"
+speciesGroup: "その他古生物"
 price: "-"
 releaseStart: "2000.09"
 genre:

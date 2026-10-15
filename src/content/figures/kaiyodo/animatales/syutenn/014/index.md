@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "ヤマネ(色違い)"
-speciesGroup: "-"
+speciesGroup: "齧歯・兎類"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:

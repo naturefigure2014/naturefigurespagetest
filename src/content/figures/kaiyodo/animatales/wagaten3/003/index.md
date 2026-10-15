@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0003. ミズクラゲ"
-speciesGroup: "-"
+speciesGroup: "その他/その他"
 price: "-"
 releaseStart: "2003.04"
 genre:

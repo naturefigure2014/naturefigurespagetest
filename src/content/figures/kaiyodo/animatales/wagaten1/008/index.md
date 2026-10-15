@@ -8,7 +8,7 @@ maker: "天田印刷加工株式会社"
 sculptor: "-"
 executiveProducer: "-"
 species: "エゾナキウサギ"
-speciesGroup: "-"
+speciesGroup: "齧歯・兎類"
 price: "1000円"
 releaseStart: "2002.07"
 genre:

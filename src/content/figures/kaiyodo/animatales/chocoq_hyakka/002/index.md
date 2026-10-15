@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "ミクラミヤマクワガタ(超黄紋型)"
-speciesGroup: "-"
+speciesGroup: "カブトムシ・クワガタ類"
 price: "999円 出版社：小学館"
 releaseStart: "2003.01"
 genre:

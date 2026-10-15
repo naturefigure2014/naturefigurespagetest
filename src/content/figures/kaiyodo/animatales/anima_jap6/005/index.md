@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ニホンアシカ"
-speciesGroup: "-"
+speciesGroup: "偶蹄類"
 price: "-"
 releaseStart: "2002.09"
 genre:

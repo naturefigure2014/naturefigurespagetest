@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "トノサマバッタ"
-speciesGroup: "-"
+speciesGroup: "その他昆虫"
 price: "-"
 releaseStart: "2000.09"
 genre:

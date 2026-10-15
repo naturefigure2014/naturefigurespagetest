@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "キョン"
-speciesGroup: "-"
+speciesGroup: "偶蹄類"
 price: "-"
 releaseStart: "2003.03"
 genre:

@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：オレンジ"
 executiveProducer: "-"
 species: "047C.ビワコオオナマズ"
-speciesGroup: "-"
+speciesGroup: "ウナギ・ナマズ類"
 price: "-"
 releaseStart: "2002.02"
 genre:

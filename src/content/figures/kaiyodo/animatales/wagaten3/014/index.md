@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "SP0001. ハコエビ(白亜紀タイプ)"
-speciesGroup: "-"
+speciesGroup: "エビ類"
 price: "-"
 releaseStart: "2003.04"
 genre:

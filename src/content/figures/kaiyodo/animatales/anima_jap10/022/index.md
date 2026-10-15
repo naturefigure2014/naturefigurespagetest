@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "S07b.ツチノコ(Ⅱ)\"短胴\"関東型"
-speciesGroup: "-"
+speciesGroup: "幻獣"
 price: "-"
 releaseStart: "2005.03"
 genre:

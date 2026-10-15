@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "ムササビ(東北地方特徴色)"
-speciesGroup: "-"
+speciesGroup: "齧歯・兎類"
 price: "980円 出版社：講談社"
 releaseStart: "2000.09"
 genre:

@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "ニホンザル"
-speciesGroup: "-"
+speciesGroup: "霊長類"
 price: "-"
 releaseStart: "-"
 genre:

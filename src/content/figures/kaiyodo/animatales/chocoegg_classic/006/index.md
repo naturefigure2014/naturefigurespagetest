@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：オレンジ"
 executiveProducer: "-"
 species: "016C.ヒミズ"
-speciesGroup: "-"
+speciesGroup: "その他哺乳類"
 price: "-"
 releaseStart: "2002.02"
 genre:

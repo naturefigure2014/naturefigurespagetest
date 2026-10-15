@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "-"
 executiveProducer: "-"
 species: "ペット動物見本"
-speciesGroup: "-"
+speciesGroup: "その他/未分類"
 price: "-"
 releaseStart: "-"
 genre:

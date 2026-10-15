@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ハマグリ"
-speciesGroup: "-"
+speciesGroup: "その他軟体動物"
 price: "-"
 releaseStart: "2003.03"
 genre:

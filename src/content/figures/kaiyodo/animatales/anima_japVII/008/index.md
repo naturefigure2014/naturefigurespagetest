@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "QMN7. シークレット 人魚"
-speciesGroup: "-"
+speciesGroup: "妖怪"
 price: "300円 造形企画制作：海洋堂"
 releaseStart: "2014.09"
 genre:

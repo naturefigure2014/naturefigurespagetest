@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ヨナグニキノボリトカゲ"
-speciesGroup: "-"
+speciesGroup: "トカゲ類"
 price: "300円 造形企画制作：海洋堂"
 releaseStart: "2014.09"
 genre:

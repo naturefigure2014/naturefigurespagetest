@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ カプセルカラー：青"
 executiveProducer: "-"
 species: "ラブカ"
-speciesGroup: "-"
+speciesGroup: "サメ・エイ類"
 price: "-"
 releaseStart: "-"
 genre:

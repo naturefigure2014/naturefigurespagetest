@@ -8,7 +8,7 @@ maker: "-"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0008. クサフグ"
-speciesGroup: "-"
+speciesGroup: "フグ・カワハギ類"
 price: "-"
 releaseStart: "2003.04"
 genre:

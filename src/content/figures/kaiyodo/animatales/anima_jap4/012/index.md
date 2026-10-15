@@ -8,7 +8,7 @@ maker: "フルタ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アズマモグラ"
-speciesGroup: "-"
+speciesGroup: "その他哺乳類"
 price: "-"
 releaseStart: "2000.09"
 genre:

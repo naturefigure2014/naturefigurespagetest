@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "232b.シリケンイモリ オキナワシリケンイモリ"
-speciesGroup: "-"
+speciesGroup: "イモリ・サンショウウオ類"
 price: "-"
 releaseStart: "2005.03"
 genre:
