@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_jap10
 figureId: "009"
-maker: "タカラ"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "230a.ミシシッピアカミミガメ(♂)通常色固体"

@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/wagaten2
 figureId: "019"
-maker: "-"
-sculptor: "-"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "SP0002. 柴犬(胡麻毛)"
 speciesGroup: "食肉類"

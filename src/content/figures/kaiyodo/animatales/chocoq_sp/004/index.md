@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/chocoq_sp
 figureId: "004"
-maker: "タカラ"
-sculptor: "松村しのぶ カプセルカラー：白"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "206SP.アメリカザリガニ(青色変異個体)"
 speciesGroup: "エビ類"

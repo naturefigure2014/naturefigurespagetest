@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/animatales/syutenn
 figureId: "010"
 maker: "海洋堂"
-sculptor: "-"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ニホンザリガニ"
 speciesGroup: "エビ類"

@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/chocoegg_hyakka1
 figureId: "006"
-maker: "-"
-sculptor: "-"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "クサガメ(メラニズム個体)"
 speciesGroup: "カメ類"

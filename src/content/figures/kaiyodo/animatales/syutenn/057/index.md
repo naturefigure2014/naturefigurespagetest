@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/animatales/syutenn
 figureId: "057"
 maker: "海洋堂"
-sculptor: "-"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "エゾナキウサギ、キタキツネ、シマフクロウ根付"
 speciesGroup: "齧歯・兎類"

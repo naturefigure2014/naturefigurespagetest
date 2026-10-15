@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_pet1
 figureId: "010"
-maker: "フルタ"
-sculptor: "松村しのぶ カプセルカラー：クリア"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ウィペット（プリンドル＆ホワイト）"
 speciesGroup: "食肉類"

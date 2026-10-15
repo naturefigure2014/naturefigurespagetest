@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_pet3
 figureId: "003"
-maker: "タカラ"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "マンチカン(白赤)"

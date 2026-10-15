@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/chocoegg_hyakka2
 figureId: "002"
-maker: "-"
-sculptor: "-"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ニホンマムシ (赤色型)"
 speciesGroup: "ヘビ類"

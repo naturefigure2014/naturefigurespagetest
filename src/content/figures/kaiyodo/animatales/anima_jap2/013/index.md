@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_jap2
 figureId: "013"
-maker: "フルタ"
-sculptor: "松村しのぶ カプセルカラー：青"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "カブトガニ"
 speciesGroup: "カニ類"

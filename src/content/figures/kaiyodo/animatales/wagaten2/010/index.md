@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/wagaten2
 figureId: "010"
-maker: "-"
-sculptor: "-"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0028. トキ(生殖羽)"
 speciesGroup: "水鳥"

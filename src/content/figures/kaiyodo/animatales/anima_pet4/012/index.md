@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_pet4
 figureId: "012"
-maker: "タカラ"
-sculptor: "松村しのぶ カプセルカラー：薄い黄緑"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "セキセインコ（ヒナ）ノーマル"
 speciesGroup: "オウム・インコ類"

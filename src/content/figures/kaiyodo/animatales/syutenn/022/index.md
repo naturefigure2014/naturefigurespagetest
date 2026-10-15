@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/animatales/syutenn
 figureId: "022"
 maker: "海洋堂"
-sculptor: "-"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "コウノトリ"
 speciesGroup: "水鳥"

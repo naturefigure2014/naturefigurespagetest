@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_jap2
 figureId: "004"
-maker: "フルタ"
-sculptor: "松村しのぶ カプセルカラー：青"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ムツゴロウ"
 speciesGroup: "スズキ目の魚類"

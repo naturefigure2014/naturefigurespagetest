@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_jap5
 figureId: "019"
-maker: "フルタ"
-sculptor: "松村しのぶ カプセルカラー：青"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ハクビシン"
 speciesGroup: "食肉類"

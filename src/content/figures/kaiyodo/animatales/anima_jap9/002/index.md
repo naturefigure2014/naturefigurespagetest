@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_jap9
 figureId: "002"
-maker: "タカラ"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "209a.ムササビ(II)淡色型"

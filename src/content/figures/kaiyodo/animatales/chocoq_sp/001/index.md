@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/chocoq_sp
 figureId: "001"
-maker: "タカラ"
-sculptor: "松村しのぶ カプセルカラー：白"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "171SP.イイズナ(冬毛)"
 speciesGroup: "食肉類"

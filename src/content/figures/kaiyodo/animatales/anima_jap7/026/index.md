@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_jap7
 figureId: "026"
-maker: "タカラ"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "S04c. オオクワガタ(さなぎ)最終段階"

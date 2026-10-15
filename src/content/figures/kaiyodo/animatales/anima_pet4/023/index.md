@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_pet4
 figureId: "023"
-maker: "タカラ"
-sculptor: "松村しのぶ カプセルカラー：薄い黄緑"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ボーダーコリー（赤白）"
 speciesGroup: "食肉類"

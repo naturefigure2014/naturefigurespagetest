@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_jap10
 figureId: "015"
-maker: "タカラ"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "233b.アブラゼミ(幼虫)羽化直前状態"

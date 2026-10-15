@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_pet1
 figureId: "001"
-maker: "フルタ"
-sculptor: "松村しのぶ カプセルカラー：クリア"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "柴犬(赤)"
 speciesGroup: "食肉類"

@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_pet2
 figureId: "021"
-maker: "フルタ"
-sculptor: "松村しのぶ カプセルカラー：黄緑"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ブルテリア(ホワイト)"
 speciesGroup: "食肉類"

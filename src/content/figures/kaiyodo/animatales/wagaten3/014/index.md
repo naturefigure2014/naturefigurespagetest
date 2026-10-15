@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/wagaten3
 figureId: "014"
-maker: "-"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "SP0001. ハコエビ(白亜紀タイプ)"

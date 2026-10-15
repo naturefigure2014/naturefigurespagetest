@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/wagaten2
 figureId: "006"
-maker: "-"
-sculptor: "-"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0024. カブトムシ♂(赤褐色個体)"
 speciesGroup: "カブトムシ・クワガタ類"

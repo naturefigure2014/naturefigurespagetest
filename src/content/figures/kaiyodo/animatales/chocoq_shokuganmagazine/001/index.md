@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/chocoq_shokuganmagazine
 figureId: "001"
-maker: "-"
-sculptor: "-"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ヤエヤマミナミイシガメ(亜成体)"
 speciesGroup: "カメ類"

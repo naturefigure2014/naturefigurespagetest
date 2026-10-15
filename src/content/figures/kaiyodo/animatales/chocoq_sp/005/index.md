@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/chocoq_sp
 figureId: "005"
-maker: "タカラ"
-sculptor: "松村しのぶ カプセルカラー：白"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "213SP.ハロウェルアマガエル(体色変化)"
 speciesGroup: "カエル類"

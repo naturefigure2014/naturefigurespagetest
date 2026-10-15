@@ -38,8 +38,8 @@ freetag:
     value: "コチラ"
   - label: "カプセルQ日本の動物シリーズ"
     value: "I 東北/北限のサル、 II 沖縄奄美/やんばるの森 、 III 東京/巨大都市と離島 、 IV 四国/最後の清流の郷 、 V 琵琶湖/母なる古代湖 、 VI 北海道/蝦夷地の哺乳類 、 VII 八重山諸島/ヤマネコの島 、 VIII 日本アルプス／雷鳥の棲む岳 、 別巻 外来生物/新たな仲間たち"
-coverImage: "img/japI_header.png"
-collectionImage: "img/japI_header.png"
+coverImage: "img/japIall.jpg"
+collectionImage: "img/japIall.jpg"
 resources:
   guide:
     image: "img/capqanima1kaisetsu.jpg"

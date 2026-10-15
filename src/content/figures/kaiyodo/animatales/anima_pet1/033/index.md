@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_pet1
 figureId: "033"
-maker: "フルタ"
-sculptor: "松村しのぶ カプセルカラー：クリア"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "チャボ(ゴイシチャボ)"
 speciesGroup: "キジ・ニワトリ類"

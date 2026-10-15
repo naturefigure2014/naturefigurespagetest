@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/wagaten3
 figureId: "013"
-maker: "-"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "R0013. ゼニガタアザラシ(明色型)"

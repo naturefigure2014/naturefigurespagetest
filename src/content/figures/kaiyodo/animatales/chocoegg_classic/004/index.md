@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/chocoegg_classic
 figureId: "004"
-maker: "フルタ"
-sculptor: "松村しのぶ カプセルカラー：オレンジ"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "011C.ニホンカモシカ"
 speciesGroup: "偶蹄類"

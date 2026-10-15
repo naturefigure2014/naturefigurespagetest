@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/chocoegg_classic
 figureId: "010"
-maker: "フルタ"
-sculptor: "松村しのぶ カプセルカラー：オレンジ"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "040C.クチベニマイマイ"
 speciesGroup: "カタツムリ・ナメクジ類"

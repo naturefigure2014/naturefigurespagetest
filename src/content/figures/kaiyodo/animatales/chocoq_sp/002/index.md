@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/chocoq_sp
 figureId: "002"
-maker: "タカラ"
-sculptor: "松村しのぶ カプセルカラー：白"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "182SP.ハブ(久米島産)"
 speciesGroup: "ヘビ類"

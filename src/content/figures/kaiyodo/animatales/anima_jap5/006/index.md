@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_jap5
 figureId: "006"
-maker: "フルタ"
-sculptor: "松村しのぶ カプセルカラー：青"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "カマイルカ"
 speciesGroup: "クジラ・イルカ類"

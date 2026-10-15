@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/chocoq_sp
 figureId: "006"
-maker: "タカラ"
-sculptor: "松村しのぶ カプセルカラー：白"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "221SP.サワガニ(茶褐色型)"
 speciesGroup: "カニ類"

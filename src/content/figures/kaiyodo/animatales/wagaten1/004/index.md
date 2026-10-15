@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/wagaten1
 figureId: "004"
-maker: "天田印刷加工株式会社"
-sculptor: "-"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "トノサマバッタ"
 speciesGroup: "その他昆虫"

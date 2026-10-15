@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/chocoq_hyakka
 figureId: "002"
-maker: "-"
-sculptor: "-"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ミクラミヤマクワガタ(超黄紋型)"
 speciesGroup: "カブトムシ・クワガタ類"

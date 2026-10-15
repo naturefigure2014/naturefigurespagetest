@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/wagaten1
 figureId: "005"
-maker: "天田印刷加工株式会社"
-sculptor: "-"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アカショウビン"
 speciesGroup: "その他鳥類"

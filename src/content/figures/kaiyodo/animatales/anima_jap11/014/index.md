@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_jap11
 figureId: "014"
-maker: "すばる堂(タカラトミー系列)"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "249a.ニホンアマガエル通常色"

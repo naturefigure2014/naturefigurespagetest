@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_pet5
 figureId: "013"
-maker: "タカラ"
-sculptor: "松村しのぶ 原型ペイント：古田悟郎"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "△138.ジャービル シャム"
 speciesGroup: "齧歯・兎類"
