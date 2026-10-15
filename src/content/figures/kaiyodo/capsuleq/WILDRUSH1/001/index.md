@@ -1,5 +1,5 @@
 ---
-title: "1. ハシビロコウ"
+title: "ハシビロコウ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/WILDRUSH1
