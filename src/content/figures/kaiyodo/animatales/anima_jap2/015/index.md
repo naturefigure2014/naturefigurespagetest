@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ウサギコウモリ"
-speciesGroup: "齧歯・兎類"
+speciesGroup: "コウモリ類"
 price: "-"
 releaseStart: "-"
 genre:
