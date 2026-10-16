@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/manekineko2
 figureId: "003"
-species: "サーバル(ブラック)"
+species: "サーバル"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "manekineko2_001.jpg"
