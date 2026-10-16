@@ -28,8 +28,6 @@ freetag:
     value: "松村しのぶ"
   - label: "公式サイト"
     value: "コチラ"
-  - label: "【完売のお知らせ📢】 #恐竜博2023 特設ショップで販売していた「恐竜博2023オフィシャルカプセルフィギュア」は、好評につき完売しました。7月27日(木)現在、再入荷は予定しておりません。 https"
-    value: "//t.co/YLt6kPijfW"
 coverImage: "img/kyoryuhaku2023_024.jpg"
 collectionImage: "img/kyoryuhaku2023_024.jpg"
 resources:
