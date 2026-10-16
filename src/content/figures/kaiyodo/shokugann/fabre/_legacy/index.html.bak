@@ -1,0 +1,245 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>ファーブル昆虫記</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>海洋堂　ファーブル昆虫記</h4>
+		<table style="width: 100%">
+			<tr>
+				<td rowspan="2" style="width: 154px">
+				<a href="img/fabre001.jpg">
+				<!-- Documents/My Web Sites/mysite2/kaiyodo_syokugann/fabre/img/fabre001.jpg" --></a>
+				<img height="234" src="img/fabre024.jpg" width="760" /></td>
+			</tr>
+			<!--<tr>
+				<td valign="top" class="collection_page_lineup">
+				1. 聖なる昆虫ヒジリタマオシコガネ<br />
+				2. ヒジリタマオシコガネと梨玉<br />
+				3. 裏庭の猛獣キンイロオサムシ<br />
+				4. 麻酔針を持つ狩人アラメジガバチ<br />
+				5. 羽化するトネリコゼミ<br />
+				6. 遠来の求婚者ヒメクジャクヤママユ<br />
+				7. ラングドックサソリのダンス<br />
+				8. 虫の詩人ファーブル</td>
+			</tr>-->
+		</table>
+			<p>
+			■概要<br />
+			販売開始：2005年8月　原型製作：海洋堂　原型総指揮：松村しのぶ　原型塗装：古田悟郎<br />
+			セブンイレブン限定企画としてドリンクに付属。昆虫がテーマのシリーズですが「ファーブル昆虫記」をテーマにしているため、人気どころの昆虫がいないマニアックなラインナップ。<br />
+			フンコロガシをドリンクのおまけにできるのは、海洋堂の知名度があってこそ。<br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/fabre006_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/fabre012_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/fabre008_small.jpg" width="146" /></a></td><td>
+			<a href="#4">
+<img src="img/fabre018_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/fabre004_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/fabre014_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/fabre002_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/fabre016_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">1. 聖なる昆虫ヒジリタマオシコガネ</th></tr>
+			<tr><td>
+					<a href="img/fabre006.jpg">
+					<img height="283" src="img/fabre006_small.jpg" width="378" /></a><a href="img/fabre007.jpg"><img height="283" src="img/fabre007_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：菅谷　中<br />
+				食糞性コガネムシの仲間。昆虫記の最初の描写に出てくるようです。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">2. ヒジリタマオシコガネと梨玉</th></tr>
+			<tr><td>
+					<a href="img/fabre012.jpg">
+					<img height="283" src="img/fabre012_small.jpg" width="378" /></a><a href="img/fabre013.jpg"><img height="283" src="img/fabre013_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：菅谷　中<br />
+				ヒジリダマオシコガネが幼虫を育てる糞玉を作っているところをファーブルが初めて発見したシーン。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">3. 裏庭の猛獣キンイロオサムシ</th></tr>
+			<tr><td><a href="img/fabre008.jpg">
+					<img height="283" src="img/fabre008_small.jpg" width="378" /></a><a href="img/fabre009.jpg"><img height="283" src="img/fabre009_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				肉食性の昆虫。フィギュアは硬いカタツムリの殻に穴を開けてキンイロオサムシに与える実験の様子です。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">4. 麻酔針を持つ狩人アラメジガバチ</th></tr>
+			<tr><td><a href="img/fabre018.jpg">
+				<img height="283" src="img/fabre018_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/fabre/img/fabre018.jpg" --></a><a href="img/fabre019.jpg"><img height="283" src="img/fabre019_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/fabre/img/fabre019.jpg" --></a></td></tr>
+			<tr><td><a href="img/fabre020.jpg">
+				<img height="283" src="img/fabre020_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/fabre/img/fabre020.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				イモムシを襲うシーンを立体化。羽根はクリアパーツでカッコいい。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">5. 羽化するトネリコゼミ</th></tr>
+			<tr><td>
+					<a href="img/fabre004.jpg">
+					<img height="283" src="img/fabre004_small.jpg" width="378" /></a><a href="img/fabre005.jpg"><img height="283" src="img/fabre005_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				日本のエゾゼミに近い種。羽化の最中をフィギュア化。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">6. 遠来の求婚者ヒメクジャクヤママユ</th></tr>
+			<tr><td>
+					<a href="img/fabre014.jpg">
+					<img height="283" src="img/fabre014_small.jpg" width="378" /></a><a href="img/fabre015.jpg"><img height="283" src="img/fabre015_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				ファーブルが行った、メスのフェロモンでオスを呼び寄せる実験。</td></tr>
+			<!--
+			-->
+			<tr><th id="7">7. ラングドックサソリのダンス</th></tr>
+			<tr><td><a href="img/fabre002.jpg">
+					<img height="283" src="img/fabre002_small.jpg" width="378" /></a><a href="img/fabre003.jpg"><img height="283" src="img/fabre003_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：山本聖士<br />
+				アフリカとヨーロッパに生息。求婚の際は向かい合ってダンスをするように動くようです。</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">8. 虫の詩人ファーブル</th></tr>
+			<tr><td><a href="img/fabre016.jpg">
+					<img height="283" src="img/fabre016_small.jpg" width="378" /></a><a href="img/fabre017.jpg"><img height="283" src="img/fabre017_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：村田明玄<br />
+				ミツカドセンチコガネの観察をするファーブル先生。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">解説書</th></tr>
+			<tr><td><a href="img/fabrebook.jpg">
+				<img height="773" src="img/fabrebook_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">販促品？</th></tr>
+			<tr><td><a href="img/fabre021.jpg">
+				<img height="283" src="img/fabre021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/fabre/img/fabre021.jpg" --></a></td></tr>
+			<tr><td><a href="img/fabre022.jpg">
+				<img height="283" src="img/fabre022_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/fabre/img/fabre022.jpg" --></a><a href="img/fabre023.jpg"><img height="283" src="img/fabre023_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/fabre/img/fabre023.jpg" --></a></td></tr>
+			<tr><td class="comment"><a href="../../blog/blog20190721_2.html">
+				ホビー館四万十</a>で見つけた図鑑のようなボックス。<br />
+				販促品？</td></tr>
+			<!--
+			
+			<tr><th id="10">&nbsp;</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+
+			<!--
+					
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+						
+			</table>
+		
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

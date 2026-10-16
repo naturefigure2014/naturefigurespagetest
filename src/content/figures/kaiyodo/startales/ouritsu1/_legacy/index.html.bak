@@ -1,0 +1,327 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>王立科学博物館第一展示場</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>THE ROYAL MUSEUM OF SCIENCE<br />
+		王立科学博物館 第一展示場【月とその彼方】</h4>
+		<table style="width:100%">
+		<tr><td colspan="2"><a href="img/ouritsu_all.jpg">
+			<img height="283" src="img/ouritsu_all_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/kaiyodo_syokugann/ouritsu1/img/ouritsu_all.jpg" --></a><a href="img/ouritsu1mono005.jpg"><!-- Documents/My Web Sites/mysite2/kaiyodo_syokugann/ouritsu1/img/ouritsu1mono005.jpg" --></a></td></tr>
+			<tr>
+				<th colspan="2">ラインナップ<br />
+				</th>
+			</tr>
+			<tr>
+				<td class="waku_left" valign="top" style="width: 387px">
+				01. スプートニク・ショック<br />
+				　　　地球儀＆スプートニク衛星<br />
+				02. 月世界<br />
+				　　　月球儀＆レンジャー7号<br />
+				03. この10年以内に<br />
+				　　　ジェミニ宇宙船＆アジェナ標的衛星<br />
+				04. 赤いロボット<br />
+				　　　無人月探査機・ルノホート1号<br />
+				05. ロケットの夏<br />
+				　　　離床するサターンV型ロケット</td>
+								<td class="waku_right" valign="top" style="width: 387px">
+								06. 人類、月に立つ<br />
+								　　　月面に立つ宇宙飛行士<br />
+								07. ザ・ライト・スタッフ<br />
+								　　　月軌道を脱するアポロ13号<br />
+								08. サイエンス・フィクション<br />
+								　　　火星探査機・バイキング1号<br />
+								<span class="font_blue">09. フォン・ブラウンの夢<br />
+								　　　サターンV型＆クローラー</span><br />
+								<span class="font_red">X1. 鷲は舞い降りた<br />
+								　　　アポロ11号</span></td>
+
+			</tr>
+		</table>
+			<p>
+			■概要<br />
+			販売開始：2003年8月　価格：300円　総監督：岡田斗司夫　造形企画制作：海洋堂<br />
+			発売者：タカラ　販売者：ドリームズ・カム・トゥルー<br />
+			「スターテイルズ」シリーズ第1弾。宇宙開発をテーマにしたシリーズで、パッケージのデザインは"人類、月に立つ(上・下)"(アンドルー・チェイキン, 
+			日本放送出版協会)をオマージュしています。<br />
+			総監督の岡田氏が「解説書が本体でフィギュアはおまけ」というように、付属のミニパンフにはぎっしりと情報が詰め込まれています。さらにブリスターパッケージの裏側には宇宙工学で用いられる数式の解説までしてあります。<br />
+			第1弾が過去、第2弾が現在、そして第3弾が未来というラインナップの予定でしたが、第3弾は結局発売されることはありませんでした。<br />
+			<br />
+			■ラインナップと独特のタイトル<br />
+			第1弾は宇宙開発競争やアポロ計画を中心としたラインナップで、ナンバリングはだいたい開発年順になっているようです。<br />
+			ラインナップそれぞれのタイトルはパンフを読むことで意味の分かるという仕組みになっていてオシャレですね。<br />
+			<br />
+			■僕への影響<br />
+			僕はこの食玩をきっかけに宇宙開発に興味を持ち、大学や学部を選びました。結局その道はあきらめましたが、そんな理由でこのシリーズには特別な思い入れがあります。<br />
+			特別版：<a href="../ouritsu_mono">モノマガジン付録</a><br />
+			次弾：<a href="../ouritsu2_Black">第二展示場【黒のフロンティア】</a>　<a href="../ouritsu2_White">第二展示場【白のパイオニア】</a><br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/ouritsu1_024_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/ouritsu1_032_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/ouritsu1_020_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/ouritsu1_028_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/ouritsu1_001_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/ouritsu1_018_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/ouritsu1_031_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/ouritsu1_026_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/ouritsu1_022_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/ouritsu1mono008_small.jpg" width="146" /></a></td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">01. スプートニク・ショック<br />
+				地球儀＆スプートニク衛星</th></tr>
+			<tr><td><a href="img/ouritsu1_024.jpg">
+<img height="283" src="img/ouritsu1_024_small.jpg" width="378" /></a><a href="img/ouritsu1_025.jpg"><img height="283" src="img/ouritsu1_025_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				冷戦時代真っ只中の1957年にソ連によって打ち上げられた世界初の人工衛星。<br />
+				油断していたアメリカに大きなショックを与えた。<br />
+				フィギュアもアメリカの真上に衛星を配置して当時を再現しよう。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">02. 月世界<br />
+				月球儀＆レンジャー7号</th></tr>
+			<tr><td>
+	<a href="img/ouritsu1_032.jpg">
+	<img height="283" src="img/ouritsu1_032_small.jpg" width="378" /></a><a href="img/ouritsu1_033.jpg"><img height="283" src="img/ouritsu1_033_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				1961年から4年間に6回打ち上げられたレンジャー探査機は6回とも失敗。64年に打ち上げられた7号でついに月の画像の地球への送信に成功。そんな7号を月球儀とともに立体化。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">03. この10年以内に<br />
+				ジェミニ宇宙船＆アジェナ標的衛星</th></tr>
+			<tr><td><a href="img/ouritsu1_020.jpg">
+<img height="283" src="img/ouritsu1_020_small.jpg" width="378" /></a><a href="img/ouritsu1_021.jpg"><img height="283" src="img/ouritsu1_021_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：千種　巽<br />
+				<br />
+				アポロ計画のための様々なテストをしたのが1961年から1966年の「ジェミニ計画」。この計画の大きな目的は「長期間の宇宙滞在」「宇宙船同士のドッキングとランデブーの検証」など。<br />
+				「60年代のうちに人類を月に送り込む」というケネディ大統領の宣言でNASAスタッフ大慌て。<br />
+				フィギュアは支柱を入れ替えることでドッキングとランデブーが変えられます。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">04. 赤いロボット<br />
+				無人月探査機・ルノホート1号</th></tr>
+			<tr><td>
+	<a href="img/ouritsu1_028.jpg">
+	<img height="283" src="img/ouritsu1_028_small.jpg" width="378" /></a><a href="img/ouritsu1_029.jpg"><img height="283" src="img/ouritsu1_029_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：真鍋正一<br />
+				<br />
+				1970年にソ連が月に送り込んだ遠隔操作ロボット。時速1～2キロメートルの速度が当時の限界。これを5人がかりで操作していた。<br />
+				「赤い」とは社会主義のこと。宇宙飛行士の亡命を恐れ、当時のソ連の宇宙船には乗組員が操縦する手段がなかったとか。無人のロボットを送り込んだのもそんな背景があったのでしょう。<br />
+				フィギュアはソーラーパネルを開いた状態。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">05. ロケットの夏<br />
+				離床するサターンV型ロケット</th></tr>
+			<tr><td><a href="img/ouritsu1_001.jpg">
+<img height="283" src="img/ouritsu1_001_small.jpg" width="378" /></a><a href="img/ouritsu1_003.jpg"><img height="283" src="img/ouritsu1_003_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				1967年から1973年にかけて、アポロ計画やスカイラブ計画で使用されたロケット。ちなみにアポロ○号とは正式にはミッションの名前のことで、このロケットの名前ではない。<br />
+				この「ロケットの夏」というタイトルは「火星年代記(レイ・ブラッドベリ著)」からの引用のようです。<br />
+				噴煙や火柱を台座にした勢いのあるヴィネットフィギュア。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">06. 人類、月に立つ<br />
+				月面に立つ宇宙飛行士</th></tr>
+			<tr><td>
+	<a href="img/ouritsu1_018.jpg">
+	<img height="283" src="img/ouritsu1_018_small.jpg" width="378" /></a><a href="img/ouritsu1_019.jpg"><img height="283" src="img/ouritsu1_019_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：岡崎宣彦<br />
+				<br />
+				1969年7月20日、アポロ11号計画において月着陸船からアームストロング船長が人類で初めて月面に降り立ちました。アポロ17号計画までの間に12人が月面に降りています。<br />
+				フィギュアは宇宙飛行士と月着陸船イーグルの脚。はしごは月面での重力を考えているため、とても細いようです。宇宙服も細かく造りこまれています。</td></tr>
+			<!--
+			-->
+			<tr><th id="7">07. ザ・ライト・スタッフ<br />
+				月軌道を脱するアポロ13号</th></tr>
+			<tr><td><a href="img/ouritsu1_031.jpg">
+<img height="283" src="img/ouritsu1_031_small.jpg" width="378" /></a><a href="img/ouritsu1_030.jpg"><img height="283" src="img/ouritsu1_030_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：BEAGLE<br />
+				<br />
+				1970年に行われたアポロ13号計画。月着陸前に酸素タンクの爆発により月面探査どころか、地球への帰還も絶望的に。<br />
+				クルーは着陸船に避難し、地球と交信しながら生還を目指す。詳しくは映画「アポロ１３」を見ると良いだろう。<br />
+				クルーの生還は「奇跡の生還」とか「成功した失敗(successful 
+				failure)」とか言われているが、それはクルーをはじめとするすべてのNASA職員が「正しい資質（ライト・スタッフ）」の賜物である。<br />
+				フィギュアは着陸船のエンジンを点火した一瞬を立体化。司令船は無残な姿になっている。</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">08. サイエンス・フィクション<br />
+				火星探査機・バイキング1号</th></tr>
+			<tr><td><a href="img/ouritsu1_026.jpg">
+	<img height="283" src="img/ouritsu1_026_small.jpg" width="378" /></a><a href="img/ouritsu1_027.jpg"><img height="283" src="img/ouritsu1_027_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：真鍋正一<br />
+				<br />
+				1970年代にアメリカは火星に無人探査機を送り込む「バイキング計画」に着手し、1976年7月20日にバイキング1号を火星に着陸させることに成功しました。搭載されたカメラは火星の空が赤いことを明らかにしました。<br />
+				アポロ計画を目の当たりにし、「サイエンス・フィクション」を夢見た元・少年少女の技術者たちの夢が実現した出来事だったのでしょう。<br />
+				アンテナや全方位カメラなど、解説書を読みながらひとつずつ確認するのが楽しい。</td></tr>
+			<!--
+			-->
+			<tr><th id="9"><span class="font_blue">09. フォン・ブラウンの夢 サターンV型＆クローラー</span></th></tr>
+			<tr><td><a href="img/ouritsu1_022.jpg">
+<img height="283" src="img/ouritsu1_022_small.jpg" width="378" /></a><a href="img/ouritsu1_023.jpg"><img height="283" src="img/ouritsu1_023_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				ロケットを組立工場から6キロほど離れた発射場まで運ぶのが「クローラー・トランスポーター」と呼ばれる無限軌道(いわゆるキャタピラ)の輸送機である。サターンV型ロケットは組立工場で移動発射台とアンビリカルタワーを備え付けてからクローラーに乗せられて発射場へ向かう。<br />
+				<br />
+				アメリカのロケットの父、フォン・ブラウン博士は誰よりも宇宙に行くことを夢見てサターンV型ロケットの製作を指揮した。博士に夢を託されたロケットは宇宙飛行士を宇宙に送り届けて大西洋に落下する。<br />
+				<br />
+				フィギュアは05. 
+				ロケットの夏の部品を流用しており、そちらより地味な見た目は一見すると残念シークレットかもしれない。しかし解説書を読むことによって、文字通り縁の下でロケットを支えたクローラーに着目している点、英雄と呼ばれた宇宙飛行士たちを支えた博士の存在を知ることが出来る。</td></tr>
+			<!--
+			-->			
+			<tr><th id="11">箱</th></tr>
+			<tr><td><img height="601" src="img/ouritsu_hako.jpg" width="756" /></td></tr>
+			<tr><td class="comment">
+				月を背景にしたクールなデザイン。小学生時代にアピタのお菓子売り場でこれを発見した衝撃は今でも覚えています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="12">解説書　表/裏</th></tr>
+			<tr><td>
+<img height="530" src="img/ouritsu1_kaisetsu2.jpg" width="756" /></td></tr>
+			<tr><td>
+<img height="537" src="img/ouritsu1_kaisetsu1.jpg" width="756" /></td></tr>
+			<tr><td class="comment">折りたたまれた解説書は広げるとA4サイズ。自分の知っている食玩で最大のサイズの解説書。<br />
+				頭おかしい(褒め言葉)くらいの細かい解説。イラストは「ワールドタンクミュージアム(パンツァーテイルズ)」でも解説書のイラストを担当したモリナガ・ヨウ氏。</td></tr>
+			<!--
+			-->
+			<tr><th id="13">ブリスターパッケージ</th></tr>
+			<tr><td><a href="img/ouritsu1_005.jpg">
+<img height="283" src="img/ouritsu1_005_small.jpg" width="378" /></a><a href="img/ouritsu1_004.jpg"><img height="283" src="img/ouritsu1_004_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">台紙には美しい写真と宇宙の公式付き。</td></tr>
+			<!--
+			-->			
+			<tr><th id="14">チラシ　表/裏</th></tr>
+			<tr><td><img height="264" src="img/ouritsu1_linup.jpg" width="378" /></td></tr>
+			<tr><td class="comment">普通の味だった気がするんだけど・・・。</td></tr>
+			<!--
+			-->
+			<tr><th id="15">海外仕様</th></tr>
+			<tr><td><a href="../../blog/img2019/blog20190721_265.jpg">
+				<img height="283" src="../../blog/img2019/blog20190721_265_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">海外版（博物館で販売）。<br />
+				<br />
+				海外版はブラインドパッケージではなく、中身がわかる仕様で販売されたようです。<br />
+				ホビー館四万十で撮影。</td></tr>
+			<!--
+			-->	
+			<tr><th id="10"><span class="font_red">X1. 鷲は舞い降りた アポロ11号</span></th></tr>
+			<tr><td><a href="img/ouritsu1mono008.jpg">
+<img height="283" src="img/ouritsu1mono008_small.jpg" width="378" /></a><a href="img/ouritsu1mono001.jpg"><img height="283" src="img/ouritsu1mono001_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型製作：松本栄一郎<br />
+				<br />
+				monoマガジン特別付録。<br />
+				<a href="../ouritsu_mono">詳細はコチラ</a>。</td></tr>
+			<!--
+			-->
+		
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+						
+			</table>
+		
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

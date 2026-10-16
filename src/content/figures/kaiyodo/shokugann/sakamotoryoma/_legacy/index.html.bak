@@ -1,0 +1,228 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>坂本龍馬 その生涯の軌跡</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>海洋堂フィギュアコレクション<br />
+		坂本龍馬 -その生涯の軌跡-<br />
+			</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="279" src="img/ryoma022.jpg" width="760" /></td>
+			</tr>
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2010年3月　造形企画制作：海洋堂　キャンペーン事務局：ケンエレファント<br />
+			公式サイト：<a href="https://kaiyodo.co.jp/ryoma/" target="_blank">コチラ</a>（文字化け）<br />
+			大河ドラマ「龍馬伝」に合わせて、全国のセブンイレブンのドリンクキャンペーンとして展開されました。しかし、このときはまだ高知県にセブンイレブンが無かったため、ご当地では入手できないという状況でした。<br />
+			ラインナップは坂本龍馬にゆかりのある場所や出来事からなっており、年表順となっています。<br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/ryoma001_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/ryoma007_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/ryoma013_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/ryoma016_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/ryoma010_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/ryoma004_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/ryoma019_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">1. 龍馬誕生（1835年）</th></tr>
+			<tr><td><a href="img/ryoma001.jpg">
+				<img height="283" src="img/ryoma001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma001.jpg" --></a><a href="img/ryoma002.jpg"><img height="283" src="img/ryoma002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma002.jpg" --></a></td></tr>
+			<tr><td><a href="img/ryoma003.jpg">
+				<img height="283" src="img/ryoma003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma003.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				龍馬が生まれた場所・・・ではなく、土佐藩郷土の家に生まれた龍馬が幼少期から見ていた場所。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">2. 黒船来航（1853年）</th></tr>
+			<tr><td><a href="img/ryoma007.jpg">
+				<img height="283" src="img/ryoma007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma007.jpg" --></a><a href="img/ryoma008.jpg"><img height="283" src="img/ryoma008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma008.jpg" --></a></td></tr>
+			<tr><td><a href="img/ryoma009.jpg">
+				<img height="283" src="img/ryoma009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma009.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：市原俊成<br />
+				<br />
+				日本に開国を迫る、アメリカの軍艦が浦賀沖に襲来。<br />
+				龍馬は海外情勢に興味を持つようになる。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">3. 海軍操練所練習船「観光丸」（1863年）</th></tr>
+			<tr><td><a href="img/ryoma013.jpg">
+				<img height="283" src="img/ryoma013_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma013.jpg" --></a><a href="img/ryoma014.jpg"><img height="283" src="img/ryoma014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma014.jpg" --></a></td></tr>
+			<tr><td><a href="img/ryoma015.jpg">
+				<img height="283" src="img/ryoma015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma015.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：市原俊成<br />
+				<br />
+				脱藩（一方的に藩との主従関係を断ち切る・有罪）した龍馬は江戸へ。<br />
+				勝海舟の弟子となった龍馬は、「海軍操練所」の塾頭となる。<br />
+				フィギュアはオランダから贈呈された「観光丸」で、練習艦となった。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">4. グラバー邸（1865年）</th></tr>
+			<tr><td><a href="img/ryoma016.jpg">
+				<img height="283" src="img/ryoma016_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma016.jpg" --></a><a href="img/ryoma017.jpg"><img height="283" src="img/ryoma017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma017.jpg" --></a></td></tr>
+			<tr><td><a href="img/ryoma018.jpg">
+				<img height="283" src="img/ryoma018_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma018.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				長崎港開港直後にイギリス人商人のグラバーは、造船や武器といった海外の技術を扱う「グラバー商会」を設立し、龍馬が設立した亀山社中（のちの海援隊）とも取引がありました。<br />
+				グラバー邸は現在、グラバー園の「旧グラバー住宅」として見学することが出来ます。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">5. 新婚旅行（1866年）</th></tr>
+			<tr><td><a href="img/ryoma010.jpg">
+				<img height="283" src="img/ryoma010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma010.jpg" --></a><a href="img/ryoma011.jpg"><img height="283" src="img/ryoma011_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma011.jpg" --></a></td></tr>
+			<tr><td><a href="img/ryoma012.jpg">
+				<img height="283" src="img/ryoma012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma012.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：東田万偶斎<br />
+				<br />
+				襲撃を受けた龍馬は妻・お龍を伴って、傷に効くと評判の鹿児島の塩浸（しおびた）温泉へ。<br />
+				日本初の新婚旅行といわれています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">6. 龍馬落命の地（1867年）</th></tr>
+			<tr><td><a href="img/ryoma004.jpg">
+				<img height="283" src="img/ryoma004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma004.jpg" --></a><a href="img/ryoma005.jpg"><img height="283" src="img/ryoma005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma005.jpg" --></a></td></tr>
+			<tr><td><a href="img/ryoma006.jpg">
+				<img height="283" src="img/ryoma006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma006.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：東田万偶斎<br />
+				<br />
+				大政奉還の後、京都の宿屋で暗殺された龍馬。<br />
+				通説では犯人は新撰組と言われていますが、真相は闇の中。<br />
+				<br />
+				フィギュアはこの出来事を予感させるシーンとなっています。</td></tr>
+			<!--
+			-->
+			<tr><th id="7">7. 坂本龍馬像（1928年）</th></tr>
+			<tr><td><a href="img/ryoma019.jpg">
+				<img height="283" src="img/ryoma019_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma019.jpg" --></a><a href="img/ryoma020.jpg"><img height="283" src="img/ryoma020_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma020.jpg" --></a></td></tr>
+			<tr><td><a href="img/ryoma021.jpg">
+				<img height="283" src="img/ryoma021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma021.jpg" --></a><a href="img/ryoma023.jpg"><img height="283" src="img/ryoma023_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/sakamotoryoma/img/ryoma023.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：香川雅彦<br />
+				<br />
+				没後も桂浜で日本と世界を見守る龍馬。<br />
+				「<a href="../bussanntenn/Chugokushikoku#14">[フィギュア版]中国四国物産展</a>」（2007）とは別造形。<br />
+				このフィギュアは「<a href="../../kaiyodo_Capsule/cap_miyage/Kochi#1">高知フィギュアみやげ</a>」(2015)に流用されます。</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">解説書</th></tr>
+			<tr><td><img height="500" src="img/ryomabook.jpg" width="760" /></td></tr>
+			<tr><td class="comment">個別解説書が付属。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">パッケージ</th></tr>
+			<tr><td><img height="526" src="img/ryomapack.jpg" width="760" /></td></tr>
+			<tr><td class="comment">オープンパッケージ、すなわち食玩バブル崩壊の直前であることが分かります。</td></tr>
+			<!--
+					
+			<tr><th id="10">&nbsp;</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+	
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

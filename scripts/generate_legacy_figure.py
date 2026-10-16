@@ -374,7 +374,7 @@ def extract_sculptor(inner_html: str) -> str | None:
 
 
 def extract_items(main: Node):
-    resource_headings = {"解説書", "ミニブック", "ディスプレイポップ", "DP", "ミニパンフ", "ブックレット", "カプセル"}
+    resource_headings = {"解説書", "ミニブック", "ディスプレイポップ", "DP", "ミニパンフ", "ブックレット", "カプセル", "ラインナップ"}
     rows = direct_rows(main)
     items = []
     current = None
@@ -663,6 +663,12 @@ def find_continuation_sources(source: Path) -> list[Path]:
     )
 
 
+def item_key(item: dict) -> str:
+    """Numbered entries match by number (spelling varies between revisions), others by label."""
+    match = re.match(r"(\d+)\.", item["label"])
+    return str(int(match.group(1))) if match else item["label"]
+
+
 def generate(source: Path, content_type: str, extra_sources: list[Path] = (), options: argparse.Namespace | None = None):
     if source.parent.parent.name == "legacy-html":
         output_folder = Path.cwd().resolve()
@@ -704,8 +710,8 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = (), op
         extra_items = extract_items(extra_main)
         # An older revision of the same page (e.g. index_old.html) repeats the
         # lineup already collected; only genuinely new entries may continue it.
-        seen_labels = {item["label"] for item in items}
-        extra_items = [item for item in extra_items if item["label"] not in seen_labels]
+        seen_labels = {item_key(item) for item in items}
+        extra_items = [item for item in extra_items if item_key(item) not in seen_labels]
         print(f"{extra.name}: {len(extra_items)} items appended from #{len(items) + 1}")
         items.extend(extra_items)
     if options and options.species_map:
