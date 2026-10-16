@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/manekineko1
 figureId: "002"
-species: "スコティッシュフォールド(シルバー・クラシック・タビー＆ホワイト)"
-speciesGroup: "食肉類"
+species: ""
+speciesGroup: ""
 maker: "海洋堂"
 figureTopImage: "manekineko1_015.jpg"
 coverImage: "manekineko1_015.jpg"
