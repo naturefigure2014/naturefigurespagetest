@@ -1,0 +1,401 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>九州物産展</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>SAPPORO×ケンエレファント×海洋堂<br />
+		[フィギュア版]九州物産展<br />
+			</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="239" src="img/kyusyu060.jpg" width="760" /></td>
+			</tr>
+			
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2005年7月　キャンペーン事務局：（株）ケンエレファント　造形企画制作：海洋堂<br />
+			舞台は南の大地、九州へ。<br />
+			前作<a href="../Michinoku">[フィギュア版]みちのく物産展</a>からたった2ヶ月でリリースというのが恐ろしい。おまけを付けときゃなんでも売れる時代だったんでしょうなぁ。<br />
+			<br />
+			■次弾<br />
+			<a href="../HokkaidoHuyu">[フィギュア版]冬の北海道大物産展</a><br />
+			<br />
+			■関連フィギュア<br />
+			<a href="../../../kaiyodo_Capsule/kumamoto_kiko">くまもとカプセル紀行</a><br />
+			<a href="../../../kaiyodo_Capsule/cap_miyage/Fukuoka">福岡フィギュアみやげ</a><br />
+			<a href="../../../kaiyodo_Capsule/cap_miyage/Kyusyu">九州フィギュアみやげ</a><br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/kyusyu008_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/kyusyu011_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/kyusyu014_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/kyusyu034_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/kyusyu042_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/kyusyu046_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/kyusyu038_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/kyusyu024_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/kyusyu023_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/kyusyu001_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/kyusyu028_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/kyusyu058_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/kyusyu005_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/kyusyu055_small.jpg" width="146" /></a></td><td>&nbsp;</td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			
+			
+			<tr><th id="1">1. 大浦天主堂（長崎県）</th></tr>
+			<tr><td><a href="img/kyusyu008.jpg">
+				<img height="283" src="img/kyusyu008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu008.jpg" --></a><a href="img/kyusyu009.jpg"><img height="283" src="img/kyusyu009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu009.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu010.jpg">
+				<img height="283" src="img/kyusyu010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu010.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				「国宝建造物」のほとんどが神社や寺院のような日本建築ですが、大浦天主堂は西洋建築でありながら国宝に指定されています。<br />
+				これは、「潜伏キリシタン（隠れキリシタンとは微妙に違う）」たちが鎖国～開国の２５０年、ひっそりとキリスト教を信仰を守ってきたという文化背景があるため。<br />
+				<br />
+				フィギュアは石畳を含め、外観をリアルに表現しています。</td></tr>
+			<tr><td><a href="img/kyusyu061.jpg">
+				<img height="504" src="img/kyusyu061_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu061.jpg" --></a></td></tr>
+			<tr><td class="comment">
+				内部では美しいステンドグラスが見える・・・のですが、残念ながら僕が行った時にはすでに閉館時刻でした。</td></tr>
+			
+					
+			<tr><th id="2">2. 吉野ヶ里遺跡（佐賀県）</th></tr>
+			<tr><td><a href="img/kyusyu011.jpg">
+				<img height="283" src="img/kyusyu011_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu011.jpg" --></a><a href="img/kyusyu012.jpg"><img height="283" src="img/kyusyu012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu012.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu013.jpg">
+				<img height="283" src="img/kyusyu013_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu013.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：村田明玄<br />
+				<br />
+				国内最大の弥生時代の遺跡。<br />
+				卑弥呼の邪馬台国と同時期の「クニ（「国」が出来る前の自治単位）」と言われ、注目されてきました。<br />
+				現在は歴史公園となっており、当時の集落が再現されています。<br />
+				<br />
+				フィギュアは「物見やぐら」と「竪穴（たてあな）住居」。<br />
+				<br />
+				このフィギュアは<a href="../../../kaiyodo_Capsule/cap_miyage/Kyusyu">九州フィギュアみやげ</a>で復刻しました。</td></tr>
+			
+			
+			<tr><th id="3">3. 熊本城（熊本県）</th></tr>
+			<tr><td><a href="img/kyusyu014.jpg">
+				<img height="283" src="img/kyusyu014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu014.jpg" --></a><a href="img/kyusyu015.jpg"><img height="283" src="img/kyusyu015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu015.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu016.jpg">
+				<img height="283" src="img/kyusyu016_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu016.jpg" --></a><a href="img/kyusyu017.jpg"><img height="283" src="img/kyusyu017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu017.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：海野彼方<br />
+				<br />
+				解説書によれば「日本三名城のひとつ」であるが、何をもって「名城」とするかによって三名城に選ばれる城は変わるようです。<br />
+				<br />
+				熊本城の特徴である反り返った石垣は、侵入者が容易に上れない形状であるため「武者返し」と呼ばれているようです。<br />
+				<br />
+				フィギュアでは丁寧な屋根の塗装や、苔むした石垣の塗装がおみごと。<br />
+				<br />
+				このフィギュアは<a href="../../../kaiyodo_Capsule/cap_miyage/Kyusyu">九州フィギュアみやげ</a>で復刻しました。</td></tr>
+			
+					
+			<tr><th id="4">4. 辛子明太子（福岡県）</th></tr>
+			<tr><td><a href="img/kyusyu034.jpg">
+				<img height="283" src="img/kyusyu034_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu034.jpg" --></a><a href="img/kyusyu035.jpg"><img height="283" src="img/kyusyu035_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu035.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu036.jpg">
+				<img height="283" src="img/kyusyu036_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu036.jpg" --></a><a href="img/kyusyu037.jpg"><img height="283" src="img/kyusyu037_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu037.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				スケトウダラの卵巣（たらこ）を唐辛子入りの調味液に漬け込んだもの。<br />
+				山陽新幹線の開通とともに全国に広まりました。<br />
+				<br />
+				フィギュアは木桶入りの明太子を、シンプルな白飯で召し上がれ、なセット。<br />
+				明太子の細かな模様のほか、木桶に巻かれた銅の金具や竹製の持ち手などつくりが細かい。</td></tr>
+			
+			
+			<tr><th id="5">5. 長崎ちゃんぽん（長崎県）</th></tr>
+			<tr><td><a href="img/kyusyu042.jpg">
+				<img height="283" src="img/kyusyu042_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu042.jpg" --></a><a href="img/kyusyu043.jpg"><img height="283" src="img/kyusyu043_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu043.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu044.jpg">
+				<img height="283" src="img/kyusyu044_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu044.jpg" --></a><a href="img/kyusyu045.jpg"><img height="283" src="img/kyusyu045_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu045.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				今や全国で食べられるようになった、長崎市の中華料理店「四海樓（しかいろう）」で生まれたご当地料理。<br />
+				<br />
+				トッピングも丁寧に塗られています。<br />
+				器にはおそらく架空の店名、「長崎海洋軒」の文字と、迫力のある龍の絵にも注目。</td></tr>
+			
+					
+			<tr><th id="6">6. もつ鍋（福岡県）</th></tr>
+			<tr><td><a href="img/kyusyu046.jpg">
+				<img height="283" src="img/kyusyu046_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu046.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				福岡の郷土料理であるもつ鍋、またの名をホルモン鍋。<br />
+				ホルモンと大量のニラ・キャベツを醤油仕立てのスープで煮込みます。<br />
+				<br />
+				1992年に東京で一大ブームとなり、その年の流行語大賞にもノミネートされるほどの人気がありました。</td></tr>
+			<tr><td><a href="img/kyusyu047.jpg">
+				<img height="283" src="img/kyusyu047_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu047.jpg" --></a><a href="img/kyusyu049.jpg"><img height="283" src="img/kyusyu049_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu049.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu048.jpg">
+				<img height="283" src="img/kyusyu048_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu048.jpg" --></a></td></tr>
+			<tr><td class="comment">野菜がきれいに並べられた皿、特徴的なステンレス製の鍋にはすでにニラを投入済み。<br />
+				そして主役のホルモン。</td></tr>
+			<tr><td><a href="img/kyusyu050.jpg">
+				<img height="283" src="img/kyusyu050_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu050.jpg" --></a><a href="img/kyusyu051.jpg"><img height="283" src="img/kyusyu051_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu051.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu052.jpg">
+				<img height="283" src="img/kyusyu052_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu052.jpg" --></a></td></tr>
+			<tr><td class="comment">今回のガスコンロ枠（？）。今回も細部までこだわって作られています。</td></tr>
+			<tr><td><a href="img/kyusyu053.jpg">
+				<img height="283" src="img/kyusyu053_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu053.jpg" --></a><a href="img/kyusyu054.jpg"><img height="283" src="img/kyusyu054_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu054.jpg" --></a></td></tr>
+			<tr><td class="comment"><a href="../Hokkaido">北海道物産展</a>のものと同じでしょ？かと思いきやそうではない。</td></tr>
+			
+			
+			<tr><th id="7">7. 氷しろくま（鹿児島県）</th></tr>
+			<tr><td><a href="img/kyusyu038.jpg">
+				<img height="283" src="img/kyusyu038_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu038.jpg" --></a><a href="img/kyusyu039.jpg"><img height="283" src="img/kyusyu039_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu039.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu040.jpg">
+				<img height="283" src="img/kyusyu040_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu040.jpg" --></a><a href="img/kyusyu041.jpg"><img height="283" src="img/kyusyu041_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu041.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				かき氷に練乳・果物・小豆を乗せたものを「白くま（しろくま・白熊、表記はいろいろ）」と呼び、どこかが商標権を持っているわけではないようです。<br />
+				発祥の地は鹿児島、ということでラインナップされています。<br />
+				<br />
+				フィギュアは<a href="https://mujyaki.co.jp/shirokuma_detail/data_id/1" target="_blank">「天文館むじゃき」が販売している「白熊」</a>を忠実に再現しています。<br />
+				ふたつのレーズンでなんとなく白熊に見えないこともない。</td></tr>
+			
+					
+			<tr><th id="8">8. 桜島大根（鹿児島県）</th></tr>
+			<tr><td><a href="img/kyusyu024.jpg">
+				<img height="283" src="img/kyusyu024_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu024.jpg" --></a><a href="img/kyusyu025.jpg"><img height="283" src="img/kyusyu025_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu025.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu026.jpg">
+				<img height="283" src="img/kyusyu026_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu026.jpg" --></a><a href="img/kyusyu027.jpg"><img height="283" src="img/kyusyu027_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu027.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				一見カブのようにも見える、鹿児島県の伝統的な大根。<br />
+				重さは通常6kg、最大30kgにもなり世界最大サイズの大根としてギネスブックにも認定されています。<br />
+				大根が横に大きくなるのを妨げない、桜島のやわらかい火山灰土壌がこの独特な形の一因であるようです。<br />
+				<br />
+				フィギュアは収穫中のおばちゃん。お疲れ様です。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">9. ムツゴロウ（佐賀県）</th></tr>
+			<tr><td><a href="img/kyusyu018.jpg">
+				<img height="283" src="img/kyusyu018_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu018.jpg" --></a><a href="img/kyusyu023.jpg"><img height="283" src="img/kyusyu023_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu023.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu022.jpg">
+				<img height="283" src="img/kyusyu022_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu022.jpg" --></a><a href="img/kyusyu021.jpg"><img height="283" src="img/kyusyu021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu021.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：菅谷　中<br />
+				<br />
+				日本では九州の有明海・八代海に面した海岸や干潟のみに生息するハゼ科の魚。<br />
+				名前の由来が「むつっこい（脂っこい）ゴロ（ハゼ）」であるように、焼いても刺身でもおいしいらしい。<br />
+				<br />
+				アクアテイルズはボトルキャップに載せるという制約があるため、飛び跳ねるシーンにすることでタテに長い構図にしています。</td></tr>
+			
+					
+			<tr><th id="10">10. 西郷隆盛像（鹿児島県）</th></tr>
+			<tr><td><a href="img/kyusyu001.jpg">
+				<img height="283" src="img/kyusyu001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu001.jpg" --></a><a href="img/kyusyu002.jpg"><img height="283" src="img/kyusyu002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu002.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu003.jpg">
+				<img height="283" src="img/kyusyu003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu003.jpg" --></a><a href="img/kyusyu004.jpg"><img height="283" src="img/kyusyu004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu004.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				上野公園の西郷さんは着流し姿である一方、出身県・鹿児島の西郷隆盛像は軍服姿。<br />
+				<br />
+				江戸城無血開城に尽力したのちは鹿児島に帰郷し、西南戦争で城山で自刃。<br />
+				そんなわけで鹿児島市城山町にはこの西郷隆盛の銅像が立っています。<br />
+				<br />
+				銅像特有の経年劣化をうまくドライブラシで表現していますね。<br />
+				<br />
+				このフィギュアは<a href="../../../kaiyodo_Capsule/cap_miyage/Kyusyu">九州フィギュアみやげ</a>で復刻しました。</td></tr>
+			
+			
+			<tr><th id="11">11. 佐世保造船所（長崎県）</th></tr>
+			<tr><td><a href="img/kyusyu028.jpg">
+				<img height="283" src="img/kyusyu028_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu028.jpg" --></a><a href="img/kyusyu029.jpg"><img height="283" src="img/kyusyu029_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu029.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu032.jpg">
+				<img height="283" src="img/kyusyu032_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu032.jpg" --></a><a href="img/kyusyu033.jpg"><img height="283" src="img/kyusyu033_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu033.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu031.jpg">
+				<img height="283" src="img/kyusyu031_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu031.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：若島あさひ<br />
+				<br />
+				佐世保重工業（SSK）によって運営されている歴史ある造船所。1913年製の250tクレーン（フィギュアでは表現されていない）は登録有形文化財に指定されています。<br />
+				1962年には当時世界最大のタンカー「日章丸」を竣工するほどでしたが、最近は中国・韓国の勢いに押され苦戦・・・、というのがフィギュアがリリースされた時の状況でした。<br />
+				<br />
+				時は経ち2021年2月、SSKは新造船事業を2022年１月に休止し、以降は修繕事業を中心とすることを発表しました。<br />
+				新造船事業からの撤退が、取引相手だった地元中小企業に与える影響が心配されているようです。<br />
+				<br />
+				フィギュアではクレーンが立ち並ぶ造船ドックと、メンテナンスのためか接岸する豪華客船を「景色のミニチュア造形」として表現しています。</td></tr>
+					
+			<tr><th id="12">12. 種子島ロケット発射台（鹿児島県）</th></tr>
+			<tr><td><a href="img/kyusyu058.jpg">
+				<img height="283" src="img/kyusyu058_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu058.jpg" --></a><a href="img/kyusyu059.jpg"><img height="283" src="img/kyusyu059_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu059.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				鹿児島の種子島宇宙センターは周囲の大自然から、「世界一美しいロケット基地」と言われています。<br />
+				ロケットを打ち上げる際、いかに省エネで大気圏から離脱する速度（第一宇宙速度）に達するかがポイント。<br />
+				<br />
+				そのため、ロケットは東へ打ち上げることで地球の自転を利用し、速度を稼ぐ必要があります。<br />
+				（宇宙から見ると、ロケットの速度は 西から東への地球の自転速度 + ロケットの速度 になる）。<br />
+				<br />
+				さらに、地球の自転による地表の速度は赤道に近いほど速くなる（理系学生ならばv=rωで伝わる）ため、ロケット打ち上げ場所は「東側に市街地がなく、（日本においては）より南に位置する」場所が適しているといえ、種子島宇宙センターはロケット打ち上げにうってつけだということがわかります。<br />
+				<br />
+				フィギュアはH-IIAロケットの打ち上げの様子。<br />
+				エンジンから噴出される炎と煙でロケットを支えているのは<a href="../../ouritsu1">王立科学博物館</a>でおなじみの手法。</td></tr>
+			
+			
+			<tr><th id="13">13. 太宰府の木ウソ（福岡県）</th></tr>
+			<tr><td><a href="img/kyusyu005.jpg">
+				<img height="283" src="img/kyusyu005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu005.jpg" --></a><a href="img/kyusyu006.jpg"><img height="283" src="img/kyusyu006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu006.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu007.jpg">
+				<img height="283" src="img/kyusyu007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu007.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：海野彼方<br />
+				<br />
+				福岡の伝統工芸品。<br />
+				太宰府天満宮造営のとき、押し寄せた蜂の大群を鷽（うそ）の大群が追い払ったという言い伝えから、鷽は神の鳥として崇められています。<br />
+				木ウソは木に止まった鷽を表しており、羽部分は表面を削りだして反り返らせて表現しています。<br />
+				<br />
+				フィギュアでは実物と同じく、頭部に金色の紙を貼っています。<br />
+				この表現は海洋堂のフィギュアでは珍しいかも。<br />
+				<br />
+				後に発売される「<a href="https://kaiyodo.co.jp/nakagawa/" target="_blank">日本全国まめ郷土玩具蒐集</a>」の第1弾で復刻しました。</td></tr>
+			
+					
+			<tr><th id="14">14. 温泉美人（大分県）</th></tr>
+			<tr><td><a href="img/kyusyu055.jpg">
+				<img height="283" src="img/kyusyu055_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu055.jpg" --></a><a href="img/kyusyu056.jpg"><img height="283" src="img/kyusyu056_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu056.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyusyu057.jpg">
+				<img height="283" src="img/kyusyu057_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Kyusyu/img/kyusyu057.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				源泉数・湧出量ともに全国トップである、日本一の温泉県、大分県。<br />
+				別府や湯布院など、温泉の名所が数多くあります。<br />
+				<br />
+				別府の温泉は肌に優しい成分を多く含むことから「美人の湯」と呼ばれ女性に人気。<br />
+				<br />
+				フィギュアではお湯の色を温かみのある色にし、さらに岩石に湯気っぽいボカシ塗装をすることで、ひと目で温泉であることが分かります。<br />
+				[フィギュア版]九州物産展はセクシーフィギュアでフィニッシュです。</td></tr>
+			
+			
+			<!--
+			-->			
+			<tr><th id="16">解説書</th></tr>
+			<tr><td><a href="../img/kyusyubook1.jpg">
+		<img height="366" src="../img/kyusyubook1_small.jpg" width="378" /></a><a href="../img/kyusyubook2.jpg"><img height="382" src="../img/kyusyubook2_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<tr><th id="17">ラインナップ</th></tr>
+			<tr><td class="comment">1.大浦天主堂（長崎県）<br />
+				2.吉野ヶ里遺跡（佐賀県）<br />
+				3.熊本城（熊本県）<br />
+				4.辛子明太子（福岡県）<br />
+				5.長崎ちゃんぽん（長崎県）<br />
+				6.もつ鍋（福岡県）<br />
+				7.氷しろくま（鹿児島県）<br />
+				8.桜島大根（鹿児島県）<br />
+				9.ムツゴロウ（佐賀県）<br />
+				10.西郷隆盛像（鹿児島県）<br />
+				11.佐世保造船所（長崎県）<br />
+				12.種子島ロケット発射台（鹿児島県）<br />
+				13.太宰府の木ウソ（福岡県）<br />
+				14.温泉美人（大分県）</td></tr>
+			<!--
+			-->			
+						
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

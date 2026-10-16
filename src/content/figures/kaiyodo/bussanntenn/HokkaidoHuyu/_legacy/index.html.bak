@@ -1,0 +1,385 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>冬の北海道大物産展</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>SAPPORO×ケンエレファント×海洋堂<br />
+		[フィギュア版]冬の北海道大物産展<br />
+			</h4>
+		<table style="width: 100%">
+			<tr>
+				<td style="height: 18px">
+				<img height="265" src="img/hokkaidohuyu053.jpg" width="760" /></td>
+			</tr>
+			
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2006年1月　キャンペーン事務局：（株）ケンエレファント　造形企画制作：海洋堂<br />
+			北海道がテーマの物産展シリーズとしては、第一弾「<a href="../Hokkaido">[フィギュア版]北海道大物産展</a>」がリリースされましたが、やはり国内最大面積の都道府県はひとつの弾には収まらなかったのでしょう。まだ製品化されていない地域を差し置いて、2度目の北海道です。<br />
+			加えて、今回は豪雪地域ならではの文化にもフォーカスを当てています。<br />
+			<br />
+			■次弾<br />
+			<a href="../Chugokushikoku">[フィギュア版]中国四国物産展</a></p>
+		</div>
+		<div id="collection_page_main">
+
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/hokkaidohuyu039_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/hokkaidohuyu001_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/hokkaidohuyu022_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/hokkaidohuyu043_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/hokkaidohuyu030_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/hokkaidohuyu048_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/hokkaidohuyu033_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/hokkaidohuyu011_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/hokkaidohuyu004_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/hokkaidohuyu008_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/hokkaidohuyu014_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/hokkaidohuyu026_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/hokkaidohuyu018_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/hokkaidohuyu040_small.jpg" width="146" /></a></td><td>&nbsp;</td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">1.雪まつりの雪像（ノルウェーの国会議事堂）</th></tr>
+			<tr><td><a href="img/hokkaidohuyu037.jpg">
+				<img height="283" src="img/hokkaidohuyu037_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu037.jpg" --></a><a href="img/hokkaidohuyu038.jpg"><img height="283" src="img/hokkaidohuyu038_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu038.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu039.jpg">
+				<img height="283" src="img/hokkaidohuyu039_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu039.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：海野彼方<br />
+				<br />
+				1950年から始まった、2月に開催される北海道の一大イベント。<br />
+				フィギュアはリリースされた年の前年である、2005年に制作されたノルウェーの国会議事堂の雪像。<br />
+				2005年はノルウェーの独立＆日本との国交樹立100周年でした。<br />
+				<br />
+				フィギュアは雪像だから真っ白、というわけではなく、奥まった部分は水色にすることでメリハリを付けています。</td></tr>
+			<!--
+			-->	
+			<tr><th id="2">2.雪まつりの雪像（名古屋城）</th></tr>
+			<tr><td><a href="img/hokkaidohuyu001.jpg">
+				<img height="283" src="img/hokkaidohuyu001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu001.jpg" --></a><a href="img/hokkaidohuyu002.jpg"><img height="283" src="img/hokkaidohuyu002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu002.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu003.jpg">
+				<img height="283" src="img/hokkaidohuyu003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu003.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：海野彼方<br />
+				<br />
+				こちらも時事ネタ。<br />
+				2005年は愛知万博が開催されたというつながりで名古屋城の雪像が作られました。<br />
+				<br />
+				後ろの木は雪像のサイズ感を表現するためだと考えられる。</td></tr>
+			<!--
+			-->	
+			<tr><th id="3">3.ササラ電車</th></tr>
+			<tr><td><a href="img/hokkaidohuyu022.jpg">
+				<img height="283" src="img/hokkaidohuyu022_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu022.jpg" --></a><a href="img/hokkaidohuyu023.jpg"><img height="283" src="img/hokkaidohuyu023_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu023.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu024.jpg">
+				<img height="283" src="img/hokkaidohuyu024_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu024.jpg" --></a><a href="img/hokkaidohuyu025.jpg"><img height="283" src="img/hokkaidohuyu025_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu025.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				<a href="../../../blog/blog20161219.html">冬の北海道はマジでヤバイ</a>。積もった雪で横断歩道が見えないのには驚きました。札幌市民は地下街を活用しているのですね。<br />
+				<br />
+				一方、路面電車である札幌市電はそんなことは言っていられないので、除雪車である「ササラ電車」（正式名称ロータリーブルーム式電動除雪車）が活躍しています。進行方向に対して斜めに取り付けられた竹製のホウキ、「ササラ」をくるくる回すことで、路肩に雪をどかしていきます。<br />
+				<br />
+				フィギュアでも激しくかき出された雪を表現しています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">4.AIR DO（ノーマル / 風景ペイント）</th></tr>
+			<tr><td><a href="img/hokkaidohuyu043.jpg">
+				<img height="283" src="img/hokkaidohuyu043_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu043.jpg" --></a><a href="img/hokkaidohuyu045.jpg"><img height="283" src="img/hokkaidohuyu045_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu045.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu044.jpg">
+				<img height="283" src="img/hokkaidohuyu044_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu044.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：海野彼方<br />
+				<br />
+				首都圏と北海道を結ぶ北海道国際空港、通称AIR DO。<br />
+				2002年に経営破たんした後、ANAの支援を得て復活し、東京-札幌、東京-旭川、東京-函館の3路線を運行中・・・、というのがフィギュアリリース時（2005年）までの情報で、2008年に仙台、2009年に新潟・福島・富山・石川と、着実に路線を拡大しています。<br />
+				2012年には社号を株式会社AIRDOに変更しました。<br />
+				<br />
+				翼の「JA98AD」は「機体記号」であり、国際民間航空機関（ICAO）に加盟する航空機を識別するために付けられています。<br />
+				<br />
+				これにより、機種はボーイング767-300であることがわかります。<br />
+				AIRDOの機体は爽やかなカラーの塗装が特徴。</td></tr>
+			<tr><td><a href="img/hokkaidohuyu046.jpg">
+				<img height="283" src="img/hokkaidohuyu046_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu046.jpg" --></a><a href="img/hokkaidohuyu054.jpg"><img height="283" src="img/hokkaidohuyu054_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu054.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu047.jpg">
+				<img height="283" src="img/hokkaidohuyu047_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu047.jpg" --></a></td></tr>
+			<tr><td class="comment">アナザーカラーの「風景ペイント」。<br />
+				最初はどこが風景なんだ、と思いましたが、水玉ひとつひとつが風景写真なのですね。<br />
+				フィギュアのプリントではちょっと分かりづらい。<br />
+				<br />
+				ここまでページ作ってから気付いたのですが、ノーマルカラーの方がシークレットでした。</td></tr>
+			<!--
+			-->	
+			<tr><th id="5">5.スープカレー</th></tr>
+			<tr><td><a href="img/hokkaidohuyu030.jpg">
+				<img height="283" src="img/hokkaidohuyu030_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu030.jpg" --></a><a href="img/hokkaidohuyu031.jpg"><img height="283" src="img/hokkaidohuyu031_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu031.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu032.jpg">
+				<img height="283" src="img/hokkaidohuyu032_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu032.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				今回のサッポロビールはスープカレーのお供。<br />
+				<br />
+				北海道でカレーといえばスープカレー。<br />
+				スープカレーは漢方とスパイスをミックスした「薬膳カレー」として、「アジャンタ　インドカリ店」によって生み出されました。<br />
+				フィギュアは現在のアジャンタのスープカレーを再現しています。<br />
+				ごろっと入ったチキン、にんじん、ピーマンはフィギュアにしやすいですね。<br />
+				<br />
+				このフィギュアは<a href="../../../kaiyodo_Capsule/cap_miyage/Hokkaido1">北海道フィギュアみやげVol.1</a>(2012)でビールを除いて復刻します。</td></tr>
+			<!--
+			-->				
+			<tr><th id="6">6.石狩鍋</th></tr>
+			<tr><td><a href="img/hokkaidohuyu048.jpg">
+				<img height="283" src="img/hokkaidohuyu048_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu048.jpg" --></a><a href="img/hokkaidohuyu049.jpg"><img height="283" src="img/hokkaidohuyu049_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu049.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu051.jpg">
+				<img height="283" src="img/hokkaidohuyu051_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu051.jpg" --></a><a href="img/hokkaidohuyu050.jpg"><img height="283" src="img/hokkaidohuyu050_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu050.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				ぶつ切りの鮭と野菜を、味噌仕立ての汁で煮込む鍋料理。<br />
+				名前の由来は鮭が多く獲れた石狩川から。<br />
+				<br />
+				相変わらず鍋フィギュアはパーツが多くて手が込んでいます。<br />
+				鮭は煮る前と後で色が変わっていますね。</td></tr>
+			<!--
+			-->	
+			<tr><th id="7">7.ゆでタラバガニ</th></tr>
+			<tr><td><a href="img/hokkaidohuyu033.jpg">
+				<img height="283" src="img/hokkaidohuyu033_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu033.jpg" --></a><a href="img/hokkaidohuyu034.jpg"><img height="283" src="img/hokkaidohuyu034_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu034.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：山本聖士<br />
+				<br />
+				トゲトゲの甲羅、長くて太い脚のタラバガニ。<br />
+				水揚げしたばかりの新鮮なタラバガニを茹でて、急速冷凍することでおいしさをキープしています。<br />
+				あえて木枠を小さく作ることで、タラバガニの大きさを強調しているのでしょう。</td></tr>
+			<tr><td><a href="img/hokkaidohuyu036.jpg">
+				<img height="283" src="img/hokkaidohuyu036_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu036.jpg" --></a></td></tr>
+			<tr><td class="comment">北海道を代表する食材であるカニ。<br />
+				冷たい海をたくましく生きたその身は絶品。</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">8.北海のタラバガニ</th></tr>
+			<tr><td><a href="img/hokkaidohuyu011.jpg">
+				<img height="283" src="img/hokkaidohuyu011_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu011.jpg" --></a><a href="img/hokkaidohuyu012.jpg"><img height="283" src="img/hokkaidohuyu012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu012.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu013.jpg">
+				<img height="283" src="img/hokkaidohuyu013_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu013.jpg" --></a><a href="img/hokkaidohuyu035.jpg"><img height="283" src="img/hokkaidohuyu035_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu035.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：山本聖士<br />
+				<br />
+				今回はアクアテイルズ枠がふたつ。<br />
+				ひとつめがタラバガニ。<br />
+				カニ類はハサミ含め脚が10本あるのに対し、タラバガニは8本なのでヤドカリの仲間。<br />
+				ヤドカリなのにカニっぽい。これは収斂進化らしい。<br />
+				<br />
+				かつてエビの仲間で尻尾を小さくしたグループはヤドカリへ、さらに小さくしたグループはカニへ進化しました。<br />
+				このとき、ヤドカリの仲間で尻尾を小さくしてカニっぽくなった・・・、というグループのひとつがタラバガニなのだ。<br />
+				<br />
+				フィギュアはそんなタラバガニの生前の（？）姿。<br />
+				このフィギュアは<a href="../../hokkaido_land">北海道ランド</a>(2013)でストラップ仕様になって復刻します。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">9.流氷とゴマフアザラシ</th></tr>
+			<tr><td><a href="img/hokkaidohuyu004.jpg">
+				<img height="283" src="img/hokkaidohuyu004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu004.jpg" --></a><a href="img/hokkaidohuyu005.jpg"><img height="283" src="img/hokkaidohuyu005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu005.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu006.jpg">
+				<img height="283" src="img/hokkaidohuyu006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu006.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：菅谷　中<br />
+				<br />
+				ふたつめのアクアテイルズ。<br />
+				ロシアのほうから南下してくる流氷とともにやってくるアザラシ。北海道には様々な種類のアザラシがやってきます。<br />
+				可愛らしい半面、水産物を食い荒らす害獣としての側面もあるようです。<br />
+				<br />
+				フィギュアはゴマ模様も丁寧に塗られています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">10.湿原のタンチョウヅル</th></tr>
+			<tr><td><a href="img/hokkaidohuyu008.jpg">
+				<img height="283" src="img/hokkaidohuyu008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu008.jpg" --></a><a href="img/hokkaidohuyu009.jpg"><img height="283" src="img/hokkaidohuyu009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu009.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu010.jpg">
+				<img height="283" src="img/hokkaidohuyu010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu010.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：菅谷　中<br />
+				<br />
+				乱獲により絶滅したと考えられていたタンチョウでしたが、釧路湿原で生存が確認されて以来、手厚い保護で数を増やしてきました。解説書（2006年時点）では900羽ほどに回復したとありますが、その後は・・・<a href="../../../kaiyodo_Capsule/cap_miyage/Hokkaido4">北海道フィギュアみやげVol.4</a>に続く。<br />
+				<br />
+				フィギュアは首を持ち上げて鳴くポーズ。</td></tr>
+			<!--
+			-->	
+			<tr><th id="11">11.ジャンプ競技</th></tr>
+			<tr><td><a href="img/hokkaidohuyu014.jpg">
+				<img height="283" src="img/hokkaidohuyu014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu014.jpg" --></a><a href="img/hokkaidohuyu015.jpg"><img height="283" src="img/hokkaidohuyu015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu015.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu016.jpg">
+				<img height="283" src="img/hokkaidohuyu016_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu016.jpg" --></a><a href="img/hokkaidohuyu017.jpg"><img height="283" src="img/hokkaidohuyu017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu017.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				北海道では各地でスキージャンプ大会が実施されており、日本を代表する多くのジャンパーを排出しています。<br />
+				もちろんスキージャンプだけでなく、北海道は多くのウィンタースポーツのメッカでもあります。<br />
+				<br />
+				フィギュアは透明台座でジャンプ中の選手をフィギュア化。<br />
+				スキー板とゼッケンには「KAIYODO」、首には「Mizuna」（Mizunoではない）の表記があります。<br />
+				<br />
+				<a href="../../../kaiyodo_Capsule/cap_miyage/Hokkaido3">
+				北海道フィギュアみやげVol.3</a>(2013)で復刻・・・かと思いきや、そちらは女性ジャンパー。<br />
+				このフィギュアは<a href="../../../kaiyodo_Capsule/cap_miyage/Shinsyu">信州フィギュアみやげ</a>(2017)で復刻します。</td></tr>
+			<!--
+			-->			
+			<tr><th id="12">12.雪かき道具</th></tr>
+			<tr><td><a href="img/hokkaidohuyu026.jpg">
+				<img height="283" src="img/hokkaidohuyu026_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu026.jpg" --></a><a href="img/hokkaidohuyu028.jpg"><img height="283" src="img/hokkaidohuyu028_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu028.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu027.jpg">
+				<img height="283" src="img/hokkaidohuyu027_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu027.jpg" --></a><a href="img/hokkaidohuyu029.jpg"><img height="283" src="img/hokkaidohuyu029_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu029.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				豪雪地域である北海道では雪かき器具は必須。<br />
+				雪かき器具といえばスコップ状のものを思い浮かべますが、北海道では巨大な両手もちサイズもよく使われるようです。<br />
+				フィギュアはそんな冬の北海道の日常を表現しています。</td></tr>
+			<!--
+			-->	
+			<tr><th id="13">13.雪の札幌時計台</th></tr>
+			<tr><td><a href="img/hokkaidohuyu018.jpg">
+				<img height="283" src="img/hokkaidohuyu018_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu018.jpg" --></a><a href="img/hokkaidohuyu019.jpg"><img height="283" src="img/hokkaidohuyu019_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu019.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu020.jpg">
+				<img height="283" src="img/hokkaidohuyu020_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu020.jpg" --></a><a href="img/hokkaidohuyu021.jpg"><img height="283" src="img/hokkaidohuyu021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu021.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				<a href="../Hokkaido/#14">前作でラインナップされていた</a>札幌時計台（の時計部分）が雪化粧をして再登場。<br />
+				塗装だけでなく、降り積もった雪の造形も追加されています。<br />
+				白いからこそ、赤い星（北極星を旗印とした開拓使のシンボルマーク）が目立ちます。</td></tr>
+			<!--
+			-->				
+			<tr><th id="14">14.雪のクラーク像</th></tr>
+			<tr><td><a href="img/hokkaidohuyu040.jpg">
+				<img height="283" src="img/hokkaidohuyu040_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu040.jpg" --></a><a href="img/hokkaidohuyu041.jpg"><img height="283" src="img/hokkaidohuyu041_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu041.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaidohuyu042.jpg">
+				<img height="283" src="img/hokkaidohuyu042_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu042.jpg" --></a><a href="img/hokkaidohuyu052.jpg"><img height="283" src="img/hokkaidohuyu052_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu052.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				こちらも<a href="../Hokkaido/#5">前作でラインナップされていた</a>クラーク像の雪化粧バージョン。<br />
+				しれっと右手の向きが修正されています。</td></tr>
+			<!--
+			-->	
+			<!--
+			-->			
+			<tr><th id="15">解説書</th></tr>
+			<tr><td><a href="../img/hokkaido2book1.jpg">
+		<img height="385" src="../img/hokkaido2book1_small.jpg" width="378" /></a><a href="../img/hokkaido2book2.jpg"><img height="412" src="../img/hokkaido2book2_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<tr><th id="16">パッケージ</th></tr>
+			<tr><td><a href="img/hokkaidohuyu055.jpg">
+				<img height="283" src="img/hokkaidohuyu055_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/HokkaidoHuyu/img/hokkaidohuyu055.jpg" --></a></td></tr>
+			<tr><td><a href="../img/hokkaido2hako.jpg">
+		<img height="330" src="../img/hokkaido2hako_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<tr><th id="17">ラインナップ</th></tr>
+			<tr><td class="comment">1.雪まつりの雪像（ノルウェーの国会議事堂）<br />
+				2.雪まつりの雪像（名古屋城）<br />
+				3.ササラ電車<br />
+				4.AIR DO（風景ペイント）<br />
+				5.スープカレー<br />
+				6.石狩鍋<br />
+				7.ゆでタラバガニ<br />
+				8.北海のタラバガニ<br />
+				9.流氷とゴマフアザラシ<br />
+				10.湿原のタンチョウヅル<br />
+				11.ジャンプ競技<br />
+				12.雪かき道具<br />
+				13.雪の札幌時計台<br />
+				14.雪のクラーク像<br />
+				シークレット:AIR DO（ノーマル）</td></tr>			
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

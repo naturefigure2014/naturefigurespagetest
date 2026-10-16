@@ -1,0 +1,387 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>みちのく物産展</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>SAPPORO×ケンエレファント×海洋堂<br />
+		[フィギュア版]みちのく物産展<br />
+			</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="298" src="img/michinoku028.jpg" width="760" /></td>
+			</tr>
+			
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2005年5月　キャンペーン事務局：（株）ケンエレファント　造形企画制作：海洋堂<br />
+			みちのく、もともとは陸奥国（むつのくに）である福島県、宮城県、岩手県、青森県をさす言葉でしたが、秋田と山形を加えた東北地方を指すこともあるようです。<br />
+			<a href="../Hokkaido">北海道</a>、<a href="../Okinawa">沖縄</a>と続いた「フィギュア版物産展シリーズ」は第3弾でいよいよ本州に上陸。勢いは止まりません。ラインナップはシリーズ最多の全17種（表記上は16種）。<br />
+			<br />
+			■次弾<br />
+			<a href="../Kyusyu">[フィギュア版]九州物産展</a><br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/michinoku029_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/michinoku008_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/michinoku013_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/michinoku019_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/michinoku040_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td><a href="#8">
+<img src="../img/bussanntenn024_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="../img/bussanntenn032_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/michinoku032_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/michinoku038_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/michinoku022_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/michinoku025_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/michinoku035_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/michinoku001_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#16">
+<img src="img/michinoku004_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td><td>&nbsp;</td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			
+			
+			<tr><th id="1">1. 雪景色（秋田県）</th></tr>
+			<tr><td><a href="img/michinoku029.jpg">
+				<img height="283" src="img/michinoku029_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku029.jpg" --></a><a href="img/michinoku030.jpg"><img height="283" src="img/michinoku030_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku030.jpg" --></a></td></tr>
+			<tr><td><a href="img/michinoku031.jpg">
+				<img height="283" src="img/michinoku031_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku031.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				豪雪地帯である東北地方では、多いところでは３メートルも雪が積もるらしい。<br />
+				フィギュアでは雪が積もった古民家を表現。<br />
+				かまくらもある点に注目。</td></tr>
+			
+					
+			<tr><th id="2">2. 雪ぐつとかんじき</th></tr>
+			<tr><td><a href="img/michinoku008.jpg">
+				<img height="283" src="img/michinoku008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku008.jpg" --></a><a href="img/michinoku009.jpg"><img height="283" src="img/michinoku009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku009.jpg" --></a></td></tr>
+			<tr><td><a href="img/michinoku010.jpg">
+				<img height="283" src="img/michinoku010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku010.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				雪の多い東北地方では欠かせない、わらで編んだ「雪ぐつ」と木や竹を円形にした「かんじき」。<br />
+				「かんじき」は体重を分散させることで、雪に足が沈みづらくするもの。<br />
+				雪以外にも、泥の上（水田）で使用することもあるようです。<br />
+				<br />
+				フィギュアは細かい「わら」を造形と塗装で見事に再現しています。</td></tr>
+			
+			
+			<tr><th id="3">3. 青森ねぶた（青森県）</th></tr>
+			<tr><td><a href="img/michinoku013.jpg">
+				<img height="283" src="img/michinoku013_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku013.jpg" --></a><a href="img/michinoku014.jpg"><img height="283" src="img/michinoku014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku014.jpg" --></a></td></tr>
+			<tr><td><a href="img/michinoku015.jpg">
+				<img height="283" src="img/michinoku015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku015.jpg" --></a><a href="img/michinoku016.jpg"><img height="283" src="img/michinoku016_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku016.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				青森県各地で行われる祭り、ねぶた祭り。大勢の市民が掛け声とともに巨大な山車（だし）灯篭を引いて街を練り歩きます。<br />
+				元は七夕行事として行われていたものが、一週間かけて行われる夏祭りになったそうな。<br />
+				<br />
+				フィギュアは東北三大祭のひとつ、青森市の「青森ねぶた」において、2004年にねぶた大賞に選出された「孫悟空 
+				閻魔庁を騒がす」をモデルにしているとのこと。<br />
+				本来は台座のあいている部分に「JR東日本グループ」と大きく入っていたのですが、フィギュアでは省略されています。</td></tr>
+			<tr><td><a href="img/michinoku017.jpg">
+				<img height="283" src="img/michinoku017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku017.jpg" --></a><a href="img/michinoku018.jpg"><img height="283" src="img/michinoku018_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku018.jpg" --></a></td></tr>
+			<tr><td class="comment">閻魔大王と孫悟空。それぞれ細かく塗装されています。<br />
+				間違いなく、物産展シリーズ最高傑作と言えるでしょう。</td></tr>
+			
+					
+			<tr><th id="4">4. なまはげ 赤/青 （秋田県）</th></tr>
+			<tr><td><a href="img/michinoku019.jpg">
+				<img height="283" src="img/michinoku019_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku019.jpg" --></a><a href="img/michinoku020.jpg"><img height="283" src="img/michinoku020_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku020.jpg" --></a></td></tr>
+			<tr><td><a href="img/michinoku021.jpg">
+				<img height="283" src="img/michinoku021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku021.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				秋田県の文化。<br />
+				大晦日（または1月15日）に「泣ぐ子（ゴ）は居ねがー」「悪い子（ゴ）は居ねがー」の奇声とともに現れる。<br />
+				<br />
+				鬼のお面のみツヤ塗装で際立っています。<br />
+				<br />
+				解説書は赤青共通で、「赤か青どちらかのなまはげが1つ入っています。」と記載されており、ナンバリングは分けられていません。</td></tr>
+			
+			
+			<tr><th id="5">5. りんご（青森県）</th></tr>
+			<tr><td><a href="img/michinoku040.jpg">
+				<img height="283" src="img/michinoku040_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku040.jpg" --></a></td></tr>
+			<tr><td><a href="img/michinoku042.jpg">
+				<img height="283" src="img/michinoku042_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku042.jpg" --></a><a href="img/michinoku041.jpg"><img height="283" src="img/michinoku041_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku041.jpg" --></a></td></tr>
+			<tr><td><a href="img/michinoku043.jpg">
+				<img height="283" src="img/michinoku043_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku043.jpg" --></a><a href="img/michinoku044.jpg"><img height="283" src="img/michinoku044_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku044.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				青森はリンゴの生産量日本一。<br />
+				1875年に明治政府により栽植されたのが始まりだといわれています。<br />
+				教育現場では美術の課題としてしばしば用いられるのと同じように、フィギュアメーカーの技術力を測る題材になる・・・かもしれない。<br />
+				今回のフィギュアの出来栄えは優等生でしょう。</td></tr>
+			
+					
+			<tr><th id="6">6. きりたんぽ鍋</th></tr>
+			<tr><td>未入手</td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明</td></tr>
+			
+			
+			<tr><th id="7">7. 喜多方ラーメン（福島県）</th></tr>
+			<tr><td>未入手</td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">8. ホヤ</th></tr>
+			<tr><td><a href="../img/bussanntenn024.jpg">
+		<img height="283" src="../img/bussanntenn024_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：松村しのぶ<br />
+				<br />
+				食感から「海のパイナップル」と呼ばれる珍味。<br />
+				貝の様に岩場に固着するが、分類的には脊索（せきさく）動物。ヒトやサカナのように、内骨格を持つ生き物ということですね。<br />
+				幼体はオタマジャクシのように動き回り、成長過程で変態するという不思議な生き物。<br />
+				遺伝子操作すれば脊椎動物の進化の研究に使用できるのだとか。<br />
+				<br />
+				フィギュアは食材としてではなく生体としての立体化のため、「アクアテイルズ」としてボトルキャップつき。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">9. 下北のニホンザル（青森県）</th></tr>
+			<tr><td><a href="../img/bussanntenn032.jpg">
+		<img height="283" src="../img/bussanntenn032_small.jpg" width="378" /></a><a href="../img/bussanntenn033.jpg"><img height="283" src="../img/bussanntenn033_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：松村しのぶ<br />
+				<br />
+				青森県下北半島に生息するニホンザルは、地球上で最も北に住むサル。<br />
+				寒さ対策のため、体毛はもふもふ。<br />
+				<br />
+				フィギュアは親子で立体化。北限のサルとしては「<a href="../../../anima/syutenn/syutenn3.html#21">週刊日本の天然記念物</a>」や「<a href="../../../anima/anima_japI">カプセルQ</a>」でも立体化されています。</td></tr>
+			
+					
+			<tr><th id="10">10. 南部鉄器（岩手県）</th></tr>
+			<tr><td><a href="img/michinoku032.jpg">
+				<img height="283" src="img/michinoku032_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku032.jpg" --></a></td></tr>
+			<tr><td><a href="img/michinoku033.jpg">
+				<img height="283" src="img/michinoku033_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku033.jpg" --></a><a href="img/michinoku034.jpg"><img height="283" src="img/michinoku034_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku034.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：海野彼方<br />
+				<br />
+				全国的に有名な鉄器で、たぶん「鉄の急須」と言えばこれが出てくる。<br />
+				起源は平安時代の鋳物師といわれ、江戸時代に鋳物業として定着しました。<br />
+				<br />
+				錆びにくく、保温性に優れ、熱が均一に伝わるという特徴があります。<br />
+				水道水を沸かすと白湯ですらうまいとテレビで言っていました。<br />
+				仕組みはよくわかりませんが、錆が出ても人体に悪影響はないらしい。<br />
+				<br />
+				世界的にも人気で、現在は輸出にも力を入れているそうです。</td></tr>
+			
+			
+			<tr><th id="11">11. 鳴子のこけし（宮城県）</th></tr>
+			<tr><td><a href="img/michinoku038.jpg">
+				<img height="283" src="img/michinoku038_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku038.jpg" --></a><a href="img/michinoku039.jpg"><img height="283" src="img/michinoku039_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku039.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：海野彼方<br />
+				<br />
+				「伝統的」とされるこけしは東北地方で生産されているものに限られ、宮城県大崎市の鳴子温泉地域で生産されるこけしの特徴は首を回すとキィキィと音がなる点。<br />
+				<br />
+				フィギュアはサイズ違いで２つ収録。</td></tr>
+			
+						
+			<tr><th id="12">12. 三春駒・八幡馬 (A)（福島県・青森県）</th></tr>
+			<tr><td><a href="img/michinoku022.jpg">
+				<img height="283" src="img/michinoku022_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku022.jpg" --></a></td></tr>
+			<tr><td><a href="img/michinoku023.jpg">
+				<img height="283" src="img/michinoku023_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku023.jpg" --></a><a href="img/michinoku024.jpg"><img height="283" src="img/michinoku024_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku024.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				馬の産地が多い東北地方の郷土玩具で、子馬→駒（こま）と呼ばれています。<br />
+				<br />
+				ラインナップでは三春駒（福島県）、八幡（やわた）馬（青森県）をピックアップし、No.12のAセットとNo.13のBセットでカラーと大小を入れ替えています。<br />
+				<br />
+				白が三春駒。前胸は花模様、腹掛けはトラ縞模様が特徴。<br />
+				黒が八幡馬。模様は嫁入りに見られた乗馬の衣装を表しており、前胸の複雑な模様は千代紙を貼って表現されます。</td></tr>
+			
+			
+			<tr><th id="13">13. 三春駒・八幡馬 (B)（福島県・青森県）</th></tr>
+			<tr><td><a href="img/michinoku025.jpg">
+				<img height="283" src="img/michinoku025_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku025.jpg" --></a></td></tr>
+			<tr><td><a href="img/michinoku026.jpg">
+				<img height="283" src="img/michinoku026_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku026.jpg" --></a><a href="img/michinoku027.jpg"><img height="283" src="img/michinoku027_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku027.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				No.12のAセットと合わせると、それぞれ大小セットにすることが出来ます。</td></tr>
+			
+					
+			<tr><th id="14">14. 伊達政宗騎馬像（宮城県）</th></tr>
+			<tr><td><a href="img/michinoku035.jpg">
+				<img height="283" src="img/michinoku035_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku035.jpg" --></a><a href="img/michinoku036.jpg"><img height="283" src="img/michinoku036_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku036.jpg" --></a></td></tr>
+			<tr><td><a href="img/michinoku037.jpg">
+				<img height="283" src="img/michinoku037_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku037.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				豊臣秀吉、徳川家康に仕えた武将。<br />
+				仙台城跡には騎馬像が立ち、街を見守っています。<br />
+				1933年に制作されたのち、戦時に鉄資源として回収されてしまいましたが、石膏原型が残っていたため、1964年に復刻しました。<br />
+				<br />
+				フィギュアは細かなところまで丁寧に造形されています。</td></tr>
+			
+			
+			<tr><th id="15">15. 恐山のイタコ（青森県）</th></tr>
+			<tr><td><a href="img/michinoku001.jpg">
+				<img height="283" src="img/michinoku001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku001.jpg" --></a><a href="img/michinoku002.jpg"><img height="283" src="img/michinoku002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku002.jpg" --></a></td></tr>
+			<tr><td><a href="img/michinoku003.jpg">
+				<img height="283" src="img/michinoku003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku003.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				日本三大霊場のひとつ、菩提寺（ぼだいじ）がある恐山。<br />
+				夏と秋の祭りで「イタコ」と呼ばれる巫女による「口寄せ」（降霊術）が行われます。<br />
+				<br />
+				実際はフィギュアのように野ざらしでやっているわけではないようです。<br />
+				恐山の雰囲気を詰め込みましたって感じですね。<br />
+				恐山の卒塔婆はかなり背が高く、屋根つき。</td></tr>
+			
+					
+			<tr><th id="16">16. 秋田小町（秋田県）</th></tr>
+			<tr><td><a href="img/michinoku004.jpg">
+				<img height="283" src="img/michinoku004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku004.jpg" --></a><a href="img/michinoku005.jpg"><img height="283" src="img/michinoku005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku005.jpg" --></a></td></tr>
+			<tr><td><a href="img/michinoku006.jpg">
+				<img height="283" src="img/michinoku006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku006.jpg" --></a><a href="img/michinoku007.jpg"><img height="283" src="img/michinoku007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku007.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				世界三大美女の一人である小野小町（秋田県出身）。<br />
+				このことから「小町」は美人を指す言葉となり、秋田県の美女は秋田小町と呼ばれるようになりました。<br />
+				コメの名前としてもおなじみですね。<br />
+				<br />
+				着物の柄の印刷が非常に細かく美しい。市女笠を外せば小町が表れる・・・？</td></tr>
+			<!--
+			-->
+			<tr><th id="17">解説書</th></tr>
+			<tr><td><a href="../img/michinokubook2.jpg">
+		<img height="403" src="../img/michinokubook2_small.jpg" width="378" /></a><a href="../img/michinokubook1.jpg"><img height="383" src="../img/michinokubook1_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<tr><th id="18">パッケージ</th></tr>
+			<tr><td><a href="img/michinoku011.jpg">
+				<img height="283" src="img/michinoku011_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku011.jpg" --></a><a href="img/michinoku012.jpg"><img height="283" src="img/michinoku012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Michinoku/img/michinoku012.jpg" --></a></td></tr>
+			<tr><td class="comment">ビールの上に取り付けられていました。</td></tr>
+			<!--
+			-->			
+			<tr><th id="19">ラインナップ</th></tr>
+			<tr><td class="comment">1.雪景色（秋田県）<br />
+				2.雪ぐつとかんじき<br />
+				3.青森ねぶた（青森県）<br />
+				4.なまはげ（秋田県）<br />
+				4.なまはげ（色違い）<br />
+				5.りんご（青森県）<br />
+				6.きりたんぽ鍋<br />
+				7.喜多方ラーメン（福島県）<br />
+				8.ホヤ<br />
+				9.下北のニホンザル（青森県）<br />
+				10.南部鉄器（岩手県）<br />
+				11.鳴子のこけし（宮城県）<br />
+				12.三春駒・八幡馬(A)（福島県・青森県）<br />
+				13.三春駒・八幡馬(B)（福島県・青森県）<br />
+				14.伊達政宗騎馬像（宮城県）<br />
+				15.恐山のイタコ（青森県）<br />
+				16.秋田小町（秋田県）</td></tr>
+			<!--
+			-->
+			<!--
+			-->			
+						
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

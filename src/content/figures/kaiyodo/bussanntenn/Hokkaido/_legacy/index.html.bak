@@ -1,0 +1,426 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>北海道物産展</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>SAPPORO×ケンエレファント×海洋堂<br />
+		[フィギュア版]北海道大物産展<br />
+			</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="313" src="img/hokkaido050.jpg" width="760" /></td>
+			</tr>
+									
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2003年7月　キャンペーン事務局：（株）ケンエレファント　造形企画制作：海洋堂<br />
+			いまなお続く海洋堂×ケンエレファントのご当地フィギュアシリーズは、この弾から始まりました。<br />
+			<br />
+			■物産展<br />
+			物産展（ぶっさんてん）とは、任意の地域を限定して、その産物を紹介・販売するイベント（Wikipedia調べ）。まだネットが普及する前の時代では、地方の文化（主に食）に触れられる貴重な機会でした。<br />
+			その文化体験をフィギュアでやろう、というのがこの[フィギュア版]物産展シリーズ。<br />
+			一方で、後に始まる「フィギュアみやげ」シリーズは「旅行先の思い出をフィギュアで持って帰ろう」という一歩踏み込んだコンセプトとなっています。<br />
+			<br />
+			■ケンエレファント<br />
+			今や海洋堂製以外のオリジナルフィギュアも販売するメーカーとなったケンエレファントですが、創立当初は海洋堂などのフィギュアを飲料に景品として付属させる「キャンペーン屋さん」でした（ケンエレファントの歴史は公式サイトの<a href="https://kenelephant.co.jp/15th/" target="_blank">このページ</a>が面白い※PCモードで閲覧推奨）。<br />
+			<br />
+			■仕様<br />
+			コンビニで販売されるサッポロビールに、フィギュアと特徴的な形の解説書が付属しました。<br />
+			パッケージはプラケース（または紙製の箱）とビニールの２タイプ。<br />
+			一部のフィギュアの原型は正当後継シリーズである「フィギュアみやげ」シリーズに流用されています。見比べてみるのもおもしろいですね。<br />
+			<br />
+			■アクアテイルズ<br />
+			当時、海洋堂の水棲生物フィギュアは「<a href="../../../aqua">アクアテイルズ</a>」のシリーズ名で展開され、販売形態を変えながらも「ボトルキャップが付属する」という仕様が一貫していました。[フィギュア版]物産展シリーズにラインナップされている水棲生物にもこのボトルキャップが採用されており、アクアテイルズコンプ勢は物産展シリーズにまで手を出すハメになります。<br />
+			<br />
+			■次弾<br />
+			<a href="../Okinawa">[フィギュア版]沖縄物産展</a><br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/hokkaido001_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/hokkaido004_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/hokkaido006_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/hokkaido010_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/hokkaido020_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/hokkaido023_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/hokkaido025_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/hokkaido028_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/hokkaido030_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/hokkaido037_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/hokkaido039_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/hokkaido043_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/hokkaido044_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/hokkaido047_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/hokkaido054_small.jpg" width="146" /></a></td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->	
+			<tr><th id="1">毛がに</th></tr>
+			<tr><td><a href="img/hokkaido001.jpg">
+				<img height="283" src="img/hokkaido001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido001.jpg" --></a><a href="img/hokkaido002.jpg"><img height="283" src="img/hokkaido002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido002.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaido003.jpg">
+				<img height="283" src="img/hokkaido003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido003.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				時期を変えながら北海道各地の海で取れる高級食材、毛ガニ。<br />
+				体に生える短い剛毛は、フィギュアでは塗装で再現されています。<br />
+				皿に添えられている飾り葉は、おそらく「ヒバ」（ひのきの別名）<br />
+				<br />
+				ボトルキャップには英名と学名が記載。<br />
+				色はバードテイルズや海洋堂のキャラクターモノに使用されているものと同じ。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">新巻鮭</th></tr>
+			<tr><td><a href="img/hokkaido004.jpg">
+				<img height="283" src="img/hokkaido004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido004.jpg" --></a><a href="img/hokkaido005.jpg"><img height="283" src="img/hokkaido005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido005.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				鮭の漁獲量日本一である北海道。<br />
+				鮭の内蔵を取り出し、塩漬けにした「新巻鮭」はお中元にぴったり。<br />
+				<br />
+				フィギュアは高橋由一の「鮭図」をモチーフにしています。<br />
+				メタリックな塗装がきれいですね。<br />
+				<br />
+				<a href="../../../kaiyodo_Capsule/cap_miyage/Hokkaido1">
+				北海道フィギュアみやげVol.1</a>では同一原型で復刻、<a href="../../../kaiyodo_Capsule/CapQ/uokore">カプセルQミュージアム</a>では新規造形のものを見ることが出来ます。</td></tr>
+			<!--
+			-->	
+			<tr><th id="3">十勝のじゃがいも</th></tr>
+			<tr><td><a href="img/hokkaido006.jpg">
+				<img height="283" src="img/hokkaido006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido006.jpg" --></a><a href="img/hokkaido007.jpg"><img height="283" src="img/hokkaido007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido007.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaido008.jpg">
+				<img height="283" src="img/hokkaido008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido008.jpg" --></a><a href="img/hokkaido009.jpg"><img height="283" src="img/hokkaido009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido009.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				北海道東部の十勝地方で取れるジャガイモ。<br />
+				ジャワ島から「ジャガタライモ」として渡ってきたものが、中国の馬鈴薯（ばれいしょ・マメ科のホドイモ）と混同して、ジャガイモの別名が「ばれいしょ」になったそうな。<br />
+				<br />
+				ひとくちにジャガイモといってもいくつか品種があり、有名なのはメークインや男爵、インカのめざめなどがあります。<br />
+				<br />
+				フィギュアはダンボールからあふれまくっている男爵いも。<br />
+				ダンボールのプリントも細かい。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">サッポロビール園のジンギスカン</th></tr>
+			<tr><td><a href="img/hokkaido010.jpg">
+				<img height="283" src="img/hokkaido010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido010.jpg" --></a><a href="img/hokkaido011.jpg"><img height="283" src="img/hokkaido011_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido011.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				社名のとおり、札幌の醸造所からはじまったサッポロビール。<br />
+				札幌にある「サッポロビール園」では北海道民のソウルフード、ジンギスカンをサッポロビールとともに楽しめます。<br />
+				<br />
+				フィギュアはそのジンギスカンセットですが、おそらくラインナップ中で一番の細かさではなかろうか。</td></tr>
+			<tr><td><a href="img/hokkaido013.jpg">
+				<img height="283" src="img/hokkaido013_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido013.jpg" --></a><a href="img/hokkaido012.jpg"><img height="283" src="img/hokkaido012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido012.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaido014.jpg">
+				<img height="283" src="img/hokkaido014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido014.jpg" --></a></td></tr>
+			<tr><td class="comment">まずはカセットコンロ。<br />
+				ロゴはリンナイと見せかけて「ピンナイ」。<br />
+				赤文字は「ハイパワーガスコンロ19○○（見えない）」と書いてあります。<br />
+				オモテ面の焦げついた表現や、裏側のすす汚れなど恐ろしいディテール。</td></tr>
+			<tr><td><a href="img/hokkaido015.jpg">
+				<img height="283" src="img/hokkaido015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido015.jpg" --></a><a href="img/hokkaido016.jpg"><img height="283" src="img/hokkaido016_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido016.jpg" --></a></td></tr>
+			<tr><td class="comment">北海道の大地を模した鉄板に、キャベツ・もやし・カボチャが並びます。</td></tr>
+			<tr><td><a href="img/hokkaido017.jpg">
+				<img height="283" src="img/hokkaido017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido017.jpg" --></a></td></tr>
+			<tr><td class="comment">
+				最近は技術の進歩により、凍らせず流通させる「生ラム」が主流ですが、それ以前は冷凍のロール肉を薄くスライスした「ロールラム」が主流だったようです。<br />
+				<br />
+				そんなわけでフィギュアはきれいに並べられたロールラム。</td></tr>
+			<tr><td><a href="img/hokkaido018.jpg">
+				<img height="283" src="img/hokkaido018_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido018.jpg" --></a><a href="img/hokkaido019.jpg"><img height="283" src="img/hokkaido019_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido019.jpg" --></a></td></tr>
+			<tr><td class="comment">23 [mm]ほどの小さなはし袋に細かい印刷がしてあります。</td></tr>
+			<!--
+			-->	
+			<tr><th id="5">クラーク像</th></tr>
+			<tr><td><a href="img/hokkaido020.jpg">
+				<img height="283" src="img/hokkaido020_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido020.jpg" --></a><a href="img/hokkaido021.jpg"><img height="283" src="img/hokkaido021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido021.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaido022.jpg">
+				<img height="283" src="img/hokkaido022_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido022.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				ボーイズビーアンビシャスでおなじみのクラーク博士。<br />
+				北海道開拓の指導者を育成するため、アメリカから招かれたお雇い外国人。<br />
+				掲げた腕は「はるかかなたにある永遠の真理」を指しているとのことです。<br />
+				<br />
+				裏面にはクラーク博士の来歴が書かれており、フィギュアでもギリ読めます。</td></tr>
+			<tr><td><a href="img/hokkaido051.jpg">
+				<img height="504" src="img/hokkaido051_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido051.jpg" --></a><a href="img/hokkaido053.jpg"><img height="504" src="img/hokkaido053_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido053.jpg" --></a></td></tr>
+			<tr><td class="comment">クラーク像は見晴らしのよい「さっぽろ羊ヶ丘展望台」にあります。<br />
+				その名のとおり、モコモコした羊がたくさんいました。</td></tr>
+			<!--
+			-->				
+			<tr><th id="6">「味の三平」の味噌ラーメン</th></tr>
+			<tr><td><a href="img/hokkaido023.jpg">
+				<img height="283" src="img/hokkaido023_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido023.jpg" --></a><a href="img/hokkaido024.jpg"><img height="283" src="img/hokkaido024_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido024.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				札幌を代表する「味噌ラーメン」、その発祥の「味の三平」は現在も札幌で営業中。<br />
+				<br />
+				フィギュアは透明な接着剤のようなもので表面をコーティングすることで、スープに沈む麺を表現しています。<br />
+				丁寧に造形にあわせて塗られたネギにはもはや狂気を感じる。</td></tr>
+			<!--
+			-->	
+			<tr><th id="7">木彫りクマ</th></tr>
+			<tr><td><a href="img/hokkaido025.jpg">
+				<img height="283" src="img/hokkaido025_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido025.jpg" --></a><a href="img/hokkaido026.jpg"><img height="283" src="img/hokkaido026_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido026.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaido027.jpg">
+				<img height="283" src="img/hokkaido027_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido027.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				明治維新により職を失った旧尾張藩士族たち。北海道へ集団移住して開拓を進めました。<br />
+				大正23年に尾張徳川家の当主、徳川義親が彼らへ送ったスイス産の木彫りのクマが、今日まで伝統工芸となりました。当時は鮭を咥えていませんでしたが、いつのまにか鮭を咥える姿がスタンダードになったようです。<br />
+				<br />
+				フィギュアは台座の木の年輪にまで力が入っています。<br />
+				<br />
+				後に発売される「<a href="../../../kaiyodo_Capsule/cap_miyage/Hokkaido2">北海道フィギュアみやげVol.2</a>」では木彫りではないヒグマがフィギュア化されます。</td></tr>
+			<!--
+			-->				
+			<tr><th id="8">ACLビンと小樽ガラス工芸のグラス</th></tr>
+			<tr><td><a href="img/hokkaido028.jpg">
+				<img height="283" src="img/hokkaido028_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido028.jpg" --></a><a href="img/hokkaido029.jpg"><img height="283" src="img/hokkaido029_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido029.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				かつて、ビールといえば「熱処理ビール」が主流でした。熱処理をしない「生ビール」に定評のあるサッポロビールは、1977年に「サッポロびん生」を全国展開を開始します。<br />
+				<br />
+				フィギュアはその「びん生」のルーツである「サッポロ壜生（びんなま）ビール」を再現しており、ガラス表面に直接ラベルを印刷する技術はACL(Applied 
+				Ceramic Label)と呼ばれています。<br />
+				<br />
+				生ビールをおいしく飲むにはグラスにもこだわれ、ということなのか、小樽ガラス工芸のグラスもセットです。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">キタキツネとナキウサギ</th></tr>
+			<tr><td><a href="img/hokkaido030.jpg">
+				<img height="283" src="img/hokkaido030_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido030.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松村しのぶ<br />
+				<br />
+				北の大地の動物、ということで松村さんのキタキツネとナキウサギがラインナップ。<br />
+				<br />
+				もともとはホビージャパンの連載「真・世界動物誌」の第48回「キタの動物たち」用に造り下ろされたものをサイズダウンしたものとなっています。<br />
+				<br />
+				当時の連載によると、南国びいきの松村さんにとって、キタの動物たちはまだほとんど作ったことが無いとのことでした。ご存知のとおり、後のアニマテイルズシリーズでは多くのキタの動物たちを造形することになります。</td></tr>
+			<tr><td><a href="img/hokkaido031.jpg">
+				<img height="283" src="img/hokkaido031_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido031.jpg" --></a><a href="img/hokkaido032.jpg"><img height="283" src="img/hokkaido032_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido032.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaido033.jpg">
+				<img height="283" src="img/hokkaido033_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido033.jpg" --></a></td></tr>
+			<tr><td class="comment">アカギツネは北海道では「キタキツネ」と呼ばれることが多い。<br />
+				耳の後ろと足先が黒くなっているのがポイント。<br />
+				<br />
+				今回はディフォルメ調ですが、<a href="../../../kaiyodo_Capsule/cap_miyage/Hokkaido1">北海道フィギュアみやげVol.1</a>ではリアル等身で再びラインナップに加わります。</td></tr>
+			<tr><td><a href="img/hokkaido034.jpg">
+				<img height="283" src="img/hokkaido034_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido034.jpg" --></a><a href="img/hokkaido035.jpg"><img height="283" src="img/hokkaido035_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido035.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaido036.jpg">
+				<img height="283" src="img/hokkaido036_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido036.jpg" --></a></td></tr>
+			<tr><td class="comment">ナキウサギの習性として、冬篭りに向けた「干草づくり」があります。<br />
+				フィギュアでは巣穴に植物を持ち込もうと、口いっぱいに咥えた姿を表現しています。</td></tr>
+			<!--
+			-->				
+			<tr><th id="10">阿寒湖のマリモ</th></tr>
+			<tr><td><a href="img/hokkaido037.jpg">
+				<img height="283" src="img/hokkaido037_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido037.jpg" --></a><a href="img/hokkaido038.jpg"><img height="283" src="img/hokkaido038_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido038.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				文字どおり、球状にかたまった藻であるマリモ。<br />
+				その冷たく透き通った水により、阿寒湖では巨大な天然マリモを見ることができ、天然記念物に指定されています。<br />
+				そして阿寒湖のおみやげとしても定番。<br />
+				フィギュアでは大小ひとつずつのマリモがいます。</td></tr>
+			<!--
+			-->
+			<tr><th id="11">オホーツクのクリオネ</th></tr>
+			<tr><td><a href="img/hokkaido039.jpg">
+				<img height="283" src="img/hokkaido039_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido039.jpg" --></a><a href="img/hokkaido040.jpg"><img height="283" src="img/hokkaido040_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido040.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				クリオネの仲間は何種類かおり、北海道で見えるのは「ハダカカメガイ<span class="italic"> Clione elegantissima </span>
+				」と「ダルマハダカカメガイ  
+				<span class="italic">Clione okhotensis </span>」の2種。<br />
+				ボトルキャップの学名を見ると、そのどちらでもない「ダイオウハダカカメガイ <span class="italic">Clione limacina
+				</span>」となっている点に注目。<br />
+				<a href="https://www.town.rankoshi.hokkaido.jp/kainoyakata/160824_clione01.pdf" target="_blank">
+				2016年に学名が変更になったようですね</a>。</td></tr>
+			<!--
+			-->			
+			<tr><th id="12">牧場</th></tr>
+			<tr><td><a href="img/hokkaido041.jpg">
+				<img height="283" src="img/hokkaido041_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido041.jpg" --></a><a href="img/hokkaido042.jpg"><img height="283" src="img/hokkaido042_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido042.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaido043.jpg">
+				<img height="283" src="img/hokkaido043_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido043.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				日本一の酪農王国、北海道。北海道で生産される生乳は全国生産量の半分を占めます。<br />
+				<br />
+				フィギュアはそんな北海道の牧場がテーマ。<br />
+				サイロ（農作物の倉庫）は遠近法で小さく見えるように表現されているため、画像2枚目のような角度で見るのが正しい。</td></tr>
+			<!--
+			-->	
+			<tr><th id="13">流氷とガリンコ号Ⅱ</th></tr>
+			<tr><td><a href="img/hokkaido044.jpg">
+				<img height="283" src="img/hokkaido044_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido044.jpg" --></a><a href="img/hokkaido045.jpg"><img height="283" src="img/hokkaido045_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido045.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaido046.jpg">
+				<img height="283" src="img/hokkaido046_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido046.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				1997年に就航した、流氷観光用の破氷船。<br />
+				ガリンコの名のとおり、船底に取り付けられた二つのドリルで氷を砕きながら進みます。<br />
+				2020年にはガリンコ号Ⅲが就航しましたが、このガリンコ号Ⅱも現役。<br />
+				<br />
+				フィギュアでもシルバーに塗装されたドリルがちらりと見えます。</td></tr>
+			<!--
+			-->				
+			<tr><th id="14">札幌市時計台</th></tr>
+			<tr><td><a href="img/hokkaido047.jpg">
+				<img height="283" src="img/hokkaido047_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido047.jpg" --></a><a href="img/hokkaido048.jpg"><img height="283" src="img/hokkaido048_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido048.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				正式名称は「旧札幌農学校演武場」。<br />
+				日本三大ガッカリスポットに数えられる不名誉な札幌市時計台ですが、フィギュアはそうは言わせません。<br />
+				細部の細かな造形だけでなく、日陰になっている側は若干塗装が暗めにされています。<br />
+				偶然か意図的か、星マークはサッポロビールのおまけとして最適かも。</td></tr>
+			<tr><td><a href="img/hokkaido052.jpg">
+				<img height="504" src="img/hokkaido052_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido052.jpg" --></a></td></tr>
+			<tr><td class="comment">夜に行ったので中には入れませんでしたが、ライトアップされていました。</td></tr>
+			<!--
+			-->	
+			<tr><th id="15">シークレット：毛がに（茹で）</th></tr>
+			<tr><td><a href="img/hokkaido054.jpg">
+				<img height="283" src="img/hokkaido054_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido054.jpg" --></a><a href="img/hokkaido055.jpg"><img height="283" src="img/hokkaido055_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido055.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaido056.jpg">
+				<img height="283" src="img/hokkaido056_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido056.jpg" --></a></td></tr>
+			<tr><td><a href="img/hokkaido057.jpg">
+				<img height="283" src="img/hokkaido057_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido057.jpg" --></a><a href="img/hokkaido058.jpg"><img height="283" src="img/hokkaido058_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido058.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明</td></tr>
+			<!--
+			-->			
+			<tr><th id="16">解説書</th></tr>
+			<tr><td><a href="../img/hokkaidobook2.jpg">
+		<img height="393" src="../img/hokkaidobook2_small.jpg" width="378" /></a><a href="../img/hokkaidobook1.jpg"><img height="380" src="../img/hokkaidobook1_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->	
+			<tr><th id="17">コレクションボックス</th></tr>
+			<tr><td><a href="img/hokkaido049.jpg">
+				<img height="283" src="img/hokkaido049_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Hokkaido/img/hokkaido049.jpg" --></a></td></tr>
+			<tr><td class="comment">販促用に制作されたようですが、かなりの数が流通したようです。</td></tr>
+			<!--
+			-->	
+			<tr><th id="18">ラインナップ</th></tr>
+			<tr><td class="comment">毛がに<br />
+				新巻鮭<br />
+				十勝のじゃがいも<br />
+				サッポロビール園のジンギスカン<br />
+				クラーク像<br />
+				「味の三平」の味噌ラーメン<br />
+				木彫りクマ<br />
+				ACLビンと小樽ガラス工芸のグラス<br />
+				キタキツネとナキウサギ<br />
+				阿寒湖のマリモ<br />
+				オホーツクのクリオネ<br />
+				牧場<br />
+				流氷とガリンコ号<br />
+				札幌市時計台<br />
+				シークレット：毛がに（茹で）</td></tr>
+			
+						
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

@@ -1,0 +1,350 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>中国四国物産展</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>SAPPORO×ケンエレファント×海洋堂<br />
+		[フィギュア版]中国四国物産展<br />
+			</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="231" src="img/chugokushikoku013.jpg" width="760" /></td>
+			</tr>
+			
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2007年1月　キャンペーン事務局：（株）ケンエレファント　造形企画制作：海洋堂<br />
+			サッポロビールに付属した[フィギュア版]物産展シリーズ最後の弾。<br />
+			最終作は中国・四国というなかなか広い範囲をテーマにしています。<br />
+			残念ながら[フィギュア版]物産展シリーズで全国制覇することは出来ませんでしたが、同じくケンエレファント×海洋堂のタッグで、「<a href="../../../kaiyodo_Capsule/cap_miyage/Hokkaido1/index.html">北海道フィギュアみやげ</a>」(2012)を皮切りに「フィギュアみやげ」シリーズが始まります。<br />
+			<br />
+			■関連フィギュア<br />
+			<a href="../../../kaiyodo_Capsule/cap_miyage/Kochi">高知フィギュアみやげ</a><br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/chugokushikoku001_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/chugokushikoku004_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/chugokushikoku017_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="../img/bussanntenn051_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/chugokushikoku023_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/chugokushikoku020_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="../img/tottori002_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="../img/bussanntenn053_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="../img/bussanntenn028_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="../img/bussanntenn026_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="../img/bussanntenn036_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/chugokushikoku028_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/chugokushikoku026_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/chugokushikoku007_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/chugokushikoku011_small.jpg" width="146" /></a></td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			
+			
+			<tr><th id="1">1. 山陽新幹線500系のぞみ</th></tr>
+			<tr><td><a href="img/chugokushikoku001.jpg">
+				<img height="283" src="img/chugokushikoku001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku001.jpg" --></a><a href="img/chugokushikoku002.jpg"><img height="283" src="img/chugokushikoku002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku002.jpg" --></a></td></tr>
+			<tr><td><a href="img/chugokushikoku003.jpg">
+				<img height="283" src="img/chugokushikoku003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku003.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				新大阪から博多を結ぶJR西日本の山陽新幹線。1997年から運転開始したのがこの500系でした。<br />
+				シュッとした鼻先はトンネル突入/脱出時の騒音などへの対策のようです。<br />
+				<br />
+				そんな背景もあり、フィギュアではトンネルから脱出した情景をヴィネットとして表現。<br />
+				見られる角度は画像1枚目で固定か。</td></tr>
+			
+						
+			<tr><th id="2">2. 山口線蒸気機関車C57-1「貴婦人」</th></tr>
+			<tr><td><a href="img/chugokushikoku004.jpg">
+				<img height="283" src="img/chugokushikoku004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku004.jpg" --></a><a href="img/chugokushikoku006.jpg"><img height="283" src="img/chugokushikoku006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku006.jpg" --></a></td></tr>
+			<tr><td><a href="img/chugokushikoku005.jpg">
+				<img height="283" src="img/chugokushikoku005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku005.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：谷　明<br />
+				<br />
+				SL、Steam Locomotiveの略。<br />
+				かつて全国を走っていたSLですが、そのエネルギー効率の悪さから次第に電車に置き換わっていき、姿を消していきました。<br />
+				しかし、根強いファン達の要望に応え、山口線にC57-1「やまぐち」号が昭和54年に復活。<br />
+				細い車体から通称「貴婦人」と呼ばれています。<br />
+				<br />
+				2020年ごろから不調により「デゴイチ」でおなじみのD51に交代したようです。</td></tr>
+			
+			
+			<tr><th id="3">3. 出雲大社</th></tr>
+			<tr><td><a href="img/chugokushikoku017.jpg">
+				<img height="283" src="img/chugokushikoku017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku017.jpg" --></a><a href="img/chugokushikoku018.jpg"><img height="283" src="img/chugokushikoku018_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku018.jpg" --></a></td></tr>
+			<tr><td><a href="img/chugokushikoku019.jpg">
+				<img height="283" src="img/chugokushikoku019_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku019.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：海野彼方</td></tr>
+					
+			<tr><th id="4">4. 厳島神社の大鳥居</th></tr>
+			<tr><td><a href="../img/bussanntenn051.jpg">
+		<img height="283" src="../img/bussanntenn051_small.jpg" width="378" /></a><a href="../img/bussanntenn052.jpg"><img height="283" src="../img/bussanntenn052_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				海の上に浮かぶ鳥居は、腐りにくいクスの木で6本足で作られています。<br />
+				海はコバルトブルーのクリアパーツで表現。</td></tr>
+			<tr><td><a href="img/chugokushikoku015.jpg">
+				<img height="283" src="img/chugokushikoku015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku015.jpg" --></a></td></tr>
+			<tr><td class="comment">大学3年生の時に旅行で行きました。<br />
+				残念ながら雨。</td></tr>
+			
+			
+			<tr><th id="5">5. 四国遍路</th></tr>
+			<tr><td><a href="img/chugokushikoku023.jpg">
+				<img height="283" src="img/chugokushikoku023_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku023.jpg" --></a><a href="img/chugokushikoku024.jpg"><img height="283" src="img/chugokushikoku024_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku024.jpg" --></a></td></tr>
+			<tr><td><a href="img/chugokushikoku025.jpg">
+				<img height="283" src="img/chugokushikoku025_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku025.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志</td></tr>
+			
+					
+			<tr><th id="6">6. 阿波踊り</th></tr>
+			<tr><td><a href="img/chugokushikoku020.jpg">
+				<img height="283" src="img/chugokushikoku020_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku020.jpg" --></a><a href="img/chugokushikoku021.jpg"><img height="283" src="img/chugokushikoku021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku021.jpg" --></a></td></tr>
+			<tr><td><a href="img/chugokushikoku022.jpg">
+				<img height="283" src="img/chugokushikoku022_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku022.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫</td></tr>
+			
+			<tr><th id="7">7. 鳥取砂丘</th></tr>
+			<tr><td><a href="../img/tottori002.jpg">
+		<img height="283" src="../img/tottori002_small.jpg" width="378" /></a><a href="../img/tottori001.jpg"><img height="283" src="../img/tottori001_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				鳥取砂丘では「らくだや」にてラクダに乗ることができるほか、写真撮影もできます。<br />
+				逆に言えば、撮影にもお金がかかるのでご注意を。<br />
+				<br />
+				フィギュアのタイトルは砂丘ですが、実質ラクダがメイン。<br />
+				ヒトコブラクダとフタコブラクダがいます。</td></tr>
+			<tr><td><a href="img/chugokushikoku014.jpg">
+				<img height="283" src="img/chugokushikoku014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku014.jpg" --></a></td></tr>
+			<tr><td class="comment">日本にこんなところあるのか、ってくらいの砂漠。<br />
+				残念ながらラクダの写真は無い。</td></tr>
+			
+		
+			<tr><th id="8">8. 下関のふく提灯</th></tr>
+			<tr><td><a href="../img/bussanntenn053.jpg">
+		<img height="283" src="../img/bussanntenn053_small.jpg" width="378" /></a><a href="../img/bussanntenn054.jpg"><img height="283" src="../img/bussanntenn054_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：山本聖士<br />
+				<br />
+				フグを「福」につながる「ふく」と呼び、フグの皮を使った提灯（ちょうちん）を縁起物としています。<br />
+				トラフグ以外にも、シマフグやハコフグで作ることもあるようです。<br />
+				<br />
+				フィギュアはトラフグのちょうちん。<br />
+				同じく下関の民芸品であるフグ形の土鈴（どれい）も付属。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">9. 四万十川のアカメ(A)</th></tr>
+			<tr><td><a href="../img/bussanntenn028.jpg">
+		<img height="283" src="../img/bussanntenn028_small.jpg" width="378" /></a><a href="../img/bussanntenn029.jpg"><img height="283" src="../img/bussanntenn029_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				いまや海洋堂のお膝元のひとつである四万十市。<br />
+				最後の清流と呼ばれる四万十川に生息するアカメをラインナップ。<br />
+				今後、何度も立体化されることとなります。<br />
+				<br />
+				これまで物産展シリーズのアクアテイルズは「黒潮コメッコ」と同じ緑色のボトルキャップでしたが、今回は「江ノ水図録」シリーズと同じ青色になりました。</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">10. 四万十川のアカメ(B)</th></tr>
+			<tr><td><a href="../img/bussanntenn026.jpg">
+		<img height="283" src="../img/bussanntenn026_small.jpg" width="378" /></a><a href="../img/bussanntenn027.jpg"><img height="283" src="../img/bussanntenn027_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				Aカラーが成魚なのに対し、Bカラーは模様のある幼魚。</td></tr>
+			<!--
+			-->
+			<tr><th id="11">11. 土佐犬</th></tr>
+			<tr><td><a href="../img/bussanntenn036.jpg">
+		<img height="283" src="../img/bussanntenn036_small.jpg" width="378" /></a><a href="../img/bussanntenn037.jpg"><img height="283" src="../img/bussanntenn037_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				厳密には「土佐闘犬」という品種。<br />
+				別の犬種である「四国犬」の正式名称が「土佐犬」であるため、ちょっとややこしい。<br />
+				<br />
+				フィギュアリリース当時は、「土佐闘犬センター」（後のとさいぬパーク）で闘犬を見ることができましたが、2017年に破産・閉店したため、現在では闘犬を見ることは出来ないようです。<br />
+				<br />
+				フィギュアは闘犬で優勝し、最強の称号である「まわし」をまとった土佐犬。</td></tr>
+			
+						
+			<tr><th id="12">12. 広島焼き</th></tr>
+			<tr><td><a href="img/chugokushikoku028.jpg">
+				<img height="283" src="img/chugokushikoku028_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku028.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明</td></tr>
+			<tr><td><a href="img/chugokushikoku029.jpg">
+				<img height="283" src="img/chugokushikoku029_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku029.jpg" --></a><a href="img/chugokushikoku030.jpg"><img height="283" src="img/chugokushikoku030_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku030.jpg" --></a></td></tr>
+			<tr><td><a href="img/chugokushikoku031.jpg">
+				<img height="283" src="img/chugokushikoku031_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku031.jpg" --></a><a href="img/chugokushikoku032.jpg"><img height="283" src="img/chugokushikoku032_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku032.jpg" --></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			
+			
+			<tr><th id="13">13. 讃岐うどん</th></tr>
+			<tr><td><a href="img/chugokushikoku026.jpg">
+				<img height="283" src="img/chugokushikoku026_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku026.jpg" --></a><a href="img/chugokushikoku027.jpg"><img height="283" src="img/chugokushikoku027_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku027.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明</td></tr>
+			
+					
+			<tr><th id="14">14. 坂本龍馬像</th></tr>
+			<tr><td><a href="img/chugokushikoku007.jpg">
+				<img height="283" src="img/chugokushikoku007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku007.jpg" --></a><a href="img/chugokushikoku008.jpg"><img height="283" src="img/chugokushikoku008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku008.jpg" --></a></td></tr>
+			<tr><td><a href="img/chugokushikoku009.jpg">
+				<img height="283" src="img/chugokushikoku009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku009.jpg" --></a><a href="img/chugokushikoku010.jpg"><img height="283" src="img/chugokushikoku010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku010.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				桂浜で太平洋を見つめながらそびえたつ龍馬像。<br />
+				像の大きさは5.3メートル、台座を含めると高さ13.5メートルと、思ったよりも大きくて驚きました。<br />
+				<br />
+				一方でフィギュアは他のフィギュアと比べてもやや小さめなのが残念。</td></tr>
+			<tr><td><a href="img/chugokushikoku016.jpg">
+				<img height="283" src="img/chugokushikoku016_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku016.jpg" --></a></td></tr>
+			<tr><td class="comment">フィギュアは土台を2段だけ切り取ってます。</td></tr>
+			
+			
+			<tr><th id="15">15. 金田一耕助登場<br />
+				～本陣殺人事件～</th></tr>
+			<tr><td><a href="img/chugokushikoku011.jpg">
+				<img height="283" src="img/chugokushikoku011_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku011.jpg" --></a><a href="img/chugokushikoku012.jpg"><img height="283" src="img/chugokushikoku012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Chugokushikoku/img/chugokushikoku012.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				金田一耕助シリーズの第一作の舞台は岡山。<br />
+				密室殺人の現場を立体化しています。<br />
+				<br />
+				僕ら世代は「金田一少年」の方が馴染み深く、原作にはほとんど触れたことが無いのであまりピンときてないです・・・。</td></tr>
+			<!--
+			-->			
+			<tr><th id="16">解説書</th></tr>
+			<tr><td><a href="../img/chugokubook1.jpg">
+		<img height="372" src="../img/chugokubook1_small.jpg" width="378" /></a><a href="../img/chugokubook2.jpg"><img height="370" src="../img/chugokubook2_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<tr><th id="17">パッケージ</th></tr>
+			<tr><td><a href="../img/chugokuhako.jpg">
+		<img height="347" src="../img/chugokuhako_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->		
+			<tr><th id="18">ラインナップ</th></tr>
+			<tr><td class="comment">1.山陽新幹線500系のぞみ<br />
+				2.山口線蒸気機関車C57-1「貴婦人」<br />
+				3.出雲大社<br />
+				4.厳島神社の大鳥居<br />
+				5.四国遍路<br />
+				6.阿波踊り<br />
+				7.鳥取砂丘<br />
+				8.下関のふく提灯<br />
+				9.四万十川のアカメ(A)<br />
+				10.四万十川のアカメ(B)<br />
+				11.土佐犬<br />
+				12.広島焼き<br />
+				13.讃岐うどん<br />
+				14.坂本龍馬像<br />
+				15.金田一耕助登場～本陣殺人事件～</td></tr>
+	
+			<!--
+			-->
+			<!--
+			-->			
+						
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

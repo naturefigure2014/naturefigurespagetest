@@ -1,0 +1,409 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>沖縄物産展</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>SAPPORO×ケンエレファント×海洋堂<br />
+		[フィギュア版]沖縄物産展<br />
+			</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="257" src="img/okinawa058.jpg" width="760" /></td>
+			</tr>
+			
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2004年7月　キャンペーン事務局：（株）ケンエレファント　造形企画制作：海洋堂<br />
+			[フィギュア版]物産展シリーズ第2弾。第1弾が北の大地ときたら2弾は南の島、沖縄。<br />
+			色鮮やかな文化・自然を楽しむことが出来ます。<br />
+			後に16種のうち10種が「色替えバージョン」になった、ローソン限定版がリリースされました。<br />
+			<br />
+			■関連シリーズ<br />
+			<a href="../../../kaiyodo_Capsule/cap_miyage/Okinawa">沖縄フィギュアみやげ</a><br />
+			<br />
+			■次弾<br />
+			<a href="../Okinawa2">[フィギュア版]沖縄物産展（色替えバージョン）</a><br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/okinawa040_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/okinawa042_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/okinawa044_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/okinawa008_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/okinawa006_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/okinawa046_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/okinawa031_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/okinawa050_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/okinawa029_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/okinawa035_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#11">
+<img src="img/okinawa001_small.jpg" width="146" /></a></td><td><a href="#12">
+<img src="img/okinawa010_small.jpg" width="146" /></a></td><td><a href="#13">
+<img src="img/okinawa022_small.jpg" width="146" /></a></td><td><a href="#14">
+<img src="img/okinawa018_small.jpg" width="146" /></a></td><td><a href="#15">
+<img src="img/okinawa055_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#16">
+<img src="img/okinawa025_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td><td>&nbsp;</td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">1. 守礼門</th></tr>
+			<tr><td><a href="img/okinawa040.jpg">
+				<img height="283" src="img/okinawa040_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa040.jpg" --></a><a href="img/okinawa041.jpg"><img height="283" src="img/okinawa041_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa041.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				琉球王朝の王城である首里城は太平洋戦争で跡形もなく破壊されましたが、1958年には先行して守礼門が復元され、92年に首里城が復元されました。<br />
+				守礼門は2000円札にも描かれています。<br />
+				<br />
+				掲げられた看板、扁額（へんがく）には「守禮之邦（しゅれいのくに - 
+				禮→礼を守るクニ）」と書かれており、そこから守礼門と呼ばれるようになりました。<br />
+				<br />
+				フィギュアは色彩含め、リアルに再現しています。<br />
+				<br />
+				このフィギュアは「<a href="../../../kaiyodo_Capsule/cap_miyage/Okinawa#1">沖縄フィギュアみやげ</a>」(2015)で復刻しました。<br />
+				</td></tr>
+			<!--
+			-->	
+			<tr><th id="2">2. ゴーヤーチャンプルー</th></tr>
+			<tr><td><a href="img/okinawa042.jpg">
+				<img height="283" src="img/okinawa042_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa042.jpg" --></a><a href="img/okinawa043.jpg"><img height="283" src="img/okinawa043_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa043.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				ゴーヤ、標準和名「ツルレイシ」、別名はニガウリ。<br />
+				1993年に沖縄の害虫・ウリミバエ（野菜や果物に産卵する）が根絶されたことにより、ゴーヤは全国に出荷されるようになりました。<br />
+				チャンプルーは豆腐と季節の野菜を炒めた料理で、加熱してもビタミンCが壊れづらいゴーヤとの相性はバツグン。<br />
+				<br />
+				フィギュアはチャンプルーと、調理前のゴーヤが付属。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">3. 泡盛とカラカラ</th></tr>
+			<tr><td><a href="img/okinawa044.jpg">
+				<img height="283" src="img/okinawa044_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa044.jpg" --></a><a href="img/okinawa045.jpg"><img height="283" src="img/okinawa045_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa045.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				大陸から伝わった酒造りの手法により、生まれたのが泡盛。<br />
+				<br />
+				そして泡盛を飲む際に使用される、陶製の器が「カラカラ」。<br />
+				その名の由来はラムネビンの様に、振ると中の玉がカラカラ鳴るから・・・と思いきや、古いカラカラには玉が入っていないため、そうとも言い切れないようです。<br />
+				<br />
+				フィギュアは魚がデザインさていますが、特定のカラカラをモデルにしているわけではないようです。<br />
+				多くのカラカラに似たような魚の絵が描かれており、フィギュアではそれらを一般化したような雰囲気。</td></tr>
+			<!--
+			-->
+			<tr><th id="4">4. ソーキそば</th></tr>
+			<tr><td><a href="img/okinawa008.jpg">
+				<img height="283" src="img/okinawa008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa008.jpg" --></a><a href="img/okinawa009.jpg"><img height="283" src="img/okinawa009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa009.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				沖縄の「そば」は小麦粉から作られるため、どちらかというと中華麺っぽい。<br />
+				沖縄そばに「ソーキ」、すなわちスペアリブ、骨付きの豚あばら肉が乗ったものをソーキそばと呼んでいます。<br />
+				<br />
+				今回も透明樹脂でスープを表現しています。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">5. チラガー</th></tr>
+			<tr><td><a href="img/okinawa006.jpg">
+				<img height="283" src="img/okinawa006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa006.jpg" --></a><a href="img/okinawa007.jpg"><img height="283" src="img/okinawa007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa007.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				沖縄はブタを丸ごと食べる食文化で、ブタの顔の皮を「チラガー」（面（ツラ）の皮）と呼んでいます。<br />
+				耳の皮はミミガーですね。<br />
+				<br />
+				ハイビスカスも添えられて立体化。</td></tr>
+			<!--
+			-->	
+			<tr><th id="6">6. 水牛車</th></tr>
+			<tr><td><a href="img/okinawa046.jpg">
+				<img height="283" src="img/okinawa046_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa046.jpg" --></a><a href="img/okinawa047.jpg"><img height="283" src="img/okinawa047_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa047.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa048.jpg">
+				<img height="283" src="img/okinawa048_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa048.jpg" --></a><a href="img/okinawa049.jpg"><img height="283" src="img/okinawa049_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa049.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：田熊勝夫<br />
+				<br />
+				90年代初頭に台湾から石垣島へ導入された水牛。<br />
+				かつては農耕用に使用されていましたが、現在では観光用に活躍しています。<br />
+				<br />
+				フィギュアでは三線を演奏するガイドも含めてフィギュア化。<br />
+				<br />
+				このフィギュアは「<a href="../../../kaiyodo_Capsule/cap_miyage/Okinawa#4">沖縄フィギュアみやげ</a>」で復刻しました。</td></tr>
+			<!--
+			-->
+			<tr><th id="7">7.シーサー（阿）</th></tr>
+			<tr><td><a href="img/okinawa031.jpg">
+				<img height="283" src="img/okinawa031_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa031.jpg" --></a><a href="img/okinawa032.jpg"><img height="283" src="img/okinawa032_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa032.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa033.jpg">
+				<img height="283" src="img/okinawa033_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa033.jpg" --></a><a href="img/okinawa034.jpg"><img height="283" src="img/okinawa034_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa034.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：村田明玄<br />
+				<br />
+				エジプトをはじめとするナイル川流域で発展したオリエント文化では、ライオンを魔除や守護神として用いていました。シルクロードを通って琉球王国に伝わったこの文化がシーサーになったようです。<br />
+				<br />
+				シーサー本体だけでなく、琉球赤瓦が使われた屋根ごとフィギュア化されています。</td></tr>
+			<!--
+			-->
+			<tr><th id="8">8.シーサー（吽）</th></tr>
+			<tr><td><a href="img/okinawa050.jpg">
+				<img height="283" src="img/okinawa050_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa050.jpg" --></a><a href="img/okinawa051.jpg"><img height="283" src="img/okinawa051_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa051.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa052.jpg">
+				<img height="283" src="img/okinawa052_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa052.jpg" --></a><a href="img/okinawa053.jpg"><img height="283" src="img/okinawa053_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa053.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：村田明玄</td></tr>
+			<tr><td><a href="img/okinawa054.jpg">
+				<img height="283" src="img/okinawa054_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa054.jpg" --></a></td></tr>
+			<tr><td class="comment">２種のシーサーに付属する屋根は合体させることが出来ます。</td></tr>
+			<!--
+			-->
+			<tr><th id="9">9. 三線（さんしん）</th></tr>
+			<tr><td><a href="img/okinawa029.jpg">
+				<img height="283" src="img/okinawa029_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa029.jpg" --></a><a href="img/okinawa030.jpg"><img height="283" src="img/okinawa030_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa030.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				戦国時代に琉球に伝来し、後に三味線の起源となりました。<br />
+				胴体に使用されている蛇側は沖縄だからハブ・・・というわけではなく、大陸から輸入されたニシキヘビの皮を使用していたようです。もちろん、現在は人工皮を使用したものも広まっています。<br />
+				<br />
+				フィギュアは塗装も超リアル。</td></tr>
+			<!--
+			-->
+			<tr><th id="10">10.海人（うみんちゅ）</th></tr>
+			<tr><td><a href="img/okinawa035.jpg">
+				<img height="283" src="img/okinawa035_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa035.jpg" --></a><a href="img/okinawa036.jpg"><img height="283" src="img/okinawa036_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa036.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa037.jpg">
+				<img height="283" src="img/okinawa037_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa037.jpg" --></a><a href="img/okinawa038.jpg"><img height="283" src="img/okinawa038_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa038.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				沖縄で漁師など、海に関わる人を海人（うみんちゅ）と呼びます。<br />
+				ラフな格好に水中メガネ、日焼けした沖縄のおじい。<br />
+				足元にはシャコガイがあります。</td></tr>
+			<!--
+			-->				
+			
+			<tr><th id="11">11. マングローブ（ヤエヤマヒルギ）</th></tr>
+			<tr><td><a href="img/okinawa001.jpg">
+				<img height="283" src="img/okinawa001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa001.jpg" --></a><a href="img/okinawa002.jpg"><img height="283" src="img/okinawa002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa002.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa003.jpg">
+				<img height="283" src="img/okinawa003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa003.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：寺岡邦明<br />
+				<br />
+				「マングローブ」は特定の植物を指すのではなく、満潮になると海水が満ちる場所にはえる植物の総称。<br />
+				<br />
+				フィギュアはヤエヤマヒルギを立体化しています。<br />
+				水面パーツを外すことで、干潮時にすることも出来るというギミックが仕込まれています。</td></tr>
+			<!--
+			-->			
+			<tr><th id="12">12. イリオモテヤマネコとヤンバルクイナ</th></tr>
+			<tr><td><a href="img/okinawa010.jpg">
+				<img height="283" src="img/okinawa010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa010.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa012.jpg">
+				<img height="283" src="img/okinawa012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa012.jpg" --></a><a href="img/okinawa013.jpg"><img height="283" src="img/okinawa013_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa013.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa014.jpg">
+				<img height="283" src="img/okinawa014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa014.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa015.jpg">
+				<img height="283" src="img/okinawa015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa015.jpg" --></a><a href="img/okinawa016.jpg"><img height="283" src="img/okinawa016_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa016.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa017.jpg">
+				<img height="283" src="img/okinawa017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa017.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松村しのぶ<br />
+				<br />
+				天然記念物のセット。2匹の生息域は被っていません。<br />
+				<br />
+				沖縄の生き物は松村さんのお気に入りなので、海洋堂からは何度も立体化されることになります。<br />
+				どちらも身体に対して頭が大きくなるようにディフォルメされていますね。<br />
+				</td></tr>
+			<!--
+			-->
+			<tr><th id="13">13. ヤシガニ</th></tr>
+			<tr><td><a href="img/okinawa022.jpg">
+				<img height="283" src="img/okinawa022_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa022.jpg" --></a><a href="img/okinawa023.jpg"><img height="283" src="img/okinawa023_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa023.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa024.jpg">
+				<img height="283" src="img/okinawa024_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa024.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				巨大ヤドカリ。英名も「ココナッツクラブ」であるように、木に登ってヤシの実を落として食べる・・・というわけではなく、落ちているヤシの実を食べるそうです。また、雑食のため、ヤシの実以外も食べる。<br />
+				<br />
+				という細かな背景はさておき、ヤシの実にかぶりつくポーズでフィギュア化。<br />
+				後に「<a href="../../../kaiyodo_Capsule/cap_miyage/Okinawa">沖縄フィギュアみやげ</a>」にも原型は流用されます。</td></tr>
+			<!--
+			-->			
+			<tr><th id="14">14. 市場に並ぶ熱帯魚</th></tr>
+			<tr><td><a href="img/okinawa018.jpg">
+				<img height="283" src="img/okinawa018_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa018.jpg" --></a><a href="img/okinawa021.jpg"><img height="283" src="img/okinawa021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa021.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa020.jpg">
+				<img height="283" src="img/okinawa020_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa020.jpg" --></a><a href="img/okinawa019.jpg"><img height="283" src="img/okinawa019_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa019.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：木下隆志<br />
+				<br />
+				魚類の色覚は非常に発達しています。<br />
+				熱帯魚の鮮やかな体色は、サカナ同士で仲間の識別をするためと考えられています。<br />
+				沖縄の透き通った海に適した体色というわけですね。<br />
+				<br />
+				トレーに載っているのは、グレーは「ハマフエフキ」、赤は「スジアラ」、緑色は「シロクロベラ」。<br />
+				「お好みのレイアウトでお楽しみください。」とのことです。</td></tr>
+			<!--
+			-->
+			<tr><th id="15">15. 海辺で生ビールを飲むお姉さん</th></tr>
+			<tr><td><a href="img/okinawa055.jpg">
+				<img height="283" src="img/okinawa055_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa055.jpg" --></a><a href="img/okinawa056.jpg"><img height="283" src="img/okinawa056_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa056.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa057.jpg">
+				<img height="283" src="img/okinawa057_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa057.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				1970年代ごろから水着キャンペーンガールはビール業界に限らず、多くの業界で採用されていました。<br />
+				ビール業界でも水着美女がビールジョッキを持つポスターが恒例となりましたが、フィギュアがリリースされた直後である2004年、2005年には各社ビールメーカも採用をやめてしまいました。<br />
+				理由は女性のビール愛用者が増えてきたこと、ビール以外の酒類のラインナップも充実してきたからとのことです。<br />
+				フィギュアで知る、過去の文化。</td></tr>
+			<!--
+			-->			
+			<tr><th id="16"><span class="font_red">シークレット：ヤシガニ（ゆで）</span></th></tr>
+			<tr><td><a href="img/okinawa025.jpg">
+				<img height="283" src="img/okinawa025_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa025.jpg" --></a><a href="img/okinawa026.jpg"><img height="283" src="img/okinawa026_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa026.jpg" --></a></td></tr>
+			<tr><td><a href="img/okinawa027.jpg">
+				<img height="283" src="img/okinawa027_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa027.jpg" --></a><a href="img/okinawa028.jpg"><img height="283" src="img/okinawa028_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa028.jpg" --></a></td></tr>
+			<tr><td class="comment">原型制作：松本栄一郎<br />
+				<br />
+				シークレットは高級料理、ゆでヤシガニ。<br />
+				カニやエビと同じように、熱を加えると赤くなります。</td></tr>
+			<!--
+			-->
+			<tr><th id="17">解説書</th></tr>
+			<tr><td><a href="../img/okinawabook1.jpg">
+		<img height="386" src="../img/okinawabook1_small.jpg" width="378" /></a><a href="../img/okinawabook2.jpg"><img height="402" src="../img/okinawabook2_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->	
+			<tr><th id="18">パッケージ</th></tr>
+			<tr><td>
+				<a href="img/okinawa005.jpg">
+				<img height="283" src="img/okinawa005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/kaiyodo_syokugann/bussanntenn/Okinawa/img/okinawa005.jpg" --></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<tr><th id="19">Wチャンスキャンペーン</th></tr>
+			<tr><td>
+				<img height="390" src="img/okinawa_wchance.jpg" width="378" /></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->	
+
+			<tr><th id="20">ラインナップ</th></tr>
+			<tr><td class="comment">1. 守礼門<br />
+				2. ゴーヤーチャンプルー<br />
+				3. 泡盛とカラカラ<br />
+				4. ソーキそば<br />
+				5. チラガー<br />
+				6. 水牛車<br />
+				7.シーサー（阿）<br />
+				8.シーサー（吽）<br />
+				9. 三線（さんしん）<br />
+				10.海人（うみんちゅ）<br />
+				11. マングローブ<br />
+				12. イリオモテヤマネコとヤンバルクイナ<br />
+				13. ヤシガニ<br />
+				14. 市場に並ぶ熱帯魚<br />
+				15. 海辺で生ビールを飲むお姉さん<br />
+				シークレット：ヤシガニ（ゆで）</td></tr>
+		
+			<!--
+			-->
+			<!--
+			-->			
+						
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
