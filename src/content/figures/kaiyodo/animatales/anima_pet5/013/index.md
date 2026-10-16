@@ -1,5 +1,5 @@
 ---
-title: "△138.ジャービル シャム"
+title: "138.ジャービル シャム"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_pet5
@@ -7,7 +7,7 @@ figureId: "013"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "ジャービル シャム"
+species: "ジャービル"
 speciesGroup: "齧歯・兎類"
 price: "-"
 releaseStart: "2005.10"
