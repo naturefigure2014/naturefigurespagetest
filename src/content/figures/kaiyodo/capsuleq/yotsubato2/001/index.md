@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yotsubato2
 figureId: "001"
-species: "よつばとジャイアントパンダ"
+species: "ジャイアントパンダ"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "yotsubatoshirokuro2_001.jpg"
