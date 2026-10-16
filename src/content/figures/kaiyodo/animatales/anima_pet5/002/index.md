@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ジャック・ラッセル・テリア"
-speciesGroup: "イカ類"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "2005.10"
 genre:
