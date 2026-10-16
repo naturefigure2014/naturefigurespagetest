@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/nyanslife
 figureId: "005"
-species: "キジトラ白ぶち"
+species: "ニホンネコ"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "nyans005.jpg"
