@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yotsubato1
 figureId: "002"
-species: "よつばとミナミコアリクイ"
+species: "ミナミコアリクイ"
 speciesGroup: "その他哺乳類"
 maker: "海洋堂"
 sculptor: "よつば・村田明玄／ミナミコアリクイ・松村しのぶ"
