@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/ezono
 figureId: "005"
-species: "牧草ロールと猫［校長］"
+species: "ネコ"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "ezono010.jpg"
