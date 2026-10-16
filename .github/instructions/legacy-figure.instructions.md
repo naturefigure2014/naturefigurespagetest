@@ -1,6 +1,5 @@
 ---
-description: "レガシーHTMLからのフィギュアコンテンツ生成と、species / speciesGroup の設定規約"
-applyTo: "src/content/figures/**"
+description: "旧サイト(レガシーHTML)からの変換作業専用: フィギュアコンテンツ生成と species / speciesGroup の設定規約。デザイン作業では使用しない"
 ---
 
 # レガシーフィギュア生成の規約
