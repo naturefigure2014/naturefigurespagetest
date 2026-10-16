@@ -1,5 +1,5 @@
 ---
-title: "△129.フレンチブルドッグ ブラック＆ホワイト"
+title: "129.フレンチブルドッグ ブラック＆ホワイト"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_pet5
@@ -7,7 +7,7 @@ figureId: "004"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "フレンチブルドッグ ブラック＆ホワイト"
+species: "フレンチブルドッグ"
 speciesGroup: "食肉類"
 price: "-"
 releaseStart: "2005.10"
