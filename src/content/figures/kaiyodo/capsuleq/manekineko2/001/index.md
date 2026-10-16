@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/manekineko2
 figureId: "001"
-species: "ゴールデンタイガー"
+species: "ベンガルトラ"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "manekineko2_009.jpg"
