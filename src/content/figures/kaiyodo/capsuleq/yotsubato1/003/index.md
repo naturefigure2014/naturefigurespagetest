@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yotsubato1
 figureId: "003"
-species: "よつばとシャチ"
+species: "シャチ"
 speciesGroup: "クジラ・イルカ類"
 maker: "海洋堂"
 sculptor: "よつば・村田明玄／シャチ・松村しのぶ"
