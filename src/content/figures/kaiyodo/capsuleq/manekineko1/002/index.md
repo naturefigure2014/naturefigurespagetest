@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/manekineko1
 figureId: "002"
-species: "スコティッシュフォールド"
+species: "スコティッシュ フォールド"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "manekineko1_015.jpg"
