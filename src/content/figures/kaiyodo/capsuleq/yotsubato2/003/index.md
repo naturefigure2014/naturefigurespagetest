@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yotsubato2
 figureId: "003"
-species: "よつばとアデリーペンギン"
+species: "アデリーペンギン"
 speciesGroup: "ペンギン類"
 maker: "海洋堂"
 figureTopImage: "yotsubatoshirokuro2_003.jpg"
