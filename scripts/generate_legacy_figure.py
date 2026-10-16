@@ -381,10 +381,15 @@ def extract_items(main: Node):
     for row in rows:
         headings = list(row.descendants("th"))
         if headings:
-            heading = re.sub(r"^\d+\.\s*", "", normalize_text(headings[0].text()))
+            label = normalize_text(headings[0].text())
+            heading = re.sub(r"^\d+\.\s*", "", label)
             if heading in resource_headings or resource_key_for_heading(heading):
                 break
-            current = {"name": heading, "topics": []}
+            if not heading:
+                # Blank spacer headings (&nbsp;) are layout padding, not figures.
+                current = None
+                continue
+            current = {"name": heading, "label": label, "topics": []}
             items.append(current)
             continue
         if current is None:
@@ -697,6 +702,10 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = (), op
             print(f"Skipped {extra.name}: collection_page_main not found")
             continue
         extra_items = extract_items(extra_main)
+        # An older revision of the same page (e.g. index_old.html) repeats the
+        # lineup already collected; only genuinely new entries may continue it.
+        seen_labels = {item["label"] for item in items}
+        extra_items = [item for item in extra_items if item["label"] not in seen_labels]
         print(f"{extra.name}: {len(extra_items)} items appended from #{len(items) + 1}")
         items.extend(extra_items)
     if options and options.species_map:
