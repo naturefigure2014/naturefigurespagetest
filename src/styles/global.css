@@ -446,15 +446,15 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-detail-title-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 12px; }
 /* カプセルQ専用: シリーズを囲うカードを廃し、見出し→一覧の階層にする */
 .maker-detail-section--flat .maker-detail-series { padding: 0; border: 0; border-radius: 0; background: transparent; }
-.maker-detail-section--flat .maker-detail-series + .maker-detail-series { margin-top: 32px; padding-top: 28px; border-top: 1px solid #dce9e2; }
-.maker-detail-section--flat .maker-detail-series header { justify-content: flex-start; margin-bottom: 14px; padding: 10px 12px; border-radius: 4px; background: #fff; }
+.maker-detail-section--flat .maker-detail-series + .maker-detail-series { margin-top: 14px; padding-top: 14px; border-top: 1px solid #dce9e2; }
+.maker-detail-section--flat .maker-detail-series header { justify-content: flex-start; margin-bottom: 10px; padding: 10px 12px; border-radius: 4px; background: #fff; }
 .maker-detail-section--flat .maker-detail-series header div { gap: 10px; padding-left: 10px; border-left: 4px solid #35805c; }
 .maker-detail-section--flat .maker-detail-series h2 { font-size: 1.2rem; font-weight: 800; line-height: 1.3; }
 .maker-detail-section--flat .maker-detail-series header span { padding: 2px 7px; font-size: .65rem; font-weight: 700; }
 .maker-detail-section--flat .maker-detail-card { border-color: #e1ece6; border-radius: 4px; background: transparent; }
-.maker-detail-section--flat .maker-detail-series-description { margin: -4px 0 14px; color: #4d675a; font-size: .875rem; line-height: 1.7; }
-.maker-detail-section--flat .maker-detail-card img, .maker-detail-section--flat .maker-detail-card-placeholder { aspect-ratio: 4 / 3; object-fit: contain; background: #fff; }
-.maker-detail-section--flat .maker-detail-card strong { padding: 6px 4px; font-size: .8rem; }
+.maker-detail-section--flat .maker-detail-series-description { margin: 0 0 10px; color: #5f7a6e; font-size: .8125rem; line-height: 1.6; }
+.maker-detail-section--flat .maker-detail-card img, .maker-detail-section--flat .maker-detail-card-placeholder { aspect-ratio: 4 / 3; object-fit: cover; background: #fff; }
+.maker-detail-section--flat .maker-detail-card strong { padding: 6px 4px; font-size: .8rem; background: #fff; }
 
 /* TITLE detail */
 .title-layout { display: grid; grid-template-columns: minmax(0, 1fr) 358px; gap: 22px; align-items: start; }
