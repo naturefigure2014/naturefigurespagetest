@@ -447,7 +447,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 /* カプセルQ専用: シリーズを囲うカードを廃し、見出し→一覧の階層にする */
 .maker-detail-section--flat .maker-detail-series { padding: 0; border: 0; border-radius: 0; background: transparent; }
 .maker-detail-section--flat .maker-detail-series + .maker-detail-series { margin-top: 32px; padding-top: 28px; border-top: 1px solid #dce9e2; }
-.maker-detail-section--flat .maker-detail-series header { justify-content: flex-start; margin-bottom: 14px; }
+.maker-detail-section--flat .maker-detail-series header { justify-content: flex-start; margin-bottom: 14px; padding: 10px 12px; border-radius: 4px; background: #fff; }
 .maker-detail-section--flat .maker-detail-series header div { gap: 10px; padding-left: 10px; border-left: 4px solid #35805c; }
 .maker-detail-section--flat .maker-detail-series h2 { font-size: 1.2rem; font-weight: 800; line-height: 1.3; }
 .maker-detail-section--flat .maker-detail-series header span { padding: 2px 7px; font-size: .65rem; font-weight: 700; }

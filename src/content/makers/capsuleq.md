@@ -39,6 +39,14 @@ seriesSections:
       - kaiyodo/capsuleq/kyoryuhakkutsuki/9_carnivore
       - kaiyodo/capsuleq/kyoryuhakkutsuki/10_hunter
     maxTitles: 100
+  - name: ワイルドラッシュ
+    format: ガチャ
+    titleIds:
+      - kaiyodo/capsuleq/WILDRUSH1
+      - kaiyodo/capsuleq/WILDRUSH2
+      - kaiyodo/capsuleq/WILDRUSH3
+      - kaiyodo/capsuleq/WILDRUSH4
+    maxTitles: 100
   - name: すべて
     format: ガチャ
     # titleIdsを指定すると、その順番で表示できます。
