@@ -47,6 +47,23 @@ seriesSections:
       - kaiyodo/capsuleq/WILDRUSH3
       - kaiyodo/capsuleq/WILDRUSH4
     maxTitles: 100
+  - name: 爬虫類のタイトル
+    format: ガチャ
+    titleIds:
+      - kaiyodo/capsuleq/yamori1
+      - kaiyodo/capsuleq/yamori2
+      - kaiyodo/capsuleq/yamori3
+      - kaiyodo/capsuleq/yamoriEX
+      - kaiyodo/capsuleq/ReptilesLounge
+    maxTitles: 100
+  - name: 昆虫のタイトル
+    format: ガチャ
+    titleIds:
+      - kaiyodo/capsuleq/imokore1
+      - kaiyodo/capsuleq/imokore2
+      - kaiyodo/capsuleq/imokore4
+      - kaiyodo/capsuleq/imokore5
+    maxTitles: 100
   - name: すべて
     format: ガチャ
     titleIds:
@@ -67,10 +84,6 @@ seriesSections:
       - kaiyodo/capsuleq/ikakore
       - kaiyodo/capsuleq/ikakore2
       - kaiyodo/capsuleq/ikakore_shinkai
-      - kaiyodo/capsuleq/imokore1
-      - kaiyodo/capsuleq/imokore2
-      - kaiyodo/capsuleq/imokore4
-      - kaiyodo/capsuleq/imokore5
       - kaiyodo/capsuleq/jppet1
       - kaiyodo/capsuleq/kabukimen
       - kaiyodo/capsuleq/kabuto
@@ -85,7 +98,6 @@ seriesSections:
       - kaiyodo/capsuleq/manekineko1
       - kaiyodo/capsuleq/manekineko2
       - kaiyodo/capsuleq/microcosmos
-      - kaiyodo/capsuleq/nihon-no-doubutsu-1
       - kaiyodo/capsuleq/nihonkitte
       - kaiyodo/capsuleq/nihonnoshiro1
       - kaiyodo/capsuleq/nihonnoshiro2
@@ -96,17 +108,14 @@ seriesSections:
       - kaiyodo/capsuleq/osaifugaeru2
       - kaiyodo/capsuleq/osaifugame
       - kaiyodo/capsuleq/osaifukame2
-      - kaiyodo/capsuleq/ReptilesLounge
+
       - kaiyodo/capsuleq/sango
       - kaiyodo/capsuleq/shinju_yonshin
       - kaiyodo/capsuleq/UMA
       - kaiyodo/capsuleq/uokore
       - kaiyodo/capsuleq/vegecolle
       - kaiyodo/capsuleq/wakeatte
-      - kaiyodo/capsuleq/yamori1
-      - kaiyodo/capsuleq/yamori2
-      - kaiyodo/capsuleq/yamori3
-      - kaiyodo/capsuleq/yamoriEX
+
       - kaiyodo/capsuleq/yotsubato1
       - kaiyodo/capsuleq/yotsubato2
       - kaiyodo/capsuleq/yudokukikenn
