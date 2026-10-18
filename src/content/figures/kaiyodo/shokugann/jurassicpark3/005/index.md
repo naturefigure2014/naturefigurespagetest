@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "プテラノドン"
-speciesGroup: "その他古生物"
+speciesGroup: "翼竜類"
 price: "-"
 releaseStart: "2001.08"
 genre:

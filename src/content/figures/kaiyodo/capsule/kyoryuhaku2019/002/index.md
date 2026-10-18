@@ -8,7 +8,7 @@ maker: "株式会社TBSグロウディア"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "カムイサウルス"
-speciesGroup: "古生物/鳥脚類"
+speciesGroup: "鳥脚類"
 price: "５００円"
 releaseStart: "-"
 genre:

@@ -4,7 +4,7 @@ description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
 species: "ティラノサウルス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 contentType: figure
 figureTopImage: img/tyranno024.jpg
 maker: 海洋堂

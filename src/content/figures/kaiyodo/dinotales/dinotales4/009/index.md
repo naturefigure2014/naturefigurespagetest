@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "タルボサウルス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 price: "158円"
 releaseStart: "2003.07"
 genre:

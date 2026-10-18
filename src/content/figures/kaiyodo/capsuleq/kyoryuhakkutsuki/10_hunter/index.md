@@ -17,13 +17,13 @@ releaseStart: "2022.08"
 price: "500円"
 speciesEntries:
   - species: "オルニトミムス"
-    speciesGroup: "古生物/獣脚類"
+    speciesGroup: "獣脚類"
   - species: "ダコタラプトル"
-    speciesGroup: "古生物/獣脚類"
+    speciesGroup: "獣脚類"
   - species: "ティラノサウルス"
-    speciesGroup: "古生物/獣脚類"
+    speciesGroup: "獣脚類"
   - species: "トリケラトプス"
-    speciesGroup: "古生物/角竜類"
+    speciesGroup: "角竜類"
 genre:
   - "-"
 tags:

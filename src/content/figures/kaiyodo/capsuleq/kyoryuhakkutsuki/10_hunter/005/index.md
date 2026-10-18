@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "オルニトミムス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 price: "500円"
 releaseStart: "2022.08"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志 オリジナル："
 executiveProducer: "-"
 species: "カマラサウルス"
-speciesGroup: "古生物/竜脚類"
+speciesGroup: "竜脚類"
 price: "400円 造形総指揮：松村しのぶ"
 releaseStart: "2019.07"
 genre:

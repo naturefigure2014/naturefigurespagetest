@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士 造形監修：松村しのぶ"
 executiveProducer: "-"
 species: "ステゴサウルス"
-speciesGroup: "古生物/装盾類"
+speciesGroup: "装盾類"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2018.03"
 genre:

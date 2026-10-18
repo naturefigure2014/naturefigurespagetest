@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "アロサウルス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 price: "400円 造形総指揮：松村しのぶ"
 releaseStart: "2020.10"
 genre:

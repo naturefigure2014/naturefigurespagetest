@@ -8,7 +8,7 @@ maker: "株式会社TBSグロウディア"
 sculptor: "杉本・F・ダイチ"
 executiveProducer: "-"
 species: "ゴルゴサウルス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 price: "５００円"
 releaseStart: "-"
 genre:

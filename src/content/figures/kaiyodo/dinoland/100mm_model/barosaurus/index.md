@@ -4,7 +4,7 @@ description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
 species: "バロサウルス"
-speciesGroup: "古生物/竜脚類"
+speciesGroup: "竜脚類"
 contentType: figure
 maker: 海洋堂
 sculptor: "松村しのぶ"

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士 発掘場所：兵庫"
 executiveProducer: "-"
 species: "タンバティタニス"
-speciesGroup: "古生物/竜脚類"
+speciesGroup: "竜脚類"
 price: "400円 造形総指揮：松村しのぶ"
 releaseStart: "2016.03"
 genre:

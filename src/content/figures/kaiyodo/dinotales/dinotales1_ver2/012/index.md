@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "アンハングェラ"
-speciesGroup: "その他古生物"
+speciesGroup: "翼竜類"
 price: "158円"
 releaseStart: "2001.12"
 genre:

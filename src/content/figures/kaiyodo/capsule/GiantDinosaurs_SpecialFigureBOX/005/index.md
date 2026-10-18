@@ -8,7 +8,7 @@ maker: "ニュートラルコーポレーション 造型企画制作：海洋�
 sculptor: "藤巻嶺"
 executiveProducer: "-"
 species: "トリケラトプス"
-speciesGroup: "古生物/角竜類"
+speciesGroup: "角竜類"
 price: "6,800円（チケット代含む）"
 releaseStart: "2024.07"
 genre:

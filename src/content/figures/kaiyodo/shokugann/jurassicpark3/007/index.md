@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "トリケラトプス"
-speciesGroup: "古生物/角竜類"
+speciesGroup: "角竜類"
 price: "-"
 releaseStart: "2001.08"
 genre:

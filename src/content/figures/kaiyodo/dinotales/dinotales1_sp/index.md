@@ -19,7 +19,7 @@ seriesName: "ダイノテイルズ"
 releaseStart: "-"
 price: "-"
 species: "ティラノサウルス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 genre:
   - "-"
 tags:

@@ -18,13 +18,13 @@ releaseStart: "2019.07"
 price: "400円 造形総指揮：松村しのぶ"
 speciesEntries:
   - species: "カマラサウルス"
-    speciesGroup: "古生物/竜脚類"
+    speciesGroup: "竜脚類"
   - species: "デイノニクス"
-    speciesGroup: "古生物/獣脚類"
+    speciesGroup: "獣脚類"
   - species: "ティラノサウルス"
-    speciesGroup: "古生物/獣脚類"
+    speciesGroup: "獣脚類"
   - species: "テリジノサウルス"
-    speciesGroup: "古生物/獣脚類"
+    speciesGroup: "獣脚類"
 genre:
   - "-"
 tags:

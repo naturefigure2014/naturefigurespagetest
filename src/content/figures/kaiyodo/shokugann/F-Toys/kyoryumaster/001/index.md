@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "ディプロドクス"
-speciesGroup: "古生物/竜脚類"
+speciesGroup: "竜脚類"
 price: "440円"
 releaseStart: "2020.12"
 genre:

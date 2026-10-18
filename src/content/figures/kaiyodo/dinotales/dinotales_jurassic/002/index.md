@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "ブラキオサウルス"
-speciesGroup: "古生物/竜脚類"
+speciesGroup: "竜脚類"
 price: "200円(単品) 1000円(セットボックス)"
 releaseStart: "-"
 genre:

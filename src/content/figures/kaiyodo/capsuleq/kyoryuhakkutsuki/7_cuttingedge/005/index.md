@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "ケツァルコアトルス"
-speciesGroup: "その他古生物"
+speciesGroup: "翼竜類"
 price: "400円 造形総指揮：松村しのぶ"
 releaseStart: "2018.12"
 genre:

@@ -18,9 +18,9 @@ releaseStart: "2013.01"
 price: "300円"
 speciesEntries:
   - species: "ティラノサウルス"
-    speciesGroup: "古生物/獣脚類"
+    speciesGroup: "獣脚類"
   - species: "ユウティラヌス"
-    speciesGroup: "古生物/獣脚類"
+    speciesGroup: "獣脚類"
 genre:
   - "-"
 tags:

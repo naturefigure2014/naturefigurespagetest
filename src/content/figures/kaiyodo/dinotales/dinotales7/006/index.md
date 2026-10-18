@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "フアヤンゴサウルス"
-speciesGroup: "古生物/装盾類"
+speciesGroup: "装盾類"
 price: "-"
 releaseStart: "2006.08"
 genre:

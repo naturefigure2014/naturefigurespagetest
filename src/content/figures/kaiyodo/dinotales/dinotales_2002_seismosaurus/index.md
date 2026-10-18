@@ -17,7 +17,7 @@ seriesName: "ダイノテイルズ"
 releaseStart: "-"
 price: "-"
 species: "セイスモサウルス"
-speciesGroup: "古生物/竜脚類"
+speciesGroup: "竜脚類"
 genre:
   - "-"
 tags:

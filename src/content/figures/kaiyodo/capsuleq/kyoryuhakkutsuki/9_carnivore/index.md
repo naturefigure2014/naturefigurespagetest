@@ -16,13 +16,13 @@ releaseStart: "2020.10"
 price: "400円 造形総指揮：松村しのぶ"
 speciesEntries:
   - species: "アクロカントサウルス"
-    speciesGroup: "古生物/獣脚類"
+    speciesGroup: "獣脚類"
   - species: "アロサウルス"
-    speciesGroup: "古生物/獣脚類"
+    speciesGroup: "獣脚類"
   - species: "スピノサウルス"
-    speciesGroup: "古生物/獣脚類"
+    speciesGroup: "獣脚類"
   - species: "ティラノサウルス"
-    speciesGroup: "古生物/獣脚類"
+    speciesGroup: "獣脚類"
 genre:
   - "-"
 tags:

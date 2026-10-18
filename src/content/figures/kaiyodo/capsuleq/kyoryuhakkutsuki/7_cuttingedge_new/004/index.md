@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "イグアノドン"
-speciesGroup: "古生物/鳥脚類"
+speciesGroup: "鳥脚類"
 price: "500円 造形総指揮：松村しのぶ"
 releaseStart: "2024.08"
 genre:

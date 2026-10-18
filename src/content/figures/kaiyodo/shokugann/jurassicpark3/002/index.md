@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "ティラノサウルス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 price: "-"
 releaseStart: "2001.08"
 genre:

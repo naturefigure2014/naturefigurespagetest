@@ -8,7 +8,7 @@ maker: "株式会社TBSグロウディア"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "デイノニクス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 price: "５００円"
 releaseStart: "-"
 genre:

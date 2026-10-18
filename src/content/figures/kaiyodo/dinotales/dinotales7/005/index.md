@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アンキケラトプス"
-speciesGroup: "古生物/角竜類"
+speciesGroup: "角竜類"
 price: "-"
 releaseStart: "2006.08"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "タルボサウルス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 price: "500円 造形総指揮：松村しのぶ"
 releaseStart: "2024.08"
 genre:

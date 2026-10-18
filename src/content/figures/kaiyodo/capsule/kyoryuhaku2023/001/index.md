@@ -8,7 +8,7 @@ maker: "株式会社TBSグロウディア"
 sculptor: "ねんど星人（RYO）"
 executiveProducer: "-"
 species: "ズール"
-speciesGroup: "古生物/装盾類"
+speciesGroup: "装盾類"
 price: "５００円"
 releaseStart: "-"
 genre:

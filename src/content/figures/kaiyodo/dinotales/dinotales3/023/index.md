@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "アパトサウルス"
-speciesGroup: "古生物/竜脚類"
+speciesGroup: "竜脚類"
 price: "158円"
 releaseStart: "2002.07"
 genre:

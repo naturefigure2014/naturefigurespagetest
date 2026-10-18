@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "パラサウロロフス"
-speciesGroup: "古生物/鳥脚類"
+speciesGroup: "鳥脚類"
 price: "-"
 releaseStart: "2001.08"
 genre:

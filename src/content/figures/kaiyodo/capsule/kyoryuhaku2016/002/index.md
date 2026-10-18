@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "ティラノサウルス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 price: "500円 造形制作：海洋堂 造形総指揮：松村しのぶ"
 releaseStart: "-"
 genre:

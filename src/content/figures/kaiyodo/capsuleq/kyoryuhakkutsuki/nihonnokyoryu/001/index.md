@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "フクイラプトル"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 price: "400円 造形総指揮：松村しのぶ"
 releaseStart: "2016.03"
 genre:

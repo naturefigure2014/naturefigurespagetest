@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士 造形監修：松村しのぶ"
 executiveProducer: "-"
 species: "ディプロドクス"
-speciesGroup: "古生物/竜脚類"
+speciesGroup: "竜脚類"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2018.03"
 genre:

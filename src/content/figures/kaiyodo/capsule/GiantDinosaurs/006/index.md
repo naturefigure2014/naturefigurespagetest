@@ -8,7 +8,7 @@ maker: "ニュートラルコーポレーション 造型企画制作：海洋�
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "ティラノサウルス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 price: "500円"
 releaseStart: "2024.07"
 genre:

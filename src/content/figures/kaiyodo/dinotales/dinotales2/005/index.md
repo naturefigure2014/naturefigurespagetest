@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "ステゴサウルス"
-speciesGroup: "古生物/装盾類"
+speciesGroup: "装盾類"
 price: "158円"
 releaseStart: "2001.08"
 genre:

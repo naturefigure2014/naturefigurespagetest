@@ -4,7 +4,7 @@ description: ""
 titleId: kaiyodo/dinoland
 figureId: "35stegosaurs"
 species: "ステゴサウルス"
-speciesGroup: "古生物/装盾類"
+speciesGroup: "装盾類"
 contentType: figure
 maker: 海洋堂
 sculptor: "山下伸一"

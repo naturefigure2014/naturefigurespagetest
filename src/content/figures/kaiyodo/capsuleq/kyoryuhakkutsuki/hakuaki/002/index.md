@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "トリケラトプス"
-speciesGroup: "古生物/角竜類"
+speciesGroup: "角竜類"
 price: "400円 造形総指揮：松村しのぶ"
 releaseStart: "2015.07"
 genre:

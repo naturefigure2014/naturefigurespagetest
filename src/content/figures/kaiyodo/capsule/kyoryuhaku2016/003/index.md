@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "パラサウロロフス"
-speciesGroup: "古生物/鳥脚類"
+speciesGroup: "鳥脚類"
 price: "500円 造形制作：海洋堂 造形総指揮：松村しのぶ"
 releaseStart: "-"
 genre:

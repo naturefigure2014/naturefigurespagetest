@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "トリケラトプス"
-speciesGroup: "古生物/角竜類"
+speciesGroup: "角竜類"
 price: "500円"
 releaseStart: "2022.08"
 genre:

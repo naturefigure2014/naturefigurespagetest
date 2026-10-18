@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "スコミムス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 price: "158円"
 releaseStart: "2001.12"
 genre:

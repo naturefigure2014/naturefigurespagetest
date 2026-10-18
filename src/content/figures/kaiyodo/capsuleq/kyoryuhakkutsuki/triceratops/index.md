@@ -18,11 +18,11 @@ releaseStart: "2013.10"
 price: "300円"
 speciesEntries:
   - species: "コスモケラトプス"
-    speciesGroup: "古生物/角竜類"
+    speciesGroup: "角竜類"
   - species: "ディアブロケラトプス"
-    speciesGroup: "古生物/角竜類"
+    speciesGroup: "角竜類"
   - species: "トリケラトプス"
-    speciesGroup: "古生物/角竜類"
+    speciesGroup: "角竜類"
 genre:
   - "-"
 tags:

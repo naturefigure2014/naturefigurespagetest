@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "オヴィラプトル"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 price: "-"
 releaseStart: "2004.07"
 genre:

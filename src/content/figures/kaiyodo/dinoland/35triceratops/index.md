@@ -4,7 +4,7 @@ description: ""
 titleId: kaiyodo/dinoland
 figureId: "35triceratops"
 species: "トリケラトプス"
-speciesGroup: "古生物/角竜類"
+speciesGroup: "角竜類"
 contentType: figure
 maker: 海洋堂
 price: "1,940円"

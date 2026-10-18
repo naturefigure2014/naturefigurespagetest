@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "荒木一成"
 executiveProducer: "-"
 species: "トリケラトプス"
-speciesGroup: "古生物/角竜類"
+speciesGroup: "角竜類"
 price: "158円"
 releaseStart: "2001.12"
 genre:

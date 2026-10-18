@@ -4,7 +4,7 @@ description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
 species: "ヴェロキラプトル"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 contentType: figure
 maker: 海洋堂
 sculptor: "松村しのぶ"

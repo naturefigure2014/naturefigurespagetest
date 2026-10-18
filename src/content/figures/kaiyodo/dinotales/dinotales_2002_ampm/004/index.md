@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "ステゴサウルス"
-speciesGroup: "古生物/装盾類"
+speciesGroup: "装盾類"
 price: "-"
 releaseStart: "-"
 genre:

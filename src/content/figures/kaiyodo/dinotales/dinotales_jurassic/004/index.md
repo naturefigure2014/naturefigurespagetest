@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "プテラノドン"
-speciesGroup: "その他古生物"
+speciesGroup: "翼竜類"
 price: "200円(単品) 1000円(セットボックス)"
 releaseStart: "-"
 genre:

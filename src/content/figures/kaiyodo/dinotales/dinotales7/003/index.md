@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "カマラサウルス"
-speciesGroup: "古生物/竜脚類"
+speciesGroup: "竜脚類"
 price: "-"
 releaseStart: "2006.08"
 genre:

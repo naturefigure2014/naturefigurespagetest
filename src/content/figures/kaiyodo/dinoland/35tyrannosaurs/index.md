@@ -4,7 +4,7 @@ description: ""
 titleId: kaiyodo/dinoland
 figureId: "35tyrannosaurs"
 species: "ティラノサウルス"
-speciesGroup: "古生物/獣脚類"
+speciesGroup: "獣脚類"
 contentType: figure
 maker: 海洋堂
 price: "3,000円（発売当時）、8,800円（2021年復刻）"

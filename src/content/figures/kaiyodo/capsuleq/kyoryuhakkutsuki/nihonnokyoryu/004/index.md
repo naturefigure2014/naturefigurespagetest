@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士 発掘場所：北海道"
 executiveProducer: "-"
 species: "プテラノドン"
-speciesGroup: "その他古生物"
+speciesGroup: "翼竜類"
 price: "400円 造形総指揮：松村しのぶ"
 releaseStart: "2016.03"
 genre:

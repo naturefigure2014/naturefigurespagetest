@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "ブラキオサウルス"
-speciesGroup: "古生物/竜脚類"
+speciesGroup: "竜脚類"
 price: "-"
 releaseStart: "2001.08"
 genre:
