@@ -46,7 +46,7 @@ speciesEntries:
   - species: "オヴィラプトル"
     speciesGroup: "獣脚類"
   - species: "パキケファロサウルス"
-    speciesGroup: "その他古生物"
+    speciesGroup: "堅頭竜類"
   - species: "コエロフィシス"
     speciesGroup: "獣脚類"
   - species: "プロトケラトプス"

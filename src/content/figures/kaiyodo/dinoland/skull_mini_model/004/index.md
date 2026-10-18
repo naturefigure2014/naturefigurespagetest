@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/dinoland/skull_mini_model
 figureId: "004"
 species: "パキケファロサウルス"
-speciesGroup: ""
+speciesGroup: "堅頭竜類"
 maker: "海洋堂"
 figureTopImage: "pachy001.jpg"
 coverImage: "pachy001.jpg"

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "パキケファロサウルス"
-speciesGroup: "その他古生物"
+speciesGroup: "堅頭竜類"
 price: "-"
 releaseStart: "2001.08"
 genre:
