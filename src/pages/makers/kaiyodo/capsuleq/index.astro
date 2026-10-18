@@ -51,19 +51,18 @@ const heroImage = heroSource
         {page.data.pageTitle}
       </div>
 
-      <section class="maker-detail-hero">
-        <div>
-          <p class="eyebrow">{page.data.pageEnglish ?? page.data.english ?? "MAKER"}</p>
-          <h1>{page.data.pageTitle}</h1>
-          {page.data.pageDescription && <p>{page.data.pageDescription}</p>}
-        </div>
-        {heroImage && <img src={heroImage} alt="" />}
-      </section>
+      <div class="maker-detail-hero-wrap">
+        <section class="maker-detail-hero">
+          <div>
+            <p class="eyebrow">{page.data.pageEnglish ?? page.data.english ?? "MAKER"}</p>
+            <h1>{page.data.pageTitle}</h1>
+            {page.data.pageDescription && <p>{page.data.pageDescription}</p>}
+          </div>
+          {heroImage && <img src={heroImage} alt="" />}
+        </section>
+      </div>
 
-      <section class="maker-detail-section">
-        <div class="maker-detail-section-heading">
-          <span></span><h2>{page.data.titleHeading ?? "タイトル一覧"}</h2>
-        </div>
+      <section class="maker-detail-section maker-detail-section--flat">
         {page.data.seriesSections.map((section) => {
           const titles = titlesForSection(section);
           return (
@@ -71,6 +70,7 @@ const heroImage = heroSource
               <header>
                 <div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div>
               </header>
+              {section.description && <p class="maker-detail-series-description">{section.description}</p>}
               <div class="maker-detail-title-grid">
                 {section.cards.map((card) => {
                   const image = card.sourceId

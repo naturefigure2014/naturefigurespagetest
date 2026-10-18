@@ -142,6 +142,7 @@ const makers = defineCollection({
     seriesSections: z.array(z.object({
       name: z.string(),
       format: z.string().optional(),
+      description: z.string().optional(),
       showAllFigures: z.boolean().default(false),
       titleIds: z.array(z.string()).default([]),
       cards: z.array(z.object({
