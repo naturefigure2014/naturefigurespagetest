@@ -9,8 +9,9 @@ titleHeading: アニマテイルズ タイトル一覧
 heroSourceId: kaiyodo/animatales/anima_jap1
 heroImage: coverImage
 seriesSections:
-  - name: すべて
+  - name: 日本の動物コレクション
     format: 食玩・ガチャ
+    description: 伝説の始まり。
     titleIds:
       - kaiyodo/animatales/anima_jap1
       - kaiyodo/animatales/anima_jap2
@@ -24,20 +25,6 @@ seriesSections:
       - kaiyodo/animatales/anima_jap9
       - kaiyodo/animatales/anima_jap10
       - kaiyodo/animatales/anima_jap11
-      - kaiyodo/animatales/anima_japEX
-      - kaiyodo/animatales/anima_japI
-      - kaiyodo/animatales/anima_japII
-      - kaiyodo/animatales/anima_japIII
-      - kaiyodo/animatales/anima_japIV
-      - kaiyodo/animatales/anima_japV
-      - kaiyodo/animatales/anima_japVI
-      - kaiyodo/animatales/anima_japVII
-      - kaiyodo/animatales/anima_japVIII
-      - kaiyodo/animatales/anima_pet1
-      - kaiyodo/animatales/anima_pet2
-      - kaiyodo/animatales/anima_pet3
-      - kaiyodo/animatales/anima_pet4
-      - kaiyodo/animatales/anima_pet5
       - kaiyodo/animatales/chocoegg_books
       - kaiyodo/animatales/chocoegg_books2
       - kaiyodo/animatales/chocoegg_classic
@@ -47,7 +34,6 @@ seriesSections:
       - kaiyodo/animatales/chocoegg_hongkong
       - kaiyodo/animatales/chocoegg_hyakka1
       - kaiyodo/animatales/chocoegg_hyakka2
-      - kaiyodo/animatales/chocoq_amazing
       - kaiyodo/animatales/chocoq_hyakka
       - kaiyodo/animatales/chocoq_shokuganmagazine
       - kaiyodo/animatales/chocoq_sp
@@ -56,5 +42,25 @@ seriesSections:
       - kaiyodo/animatales/wagaten1
       - kaiyodo/animatales/wagaten2
       - kaiyodo/animatales/wagaten3
-    maxTitles: 100
+      - kaiyodo/animatales/anima_japEX
+      - kaiyodo/animatales/anima_japI
+      - kaiyodo/animatales/anima_japII
+      - kaiyodo/animatales/anima_japIII
+      - kaiyodo/animatales/anima_japIV
+      - kaiyodo/animatales/anima_japV
+      - kaiyodo/animatales/anima_japVI
+      - kaiyodo/animatales/anima_japVII
+      - kaiyodo/animatales/anima_japVIII
+  - name: ペット動物コレクション
+    format: 食玩・ガチャ
+    description: ペット動物たち
+    titleIds:
+      - kaiyodo/animatales/anima_pet1
+      - kaiyodo/animatales/anima_pet2
+      - kaiyodo/animatales/anima_pet3
+      - kaiyodo/animatales/anima_pet4
+      - kaiyodo/animatales/anima_pet5
+
+      - kaiyodo/animatales/chocoq_amazing
+
 ---

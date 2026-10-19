@@ -21,14 +21,25 @@ seriesSections:
   - name: カプセルQミュージアム
     format: ガチャ
     href: "/makers/kaiyodo/capsuleq/"
+    maxTitles: 5
   - name: アニマテイルズ
     format: ガチャ
     href: "/makers/kaiyodo/animatales/"
+    maxTitles: 5
+  - name: ダイノテイルズ
+    format: ガチャ
+    href: "/makers/kaiyodo/dinotales/"
+    maxTitles: 5
   - name: アクアテイルズ
     format: ガチャ
-    showAllFigures: true
-  - name: AQUALAND
-    format: ガチャ
+    href: "/makers/kaiyodo/aquatales/"
+    maxTitles: 5
+  - name: 水生動物モデルコレクション[アクアランド]
+    format: 完成品、キット
+    href: "/makers/kaiyodo/aqualand/"
+  - name: DINOLAND
+    format: コレクション
+    href: "/makers/kaiyodo/dinoland/"
   - name: カプセルズー
     format: ガチャ
     showAllFigures: true
@@ -53,16 +64,9 @@ seriesSections:
     format: ガチャ
   - name: naturetales・Dinotalesシリーズ
     format: ガチャ
-  - name: ダイノテイルズ
-    format: ガチャ
-    showAllFigures: true
   - name: 自然史モデルコレクション
     format: コレクション
-  - name: 水生動物モデルコレクション[アクアランド]
-    format: コレクション
-    showAllFigures: true
-  - name: DINOLAND
-    format: コレクション
+
   - name: 高知・四万十ファクトリー　オリジナルフィギュア
     format: オリジナル
   - name: 松村しのぶオリジナルフィギュア
