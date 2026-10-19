@@ -39,6 +39,12 @@ seriesSections:
       - kaiyodo/capsuleq/kyoryuhakkutsuki/9_carnivore
       - kaiyodo/capsuleq/kyoryuhakkutsuki/10_hunter
     maxTitles: 100
+  - name: 古生物のタイトル
+    format: ガチャ
+    titleIds:
+      - kaiyodo/capsuleq/kosedai
+      - kaiyodo/capsuleq/wakeatte
+    maxTitles: 100
   - name: ワイルドラッシュ
     format: ガチャ
     titleIds:
@@ -47,7 +53,7 @@ seriesSections:
       - kaiyodo/capsuleq/WILDRUSH3
       - kaiyodo/capsuleq/WILDRUSH4
     maxTitles: 100
-  - name: 爬虫類のタイトル
+  - name: 両生類・爬虫類のタイトル
     format: ガチャ
     titleIds:
       - kaiyodo/capsuleq/yamori1
@@ -55,69 +61,92 @@ seriesSections:
       - kaiyodo/capsuleq/yamori3
       - kaiyodo/capsuleq/yamoriEX
       - kaiyodo/capsuleq/ReptilesLounge
-    maxTitles: 100
-  - name: 昆虫のタイトル
-    format: ガチャ
-    titleIds:
-      - kaiyodo/capsuleq/imokore1
-      - kaiyodo/capsuleq/imokore2
-      - kaiyodo/capsuleq/imokore4
-      - kaiyodo/capsuleq/imokore5
-    maxTitles: 100
-  - name: すべて
-    format: ガチャ
-    titleIds:
-      - kaiyodo/capsuleq/birdgarden
-      - kaiyodo/capsuleq/chinnzyu1
-      - kaiyodo/capsuleq/chinnzyu2
-      - kaiyodo/capsuleq/egypt
-      - kaiyodo/capsuleq/ezono
-      - kaiyodo/capsuleq/fushigipet
-      - kaiyodo/capsuleq/gaichu
-      - kaiyodo/capsuleq/hittuki
-      - kaiyodo/capsuleq/hokusai
-      - kaiyodo/capsuleq/honekore1
-      - kaiyodo/capsuleq/honekore2
-      - kaiyodo/capsuleq/hukurou
-      - kaiyodo/capsuleq/hukurou2
-      - kaiyodo/capsuleq/hukurou3
-      - kaiyodo/capsuleq/ikakore
-      - kaiyodo/capsuleq/ikakore2
-      - kaiyodo/capsuleq/ikakore_shinkai
-      - kaiyodo/capsuleq/jppet1
-      - kaiyodo/capsuleq/kabukimen
-      - kaiyodo/capsuleq/kabuto
-      - kaiyodo/capsuleq/kanitaizen
-      - kaiyodo/capsuleq/kanndume
-      - kaiyodo/capsuleq/kopanda
-      - kaiyodo/capsuleq/kopanda2
-      - kaiyodo/capsuleq/kosedai
-      - kaiyodo/capsuleq/kumokore
-      - kaiyodo/capsuleq/kuwagata
-      - kaiyodo/capsuleq/magnet_aquarium
-      - kaiyodo/capsuleq/manekineko1
-      - kaiyodo/capsuleq/manekineko2
-      - kaiyodo/capsuleq/microcosmos
-      - kaiyodo/capsuleq/nihonkitte
-      - kaiyodo/capsuleq/nihonnoshiro1
-      - kaiyodo/capsuleq/nihonnoshiro2
-      - kaiyodo/capsuleq/nohmask2
-      - kaiyodo/capsuleq/nyanslife
-      - kaiyodo/capsuleq/ooparts
       - kaiyodo/capsuleq/osaifugaeru1
       - kaiyodo/capsuleq/osaifugaeru2
       - kaiyodo/capsuleq/osaifugame
       - kaiyodo/capsuleq/osaifukame2
+    maxTitles: 100
+  - name: 昆虫・ムシのタイトル
+    format: ガチャ
+    titleIds:
+      - kaiyodo/capsuleq/kabuto
+      - kaiyodo/capsuleq/kuwagata
+      - kaiyodo/capsuleq/imokore1
+      - kaiyodo/capsuleq/imokore2
+      - kaiyodo/capsuleq/imokore4
+      - kaiyodo/capsuleq/imokore5
+      - kaiyodo/capsuleq/gaichu
+      - kaiyodo/capsuleq/kumokore
+      - kaiyodo/capsuleq/hittuki
+      - kaiyodo/capsuleq/jueki
+      - kaiyodo/capsuleq/uraniwa
+    maxTitles: 100
+  - name: 鳥類のタイトル
+    format: ガチャ
+    titleIds:
+      - kaiyodo/capsuleq/birdgarden
+      - kaiyodo/capsuleq/hukurou
+      - kaiyodo/capsuleq/hukurou2
+      - kaiyodo/capsuleq/hukurou3
+    maxTitles: 100
+  - name: 日本の文化のタイトル
+    format: ガチャ
+    titleIds:
+      - kaiyodo/capsuleq/kabukimen
+      - kaiyodo/capsuleq/nihonkitte
+      - kaiyodo/capsuleq/nihonnoshiro1
+      - kaiyodo/capsuleq/nihonnoshiro2
+      - kaiyodo/capsuleq/nohmask2
+      - kaiyodo/capsuleq/shinju_yonshin
+      - kaiyodo/capsuleq/hokusai
+    maxTitles: 100
+  - name: キャラクターのタイトル
+    format: ガチャ
+    titleIds:
+      - kaiyodo/capsuleq/yotsubato1
+      - kaiyodo/capsuleq/yotsubato2
+      - kaiyodo/capsuleq/ezono
+    maxTitles: 100
+  - name: すべて
+    format: ガチャ
+    titleIds:
+
+      - kaiyodo/capsuleq/chinnzyu1
+      - kaiyodo/capsuleq/chinnzyu2
+      - kaiyodo/capsuleq/egypt
+
+      - kaiyodo/capsuleq/fushigipet
+
+
+      - kaiyodo/capsuleq/honekore1
+      - kaiyodo/capsuleq/honekore2
+
+      - kaiyodo/capsuleq/ikakore
+      - kaiyodo/capsuleq/ikakore2
+      - kaiyodo/capsuleq/ikakore_shinkai
+      - kaiyodo/capsuleq/jppet1
+
+      - kaiyodo/capsuleq/kanitaizen
+      - kaiyodo/capsuleq/kanndume
+      - kaiyodo/capsuleq/kopanda
+      - kaiyodo/capsuleq/kopanda2
+
+
+      - kaiyodo/capsuleq/magnet_aquarium
+      - kaiyodo/capsuleq/manekineko1
+      - kaiyodo/capsuleq/manekineko2
+      - kaiyodo/capsuleq/microcosmos
+
+      - kaiyodo/capsuleq/nyanslife
+      - kaiyodo/capsuleq/ooparts
 
       - kaiyodo/capsuleq/sango
-      - kaiyodo/capsuleq/shinju_yonshin
+
       - kaiyodo/capsuleq/UMA
       - kaiyodo/capsuleq/uokore
       - kaiyodo/capsuleq/vegecolle
-      - kaiyodo/capsuleq/wakeatte
 
-      - kaiyodo/capsuleq/yotsubato1
-      - kaiyodo/capsuleq/yotsubato2
+
       - kaiyodo/capsuleq/yudokukikenn
       - kaiyodo/capsuleq/yudokukikenn2
     maxTitles: 100
