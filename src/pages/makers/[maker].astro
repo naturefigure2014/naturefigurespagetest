@@ -10,7 +10,7 @@ import { siteUrl } from "../../lib/site-url";
 export async function getStaticPaths() {
   const entries = await getCollection("makers");
   return entries.filter((entry) => !entry.data.pageTitle).map((entry) => ({
-    params: { maker: entry.id.replace(/\.md$/, "") },
+    params: { maker: entry.id.split("/").pop()?.replace(/\.md$/, "") ?? entry.id },
     props: { entry }
   }));
 }
