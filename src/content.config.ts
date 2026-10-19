@@ -113,6 +113,8 @@ const makers = defineCollection({
     maker: z.string(),
     pageTitle: z.string().optional(),
     pageEnglish: z.string().optional(),
+    seriesPageSlug: z.string().optional(),
+    titleSeries: z.string().optional(),
     genreSlug: z.string().optional(),
     pageDescription: z.string().optional(),
     titleHeading: z.string().optional(),
@@ -142,6 +144,7 @@ const makers = defineCollection({
     seriesSections: z.array(z.object({
       name: z.string(),
       format: z.string().optional(),
+      href: z.string().optional(),
       description: z.string().optional(),
       showAllFigures: z.boolean().default(false),
       titleIds: z.array(z.string()).default([]),

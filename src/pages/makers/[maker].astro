@@ -88,9 +88,9 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
             ))}
           </aside>
         </div>
-        <section class="maker-detail-hero">
+        <section class:list={{ "maker-detail-hero": true, "maker-detail-hero--compact": entry.data.maker === "海洋堂" }}>
           <div>
-            <p class="eyebrow">{entry.data.english ?? "MAKER"}</p>
+            {entry.data.maker !== "海洋堂" && <p class="eyebrow">{entry.data.english ?? "MAKER"}</p>}
             <h1>{entry.data.maker}</h1>
             <p>海洋堂のフィギュアを、シリーズやジャンルから探せます。</p>
           </div>
@@ -119,7 +119,7 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
             const titles = titlesForSeries(section);
             return (
               <section class="maker-detail-series">
-                <header><div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div><a href={siteUrl(section.name === "カプセルQミュージアム" ? "/makers/kaiyodo/capsuleq/" : `/titles/?series=${encodeURIComponent(section.name)}`)}>▶すべてのタイトルを見る</a></header>
+                <header><div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div><a href={section.href ? siteUrl(section.href) : siteUrl(`/titles/?series=${encodeURIComponent(section.name)}`)}>▶すべてのタイトルを見る</a></header>
                 <div class="maker-detail-title-grid">
                   {section.cards.map((card) => (
                     <a class="maker-detail-card" href={linkFor(card.href)}>

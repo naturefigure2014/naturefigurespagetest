@@ -1,37 +1,48 @@
 ---
-import "../../../../styles/global.css";
-import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import "../../../styles/global.css";
+import "../../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
-import { resolveFigureImage } from "../../../../lib/figure-images";
-import { siteUrl } from "../../../../lib/site-url";
+import { resolveFigureImage } from "../../../lib/figure-images";
+import { siteUrl } from "../../../lib/site-url";
 
-const makerPages = await getCollection("makers");
-const page = makerPages.find((entry) => entry.id.toLowerCase().includes("capsuleq"));
-if (!page) throw new Error("Missing makers/capsuleq.md content entry.");
+export async function getStaticPaths() {
+  const makerPages = await getCollection("makers");
+  return makerPages
+    .filter((entry) => entry.data.seriesPageSlug)
+    .map((entry) => ({
+      params: { series: entry.data.seriesPageSlug },
+      props: { entry }
+    }));
+}
+
+const { entry: page } = Astro.props;
+if (!page.data.titleSeries) throw new Error(`Missing titleSeries for maker series page: ${page.id}`);
 
 const figures = await getCollection("figures");
 const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
 const entryById = new Map(figures.map((item) => [normalizeId(item.id), item]));
-const capsuleEntries = figures.filter((item) => {
+const seriesEntries = figures.filter((item) => {
+  if (item.data.contentType !== "title") return false;
   const series = item.data.series;
-  return item.data.contentType === "title" &&
-    (Array.isArray(series) ? series : []).includes("capsuleq");
+  const seriesName = item.data.seriesName;
+  return (Array.isArray(series) ? series : []).includes(page.data.titleSeries ?? "")
+    || (Array.isArray(seriesName) ? seriesName : seriesName ? [seriesName] : []).includes(page.data.titleSeries ?? "");
 });
-const seriesNames = (entry: (typeof capsuleEntries)[number]) => {
+const seriesNames = (entry: (typeof seriesEntries)[number]) => {
   const value = entry.data.seriesName;
-  return value ? (Array.isArray(value) ? value : [value]) : ["カプセルQミュージアム"];
+  return value ? (Array.isArray(value) ? value : [value]) : [page.data.pageTitle ?? ""];
 };
 const titlesForSection = (section: (typeof page.data.seriesSections)[number]) => {
   if (section.titleIds.length > 0) {
     return section.titleIds
       .map((id) => entryById.get(normalizeId(id)))
-      .filter((item): item is (typeof figures)[number] => Boolean(item))
+      .filter((item): item is (typeof figures)[number] => item?.data.contentType === "title")
       .slice(0, section.maxTitles);
   }
   if (section.name === "すべて") {
-    return capsuleEntries;
+    return seriesEntries.slice(0, section.maxTitles);
   }
-  return capsuleEntries
+  return seriesEntries
     .filter((item) => seriesNames(item).includes(section.name))
     .slice(0, section.maxTitles);
 };
@@ -41,7 +52,7 @@ const heroImage = heroSource
   : undefined;
 ---
 
-<BaseLayout title={`${page.data.pageTitle ?? "カプセルQミュージアム"} | ${page.data.maker} | NATURE FIGURE`}>
+<BaseLayout title={`${page.data.pageTitle ?? "シリーズ"} | ${page.data.maker} | NATURE FIGURE`}>
   <div class="maker-detail">
     <div class="maker-detail-content">
       <div class="breadcrumb">
@@ -52,11 +63,11 @@ const heroImage = heroSource
       </div>
 
       <div class="maker-detail-hero-wrap">
-        <section class="maker-detail-hero capsuleq-detail-hero">
+        <section class="maker-detail-hero maker-series-detail-hero">
           <div>
-            <p class="capsuleq-detail-maker">{page.data.maker}</p>
+            <p class="maker-series-detail-maker">{page.data.maker}</p>
             <h1>{page.data.pageTitle}</h1>
-            <p class="capsuleq-detail-english">{page.data.pageEnglish ?? "Capsule Q Museum"}</p>
+            <p class="maker-series-detail-english">{page.data.pageEnglish}</p>
           </div>
           {heroImage && <img src={heroImage} alt="" />}
         </section>

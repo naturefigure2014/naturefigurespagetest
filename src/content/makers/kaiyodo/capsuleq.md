@@ -2,6 +2,8 @@
 maker: 海洋堂
 pageTitle: カプセルQミュージアム
 pageEnglish: Capsule Q Museum
+seriesPageSlug: capsuleq
+titleSeries: capsuleq
 pageDescription: 海洋堂のカプセルフィギュアブランド、カプセルQミュージアムのタイトルを紹介します。
 titleHeading: カプセルQミュージアム タイトル一覧
 english: KAIYODO

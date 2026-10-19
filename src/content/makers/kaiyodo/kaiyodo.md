@@ -20,25 +20,10 @@ seriesDescription: 海洋堂のフィギュアを、シリーズごとに紹介�
 seriesSections:
   - name: カプセルQミュージアム
     format: ガチャ
+    href: "/makers/kaiyodo/capsuleq/"
   - name: アニマテイルズ
     format: ガチャ
-    cards:
-      - name: アニマテイルズ 日本の動物1
-        href: "#"
-        sourceId: kaiyodo/capsuleq/nihon-no-doubutsu-1
-        image: coverImage
-      - name: アニマテイルズ 日本の動物2
-        href: "#"
-        sourceId: kaiyodo/capsuleq/nihon-no-doubutsu-1
-        image: coverImage
-      - name: アニマテイルズ 水辺の生き物
-        href: "#"
-        sourceId: kaiyodo/aqualand
-        image: coverImage
-      - name: アニマテイルズ 深海の生き物
-        href: "#"
-        sourceId: kaiyodo/aqualand
-        image: coverImage
+    href: "/makers/kaiyodo/animatales/"
   - name: アクアテイルズ
     format: ガチャ
     showAllFigures: true
