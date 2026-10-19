@@ -9,7 +9,7 @@ titleHeading: ダイノテイルズ タイトル一覧
 heroSourceId: kaiyodo/dinotales/dinotales1
 heroImage: coverImage
 seriesSections:
-  - name: すべて
+  - name: チョコラザウルス
     format: 食玩
     titleIds:
       - kaiyodo/dinotales/dinotales1
@@ -17,17 +17,25 @@ seriesSections:
       - kaiyodo/dinotales/dinotales2
       - kaiyodo/dinotales/dinotales3
       - kaiyodo/dinotales/dinotales4
-      - kaiyodo/dinotales/dinotales5
-      - kaiyodo/dinotales/dinotales6
-      - kaiyodo/dinotales/dinotales7
-      - kaiyodo/dinotales/dinometal
+  - name: チョコラザウルス
+    format: 食玩
+    titleIds:
       - kaiyodo/dinotales/dinotales1_sp
       - kaiyodo/dinotales/dinotales_2002
       - kaiyodo/dinotales/dinotales_2002_ampm
       - kaiyodo/dinotales/dinotales_2002_seismosaurus
+      - kaiyodo/dinotales/dinometal
       - kaiyodo/dinotales/dinotales_book
       - kaiyodo/dinotales/dinotales_jurassic
+  - name: すべて
+    format: 食玩
+    titleIds:
+      - kaiyodo/dinotales/dinotales5
+      - kaiyodo/dinotales/dinotales6
+      - kaiyodo/dinotales/dinotales7
+  - name: すべて
+    format: 食玩
+    titleIds:
       - kaiyodo/dinotales/dinotales_sofubi/2001
       - kaiyodo/dinotales/dinotales_sofubi/2012
-    maxTitles: 100
 ---

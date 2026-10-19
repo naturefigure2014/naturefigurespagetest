@@ -42,7 +42,10 @@ seriesSections:
       - kaiyodo/animatales/wagaten1
       - kaiyodo/animatales/wagaten2
       - kaiyodo/animatales/wagaten3
-      - kaiyodo/animatales/anima_japEX
+  - name: カプセルQミュージアム 日本の動物コレクション
+    format: ガチャ
+    description: 復活。
+    titleIds:
       - kaiyodo/animatales/anima_japI
       - kaiyodo/animatales/anima_japII
       - kaiyodo/animatales/anima_japIII
@@ -51,6 +54,7 @@ seriesSections:
       - kaiyodo/animatales/anima_japVI
       - kaiyodo/animatales/anima_japVII
       - kaiyodo/animatales/anima_japVIII
+      - kaiyodo/animatales/anima_japEX
   - name: ペット動物コレクション
     format: 食玩・ガチャ
     description: ペット動物たち
