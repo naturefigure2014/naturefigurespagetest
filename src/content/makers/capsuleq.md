@@ -66,6 +66,16 @@ seriesSections:
       - kaiyodo/capsuleq/osaifugame
       - kaiyodo/capsuleq/osaifukame2
     maxTitles: 100
+  - name: 海の生き物のタイトル
+    format: ガチャ
+    titleIds:
+      - kaiyodo/capsuleq/kanitaizen
+      - kaiyodo/capsuleq/magnet_aquarium
+      - kaiyodo/capsuleq/uokore
+      - kaiyodo/capsuleq/ikakore
+      - kaiyodo/capsuleq/ikakore2
+      - kaiyodo/capsuleq/ikakore_shinkai
+    maxTitles: 100
   - name: 昆虫・ムシのタイトル
     format: ガチャ
     titleIds:
@@ -121,18 +131,16 @@ seriesSections:
       - kaiyodo/capsuleq/honekore1
       - kaiyodo/capsuleq/honekore2
 
-      - kaiyodo/capsuleq/ikakore
-      - kaiyodo/capsuleq/ikakore2
-      - kaiyodo/capsuleq/ikakore_shinkai
+
       - kaiyodo/capsuleq/jppet1
 
-      - kaiyodo/capsuleq/kanitaizen
+
       - kaiyodo/capsuleq/kanndume
       - kaiyodo/capsuleq/kopanda
       - kaiyodo/capsuleq/kopanda2
 
 
-      - kaiyodo/capsuleq/magnet_aquarium
+
       - kaiyodo/capsuleq/manekineko1
       - kaiyodo/capsuleq/manekineko2
       - kaiyodo/capsuleq/microcosmos
@@ -143,7 +151,7 @@ seriesSections:
       - kaiyodo/capsuleq/sango
 
       - kaiyodo/capsuleq/UMA
-      - kaiyodo/capsuleq/uokore
+
       - kaiyodo/capsuleq/vegecolle
 
 

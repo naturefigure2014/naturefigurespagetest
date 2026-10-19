@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "オカダンゴムシ"
-speciesGroup: "-"
+speciesGroup: "その他節足動物"
 price: "300円 造形総指揮：松村しのぶ"
 releaseStart: "2015.04"
 genre:

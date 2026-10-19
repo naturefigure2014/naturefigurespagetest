@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "カブトムシ"
-speciesGroup: "-"
+speciesGroup: "カブトムシ・クワガタ類"
 price: "300円 造形総指揮：松村しのぶ"
 releaseStart: "2015.06"
 genre:

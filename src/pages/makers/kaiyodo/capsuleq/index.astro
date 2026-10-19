@@ -52,11 +52,11 @@ const heroImage = heroSource
       </div>
 
       <div class="maker-detail-hero-wrap">
-        <section class="maker-detail-hero">
+        <section class="maker-detail-hero capsuleq-detail-hero">
           <div>
-            <p class="eyebrow">{page.data.pageEnglish ?? page.data.english ?? "MAKER"}</p>
+            <p class="capsuleq-detail-maker">{page.data.maker}</p>
             <h1>{page.data.pageTitle}</h1>
-            {page.data.pageDescription && <p>{page.data.pageDescription}</p>}
+            <p class="capsuleq-detail-english">{page.data.pageEnglish ?? "Capsule Q Museum"}</p>
           </div>
           {heroImage && <img src={heroImage} alt="" />}
         </section>

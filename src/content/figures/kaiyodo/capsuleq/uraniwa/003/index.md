@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "ニホントゲクマムシ"
-speciesGroup: "-"
+speciesGroup: "その他の動物"
 price: "300円 造形総指揮：松村しのぶ"
 releaseStart: "2015.04"
 genre:
