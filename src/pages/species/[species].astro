@@ -78,8 +78,7 @@ const imageFor = (figure: (typeof allFigures)[number]) => {
 };
 const figureMetadata = (figure: (typeof allFigures)[number]) => {
   const title = titleForFigure(figure);
-  const seriesName = title?.data.seriesName;
-  const firstSeriesName = Array.isArray(seriesName) ? seriesName[0] : seriesName;
+  const titleName = title?.data.shortTitle || title?.data.title;
   const makers = makerNames(title?.data.maker ?? figure.data.maker);
   const releaseYear =
     (figure.data.releaseDate instanceof Date
@@ -92,7 +91,7 @@ const figureMetadata = (figure: (typeof allFigures)[number]) => {
     "-";
 
   return {
-    seriesName: firstSeriesName || "-",
+    titleName: titleName || "-",
     sculptor: figure.data.sculptor || "-",
     maker: makers.length > 0 ? makers.join("・") : "-",
     makerClass: makerBadgeClass(makers[0] ?? ""),
@@ -140,7 +139,7 @@ export async function getStaticPaths() {
               <img src={imageFor(figure)} alt="" loading="lazy" />
               <div>
                 <strong>{figure.data.title}</strong>
-                <small>{metadata.seriesName}</small>
+                <small>{metadata.titleName}</small>
                 <small class="species-detail-sculptor">{metadata.sculptor}</small>
                 <div class="species-detail-meta">
                   <span class:list={["species-detail-maker", metadata.makerClass]}>{metadata.maker}</span>

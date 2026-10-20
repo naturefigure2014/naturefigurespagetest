@@ -137,7 +137,7 @@ const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], tit
                   ))}
                   {titles.map((title) => {
                     const image = resolveFigureImage(title.id, title.data.coverImage);
-                    return <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}><>{image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}{image && <MakerCardBadges badges={badgesForTitle(section, title.id)} />}<strong>{title.data.title}</strong></></a>;
+                    return <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}><>{image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}{image && <MakerCardBadges badges={badgesForTitle(section, title.id)} />}<strong>{title.data.shortTitle || title.data.title}</strong></></a>;
                   })}
                 </div>
               </section>

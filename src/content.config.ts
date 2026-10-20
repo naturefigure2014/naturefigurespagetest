@@ -2,6 +2,7 @@ import { defineCollection, z } from "astro:content";
 
 const common = {
   title: z.string(),
+    shortTitle: z.string().optional(),
   description: z.preprocess(
     (value) => value === null ? undefined : value,
     z.string().optional()
