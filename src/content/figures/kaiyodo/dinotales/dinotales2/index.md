@@ -1,5 +1,6 @@
 ---
 title: "チョコラザウルス 恐竜・古代生物フィギュアコレクション DINOTALES 第2シリーズ"
+shortTitle: "チョコラザウルス 第2弾"
 description: ""
 contentType: title
 titleId: kaiyodo/dinotales/dinotales2

@@ -1,5 +1,6 @@
 ---
 title: "チョコラザウルス 恐竜・古代生物フィギュアコレクション 第1シリーズ リペイント版"
+shortTitle: "チョコラザウルス 第1弾リペイント"
 description: ""
 contentType: title
 titleId: kaiyodo/dinotales/dinotales1_ver2

@@ -2,7 +2,7 @@
 import "../../../styles/global.css";
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import MakerCardBadges from "../../../components/MakerCardBadges.astro";
-import { getCollection } from "astro:content";
+import { getCollection, render } from "astro:content";
 import { resolveFigureImage } from "../../../lib/figure-images";
 import { siteUrl } from "../../../lib/site-url";
 
@@ -17,6 +17,7 @@ export async function getStaticPaths() {
 }
 
 const { entry: page } = Astro.props;
+const { Content } = await render(page);
 if (!page.data.titleSeries) throw new Error(`Missing titleSeries for maker series page: ${page.id}`);
 
 const figures = await getCollection("figures");
@@ -79,6 +80,10 @@ const heroImage = heroSource
           {heroImage && <img src={heroImage} alt="" />}
         </section>
       </div>
+
+      <section class="maker-detail-description">
+        <Content />
+      </section>
 
       <section class="maker-detail-section maker-detail-section--flat">
         {page.data.seriesSections.map((section) => {
