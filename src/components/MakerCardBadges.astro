@@ -25,7 +25,7 @@ const visibleBadges = badges
 {visibleBadges.length > 0 && (
   <div class="maker-detail-card-badges">
     {visibleBadges.map((badge) => (
-      <span style={{ backgroundColor: badge.backgroundColor, color: badge.textColor }}>{badge.text}</span>
+      <span style={{ backgroundColor: badge.backgroundColor, color: badge.textColor }}><span>{badge.text}</span></span>
     ))}
   </div>
 )}

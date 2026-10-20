@@ -10,7 +10,7 @@ heroSourceId: kaiyodo/animatales/anima_jap1
 heroImage: coverImage
 seriesSections:
   - name: チョコエッグ　日本の動物・ペット動物シリーズ
-    format: 食玩・ガチャ
+    format: 食玩
     description: 伝説の始まり。フルタ製菓より発売。
     descriptionMore: >-
       卵型のチョコレートの中にカプセルが入っていて、その中にフィギュアと解説書が入っていました。
@@ -21,13 +21,19 @@ seriesSections:
       - id: kaiyodo/animatales/anima_jap1
         badges:
           - label: serieseNo
-            text: 第1弾
-      - kaiyodo/animatales/anima_jap2
+            text: "1"
+      - id: kaiyodo/animatales/anima_jap2
+        badges:
+          - label: serieseNo
+            text: "2"
       - kaiyodo/animatales/anima_jap3
       - kaiyodo/animatales/anima_jap4
       - kaiyodo/animatales/anima_jap5
       - kaiyodo/animatales/anima_jap5_parco
-      - kaiyodo/animatales/anima_pet1
+      - id: kaiyodo/animatales/anima_pet1
+        badges:
+          - label: serieseNo
+            text: "ペット1"
       - kaiyodo/animatales/anima_pet2
       - kaiyodo/animatales/chocoegg_books
       - kaiyodo/animatales/chocoegg_books2
@@ -47,10 +53,10 @@ seriesSections:
     titleIds:
       - kaiyodo/animatales/syutenn
   - name: わがままな天然列島
-    format: 食玩・ガチャ
-    description: 伝説の始まり。フルタ製菓より発売。
+    format: トレカ
+    description: 日本の動物シリーズの画像を使用したトレーディングカードゲーム。
     descriptionMore: >-
-      日本の動物シリーズの画像を使用したトレーディングカードゲーム。出来がすごく良いのに海洋堂ミュージアムや展示会、関連書籍でもハブられがちなのがすごくもったいない。
+      出来がすごく良いのに海洋堂ミュージアムや展示会、関連書籍でもハブられがちなのがすごくもったいない。
       フィギュアはチョコエッグシリーズで展開されたフィギュアたちのディテールアップ版。
       タイミング的にはチョコエッグ→チョコQへの変わり目に販売されました。
       「大地の動物シリーズ」
@@ -64,47 +70,39 @@ seriesSections:
       - kaiyodo/animatales/wagaten1
       - kaiyodo/animatales/wagaten2
       - kaiyodo/animatales/wagaten3
-  - name: 日本の動物コレクション
-    format: 食玩・ガチャ
-    description: 伝説の始まり。フルタ製菓より発売。
+  - name: チョコQ　日本の動物・ペット動物シリーズ
+    format: 食玩
+    description: シリーズの再開。
     descriptionMore: >-
-      卵型のチョコレートの中にカプセルが入っていて、その中にフィギュアと解説書が入っていました。
-      初期はまだ大量生産のノウハウがなかったために、作りこみの甘い部分もあります。
-      松村さんは「リアルさを追求しているのではなく、"らしさ"を求めている。正確さより、ポイントがうまく表現できているかを見て欲しい」とのことでした(日本チョコエッグ大百科より)。
-      2015年ごろになぜか「アニマルパレード」などの名前で100円のガチャガチャに入って売っていました。
+      日本の動物6、ペット動物3はもともとチョコエッグで発売される予定でしたが、海洋堂とフルタが決別してしまったためチョコエッグでの販売を断念。以降はタカラからこれまでと同様の卵型チョコレートに入ってシリーズが再開されました。
+      このころのシリーズの出来は食玩とは思えない出来で、現在では実現不可能と言えます。
+      今度はタカラがトミーと合併することになり、アニマテイルズシリーズは一旦仕切りなおされることになりました。
     titleIds:
-      - id: kaiyodo/animatales/anima_jap1
+      - id: kaiyodo/animatales/anima_jap6
         badges:
           - label: serieseNo
-            text: 第1弾
-      - kaiyodo/animatales/anima_jap2
-      - kaiyodo/animatales/anima_jap3
-      - kaiyodo/animatales/anima_jap4
-      - kaiyodo/animatales/anima_jap5
-      - kaiyodo/animatales/anima_jap5_parco
-      - kaiyodo/animatales/anima_jap6
-      - kaiyodo/animatales/anima_jap7
+            text: "6"
+      - id: kaiyodo/animatales/anima_jap7
+        badges:
+          - label: serieseNo
+            text: "7"
       - kaiyodo/animatales/anima_jap8
       - kaiyodo/animatales/anima_jap9
       - kaiyodo/animatales/anima_jap10
       - kaiyodo/animatales/anima_jap11
-      - kaiyodo/animatales/chocoegg_books
-      - kaiyodo/animatales/chocoegg_books2
-      - kaiyodo/animatales/chocoegg_classic
-      - kaiyodo/animatales/chocoegg_gold
-      - kaiyodo/animatales/chocoegg_hako
-      - kaiyodo/animatales/chocoegg_hansoku
-      - kaiyodo/animatales/chocoegg_hongkong
-      - kaiyodo/animatales/chocoegg_hyakka1
-      - kaiyodo/animatales/chocoegg_hyakka2
       - kaiyodo/animatales/chocoq_hyakka
       - kaiyodo/animatales/chocoq_shokuganmagazine
-      - kaiyodo/animatales/chocoq_sp
-      - kaiyodo/animatales/chocoq_takashimaya
+      - id: kaiyodo/animatales/chocoq_sp
+        badges:
+          - label: limited
+      - id: kaiyodo/animatales/chocoq_takashimaya
+        badges:
+          - label: limited
       - kaiyodo/animatales/chocoq_zassi
-      - kaiyodo/animatales/wagaten1
-      - kaiyodo/animatales/wagaten2
-      - kaiyodo/animatales/wagaten3
+      - kaiyodo/animatales/anima_pet3
+      - kaiyodo/animatales/anima_pet4
+      - kaiyodo/animatales/anima_pet5
+      - kaiyodo/animatales/chocoq_amazing
   - name: カプセルQミュージアム 日本の動物コレクション
     format: ガチャ
     description: 復活。
@@ -118,19 +116,9 @@ seriesSections:
       - kaiyodo/animatales/anima_japVII
       - kaiyodo/animatales/anima_japVIII
       - kaiyodo/animatales/anima_japEX
-  - name: ペット動物コレクション
-    format: 食玩・ガチャ
-    description: ペット動物たち
-    titleIds:
-
-      - kaiyodo/animatales/anima_pet3
-      - kaiyodo/animatales/anima_pet4
-      - kaiyodo/animatales/anima_pet5
-
-      - kaiyodo/animatales/chocoq_amazing
 
 ---
-### 概要
+
 海洋堂プロデュースの動物フィギュアシリーズ。食玩やカプセルフィギュアで展開されました。原型制作はすべて松村しのぶさん。
 
 <details class="maker-detail-expand">
