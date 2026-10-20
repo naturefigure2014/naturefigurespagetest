@@ -1,6 +1,7 @@
 ---
 import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import MakerCardBadges from "../../components/MakerCardBadges.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
 import { resolveMakerImage } from "../../lib/maker-images";
@@ -55,7 +56,7 @@ const seriesNames = (entry: (typeof titleEntries)[number]) => {
 const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) => {
   if (section.titleIds.length > 0) {
     return section.titleIds
-      .map((id) => entryById.get(normalizeId(id)))
+      .map((title) => entryById.get(normalizeId(typeof title === "string" ? title : title.id)))
       .filter((item): item is (typeof titleEntries)[number] => Boolean(item))
       .slice(0, section.maxTitles);
   }
@@ -71,6 +72,12 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
     : [];
 
   return [...titles, ...figuresInSeries];
+};
+const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], titleId: string) => {
+  const configuredTitle = section.titleIds.find((title) =>
+    typeof title !== "string" && normalizeId(title.id) === normalizeId(titleId)
+  );
+  return typeof configuredTitle === "string" || !configuredTitle ? [] : configuredTitle.badges;
 };
 ---
 
@@ -124,12 +131,13 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
                   {section.cards.map((card) => (
                     <a class="maker-detail-card" href={linkFor(card.href)}>
                       {imageFor(card.sourceId, card.image) ? <img src={imageFor(card.sourceId, card.image)} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
+                      {imageFor(card.sourceId, card.image) && <MakerCardBadges badges={card.badges} />}
                       <strong>{card.name}</strong>
                     </a>
                   ))}
                   {titles.map((title) => {
                     const image = resolveFigureImage(title.id, title.data.coverImage);
-                    return <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}><>{image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}<strong>{title.data.title}</strong></></a>;
+                    return <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}><>{image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}{image && <MakerCardBadges badges={badgesForTitle(section, title.id)} />}<strong>{title.data.title}</strong></></a>;
                   })}
                 </div>
               </section>
