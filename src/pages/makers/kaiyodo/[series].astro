@@ -94,6 +94,12 @@ const heroImage = heroSource
                 <div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div>
               </header>
               {section.description && <p class="maker-detail-series-description">{section.description}</p>}
+              {section.descriptionMore && (
+                <details class="maker-detail-expand maker-detail-series-expand">
+                  <summary>コレクションの詳細を読む</summary>
+                  <div class="maker-detail-expand-content"><p>{section.descriptionMore}</p></div>
+                </details>
+              )}
               <div class="maker-detail-title-grid">
                 {section.cards.map((card) => {
                   const image = card.sourceId

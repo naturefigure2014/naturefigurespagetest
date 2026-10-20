@@ -154,6 +154,7 @@ const makers = defineCollection({
       format: z.string().optional(),
       href: z.string().optional(),
       description: z.string().optional(),
+      descriptionMore: z.string().optional(),
       showAllFigures: z.boolean().default(false),
       titleIds: z.array(z.union([
         z.string(),

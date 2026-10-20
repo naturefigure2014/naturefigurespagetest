@@ -452,6 +452,14 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-detail-description p + h2, .maker-detail-description p + h3 { margin-top: .5em; }
 .maker-detail-description > :first-child { margin-top: 0; }
 .maker-detail-description > :last-child { margin-bottom: 0; }
+.maker-detail-expand { color: #6b746f; }
+.maker-detail-expand > summary { display: flex; width: fit-content; align-items: center; gap: 10px; cursor: pointer; list-style: none; }
+.maker-detail-expand > summary::-webkit-details-marker { display: none; }
+.maker-detail-expand > summary::after { content: "⌄"; color: #718079; transition: transform .18s ease; }
+.maker-detail-expand[open] > summary::after { transform: rotate(180deg); }
+.maker-detail-expand-content { padding-top: 8px; }
+.maker-detail-expand-content p { margin: 0 0 8px; }
+.maker-detail-description details { margin-top: 4px; }
 .maker-detail-series-list { display: grid; gap: 6px; }
 .maker-detail-series { padding: 15px; border: 1px solid #dbe7e2; border-radius: 8px; background: #fff; }
 .maker-detail-series header { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 12px; }
@@ -469,6 +477,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-detail-section--flat .maker-detail-series header span { padding: 2px 7px; font-size: .65rem; font-weight: 700; }
 .maker-detail-section--flat .maker-detail-card { border-color: #e1ece6; border-radius: 4px; background: transparent; }
 .maker-detail-section--flat .maker-detail-series-description { margin: 0 0 10px 26px; color: #5f7a6e; font-size: .8125rem; line-height: 1.6; }
+.maker-detail-section--flat .maker-detail-series-expand { margin: -6px 0 10px 26px; font-size: .8125rem; line-height: 1.6; }
 .maker-detail-section--flat .maker-detail-card img, .maker-detail-section--flat .maker-detail-card-placeholder { aspect-ratio: 4 / 3; object-fit: cover; background: #fff; }
 .maker-detail-section--flat .maker-detail-card strong { padding: 6px 4px; font-size: .8rem; background: #fff; }
 
