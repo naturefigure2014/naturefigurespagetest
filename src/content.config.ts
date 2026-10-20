@@ -84,6 +84,13 @@ const figures = defineCollection({
   })
 });
 
+const seriesCardBadge = z.object({
+  label: z.enum(["serieseNo", "limited", "notOwned", "exibition"]),
+  text: z.string().optional(),
+  backgroundColor: z.string().regex(/^#(?:[\da-fA-F]{3}|[\da-fA-F]{6}|[\da-fA-F]{8})$/).optional(),
+  textColor: z.string().regex(/^#(?:[\da-fA-F]{3}|[\da-fA-F]{6}|[\da-fA-F]{8})$/).optional()
+});
+
 const works = defineCollection({
   type: "content",
   schema: z.object({
@@ -147,12 +154,19 @@ const makers = defineCollection({
       href: z.string().optional(),
       description: z.string().optional(),
       showAllFigures: z.boolean().default(false),
-      titleIds: z.array(z.string()).default([]),
+      titleIds: z.array(z.union([
+        z.string(),
+        z.object({
+          id: z.string(),
+          badges: z.array(seriesCardBadge).default([])
+        })
+      ])).default([]),
       cards: z.array(z.object({
         name: z.string(),
         href: z.string().default("#"),
         sourceId: z.string().optional(),
-        image: z.union([z.string(), z.number()]).optional()
+        image: z.union([z.string(), z.number()]).optional(),
+        badges: z.array(seriesCardBadge).default([])
       })).default([]),
       maxTitles: z.number().default(50)
     })).default([])
