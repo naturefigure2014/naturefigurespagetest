@@ -1,0 +1,31 @@
+---
+interface Badge {
+  label: "serieseNo" | "limited" | "notOwned" | "exibition";
+  text?: string;
+  backgroundColor?: string;
+  textColor?: string;
+}
+
+const { badges = [] } = Astro.props as { badges?: Badge[] };
+const defaults: Record<Badge["label"], { text: string; backgroundColor: string; textColor: string }> = {
+  serieseNo: { text: "", backgroundColor: "#2c7a55", textColor: "#fff" },
+  limited: { text: "限定", backgroundColor: "#c9a227", textColor: "#fff" },
+  notOwned: { text: "未入手", backgroundColor: "#4b5563", textColor: "#fff" },
+  exibition: { text: "展示作品", backgroundColor: "#8b5e3c", textColor: "#fff" }
+};
+const visibleBadges = badges
+  .map((badge) => ({
+    text: badge.text ?? defaults[badge.label].text,
+    backgroundColor: badge.backgroundColor ?? defaults[badge.label].backgroundColor,
+    textColor: badge.textColor ?? defaults[badge.label].textColor
+  }))
+  .filter((badge) => badge.text);
+---
+
+{visibleBadges.length > 0 && (
+  <div class="maker-detail-card-badges">
+    {visibleBadges.map((badge) => (
+      <span style={{ backgroundColor: badge.backgroundColor, color: badge.textColor }}>{badge.text}</span>
+    ))}
+  </div>
+)}

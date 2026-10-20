@@ -1,6 +1,7 @@
 ---
 import "../../../../styles/global.css";
 import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import MakerCardBadges from "../../../../components/MakerCardBadges.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../../../lib/figure-images";
 import { resolveMakerImage } from "../../../../lib/maker-images";
@@ -32,7 +33,7 @@ const genreEntries = figures.filter((item) => {
 const titlesForSection = (section: (typeof page.data.seriesSections)[number]) => {
   if (section.titleIds.length > 0) {
     return section.titleIds
-      .map((id) => entryById.get(normalizeId(id)))
+      .map((title) => entryById.get(normalizeId(typeof title === "string" ? title : title.id)))
       .filter((item): item is (typeof figures)[number] => Boolean(item))
       .slice(0, section.maxTitles);
   }
@@ -40,6 +41,12 @@ const titlesForSection = (section: (typeof page.data.seriesSections)[number]) =>
     return genreEntries;
   }
   return genreEntries.slice(0, section.maxTitles);
+};
+const badgesForTitle = (section: (typeof page.data.seriesSections)[number], titleId: string) => {
+  const configuredTitle = section.titleIds.find((title) =>
+    typeof title !== "string" && normalizeId(title.id) === normalizeId(titleId)
+  );
+  return typeof configuredTitle === "string" || !configuredTitle ? [] : configuredTitle.badges;
 };
 const heroSource = page.data.heroSourceId ? entryById.get(normalizeId(page.data.heroSourceId)) : undefined;
 const heroImage = page.data.heroImage
@@ -93,6 +100,7 @@ const heroImage = page.data.heroImage
                   return (
                     <a class="maker-detail-card" href={card.href.startsWith("/") ? siteUrl(card.href) : card.href}>
                       {image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
+                      {image && <MakerCardBadges badges={card.badges} />}
                       <strong>{card.name}</strong>
                     </a>
                   );
@@ -102,6 +110,7 @@ const heroImage = page.data.heroImage
                   return (
                     <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}>
                       {image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
+                      {image && <MakerCardBadges badges={badgesForTitle(section, title.id)} />}
                       <strong>{title.data.title}</strong>
                     </a>
                   );

@@ -12,7 +12,10 @@ seriesSections:
   - name: チョコラザウルス
     format: 食玩
     titleIds:
-      - kaiyodo/dinotales/dinotales1
+      - id: kaiyodo/dinotales/dinotales1
+        badges:
+          - label: serieseNo
+            text: 第1弾
       - kaiyodo/dinotales/dinotales1_ver2
       - kaiyodo/dinotales/dinotales2
       - kaiyodo/dinotales/dinotales3

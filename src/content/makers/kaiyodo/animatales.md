@@ -13,7 +13,10 @@ seriesSections:
     format: 食玩・ガチャ
     description: 伝説の始まり。
     titleIds:
-      - kaiyodo/animatales/anima_jap1
+      - id: kaiyodo/animatales/anima_jap1
+        badges:
+          - label: serieseNo
+            text: 第1弾
       - kaiyodo/animatales/anima_jap2
       - kaiyodo/animatales/anima_jap3
       - kaiyodo/animatales/anima_jap4
