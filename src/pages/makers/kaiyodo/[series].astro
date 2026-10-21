@@ -122,7 +122,12 @@ const heroImage = heroSource
                     <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}>
                       {image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
                       {image && <MakerCardBadges badges={badgesForTitle(section, title.id)} />}
-                      <strong>{title.data.shortTitle || title.data.title}</strong>
+                      <strong>
+                        {title.data.contentType === "figure" && title.data.figureId && (
+                          <span class="maker-detail-card-figure-id">{title.data.figureId}</span>
+                        )}
+                        {title.data.shortTitle || title.data.title}
+                      </strong>
                     </a>
                   );
                 })}

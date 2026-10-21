@@ -27,11 +27,9 @@ seriesSections:
   - name: ダイノテイルズ
     format: ガチャ
     href: "/makers/kaiyodo/dinotales/"
-    maxTitles: 5
   - name: アクアテイルズ
     format: ガチャ
     href: "/makers/kaiyodo/aquatales/"
-    maxTitles: 5
   - name: 水生動物モデルコレクション[アクアランド]
     format: 完成品、キット
     href: "/makers/kaiyodo/aqualand/"

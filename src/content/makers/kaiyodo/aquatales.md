@@ -57,6 +57,14 @@ seriesSections:
       - id: kaiyodo/aquatales/zuroku/zuroku6
       - id: kaiyodo/aquatales/zuroku/zuroku_ex
       - id: kaiyodo/aquatales/zuroku/deep_sea_life
+  - name: ポリストーン版 アクアテイルズ
+    format: 単体パッケージ
+    description: あ
+    descriptionMore: >-
+      あ
+    titleIds:
+      - id: kaiyodo/poly_aquatales1
+      - id: kaiyodo/poly_aquatales2
   - name: 水族館フィギュアコレクション
     format: ガチャ
     description: 水族館で限定発売されたシリーズ。

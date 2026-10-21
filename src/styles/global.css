@@ -446,6 +446,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-detail-card-badges > span { display: flex; align-items: center; justify-content: center; max-width: 100%; min-width: 0; overflow: hidden; padding: 3px 7.5px; border-radius: 3px; font-size: clamp(.75rem, 1.05vw, .975rem); font-weight: 800; line-height: 1; }
 .maker-detail-card-badges > span > span { display: block; max-width: 100%; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .maker-detail-card strong { display: block; padding: 10px; font-size: .78rem; line-height: 1.35; }
+.maker-detail-card-figure-id { display: inline-block; margin-right: .35em; padding: .18em .42em; border-radius: 4px; color: #fff; background: #7442a6; font-size: .82em; line-height: 1.2; vertical-align: .08em; }
 .maker-detail-description { margin: 4px 0 6px; padding: 0; color: #4d675a; font-size: .84rem; line-height: 1.6; }
 .maker-detail-description h2, .maker-detail-description h3 { margin-bottom: .25em; }
 .maker-detail-description h2 + p, .maker-detail-description h3 + p { margin-top: .25em; }
