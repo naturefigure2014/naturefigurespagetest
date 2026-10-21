@@ -21,11 +21,9 @@ seriesSections:
   - name: カプセルQミュージアム
     format: ガチャ
     href: "/makers/kaiyodo/capsuleq/"
-    maxTitles: 5
   - name: アニマテイルズ
     format: ガチャ
     href: "/makers/kaiyodo/animatales/"
-    maxTitles: 5
   - name: ダイノテイルズ
     format: ガチャ
     href: "/makers/kaiyodo/dinotales/"

@@ -1,5 +1,6 @@
 ---
 title: "チョコエッグ 日本の動物コレクション第4弾"
+shortTitle: "チョコエッグ 日本の動物4"
 description: ""
 contentType: title
 titleId: kaiyodo/animatales/anima_jap4

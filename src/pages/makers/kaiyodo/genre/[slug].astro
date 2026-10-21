@@ -35,12 +35,12 @@ const titlesForSection = (section: (typeof page.data.seriesSections)[number]) =>
     return section.titleIds
       .map((title) => entryById.get(normalizeId(typeof title === "string" ? title : title.id)))
       .filter((item): item is (typeof figures)[number] => Boolean(item))
-      .slice(0, section.maxTitles);
+      .slice(0, section.maxTitles ?? Number.POSITIVE_INFINITY);
   }
   if (section.name === "すべて") {
-    return genreEntries;
+    return genreEntries.slice(0, section.maxTitles ?? 5);
   }
-  return genreEntries.slice(0, section.maxTitles);
+  return genreEntries.slice(0, section.maxTitles ?? 5);
 };
 const badgesForTitle = (section: (typeof page.data.seriesSections)[number], titleId: string) => {
   const configuredTitle = section.titleIds.find((title) =>
@@ -92,7 +92,10 @@ const heroImage = page.data.heroImage
               <header>
                 <div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div>
               </header>
-              <div class="maker-detail-title-grid">
+              <div class:list={[
+                "maker-detail-title-grid",
+                { "maker-detail-title-grid--default": section.maxTitles === undefined && section.titleIds.length === 0 && !section.showAllFigures }
+              ]}>
                 {section.cards.map((card) => {
                   const image = card.sourceId
                     ? resolveFigureImage(card.sourceId, card.image === "coverImage" ? entryById.get(normalizeId(card.sourceId))?.data.coverImage : card.image)

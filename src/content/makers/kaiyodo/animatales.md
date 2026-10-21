@@ -100,10 +100,22 @@ seriesSections:
         badges:
           - label: serieseNo
             text: "7"
-      - kaiyodo/animatales/anima_jap8
-      - kaiyodo/animatales/anima_jap9
-      - kaiyodo/animatales/anima_jap10
-      - kaiyodo/animatales/anima_jap11
+      - id: kaiyodo/animatales/anima_jap8
+        badges:
+          - label: serieseNo
+            text: "8"
+      - id: kaiyodo/animatales/anima_jap9
+        badges:
+          - label: serieseNo
+            text: "9"
+      - id: kaiyodo/animatales/anima_jap10
+        badges:
+          - label: serieseNo
+            text: "10"
+      - id: kaiyodo/animatales/anima_jap11
+        badges:
+          - label: serieseNo
+            text: "11"
       - kaiyodo/animatales/chocoq_hyakka
       - kaiyodo/animatales/chocoq_shokuganmagazine
       - id: kaiyodo/animatales/chocoq_sp

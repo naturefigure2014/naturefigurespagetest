@@ -469,6 +469,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-detail-series header span { padding: 3px 8px; border-radius: 999px; color: #4a83a2; background: #eef7fb; font-size: .65rem; }
 .maker-detail-series header a { color: #39785f; font-size: .7rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
 .maker-detail-title-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 12px; }
+.maker-detail-title-grid--default > :nth-child(n + 6) { display: none; }
 /* カプセルQ専用: シリーズを囲うカードを廃し、見出し→一覧の階層にする */
 .maker-detail-section--flat .maker-detail-series { padding: 0; border: 0; border-radius: 0; background: transparent; }
 .maker-detail-section--flat .maker-detail-series + .maker-detail-series { margin-top: 14px; padding-top: 14px; border-top: 1px solid #dce9e2; }
@@ -644,6 +645,7 @@ body.lightbox-open { overflow: hidden; }
   .maker-series-detail-hero h1 { font-size: 1.6rem; white-space: nowrap; }
   .maker-detail-card-grid--five { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .maker-detail-title-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .maker-detail-title-grid--default > :nth-child(n + 4) { display: none; }
   .maker-detail-section--flat .maker-detail-title-grid { gap: 12px; }
   .maker-detail-section--flat .maker-detail-card strong { font-size: .875rem; line-height: 1.3; }
   .maker-detail-section--flat .maker-detail-series header { flex-direction: row; align-items: center; }

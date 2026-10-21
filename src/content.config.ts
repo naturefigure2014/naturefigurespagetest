@@ -170,7 +170,7 @@ const makers = defineCollection({
         image: z.union([z.string(), z.number()]).optional(),
         badges: z.array(seriesCardBadge).default([])
       })).default([]),
-      maxTitles: z.number().default(50)
+      maxTitles: z.number().optional()
     })).default([])
   })
 });
