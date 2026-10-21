@@ -38,7 +38,7 @@ const titlesForSection = (section: (typeof page.data.seriesSections)[number]) =>
   if (section.titleIds.length > 0) {
     return section.titleIds
       .map((title) => entryById.get(normalizeId(typeof title === "string" ? title : title.id)))
-      .filter((item): item is (typeof figures)[number] => item?.data.contentType === "title")
+      .filter((item): item is (typeof figures)[number] => Boolean(item))
       .slice(0, section.maxTitles ?? Number.POSITIVE_INFINITY);
   }
   if (section.name === "すべて") {

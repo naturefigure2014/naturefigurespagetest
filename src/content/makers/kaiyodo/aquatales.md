@@ -38,4 +38,50 @@ seriesSections:
       - id: kaiyodo/aquatales/kyoto
       - id: kaiyodo/aquatales/sunshine
       - id: kaiyodo/aquatales/sumida
+  - name: カプセルアクアリウム
+    format: ガチャ
+    description: 水族館でのみ発売。
+    descriptionMore: >-
+      図録1弾、2弾は水族館の名前がボトルキャップにプリント。3弾以降はキャップの表面に"CAPSULEAQUARIUM"、裏側に水族館名(あったりなかったりするようです)。どうやらカラーバリエーションのあるものは混入率が低かったようです。
+      海洋堂のカプセルアクアリウムシリーズが載っているページ"カプセルミュージアムプロジェクト"のページですが、
+      ・図録2だけ載っていない
+      ・図録 5と京都水族館フィギュアコレクションのサムネイルが入れ替わっている
+      ・発売からもうすぐ1年の深海生物が載っていない
+      というカオスっぷり。もう更新する気無いんじゃないでしょうか。(2015/01 /05現在)
+    titleIds:
+      - id: kaiyodo/aquatales/zuroku/zuroku1
+      - id: kaiyodo/aquatales/zuroku/zuroku2
+      - id: kaiyodo/aquatales/zuroku/zuroku3
+      - id: kaiyodo/aquatales/zuroku/zuroku4
+      - id: kaiyodo/aquatales/zuroku/zuroku5
+      - id: kaiyodo/aquatales/zuroku/zuroku6
+      - id: kaiyodo/aquatales/zuroku/zuroku_ex
+      - id: kaiyodo/aquatales/zuroku/deep_sea_life
+  - name: 水族館フィギュアコレクション
+    format: ガチャ
+    description: 水族館で限定発売されたシリーズ。
+    descriptionMore: >-
+      うみの杜水族館のオープンと同時に発売された「日本の水族館」を皮切りに始まったシリーズ。
+      2シリーズ目で早くも台座の仕様が変更、３シリーズ目は２シリーズ目と同じ名前、4作目は1作目の台座変更版というカオスな状態。
+    titleIds:
+      - id: kaiyodo/aquatales/AQUARIUMFIGURECOLLECTION/aquarium_of_japan
+      - id: kaiyodo/aquatales/AQUARIUMFIGURECOLLECTION/shinnkai
+      - id: kaiyodo/aquatales/AQUARIUMFIGURECOLLECTION/shinnkai2
+      - id: kaiyodo/aquatales/AQUARIUMFIGURECOLLECTION/aquarium_of_japan_2019
+  - name: 海の主役たち
+    format: ガチャ
+    description: 水族館で限定発売されたタイトル。
+    descriptionMore: >-
+      「日本の水族館」新作が出る前に、別の販売元から新たなシリーズが登場。AQUATALES○○○として今後展開されるのかは謎。
+    titleIds:
+      - id: kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi
 ---
+### About
+海洋堂の海生生物フィギュアシリーズ。
+
+<details class="maker-detail-expand">
+<summary>詳しいシリーズの歴史を読む</summary>
+<div class="maker-detail-expand-content">
+<p>黒潮コメッコ、物産展シリーズのキャップには「アクアテイルズ」、立体生物図録は「カプセルアクアリウム」、その他には水族館の名前が記載されていたりします。最近はシリーズごとに独自台座で展開されることが多くなってきました。</p>
+</div>
+</details>

@@ -446,13 +446,13 @@ def yaml_topics(topics: list[dict]) -> list[str]:
 def overview_to_markdown(overview: str) -> str:
     """Turn legacy ■X section labels into Markdown headings."""
     text = re.sub(
-        r'<span class="font_Bold">\s*■\s*(.*?)\s*</span>(?:\s*<br\s*/?>)?',
+        r'<span class="font_Bold">\s*■\s*(.*?)\s*</span>(?:\s*<br\s*/?>)*',
         lambda m: f"\n### {m.group(1)}\n",
         overview,
         flags=re.S,
     )
     text = re.sub(
-        r"(?:^|<br\s*/?>)\s*■\s*([^<\r\n]*?)(?=\s*(?:<br\s*/?>|$))",
+        r"(?:^|<br\s*/?>)\s*■\s*([^<\r\n]*)(?:\s*<br\s*/?>)*",
         lambda m: f"\n### {m.group(1).strip()}\n",
         text,
         flags=re.IGNORECASE,
@@ -647,6 +647,14 @@ def natural_key(path: Path) -> list:
     return [int(part) if part.isdigit() else part.lower() for part in re.split(r"(\d+)", path.name)]
 
 
+def remove_unused_thumbnail_images(image_dir: Path):
+    if not image_dir.is_dir():
+        return
+    for image in image_dir.iterdir():
+        if image.is_file() and re.search(r"_small(?:[12])?\.jpg$", image.name, re.IGNORECASE):
+            image.unlink()
+
+
 def find_continuation_sources(source: Path) -> list[Path]:
     """Any other .html file next to the source continues it, in natural order."""
     if source.parent.name == "_legacy":
@@ -741,8 +749,9 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = (), op
     cover = f"img/{Path(cover_source).name}" if cover_source else ""
     collection = f"img/{Path(collection_source).name}" if collection_source else cover
     if content_type == "title":
-        write_title_page(output_folder, title, maker, overview, items, cover, collection, metadata, freetags, resources)
         title_id = figure_content_id(output_folder)
+        copied_images: set[Path] = set()
+        moved_image_refs: dict[str, str] = {}
         for index, item in enumerate(items, 1):
             for topic in item["topics"]:
                 for image in topic["images"]:
@@ -752,11 +761,18 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = (), op
                     target_image = target_dir / source_image.name
                     if source_image.is_file() and not target_image.exists():
                         shutil.copy2(source_image, target_image)
+                        copied_images.add(source_image)
+                        moved_image_refs.setdefault(source_image.name, f"{index:03d}/{source_image.name}")
             write_figure_page(output_folder, item, index, maker, metadata)
+        cover = moved_image_refs.get(Path(cover_source).name, cover)
+        write_title_page(output_folder, title, maker, overview, items, cover, collection, metadata, freetags, resources)
+        for image in copied_images:
+            image.unlink()
         print(f"Generated {output_folder / 'index.md'} and {len(items)} figure pages (titleId: {title_id}).")
     else:
         write_single_figure_page(output_folder, title, maker, overview, items, metadata, freetags, cover, main, resources)
         print(f"Generated {output_folder / 'index.md'} as a figure.")
+    remove_unused_thumbnail_images(image_dir)
 
 
 def main():
