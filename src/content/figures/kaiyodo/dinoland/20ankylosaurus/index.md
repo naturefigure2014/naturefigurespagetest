@@ -9,24 +9,24 @@ contentType: figure
 maker: 海洋堂
 price: "4,000円（ソフビキット） 5,400円（完成品） 8,800円（2021復刻キット）"
 sculptor: "荒木一成"
-coverImage: "img/ankylosaurus001_small.jpg"
+coverImage: "img/ankylosaurus001.jpg"
 topics:
   - title: ??
     images:
-      - "img/ankylosaurus001_small.jpg"
+      - "img/ankylosaurus001.jpg"
     comment: |
       全パーツ。こちらは簡単なビニール袋に入れられて販売されていました。
   - title: ??
     images:
-      - "img/ankylosaurus002_small.jpg"
-      - "img/ankylosaurus003_small.jpg"
-      - "img/ankylosaurus004_small.jpg"
-      - "img/ankylosaurus005_small.jpg"
+      - "img/ankylosaurus002.jpg"
+      - "img/ankylosaurus003.jpg"
+      - "img/ankylosaurus004.jpg"
+      - "img/ankylosaurus005.jpg"
   - title: ??
     images:
-      - "img/ankylosaurus006_small.jpg"
-      - "img/ankylosaurus007_small.jpg"
-      - "img/ankylosaurus008_small.jpg"
+      - "img/ankylosaurus006.jpg"
+      - "img/ankylosaurus007.jpg"
+      - "img/ankylosaurus008.jpg"
   - title: ??
     images:
       - "img/ankylosaurusbook.jpg"
