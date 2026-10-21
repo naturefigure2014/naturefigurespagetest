@@ -26,15 +26,29 @@ seriesSections:
         badges:
           - label: serieseNo
             text: "2"
-      - kaiyodo/animatales/anima_jap3
-      - kaiyodo/animatales/anima_jap4
-      - kaiyodo/animatales/anima_jap5
-      - kaiyodo/animatales/anima_jap5_parco
+      - id: kaiyodo/animatales/anima_jap3
+        badges:
+          - label: serieseNo
+            text: "3"
+      - id: kaiyodo/animatales/anima_jap4
+        badges:
+          - label: serieseNo
+            text: "4"
+      - id: kaiyodo/animatales/anima_jap5
+        badges:
+          - label: serieseNo
+            text: "5"
+      - id: kaiyodo/animatales/anima_jap5_parco
+        badges:
+          - label: limited
       - id: kaiyodo/animatales/anima_pet1
         badges:
           - label: serieseNo
             text: "ペット1"
-      - kaiyodo/animatales/anima_pet2
+      - id: kaiyodo/animatales/anima_pet2
+        badges:
+          - label: serieseNo
+            text: "ペット2"
       - kaiyodo/animatales/chocoegg_books
       - kaiyodo/animatales/chocoegg_books2
       - kaiyodo/animatales/chocoegg_classic
@@ -118,7 +132,7 @@ seriesSections:
       - kaiyodo/animatales/anima_japEX
 
 ---
-
+### About
 海洋堂プロデュースの動物フィギュアシリーズ。食玩やカプセルフィギュアで展開されました。原型制作はすべて松村しのぶさん。
 
 <details class="maker-detail-expand">
