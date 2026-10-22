@@ -39,7 +39,8 @@ seriesSections:
   - name: すべて
     format: コレクション
     titleIds:
-    - kaiyodo/dinoland/mamemodel
+    - kaiyodo/dinoland/mamemodel/mame_daspletosaurus
+    - kaiyodo/dinoland/mamemodel/mame_anchiceratops
     - kaiyodo/dinoland/skull_mini_model
     - kaiyodo/dinoland/skull_model/Velociraptor
 ---
