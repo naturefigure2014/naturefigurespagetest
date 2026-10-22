@@ -163,6 +163,7 @@ const makers = defineCollection({
           badges: z.array(seriesCardBadge).default([])
         })
       ])).default([]),
+      maxFigures: z.number().optional(),
       cards: z.array(z.object({
         name: z.string(),
         href: z.string().default("#"),

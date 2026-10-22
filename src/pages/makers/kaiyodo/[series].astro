@@ -8,12 +8,11 @@ import { siteUrl } from "../../../lib/site-url";
 
 export async function getStaticPaths() {
   const makerPages = await getCollection("makers");
-  return makerPages
-    .filter((entry) => entry.data.seriesPageSlug)
-    .map((entry) => ({
-      params: { series: entry.data.seriesPageSlug },
-      props: { entry }
-    }));
+  const seriesPages = makerPages.filter((entry) => entry.data.seriesPageSlug);
+  return seriesPages.map((entry) => ({
+    params: { series: entry.data.seriesPageSlug },
+    props: { entry }
+  }));
 }
 
 const { entry: page } = Astro.props;
@@ -30,7 +29,15 @@ const seriesEntries = figures.filter((item) => {
   return (Array.isArray(series) ? series : []).includes(page.data.titleSeries ?? "")
     || (Array.isArray(seriesName) ? seriesName : seriesName ? [seriesName] : []).includes(page.data.titleSeries ?? "");
 });
-const seriesNames = (entry: (typeof seriesEntries)[number]) => {
+const makerNames = (maker: (typeof figures)[number]["data"]["maker"]) =>
+  maker ? (Array.isArray(maker) ? maker : [maker]) : [];
+const figureEntries = figures.filter((item) =>
+  item.data.contentType !== "title"
+  && makerNames(item.data.maker).includes(page.data.maker)
+  && (Array.isArray(item.data.seriesName) ? item.data.seriesName : item.data.seriesName ? [item.data.seriesName] : [])
+    .includes(page.data.titleSeries ?? "")
+);
+const seriesNames = (entry: (typeof figures)[number]) => {
   const value = entry.data.seriesName;
   return value ? (Array.isArray(value) ? value : [value]) : [page.data.pageTitle ?? ""];
 };
@@ -41,12 +48,13 @@ const titlesForSection = (section: (typeof page.data.seriesSections)[number]) =>
       .filter((item): item is (typeof figures)[number] => Boolean(item))
       .slice(0, section.maxTitles ?? Number.POSITIVE_INFINITY);
   }
-  if (section.name === "すべて") {
-    return seriesEntries.slice(0, section.maxTitles ?? 5);
-  }
-  return seriesEntries
-    .filter((item) => seriesNames(item).includes(section.name))
-    .slice(0, section.maxTitles ?? 5);
+  const titles = section.name === "すべて"
+    ? seriesEntries.slice(0, section.maxTitles ?? 5)
+    : seriesEntries.filter((item) => seriesNames(item).includes(section.name)).slice(0, section.maxTitles ?? 5);
+  const figuresInSection = section.showAllFigures
+    ? figureEntries.filter((item) => section.name === "すべて" || seriesNames(item).includes(section.name))
+    : [];
+  return [...titles, ...figuresInSection];
 };
 const badgesForTitle = (section: (typeof page.data.seriesSections)[number], titleId: string) => {
   const configuredTitle = section.titleIds.find((title) =>

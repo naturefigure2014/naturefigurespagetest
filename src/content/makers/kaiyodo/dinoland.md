@@ -39,10 +39,20 @@ seriesSections:
   - name: すべて
     format: コレクション
     titleIds:
-    - kaiyodo/dinoland/mamemodel/mame_daspletosaurus
-    - kaiyodo/dinoland/mamemodel/mame_anchiceratops
     - kaiyodo/dinoland/skull_mini_model
     - kaiyodo/dinoland/skull_model/Velociraptor
+  - name: すべて
+    format: コレクション
+    titleIds:
+    - kaiyodo/dinoland/mamemodel/mame_daspletosaurus
+    - kaiyodo/dinoland/mamemodel/mame_anchiceratops
+    - kaiyodo/dinoland/mamemodel/mame_tyranno
+    - kaiyodo/dinoland/mamemodel/mame_brachiosaurus
+    - kaiyodo/dinoland/mamemodel/mame_triceratops
+    - kaiyodo/dinoland/mamemodel/mame_pteranodon
+    - kaiyodo/dinoland/mamemodel/mame_elasmosaurus
+    - kaiyodo/dinoland/mamemodel/toki_triceratops
+    - kaiyodo/dinoland/mamemodel/toki_brontosaurus
 ---
 ### 概要
 「恐竜は地球の遺産であり、人類の憧憬である」（1990年のカタログより）

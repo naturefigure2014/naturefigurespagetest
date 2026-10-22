@@ -68,7 +68,7 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
         item.data.contentType !== "title" &&
         makerNames(item.data.maker).includes(entry.data.maker) &&
         seriesNames(item).includes(section.name)
-      )
+      ).slice(0, section.maxFigures ?? Number.POSITIVE_INFINITY)
     : [];
 
   return [...titles, ...figuresInSeries];
@@ -129,7 +129,7 @@ const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], tit
                 <header><div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div><a href={section.href ? siteUrl(section.href) : siteUrl(`/titles/?series=${encodeURIComponent(section.name)}`)}>すべてのタイトルを見る&gt;</a></header>
                 <div class:list={[
                   "maker-detail-title-grid",
-                  { "maker-detail-title-grid--default": section.maxTitles === undefined && section.titleIds.length === 0 && !section.showAllFigures }
+                  { "maker-detail-title-grid--default": section.maxFigures !== undefined || (section.maxTitles === undefined && section.titleIds.length === 0 && !section.showAllFigures) }
                 ]}>
                   {section.cards.map((card) => (
                     <a class="maker-detail-card" href={linkFor(card.href)}>

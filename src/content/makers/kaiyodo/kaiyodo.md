@@ -33,18 +33,22 @@ seriesSections:
   - name: 水生動物モデルコレクション[アクアランド]
     format: 完成品、キット
     href: "/makers/kaiyodo/aqualand/"
+    showAllFigures: true
+    maxFigures: 5
   - name: DINOLAND
     format: コレクション
     href: "/makers/kaiyodo/dinoland/"
   - name: カプセルズー
     format: ガチャ
+    href: "/makers/kaiyodo/zoo/"
     showAllFigures: true
   - name: ボトルキャップ動物フィギュア
     format: 食玩
   - name: 海洋堂ミュージアム関連フィギュア
     format: ミュージアム
-  - name: 科博所蔵品再現モデル
+  - name: 博物館・特別展
     format: フィギュア
+    href: "/makers/kaiyodo/exhibitions/"
   - name: ARTPLA
     format: プラモデル
   - name: デジタルガレージキット
@@ -55,6 +59,11 @@ seriesSections:
     format: ソフビ
   - name: ソフビトイボックス
     format: ソフビ
+    href: "/makers/kaiyodo/sofubitoybox/"
+    showAllFigures: true
+  - name: REVOGEO 全地球立体生物目録[リボジオ]
+    format: 可動フィギュア
+    href: "/makers/kaiyodo/revogeo/"
     showAllFigures: true
   - name: miniQ
     format: ガチャ

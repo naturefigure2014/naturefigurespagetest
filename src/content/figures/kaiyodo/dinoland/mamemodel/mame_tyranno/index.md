@@ -2,6 +2,8 @@
 title: "ティラノサウルス"
 description: ""
 contentType: figure
+titleId: kaiyodo/dinoland/mamemodel
+figureId: "003"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
@@ -13,21 +15,16 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "mamemodel009.jpg"
-coverImage: "mamemodel009.jpg"
+figureTopImage: "mametyranno001.jpg"
+coverImage: "mametyranno001.jpg"
 topics:
   - title: ""
     images:
-      - "mamemodel009.jpg"
-      - "mamemodel010.jpg"
+      - "mametyranno001.jpg"
+      - "mametyranno002.jpg"
   - title: ""
     images:
-      - "mamemodel_kit003.jpg"
-      - "mamemodel_kit001.jpg"
-  - title: ""
-    images:
-      - "mamemodel_kit002.jpg"
-      - "mamemodel_kit010.jpg"
+      - "goma001.jpg"
     comment: |
-      他のものとは違い、こいつだけ躍動感のあるポーズ。カラー版は自分で塗装したもの。
+      肉食動物らしく（？）ちょっと悪そうな顔。 湯口には「海 K」
 ---
