@@ -44,13 +44,13 @@ seriesSections:
   - name: すべて
     format: コレクション
     titleIds:
-    - kaiyodo/dinoland/mamemodel/mame_daspletosaurus
-    - kaiyodo/dinoland/mamemodel/mame_anchiceratops
     - kaiyodo/dinoland/mamemodel/mame_tyranno
     - kaiyodo/dinoland/mamemodel/mame_brachiosaurus
     - kaiyodo/dinoland/mamemodel/mame_triceratops
     - kaiyodo/dinoland/mamemodel/mame_pteranodon
     - kaiyodo/dinoland/mamemodel/mame_elasmosaurus
+    - kaiyodo/dinoland/mamemodel/mame_daspletosaurus
+    - kaiyodo/dinoland/mamemodel/mame_anchiceratops
     - kaiyodo/dinoland/mamemodel/toki_triceratops
     - kaiyodo/dinoland/mamemodel/toki_brontosaurus
 ---

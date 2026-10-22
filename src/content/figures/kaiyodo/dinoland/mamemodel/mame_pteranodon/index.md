@@ -3,12 +3,11 @@ title: "プテラノドン"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinoland/mamemodel
-figureId: "004"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "プテラノドン"
-speciesGroup: "-"
+speciesGroup: "翼竜類"
 price: "980円（完成品・当時価格）販売開始：‘９３年"
 releaseStart: "-"
 genre:

@@ -1,5 +1,5 @@
 ---
-title: "トリケラトプス"
+title: "陶器製マスコット トリケラトプス"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinoland/mamemodel/toki_triceratops

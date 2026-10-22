@@ -3,12 +3,11 @@ title: "ブラキオサウルス"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinoland/mamemodel
-figureId: "005"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ブラキオサウルス"
-speciesGroup: "-"
+speciesGroup: "竜脚類"
 price: "980円（完成品・当時価格）販売開始：‘９３年"
 releaseStart: "-"
 genre:

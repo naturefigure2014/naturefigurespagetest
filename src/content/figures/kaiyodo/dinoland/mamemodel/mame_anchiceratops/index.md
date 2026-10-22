@@ -3,25 +3,29 @@ title: "アンキケラトプス"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinoland/mamemodel
-figureId: "002"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アンキケラトプス"
-speciesGroup: "-"
+speciesGroup: "角竜類"
 price: "980円（完成品・当時価格）販売開始：‘９３年"
 releaseStart: "-"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "mamemodel002.jpg"
-coverImage: "mamemodel002.jpg"
+figureTopImage: "mamemodel004.jpg"
+coverImage: "mamemodel004.jpg"
 topics:
   - title: ""
     images:
       - "mamemodel002.jpg"
+      - "mamemodel003.jpg"
+      - "mamemodel004.jpg"
+      - "mamemodel005.jpg"
+      - "mamemodel006.jpg"
       - "mamemodel007.jpg"
+      - "mamemodel008.jpg"
   - title: ""
     images:
       - "mamemodel_kit004.jpg"

@@ -60,11 +60,9 @@ seriesSections:
   - name: ソフビトイボックス
     format: ソフビ
     href: "/makers/kaiyodo/sofubitoybox/"
-    showAllFigures: true
   - name: REVOGEO 全地球立体生物目録[リボジオ]
     format: 可動フィギュア
     href: "/makers/kaiyodo/revogeo/"
-    showAllFigures: true
   - name: miniQ
     format: ガチャ
   - name: naturetales・Dinotalesシリーズ

@@ -8,18 +8,18 @@ speciesGroup: "竜脚類"
 contentType: figure
 maker: 海洋堂
 sculptor: "松村しのぶ"
-coverImage: "img/barosaurus001_small.jpg"
+coverImage: "img/barosaurus001.jpg"
 topics:
   - title: ??
     images:
-      - "img/barosaurus001_small.jpg"
-      - "img/barosaurus002_small.jpg"
-      - "img/barosaurus003_small.jpg"
-      - "img/barosaurus004_small.jpg"
-      - "img/barosaurus005_small.jpg"
-      - "img/barosaurus006_small.jpg"
-      - "img/barosaurus007_small.jpg"
-      - "img/barosaurus008_small.jpg"
+      - "img/barosaurus001.jpg"
+      - "img/barosaurus002.jpg"
+      - "img/barosaurus003.jpg"
+      - "img/barosaurus004.jpg"
+      - "img/barosaurus005.jpg"
+      - "img/barosaurus006.jpg"
+      - "img/barosaurus007.jpg"
+      - "img/barosaurus008.jpg"
 ---
 
 ????????????????????
