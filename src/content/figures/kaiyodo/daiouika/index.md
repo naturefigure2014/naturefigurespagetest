@@ -9,7 +9,7 @@ sculptor: 菅谷　中
 executiveProducer: 松村しのぶ
 species: ダイオウイカ
 speciesGroup: "イカ類"
-coverImage: "img/daiouika002_small.jpg"
+coverImage: "img/daiouika002.jpg"
 resources:
   package:
     image: "img/daiouikahako.jpg"
@@ -19,20 +19,20 @@ price: "2,500円"
 topics:
   - title: 全体
     images:
-      - "img/daiouika002_small.jpg"
-      - "img/daiouika001_small.jpg"
+      - "img/daiouika002.jpg"
+      - "img/daiouika001.jpg"
     comment: |
       水中でゆらぐ触腕の様子がみごとです。
   - title: クローズアップ
     images:
-      - "img/daiouika003_small.jpg"
-      - "img/daiouika004_small.jpg"
+      - "img/daiouika003.jpg"
+      - "img/daiouika004.jpg"
     comment: |
       非常に造形の細かい吸盤。多少塗装が雑な部分もありますが許容範囲。
   - title: クローズアップ
     images:
-      - "img/daiouika005_small.jpg"
-      - "img/daiouika006_small.jpg"
+      - "img/daiouika005.jpg"
+      - "img/daiouika006.jpg"
   - title: 解説書
     images:
       - "img/daiouikabook.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "特別展『恐竜博2019』オフィシャルカプセルフィギュア"
 description: ""
 contentType: title
 titleId: kaiyodo/capsule/kyoryuhaku2019
@@ -30,10 +30,8 @@ freetag:
     value: "海洋堂"
   - label: "公式サイト"
     value: "恐竜博2019 、 海洋堂公式ページ"
-  - label: "2019年夏の科博の特別展「恐竜博2019」の会場で限定販売されたカプセルフィギュア。ラインナップはもちろん展示に合わせたものになっており、塗装も会場内で上映されているCGムービー（NHKスペシャル"
-    value: "恐竜超世界）をイメージしているようです。"
-coverImage: "img/kyoryuhaku2019_header.png"
-collectionImage: "img/kyoryuhaku2019_header.png"
+coverImage: "img/dino2019_044.jpg"
+collectionImage: "img/dino2019_044.jpg"
 resources:
   guide:
     image: "img/kyoryuhaku2019book1.jpg"
