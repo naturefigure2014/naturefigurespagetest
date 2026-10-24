@@ -57,7 +57,7 @@ seriesSections:
       - id: kaiyodo/aquatales/zuroku/zuroku6
       - id: kaiyodo/aquatales/zuroku/zuroku_ex
       - id: kaiyodo/aquatales/zuroku/deep_sea_life
-  - name: ポリストーン版 アクアテイルズ
+  - name: アクアテイルズ ポリストーン版 
     format: 単体パッケージ
     description: あ
     descriptionMore: >-
@@ -83,6 +83,14 @@ seriesSections:
       「日本の水族館」新作が出る前に、別の販売元から新たなシリーズが登場。AQUATALES○○○として今後展開されるのかは謎。
     titleIds:
       - id: kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi
+
+  - name: STRIKEFANTASY 
+    format: 単体パッケージ
+    description: あ
+    descriptionMore: >-
+      あ
+    titleIds:
+      - kaiyodo/STRIKEFANTASY/SHIMANO
 ---
 ### About
 海洋堂の海生生物フィギュアシリーズ。

@@ -1,10 +1,10 @@
 ---
-title: "index"
+title: "特別展 ミイラ 「永遠の命」を求めて　オフィシャルカプセルフィギュア"
 description: ""
 contentType: title
 titleId: kaiyodo/capsule/mummy2019
 kind: series
-maker: "株式会社TBSテレビ Presented by 海洋堂"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/mummy2019/001
   - kaiyodo/capsule/mummy2019/002
@@ -23,8 +23,8 @@ tags:
 freetag:
   - label: "公式サイト"
     value: "特別展ミイラ"
-coverImage: "img/mummy2019_header.png"
-collectionImage: "img/mummy2019_header.png"
+coverImage: "img/mira020.jpg"
+collectionImage: "img/mira020.jpg"
 resources:
   capsule:
     image: "img/mira019.jpg"

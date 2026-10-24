@@ -7,10 +7,11 @@ titleSeries: 博物館・特別展
 pageDescription: 博物館や特別展で販売された海洋堂のフィギュアを紹介します。
 titleHeading: 博物館・特別展フィギュア一覧
 seriesSections:
-  - name: 科博所蔵品再現モデル
+  - name: 国立科学博物館
     format: ミュージアム
     titleIds:
       - kaiyodo/kahaku_official
+      - kaiyodo/capsule/kokuritsu_capsule
   - name: 恐竜博限定フィギュア
     format: 特別展
     titleIds:
@@ -21,6 +22,19 @@ seriesSections:
       - kaiyodo/capsule/kyoryuhaku2019
       - kaiyodo/capsule/kyoryuhaku2023
       - kaiyodo/kyoryuhaku2023sofbi
+      - kaiyodo/capsule/GiantDinosaurs
+      - kaiyodo/capsule/GiantDinosaurs_SpecialFigureBOX
+  - name: 考古学
+    titleIds:
+      - kaiyodo/capsule/greece
+      - kaiyodo/capsule/koukogaku1
+      - kaiyodo/capsule/mummy2019
+      - kaiyodo/Mummy_the_inside_story
+  - name: 万博
+    titleIds:
+      - kaiyodo/glico/glicoOsaka
+      - kaiyodo/capsule/MorizoKikkoro
+      - kaiyodo/capsule/inochidama
 ---
 ### About
 博物館や特別展にあわせて販売された、海洋堂のフィギュアを紹介します。

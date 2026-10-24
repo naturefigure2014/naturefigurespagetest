@@ -142,6 +142,12 @@ seriesSections:
       - kaiyodo/animatales/anima_japVII
       - kaiyodo/animatales/anima_japVIII
       - kaiyodo/animatales/anima_japEX
+  - name: その他関連フィギュア
+    format: ガチャ
+    description: 「アニマテイルズ」の記載はありませんが、同一原型を使用しています。
+    titleIds:
+      - kaiyodo/nitarikuzira
+      - kaiyodo/biwako
 
 ---
 ### About

@@ -23,7 +23,7 @@ seriesSections:
     - kaiyodo/dinoland/35tyrannosaurs
     - kaiyodo/dinoland/35tyrannosaursType1
     - kaiyodo/dinoland/styracosaurus
-  - name: すべて
+  - name: 100mm恐竜シリーズ
     format: コレクション
     titleIds:
     - kaiyodo/dinoland/100mm_model/allosaurus
@@ -36,10 +36,18 @@ seriesSections:
     - kaiyodo/dinoland/100mm_model/triceratops_
     - kaiyodo/dinoland/100mm_model/tyrannosaurus
     - kaiyodo/dinoland/100mm_model/velociraptor
-  - name: すべて
+  - name: 頭骨モデル
     format: コレクション
+    description: DINOLANDの頭骨シリーズ。原型はすべて「ホネ師」山崎さんが担当。
+    descriptionMore: >-
+      1996年のカタログに100mm恐竜とともに載っていました。
+      当初はレジンキャスト完成品として販売(\1,800)され、後に未塗装品が「復刻版」としてヘッダー付きPP袋で販売されました。
+      最近では各地で行われるイベントにおいて、海洋堂ブースの塗装体験で一部を入手することができます。
     titleIds:
-    - kaiyodo/dinoland/skull_mini_model
+    - kaiyodo/dinoland/skull_mini_model/001
+    - kaiyodo/dinoland/skull_mini_model/002
+    - kaiyodo/dinoland/skull_mini_model/003
+    - kaiyodo/dinoland/skull_mini_model/004
     - kaiyodo/dinoland/skull_model/Velociraptor
   - name: すべて
     format: コレクション

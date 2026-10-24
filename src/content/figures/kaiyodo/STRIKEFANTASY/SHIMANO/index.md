@@ -26,7 +26,7 @@ freetag:
   - label: "公式サイト"
     value: "コチラ （海洋堂カラー）"
 coverImage: "img/sf_shimano036.jpg"
-collectionImage: "img/sf_shimano001.jpg"
+collectionImage: "img/sf_shimano036.jpg"
 ---
 
 ### 概要

@@ -16,96 +16,96 @@ genres:
   - name: 文化・歴史
     href: "/makers/kaiyodo/genre/culture/"
     image: "img/culture.png"
-seriesDescription: 海洋堂のフィギュアを、シリーズごとに紹介します。
+seriesDescription: 数多くのタイトル・シリーズを展開してきた海洋堂。ここでは、主要なシリーズ、そしてそれに関連するタイトルをひとまとめにし、各ページにまとめます。
 seriesSections:
-  - name: アニマテイルズ
+  - listingName: アニマテイルズ
+    name: アニマテイルズ
     format: ガチャ
     href: "/makers/kaiyodo/animatales/"
-    listingName: アニマテイルズ
-  - name: ダイノテイルズ
+  - listingName: ダイノテイルズ
+    name: ダイノテイルズ
     format: ガチャ
     href: "/makers/kaiyodo/dinotales/"
-    listingName: ダイノテイルズ
-  - name: アクアテイルズ
+  - listingName: アクアテイルズ
+    name: アクアテイルズ
     format: ガチャ
     href: "/makers/kaiyodo/aquatales/"
-    listingName: アクアテイルズ
-  - name: カプセルQミュージアム
+  - listingName: その他食玩フィギュア
+    format: 食玩
+    href: "/makers/kaiyodo/syokugan/"
+  - listingName: カプセルQミュージアム
+    name: カプセルQミュージアム
     format: ガチャ
     href: "/makers/kaiyodo/capsuleq/"
-    listingName: カプセルQミュージアム
-  - name: カプセルズー
+  - listingName: カプセルズー
+    name: カプセルズー
     format: ガチャ
     href: "/makers/kaiyodo/zoo/"
-    listingName: カプセルズー
-  - name: 水生動物モデルコレクション[アクアランド]
+  - listingName: 博物館・特別展のフィギュア
+    name: 博物館・特別展
+    format: フィギュア
+    href: "/makers/kaiyodo/exhibitions/"
+  - listingName: 水生動物モデルコレクション[アクアランド]
+    name: 水生動物モデルコレクション[アクアランド]
     format: 完成品、キット
     href: "/makers/kaiyodo/aqualand/"
     showAllFigures: true
     maxFigures: 5
-    listingName: 水生動物モデルコレクション[アクアランド]
-  - name: DINOLAND
+  - listingName: DINOLAND
+    name: DINOLAND
     format: コレクション
     href: "/makers/kaiyodo/dinoland/"
-    listingName: DINOLAND
-  - name: ボトルキャップ動物フィギュア
-    format: 食玩
-    listingName: ボトルキャップ動物フィギュア
-  - name: 海洋堂ミュージアム関連フィギュア
+  - listingName: 海洋堂ミュージアム関連フィギュア
+    name: 海洋堂ミュージアム関連フィギュア
     format: ミュージアム
-    listingName: 海洋堂ミュージアム関連フィギュア
-  - name: 博物館・特別展
-    format: フィギュア
-    href: "/makers/kaiyodo/exhibitions/"
-    listingName: 博物館・特別展
-  - name: ARTPLA
+  - listingName: ARTPLA
+    name: ARTPLA
     format: プラモデル
-    listingName: ARTPLA
-  - name: デジタルガレージキット
+  - listingName: デジタルガレージキット
+    name: デジタルガレージキット
     format: ガレージキット
-    listingName: デジタルガレージキット
-  - name: リボルテック
+  - listingName: リボルテック
+    name: リボルテック
     format: アクションフィギュア
-    listingName: リボルテック
-  - name: メガソフビアドバンス
+  - listingName: メガソフビアドバンス
+    name: メガソフビアドバンス
     format: ソフビ
-    listingName: メガソフビアドバンス
-  - name: ソフビトイボックス
+  - listingName: ソフビトイボックス
+    name: ソフビトイボックス
     format: ソフビ
     href: "/makers/kaiyodo/sofubitoybox/"
-    listingName: ソフビトイボックス
-  - name: REVOGEO 全地球立体生物目録[リボジオ]
+  - listingName: REVOGEO 全地球立体生物目録[リボジオ]
+    name: REVOGEO 全地球立体生物目録[リボジオ]
     format: 可動フィギュア
     href: "/makers/kaiyodo/revogeo/"
-    listingName: REVOGEO 全地球立体生物目録[リボジオ]
-  - name: miniQ
+  - listingName: miniQ
+    name: miniQ
     format: ガチャ
-    listingName: miniQ
-  - name: naturetales・Dinotalesシリーズ
+  - listingName: naturetales・Dinotalesシリーズ
+    name: naturetales・Dinotalesシリーズ
     format: ガチャ
-    listingName: naturetales・Dinotalesシリーズ
-  - name: 自然史モデルコレクション
+  - listingName: 自然史モデルコレクション
+    name: 自然史モデルコレクション
     format: コレクション
-    listingName: 自然史モデルコレクション
 
-  - name: 高知・四万十ファクトリー　オリジナルフィギュア
+  - listingName: 高知・四万十ファクトリー　オリジナルフィギュア
+    name: 高知・四万十ファクトリー　オリジナルフィギュア
     format: オリジナル
-    listingName: 高知・四万十ファクトリー　オリジナルフィギュア
-  - name: 松村しのぶオリジナルフィギュア
+  - listingName: 松村しのぶオリジナルフィギュア
+    name: 松村しのぶオリジナルフィギュア
     format: オリジナル
-    listingName: 松村しのぶオリジナルフィギュア
-  - name: 古田悟郎オリジナルフィギュア
+  - listingName: 古田悟郎オリジナルフィギュア
+    name: 古田悟郎オリジナルフィギュア
     format: オリジナル
-    listingName: 古田悟郎オリジナルフィギュア
-  - name: 清水ゆう子ｵﾘｼﾞﾅﾙﾌｨｷﾞｭｱ
+  - listingName: 清水ゆう子ｵﾘｼﾞﾅﾙﾌｨｷﾞｭｱ
+    name: 清水ゆう子ｵﾘｼﾞﾅﾙﾌｨｷﾞｭｱ
     format: オリジナル
-    listingName: 清水ゆう子ｵﾘｼﾞﾅﾙﾌｨｷﾞｭｱ
-  - name: 吉良かずやｵﾘｼﾞﾅﾙﾌｨｷﾞｭｱ
+  - listingName: 吉良かずやｵﾘｼﾞﾅﾙﾌｨｷﾞｭｱ
+    name: 吉良かずやｵﾘｼﾞﾅﾙﾌｨｷﾞｭｱ
     format: オリジナル
-    listingName: 吉良かずやｵﾘｼﾞﾅﾙﾌｨｷﾞｭｱ
-  - name: ご当地カプセルフィギュア
+  - listingName: ご当地カプセルフィギュア
+    name: ご当地カプセルフィギュア
     format: ガチャ
-    listingName: ご当地カプセルフィギュア
 freeThemesDescription: ジャンルやシリーズにとらわれないテーマから、海洋堂のフィギュアを紹介します。
 freeThemesSections:
   - name: 恐竜博限定フィギュア
