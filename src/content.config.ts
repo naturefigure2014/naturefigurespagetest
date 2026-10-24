@@ -150,12 +150,20 @@ const makers = defineCollection({
       })).default([])
     })).default([]),
     seriesSections: z.array(z.object({
-      name: z.string(),
+      name: z.string().optional(),
+      listingName: z.string().optional(),
       format: z.string().optional(),
       href: z.string().optional(),
       description: z.string().optional(),
       descriptionMore: z.string().optional(),
       showAllFigures: z.boolean().default(false),
+      itemIds: z.array(z.union([
+        z.string(),
+        z.object({
+          id: z.string(),
+          badges: z.array(seriesCardBadge).default([])
+        })
+      ])).default([]),
       titleIds: z.array(z.union([
         z.string(),
         z.object({

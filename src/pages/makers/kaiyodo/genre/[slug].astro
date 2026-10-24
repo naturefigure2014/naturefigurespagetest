@@ -31,6 +31,12 @@ const genreEntries = figures.filter((item) => {
     && (isTitle || isSingleLineupFigure);
 });
 const titlesForSection = (section: (typeof page.data.seriesSections)[number]) => {
+  if (section.itemIds.length > 0) {
+    return section.itemIds
+      .map((item) => entryById.get(normalizeId(typeof item === "string" ? item : item.id)))
+      .filter((item): item is (typeof figures)[number] => Boolean(item))
+      .slice(0, section.maxTitles ?? Number.POSITIVE_INFINITY);
+  }
   if (section.titleIds.length > 0) {
     return section.titleIds
       .map((title) => entryById.get(normalizeId(typeof title === "string" ? title : title.id)))
@@ -43,6 +49,10 @@ const titlesForSection = (section: (typeof page.data.seriesSections)[number]) =>
   return genreEntries.slice(0, section.maxTitles ?? 5);
 };
 const badgesForTitle = (section: (typeof page.data.seriesSections)[number], titleId: string) => {
+  const configuredItem = section.itemIds.find((item) =>
+    typeof item !== "string" && normalizeId(item.id) === normalizeId(titleId)
+  );
+  if (configuredItem && typeof configuredItem !== "string") return configuredItem.badges;
   const configuredTitle = section.titleIds.find((title) =>
     typeof title !== "string" && normalizeId(title.id) === normalizeId(titleId)
   );
@@ -90,11 +100,11 @@ const heroImage = page.data.heroImage
           return (
             <section class="maker-detail-series">
               <header>
-                <div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div>
+                <div><h2>{section.listingName ?? section.name}</h2>{section.format && <span>{section.format}</span>}</div>
               </header>
               <div class:list={[
                 "maker-detail-title-grid",
-                { "maker-detail-title-grid--default": section.maxTitles === undefined && section.titleIds.length === 0 && !section.showAllFigures }
+                { "maker-detail-title-grid--default": section.itemIds.length > 0 || (section.maxTitles === undefined && section.titleIds.length === 0 && !section.showAllFigures) }
               ]}>
                 {section.cards.map((card) => {
                   const image = card.sourceId
@@ -114,7 +124,12 @@ const heroImage = page.data.heroImage
                     <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}>
                       {image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
                       {image && <MakerCardBadges badges={badgesForTitle(section, title.id)} />}
-                      <strong>{title.data.shortTitle || title.data.title}</strong>
+                      <strong>
+                        {title.data.contentType === "figure" && title.data.figureId && (
+                          <span class="maker-detail-card-figure-id">{title.data.figureId}</span>
+                        )}
+                        {title.data.shortTitle || title.data.title}
+                      </strong>
                     </a>
                   );
                 })}

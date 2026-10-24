@@ -1,30 +1,30 @@
 ---
-title: "5個セットボックス"
+title: "SP-06.セイスモサウルス"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales_2002
 figureId: "001"
 maker: "海洋堂"
-sculptor: "-"
+sculptor: "山本聖士"
 executiveProducer: "-"
-species: "-"
-speciesGroup: "-"
-price: "200円(単品) 1000円(セットボックス)"
+species: "セイスモサウルス"
+speciesGroup: "竜脚類"
+price: "200円(単品)"
 releaseStart: "-"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "dinolimhako1.jpg"
-coverImage: "dinolimhako1.jpg"
+figureTopImage: "dino2002_013.jpg"
+coverImage: "dino2002_013.jpg"
 topics:
   - title: ""
     images:
-      - "dinolimhako1.jpg"
-      - "dinolimhako2.jpg"
+      - "dino2002_013.jpg"
+      - "dino2002_012.jpg"
   - title: ""
     images:
-      - "dino2002_003.jpg"
+      - "dino2002_014.jpg"
     comment: |
-      当時、ネットが開通したばかりの我が家で父に頼み、初めてのネット通販で入手しました。 ブリスターパッケージは透明でしたが黄ばんでしまいました。
+      派手な体色。今回の展示のメインでした。
 ---

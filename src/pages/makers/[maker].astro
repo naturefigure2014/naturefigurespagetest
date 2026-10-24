@@ -54,12 +54,19 @@ const seriesNames = (entry: (typeof titleEntries)[number]) => {
   return value ? (Array.isArray(value) ? value : [value]) : [];
 };
 const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) => {
+  if (section.itemIds.length > 0) {
+    return section.itemIds
+      .map((item) => entryById.get(normalizeId(typeof item === "string" ? item : item.id)))
+      .filter((item): item is (typeof figures)[number] => Boolean(item))
+      .slice(0, section.maxTitles ?? Number.POSITIVE_INFINITY);
+  }
   if (section.titleIds.length > 0) {
     return section.titleIds
       .map((title) => entryById.get(normalizeId(typeof title === "string" ? title : title.id)))
       .filter((item): item is (typeof titleEntries)[number] => Boolean(item))
       .slice(0, section.maxTitles ?? Number.POSITIVE_INFINITY);
   }
+  if (!section.name) return [];
   const titles = titleEntries
     .filter((item) => makerNames(item.data.maker).includes(entry.data.maker) && seriesNames(item).includes(section.name))
     .slice(0, section.maxTitles ?? 5);
@@ -74,6 +81,10 @@ const titlesForSeries = (section: (typeof entry.data.seriesSections)[number]) =>
   return [...titles, ...figuresInSeries];
 };
 const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], titleId: string) => {
+  const configuredItem = section.itemIds.find((item) =>
+    typeof item !== "string" && normalizeId(item.id) === normalizeId(titleId)
+  );
+  if (configuredItem && typeof configuredItem !== "string") return configuredItem.badges;
   const configuredTitle = section.titleIds.find((title) =>
     typeof title !== "string" && normalizeId(title.id) === normalizeId(titleId)
   );
@@ -124,12 +135,17 @@ const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], tit
         <div class="maker-detail-series-list">
           {entry.data.seriesSections.map((section) => {
             const titles = titlesForSeries(section);
+            const sectionHref = section.href
+              ? siteUrl(section.href)
+              : section.name
+                ? siteUrl(`/titles/?series=${encodeURIComponent(section.name)}`)
+                : undefined;
             return (
               <section class="maker-detail-series">
-                <header><div><h2>{section.name}</h2>{section.format && <span>{section.format}</span>}</div><a href={section.href ? siteUrl(section.href) : siteUrl(`/titles/?series=${encodeURIComponent(section.name)}`)}>すべてのタイトルを見る&gt;</a></header>
+                <header><div><h2>{section.listingName ?? section.name}</h2>{section.format && <span>{section.format}</span>}</div>{sectionHref && <a href={sectionHref}>すべてのタイトルを見る&gt;</a>}</header>
                 <div class:list={[
                   "maker-detail-title-grid",
-                  { "maker-detail-title-grid--default": section.maxFigures !== undefined || (section.maxTitles === undefined && section.titleIds.length === 0 && !section.showAllFigures) }
+                  { "maker-detail-title-grid--default": section.itemIds.length > 0 || section.maxFigures !== undefined || (section.maxTitles === undefined && section.titleIds.length === 0 && !section.showAllFigures) }
                 ]}>
                   {section.cards.map((card) => (
                     <a class="maker-detail-card" href={linkFor(card.href)}>
@@ -140,7 +156,7 @@ const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], tit
                   ))}
                   {titles.map((title) => {
                     const image = resolveFigureImage(title.id, title.data.coverImage);
-                    return <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}><>{image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}{image && <MakerCardBadges badges={badgesForTitle(section, title.id)} />}<strong>{title.data.shortTitle || title.data.title}</strong></></a>;
+                    return <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}><>{image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}{image && <MakerCardBadges badges={badgesForTitle(section, title.id)} />}<strong>{title.data.contentType === "figure" && title.data.figureId && <span class="maker-detail-card-figure-id">{title.data.figureId}</span>}{title.data.shortTitle || title.data.title}</strong></></a>;
                   })}
                 </div>
               </section>

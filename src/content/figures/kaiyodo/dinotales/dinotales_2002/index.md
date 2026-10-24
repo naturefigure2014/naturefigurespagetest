@@ -7,12 +7,27 @@ kind: series
 maker: "海洋堂"
 figureIds:
   - kaiyodo/dinotales/dinotales_2002/001
+  - kaiyodo/dinotales/dinotales_2002/002
+  - kaiyodo/dinotales/dinotales_2002/003
+  - kaiyodo/dinotales/dinotales_2002/004
+  - kaiyodo/dinotales/dinotales_2002/005
+  - kaiyodo/dinotales/dinotales_2002/006
+  - kaiyodo/dinotales/dinotales_2002/007
 executiveProducer: "-"
 seriesName: "ダイノテイルズ"
 releaseStart: "-"
 price: "200円(単品) 1000円(セットボックス)"
-species: "-"
-speciesGroup: "-"
+speciesEntries:
+  - species: "セイスモサウルス"
+    speciesGroup: "竜脚類"
+  - species: "ディノニクス"
+    speciesGroup: "獣脚類"
+  - species: "アクロカントサウルス"
+    speciesGroup: "獣脚類"
+  - species: "サイカニア"
+    speciesGroup: "装盾類"
+  - species: "ステゴサウルス"
+    speciesGroup: "装盾類"
 genre:
   - "-"
 tags:
@@ -20,10 +35,6 @@ tags:
 freetag:
   - label: "造形企画制作"
     value: "海洋堂"
-  - label: "7/20 セットボックス・単品両方品切れ（am/pm版の配布ルール変更"
-    value: "「一人一つ」）"
-  - label: "7/27 セットボックス再入荷（制限つき"
-    value: "セットボックス1個、10個入り箱2個）"
 coverImage: "img/dino2002_002.jpg"
 collectionImage: "img/dino2002_002.jpg"
 resources:
@@ -31,6 +42,23 @@ resources:
     image: "img/chocora_lim_hako.jpg"
     description: |
       いつもの三角パッケージもホワイトとゴールドで高級感があります。
+topics:
+  - title: "5個セットボックス"
+    images:
+      - "img/dinolimhako1.jpg"
+      - "img/dinolimhako2.jpg"
+      - "img/dino2002_003.jpg"
+    comment: |
+      当時、ネットが開通したばかりの我が家で父に頼み、初めてのネット通販で入手しました。
+      ブリスターパッケージは透明でしたが黄ばんでしまいました。
+  - title: "ブックレット"
+    images:
+      - "img/kyoryuhaku_book.jpg"
+    comment: |
+      1弾～3弾のラインナップも載っています。
+  - title: "組み立て図"
+    images:
+      - "img/kyoryuhaku_kaisetsu.jpg"
 ---
 
 ### 概要
