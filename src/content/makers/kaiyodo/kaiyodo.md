@@ -85,6 +85,8 @@ seriesSections:
   - listingName: デジタルガレージキット
     name: デジタルガレージキット
     format: ガレージキット
+    titleIds:
+      - kaiyodo/DGK/Tyrannosaurs
   - listingName: リボルテック
     name: リボルテック
     format: アクションフィギュア
