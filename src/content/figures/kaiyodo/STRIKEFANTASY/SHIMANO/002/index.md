@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "村井太郎"
 executiveProducer: "-"
 species: "アオリイカ"
-speciesGroup: "アオリイカ"
+speciesGroup: "イカ類"
 price: "3,850円"
 releaseStart: "2022.08"
 genre:

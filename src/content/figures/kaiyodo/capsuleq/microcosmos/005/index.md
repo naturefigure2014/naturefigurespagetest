@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/microcosmos
 figureId: "005"
-species: "イカの幼生"
+species: "ヤリイカ"
 speciesGroup: "イカ類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"

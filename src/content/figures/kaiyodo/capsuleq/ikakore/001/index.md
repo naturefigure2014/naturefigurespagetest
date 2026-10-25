@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/ikakore
 figureId: "001"
-species: "1. スルメイカ"
+species: "スルメイカ"
 speciesGroup: "イカ類"
 maker: "海洋堂"
 figureTopImage: "surumeika001.jpg"

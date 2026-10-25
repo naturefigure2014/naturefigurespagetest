@@ -1,5 +1,6 @@
 ---
 title: "新江ノ島水族館への誘い / 新江ノ島水族館立体生物図録"
+shortTitle: "新江ノ島水族館立体生物図録1"
 description: ""
 contentType: title
 titleId: kaiyodo/aquatales/enosui/enosui1

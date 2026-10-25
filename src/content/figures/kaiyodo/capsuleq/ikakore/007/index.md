@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/ikakore
 figureId: "007"
-species: "全5種"
-speciesGroup: "イカ類"
+species: ""
+speciesGroup: ""
 maker: "海洋堂"
 figureTopImage: "ikakore014.jpg"
 coverImage: "ikakore014.jpg"
