@@ -61,6 +61,7 @@ seriesSections:
   - listingName: ARTPLA
     name: ARTPLA
     format: プラモデル
+    showAllFigures: true
   - listingName: デジタルガレージキット
     name: デジタルガレージキット
     format: ガレージキット
@@ -78,16 +79,19 @@ seriesSections:
     name: REVOGEO 全地球立体生物目録[リボジオ]
     format: 可動フィギュア
     href: "/makers/kaiyodo/revogeo/"
+    showAllFigures: true
+    maxFigures: 5
   - listingName: miniQ
     name: miniQ
     format: ガチャ
   - listingName: naturetales・Dinotalesシリーズ
     name: naturetales・Dinotalesシリーズ
     format: ガチャ
+    showAllFigures: true
   - listingName: 自然史モデルコレクション
     name: 自然史モデルコレクション
     format: コレクション
-
+    showAllFigures: true
   - listingName: 高知・四万十ファクトリー　オリジナルフィギュア
     name: 高知・四万十ファクトリー　オリジナルフィギュア
     format: オリジナル
