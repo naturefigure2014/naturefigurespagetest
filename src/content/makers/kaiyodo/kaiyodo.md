@@ -55,6 +55,16 @@ seriesSections:
       - kaiyodo/daiouika
       - kaiyodo/capsule/seimeishinnka
       - kaiyodo/Mummy_the_inside_story
+  - listingName: ご当地カプセルフィギュア
+    name: ご当地カプセルフィギュア
+    format: 食玩・ガチャ
+    href: "/makers/kaiyodo/gotochi/"
+    titleIds:
+      - kaiyodo/bussanntenn/Chugokushikoku
+      - kaiyodo/bussanntenn/Hokkaido
+      - kaiyodo/capsule/cap_miyage/Asakusa
+      - kaiyodo/capsule/cap_miyage/Chiba
+      - kaiyodo/capsule/cap_miyage/Fukuoka
   - listingName: 水生動物モデルコレクション[アクアランド]
     name: 水生動物モデルコレクション[アクアランド]
     format: 完成品、キット
@@ -119,16 +129,6 @@ seriesSections:
   - listingName: 吉良かずやｵﾘｼﾞﾅﾙﾌｨｷﾞｭｱ
     name: 吉良かずやｵﾘｼﾞﾅﾙﾌｨｷﾞｭｱ
     format: オリジナル
-  - listingName: ご当地カプセルフィギュア
-    name: ご当地カプセルフィギュア
-    format: 食玩・ガチャ
-    href: "/makers/kaiyodo/gotochi/"
-    titleIds:
-      - kaiyodo/bussanntenn/Chugokushikoku
-      - kaiyodo/bussanntenn/Hokkaido
-      - kaiyodo/capsule/cap_miyage/Asakusa
-      - kaiyodo/capsule/cap_miyage/Chiba
-      - kaiyodo/capsule/cap_miyage/Fukuoka
 freeThemesDescription: ジャンルやシリーズにとらわれないテーマから、海洋堂のフィギュアを紹介します。
 freeThemesSections:
   - name: 恐竜博限定フィギュア
