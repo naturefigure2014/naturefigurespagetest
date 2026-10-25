@@ -23,10 +23,6 @@ freetag:
     value: "江崎グリコ"
   - label: "共同制作"
     value: "海洋堂"
-  - label: "公式サイト"
-    value: "コチラ"
-  - label: "池袋のサンシャインシティにおいて「クリエイターズグリコ展」を開催しました。坂井直樹、タツナミシュウイチ、根津孝太、堀井雄二、増田セバスチャンがトークショーで、それぞれのデザインアイデアを話しました。 https"
-    value: "//t.co/MRfG9uQBlZ pic.twitter.com/zdkwpTzTYr"
 coverImage: "img/creatorsglico014.jpg"
 collectionImage: "img/creatorsglico014.jpg"
 resources:

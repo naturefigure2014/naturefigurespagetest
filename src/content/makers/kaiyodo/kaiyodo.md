@@ -30,9 +30,13 @@ seriesSections:
     name: アクアテイルズ
     format: ガチャ
     href: "/makers/kaiyodo/aquatales/"
-  - listingName: その他食玩フィギュア
+  - listingName: その他食玩・書籍付属フィギュア
     format: 食玩
     href: "/makers/kaiyodo/syokugan/"
+    titleIds:
+      - kaiyodo/shokugann/MyHappyAIBO
+      - kaiyodo/shokugann/reddataanimals
+      - kaiyodo/shokugann/sakamotoryoma
   - listingName: カプセルQミュージアム
     name: カプセルQミュージアム
     format: ガチャ
@@ -45,6 +49,12 @@ seriesSections:
     name: 博物館・特別展
     format: フィギュア
     href: "/makers/kaiyodo/exhibitions/"
+    titleIds:
+      - kaiyodo/kahaku_official
+      - kaiyodo/capsule/kokuritsu_capsule
+      - kaiyodo/daiouika
+      - kaiyodo/capsule/seimeishinnka
+      - kaiyodo/Mummy_the_inside_story
   - listingName: 水生動物モデルコレクション[アクアランド]
     name: 水生動物モデルコレクション[アクアランド]
     format: 完成品、キット
@@ -75,6 +85,8 @@ seriesSections:
     name: ソフビトイボックス
     format: ソフビ
     href: "/makers/kaiyodo/sofubitoybox/"
+    showAllFigures: true
+    maxFigures: 5
   - listingName: REVOGEO 全地球立体生物目録[リボジオ]
     name: REVOGEO 全地球立体生物目録[リボジオ]
     format: 可動フィギュア
@@ -109,7 +121,14 @@ seriesSections:
     format: オリジナル
   - listingName: ご当地カプセルフィギュア
     name: ご当地カプセルフィギュア
-    format: ガチャ
+    format: 食玩・ガチャ
+    href: "/makers/kaiyodo/gotochi/"
+    titleIds:
+      - kaiyodo/bussanntenn/Chugokushikoku
+      - kaiyodo/bussanntenn/Hokkaido
+      - kaiyodo/capsule/cap_miyage/Asakusa
+      - kaiyodo/capsule/cap_miyage/Chiba
+      - kaiyodo/capsule/cap_miyage/Fukuoka
 freeThemesDescription: ジャンルやシリーズにとらわれないテーマから、海洋堂のフィギュアを紹介します。
 freeThemesSections:
   - name: 恐竜博限定フィギュア

@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "バードテイルズ2"
 description: ""
 contentType: title
 titleId: kaiyodo/birdtales/birdtales2

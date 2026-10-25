@@ -1,5 +1,5 @@
 ---
-title: "index.html"
+title: "深海生物"
 description: ""
 contentType: title
 titleId: kaiyodo/aquatales/zuroku/deep_sea_life
