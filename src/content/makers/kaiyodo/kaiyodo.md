@@ -87,6 +87,7 @@ seriesSections:
     format: ガレージキット
     titleIds:
       - kaiyodo/DGK/Tyrannosaurs
+      - kaiyodo/DGK/microANIMAL
   - listingName: リボルテック
     name: リボルテック
     format: アクションフィギュア

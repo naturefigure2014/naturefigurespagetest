@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "カワセミ"
-speciesGroup: "その他昆虫"
+speciesGroup: "その他鳥類"
 price: "-"
 releaseStart: "-"
 genre:

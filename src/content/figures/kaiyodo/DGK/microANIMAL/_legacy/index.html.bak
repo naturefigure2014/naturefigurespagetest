@@ -1,0 +1,282 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>micro ANIMAL</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<table width="100%">
+		<tr><td class="microANIMAL_header"><span class="Aharoni_B">海洋堂 DGK</span><span class="Vani">&nbsp; micro ANIMAL</span>&nbsp;
+		<span class="Mincho">- ミ ク ロ ア ニ マ ル -</span></td></tr>
+		<tr><td><img height="256" src="img/mcr1_050.jpg" width="760" /></td></tr>
+		<tr><td><img height="260" src="img/mcr1_051.jpg" width="760" /></td></tr>
+		</table>
+		<table style="width: 100%">
+			<tr>
+				<td class="waku_left" style="width:50%" valign="top">
+				<span class="font_small">01.ニホンザル
+<br />
+				02.ヤマネ
+<br />
+				03.テン
+<br />
+				04.オオサンショウウオ
+<br />
+				05.ギフチョウ
+<br />
+				06.クサガメ
+<br />
+				07.ノウサギ
+<br />
+				08.カワセミ
+<br />
+				09.カブトムシ
+<br />
+				10.ニホンカモシカ
+<br />
+				11.メダカ
+<br />
+				</span>
+				</td>
+				<td class="waku_right" style="width:50%" valign="top">
+				<span class="font_small">12.キツネ
+<br />
+				13.オオクワガタ <br />
+				14.オキナワキノボリトカゲ<br />
+				15.ヒミズ<br />
+				16.スナメリ<br />
+				17.ニホンアマガエル<br />
+				18.イリオモテヤマネコ<br />
+				19.クラカケアザラシ<br />
+				20.キビタキ<br />
+				21.ラブカ<br />
+				22.エトピリカ<br />
+				23.イトヨ(陸封型) </span>
+				</td>
+
+			</tr>
+		</table>
+			<p>
+			[DGK micro ANIMAL -ミクロアニマル-]<br />
+			販売開始：2019年11月　発売元：海洋堂　原型制作：松村しのぶ　価格：500円<br />
+			<span class="font_Bold">■概要</span><br />
+			DGKのネイチャー系としては第２弾。伝説の「<a href="../../../anima/anima_jap1">日本の動物１</a>」の原型をスキャンしたもの。<br />
+			もともとホビー館四万十のトークショーで配布されたものが、後に高知のナンコクフェスティバルで販売され、<a href="../../../blog/blog20191102.html">門真お宝発見伝</a>の日より、HLKで限定販売されました。<br />
+			いつか食玩シリーズの原型を見てみたいと思っていましたが、思わぬ形でその願いが叶うことになりました。当時の量産版では表現できなかったディテールを、じっくりと確認することができます。<br />
+			<span class="font_Bold">■シリーズ名</span><br />
+			タイトルやパッケージには「日本の動物」「アニマテイルズ」の文字はありません。もしかしたら今後、様々な過去シリーズからラインナップされるかも？。<br />
+			<span class="font_Bold">■サイズと価格</span><br />
+			原型（量産品）と同じサイズかと思いきや、一部を除いてひとまわり小さめ（タイトルの「ミクロ」はここから？）。３Dプリンターで量産する際、高さをそろえる必要があるためか、あるいは価格を抑えるためだと考えられます。<br />
+			ちなみにサポート材込みの1グラムあたりの値段は約100 [円/g]（3～8 
+			[g]とばらつきがあるため平均値を算出）。ワンフェスで販売された小型サイズDGK「テトラ」は117 
+			[円/g]なので、妥当な価格でしょう。<br />
+			（もちろん、重さと価格が正比例の関係とは限らない。また、大型キットのティラノは60 [円/g]。)<br />
+			カプセルフィギュアと比べると割高ではあるが、そもそもこれはガレージキットであることを忘れてはいけない。<br />
+			<span class="font_Bold">■「全23種」</span><br />
+			もうお気づきのように、日本の動物１が全２４種であるのに、本作は全２３種。No.03のトキがいないのです。原型が破損・紛失したのか、３Dプリントでは不可能だったのか、その理由は不明です。<br />
+			<span class="font_Bold">■HLK限定</span><br />
+			２０１９年１１月現在、HLK門真での限定販売となっています（パッケージにも印刷済み）。公式によるツイート（ページ下部）にも書いてあるとおり、初回生産数が少ないようです。<br />
+			（おそらく）本社で製造してとなりのHLKでのみ販売ということでしょう。生産数を絞っているのか、単純に時間がかかるためなのかは不明。ただひとつ言えるのは、今後のミクロアニマルシリーズは、この初回生産分のはけ具合に左右されるということです。<br />
+			（日本の動物３くらいまで出して欲しい。）<br />
+			<span class="font_Bold">■塗る？塗らない？</span><br />
+			当初は塗ろうと思っていましたが、量産版とサイズが違ったので方針転換。これは塗装せず、原型の造形をチェックする用に取っておこうかなと思います。<br />
+			<span class="font_Bold">-- &lt; 2023/01 追記 &gt; --</span><br />
+			あれから4年、今ではホビーロビー東京でも購入できるようになり、当初ラインナップされていなかった「トキ」も遅れて販売されました。<br />
+			しかし、残念ながら続編のリリースはありません。<br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		<table width="100%">
+		<tr><td colspan="4" class="comment">クリックで詳細へジャンプ</td></tr>
+<!--
+01-08
+-->
+		<tr>
+		<th class="font_small">ニホンザル</th><th class="font_small">ヤマネ</th>
+			<th class="font_small">テン</th><th class="font_small">オオサンショウウオ</th>
+		</tr>
+		<tr>
+		<td><a href="index1.html#1">
+			<img src="img/mcr1_021_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_021.jpg" --></a></td><td>
+			<a href="index1.html#2">
+			<img src="img/mcr1_025_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_025.jpg" --></a></td><td>
+			<a href="index1.html#3">
+			<img src="img/mcr1_011_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_011.jpg" --></a></td><td>
+			<a href="index1.html#4">
+			<img src="img/mcr1_007_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_007.jpg" --></a></td>
+		</tr>
+		<tr>
+		<th class="font_small">ギフチョウ</th><th><span class="font_small">クサガメ</span></th>
+			<th class="font_small">ノウサギ</th><th class="font_small">カワセミ</th>
+		</tr>
+		<tr>
+		<td><a href="index1.html#5">
+		<img src="img/mcr1_001_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_001.jpg" --></a></td><td>
+			<a href="index1.html#6">
+			<img src="img/mcr1_019_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_019.jpg" --></a></td><td>
+			<a href="index2.html#7">
+			<img src="img/mcr1_015_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_015.jpg" --></a></td><td>
+			<a href="index2.html#8">
+			<img src="img/mcr1_030_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_030.jpg" --></a></td>
+		</tr>
+<!--
+09-16
+-->
+		<tr>
+		<th><span class="font_small">カブトムシ</span></th><th class="font_small">ニホンカモシカ</th>
+			<th class="font_small">メダカ</th><th class="font_small">キツネ</th>
+		</tr>
+		<tr>
+		<td><a href="index2.html#9">
+		<img src="img/mcr1_041_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_041.jpg" --></a></td><td>
+			<a href="index2.html#10">
+			<img src="img/mcr1_003_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_003.jpg" --></a></td><td>
+			<a href="index2.html#11">
+			<img src="img/mcr1_018_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_018.jpg" --></a></td><td>
+			<a href="index2.html#12">
+			<img src="img/mcr1_027_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_027.jpg" --></a></td>
+		</tr>
+		<tr>
+		<th class="font_small">オオクワガタ</th><th class="font_small">オキナワキノボリトカゲ</th>
+			<th class="font_small">ヒミズ</th><th class="font_small">スナメリ</th>
+		</tr>
+		<tr>
+		<td><a href="index3.html#13">
+		<img src="img/mcr1_005_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_005.jpg" --></a></td><td>
+			<a href="index3.html#14">
+			<img src="img/mcr1_031_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_031.jpg" --></a></td><td>
+			<a href="index3.html#15">
+			<img src="img/mcr1_043_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_043.jpg" --></a></td><td>
+			<a href="index3.html#16">
+			<img src="img/mcr1_045_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_045.jpg" --></a></td>
+		</tr>
+<!--
+17-23
+-->
+		<tr>
+		<th class="font_small">ニホンアマガエル</th><th class="font_small">イリオモテヤマネコ</th>
+			<th class="font_small">クラカケアザラシ</th><th class="font_small">キビタキ</th>
+		</tr>
+		<tr>
+		<td><a href="index3.html#17">
+		<img src="img/mcr1_036_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_036.jpg" --></a></td><td>
+			<a href="index3.html#18">
+			<img src="img/mcr1_009_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_009.jpg" --></a></td><td>
+			<a href="index4.html#19">
+			<img src="img/mcr1_023_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_023.jpg" --></a></td><td>
+			<a href="index4.html#20">
+			<img src="img/mcr1_039_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_039.jpg" --></a></td>
+		</tr>
+		<tr>
+		<th class="font_small">ラブカ</th><th class="font_small">エトピリカ</th>
+			<th class="font_small">イトヨ（陸封型）</th><th class="font_small">トキ</th>
+		</tr>
+		<tr>
+		<td><a href="index4.html#21">
+		<img src="img/mcr1_013_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_013.jpg" --></a></td><td>
+			<a href="index4.html#22">
+			<img src="img/mcr1_033_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_033.jpg" --></a></td><td>
+			<a href="index4.html#23">
+			<img src="img/mcr1_037_small.jpg"  width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_037.jpg" --></a></td><td>
+			<a href="index4.html#24">
+			<img src="img/mcr1_114_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/kaiyodo_Kit_Prepaint/DGK/microANIMAL/img/mcr1_047.jpg" --></a></td>
+		</tr>
+		
+		</table>
+		<table width="100%"><tr><td class="comment">
+					<br />
+					<br />
+					発売初日の様子（<a href="../../../blog/blog20191102.html">ブログはコチラ</a>）。</td></tr><tr><td>
+					<a href="../../../blog/img2019/20191102007.jpg">
+					<img height="212" src="../../../blog/img2019/20191102007_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/blog/img2019/20191102007.jpg" --><a href="../../../blog/img2019/20191102008.jpg"><img height="212" src="../../../blog/img2019/20191102008_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/blog/img2019/20191102008.jpg" --></a></a></td></tr><tr><td>
+					<a href="../../../blog/img2019/20191102009.jpg">
+					<img height="212" src="../../../blog/img2019/20191102009_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/blog/img2019/20191102009.jpg" --></a></td></tr><tr>
+				<td class="comment">
+					やたら「各種３個まで」が強調されています。<br />
+					最前列上段を全部買ったのは僕です（日本最速入手）。</td></tr><tr><td>
+					<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">【4周年イベント続報！】<br>明日11/2(土)より、HLK限定販売『DGK ミクロアニマル』シリーズ全23種（各550円税込）を販売致します！！<br>あの日本の動物コレクションがDGKで復活！<br>（ご自身でパーツ切取り・塗装が必要です）<br>初回入荷数が少ない為、お一人様各種3個までとさせて頂きます。ご了承ください。 <a href="https://t.co/hgX1T3kiaC">pic.twitter.com/hgX1T3kiaC</a></p>&mdash; 海洋堂ホビーロビー門真 (@HLK_kaiyodo) <a href="https://twitter.com/HLK_kaiyodo/status/1190202115743830017?ref_src=twsrc%5Etfw">November 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+					
+					</td></tr></table>
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
