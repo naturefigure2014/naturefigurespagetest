@@ -8,6 +8,9 @@ maker: "海洋堂高知・四万十ファクトリー"
 figureIds:
   - kaiyodo/WFnetsuke/WF2017w/001
   - kaiyodo/WFnetsuke/WF2017w/002
+  - kaiyodo/WFnetsuke/WF2017w/olm
+  - kaiyodo/WFnetsuke/WF2017w/komododragon
+  - kaiyodo/WFnetsuke/WF2017w/kawauso_tokotsu
 executiveProducer: "-"
 seriesName: "-"
 releaseStart: "-"
