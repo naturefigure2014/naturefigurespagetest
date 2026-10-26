@@ -1,8 +1,8 @@
 r"""Generate current Astro content from a legacy Nature Figure index.html.
 
 Run this script from a legacy collection directory, for example:
-    python C:\astro\7\scripts\generate_legacy_figure.py --content-type title
-    python C:\astro\7\scripts\generate_legacy_figure.py --content-type figure
+python C:\astro\7\scripts\generate_legacy_figure.py --content-type title
+python C:\astro\7\scripts\generate_legacy_figure.py --content-type figure
 """
 
 from __future__ import annotations

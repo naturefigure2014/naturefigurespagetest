@@ -94,6 +94,9 @@ seriesSections:
   - listingName: メガソフビアドバンス
     name: メガソフビアドバンス
     format: ソフビ
+    href: "/makers/kaiyodo/megasofubiadvance/"
+    showAllFigures: true
+    maxFigures: 5
   - listingName: ソフビトイボックス
     name: ソフビトイボックス
     format: ソフビ
@@ -117,9 +120,10 @@ seriesSections:
     name: 自然史モデルコレクション
     format: コレクション
     showAllFigures: true
-  - listingName: 高知・四万十ファクトリー　オリジナルフィギュア
+  - listingName: イベント・海洋堂ミュージアム限定品
     name: 高知・四万十ファクトリー　オリジナルフィギュア
     format: オリジナル
+    href: "/makers/kaiyodo/event-museum/"
   - listingName: 松村しのぶオリジナルフィギュア
     name: 松村しのぶオリジナルフィギュア
     format: オリジナル
