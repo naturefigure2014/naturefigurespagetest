@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "カッパ"
-speciesGroup: "-"
+speciesGroup: "妖怪"
 price: "3,500円（ワンフェス価格）"
 releaseStart: "-"
 genre:

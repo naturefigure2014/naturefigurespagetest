@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アカメ"
-speciesGroup: "-"
+speciesGroup: "スズキ目の魚類"
 price: "3,500円（ワンフェス価格）"
 releaseStart: "-"
 genre:

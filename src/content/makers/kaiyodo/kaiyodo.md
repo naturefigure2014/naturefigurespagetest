@@ -75,9 +75,6 @@ seriesSections:
     name: DINOLAND
     format: コレクション
     href: "/makers/kaiyodo/dinoland/"
-  - listingName: 海洋堂ミュージアム関連フィギュア
-    name: 海洋堂ミュージアム関連フィギュア
-    format: ミュージアム
   - listingName: ARTPLA
     name: ARTPLA
     format: プラモデル
@@ -88,9 +85,6 @@ seriesSections:
     titleIds:
       - kaiyodo/DGK/Tyrannosaurs
       - kaiyodo/DGK/microANIMAL
-  - listingName: リボルテック
-    name: リボルテック
-    format: アクションフィギュア
   - listingName: メガソフビアドバンス
     name: メガソフビアドバンス
     format: ソフビ
@@ -124,6 +118,9 @@ seriesSections:
     name: 高知・四万十ファクトリー　オリジナルフィギュア
     format: オリジナル
     href: "/makers/kaiyodo/event-museum/"
+    titleIds:
+      - kaiyodo/WFnetsuke/WF2017s
+      - kaiyodo/WFnetsuke/WF2017w
   - listingName: 松村しのぶオリジナルフィギュア
     name: 松村しのぶオリジナルフィギュア
     format: オリジナル
