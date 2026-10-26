@@ -106,14 +106,22 @@ seriesSections:
   - listingName: miniQ
     name: miniQ
     format: ガチャ
-  - listingName: naturetales・Dinotalesシリーズ
-    name: naturetales・Dinotalesシリーズ
+  - listingName: naturetales
+    name: naturetales
     format: ガチャ
     showAllFigures: true
+    href: "/makers/kaiyodo/naturetales/"
+    titleIds:
+      - kaiyodo/naturetales/Tyrannosaurus
   - listingName: 自然史モデルコレクション
     name: 自然史モデルコレクション
     format: コレクション
     showAllFigures: true
+    href: "/makers/kaiyodo/naturehistory/"
+    titleIds:
+      - kaiyodo/nature_history/cat
+      - kaiyodo/nature_history/giraffa
+      - kaiyodo/nature_history/ookuwagata
   - listingName: イベント・海洋堂ミュージアム限定品
     name: 高知・四万十ファクトリー　オリジナルフィギュア
     format: オリジナル
