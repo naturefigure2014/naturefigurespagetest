@@ -43,10 +43,9 @@ seriesSections:
       - kaiyodo/shokugann/gekisen
       - kaiyodo/shokugann/hokkaido_land
       - kaiyodo/shokugann/hongkong
-      - kaiyodo/shokugann/jamstec
+
       - kaiyodo/shokugann/jurassicpark3
       - kaiyodo/shokugann/mankanzenseki
-      - kaiyodo/shokugann/museum_limited
       - kaiyodo/shokugann/MyHappyAIBO
       - kaiyodo/shokugann/reddataanimals
       - kaiyodo/shokugann/sakamotoryoma

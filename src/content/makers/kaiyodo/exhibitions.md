@@ -34,6 +34,7 @@ seriesSections:
       - kaiyodo/capsule/taikonohonyurui
       - kaiyodo/capsule/uchuhenochosen
       - kaiyodo/capsule/uminoegypt
+      - kaiyodo/himawariyukeizu
   - name: 考古学
     titleIds:
       - kaiyodo/capsule/greece

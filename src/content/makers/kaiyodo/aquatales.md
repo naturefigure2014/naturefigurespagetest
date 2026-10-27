@@ -26,6 +26,7 @@ seriesSections:
       - id: kaiyodo/aquatales/komekko1
       - id: kaiyodo/aquatales/komekko2
       - id: kaiyodo/shokugann/nightaquamuseum
+      - id: kaiyodo/shokugann/jamstec
   - name: 水族館限定カプセルフィギュア
     format: ガチャ
     description: それぞれ水族館で限定発売されたシリーズ。
