@@ -145,7 +145,7 @@ const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], tit
                 <header><div><h2>{section.listingName ?? section.name}</h2>{section.format && <span>{section.format}</span>}</div>{sectionHref && <a href={sectionHref}>すべてのタイトルを見る&gt;</a>}</header>
                 <div class:list={[
                   "maker-detail-title-grid",
-                  { "maker-detail-title-grid--default": section.itemIds.length > 0 || section.maxFigures !== undefined || (section.maxTitles === undefined && section.titleIds.length === 0 && !section.showAllFigures) }
+                  { "maker-detail-title-grid--default": section.itemIds.length > 0 || section.maxFigures !== undefined || (section.maxTitles === undefined && !section.showAllFigures) }
                 ]}>
                   {section.cards.map((card) => (
                     <a class="maker-detail-card" href={linkFor(card.href)}>

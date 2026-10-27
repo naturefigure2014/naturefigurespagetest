@@ -23,6 +23,7 @@ seriesSections:
     - kaiyodo/dinoland/35tyrannosaurs
     - kaiyodo/dinoland/35tyrannosaursType1
     - kaiyodo/dinoland/styracosaurus
+    - kaiyodo/dinoland/Deinonychus
   - name: 100mm恐竜シリーズ
     format: コレクション
     titleIds:

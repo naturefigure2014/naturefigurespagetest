@@ -17,15 +17,26 @@ tags:
 figureTopImage: "img/serval_p003.jpg"
 coverImage: "img/serval_p003.jpg"
 topics:
-  - title: ""
+  - title: "塗装したもの-全体"
     images:
+      - "img/serval_p001.jpg"
       - "img/serval_p003.jpg"
-      - "img/serval_p007.jpg"
-      - "img/serval_p010.jpg"
       - "img/serval_p004.jpg"
+      - "img/serval_p005.jpg"
+      - "img/serval_p006.jpg"
+      - "img/serval_p007.jpg"
     comment: |
       コチラは塗装したもの。製作記はコチラ。
-  - title: ""
+  - title: "塗装したもの-サーバル"
+    images:
+      - "img/serval_p009.jpg"
+      - "img/serval_p010.jpg"
+      - "img/serval_p011.jpg"
+      - "img/serval_p012.jpg"
+      - "img/serval_p013.jpg"
+    comment: |
+      コチラは塗装したもの。製作記はコチラ。
+  - title: "塗装前"
     images:
       - "img/serval008.jpg"
       - "img/serval001.jpg"
@@ -45,13 +56,13 @@ topics:
       - "img/serval006.jpg"
     comment: |
       HJ掲載時はベースの向きが逆向き。キット化された際もその向きだったようですが、今回の復刻版は反対向きになったようです。まぁどっちでも置けるんですけどね。
-  - title: ""
+  - title: "パッケージ"
     images:
       - "img/serval010.jpg"
       - "img/serval007.jpg"
     comment: |
       パッケージはキット版と塗装版で違いますね。
-  - title: ""
+  - title: "完成品"
     images:
       - "img/serval013.jpg"
       - "img/serval012.jpg"

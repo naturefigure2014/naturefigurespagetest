@@ -122,6 +122,7 @@ seriesSections:
       - kaiyodo/nature_history/cat
       - kaiyodo/nature_history/giraffa
       - kaiyodo/nature_history/ookuwagata
+      - kaiyodo/nature_history/ServalCat
   - listingName: イベント・海洋堂ミュージアム限定品
     name: 高知・四万十ファクトリー　オリジナルフィギュア
     format: オリジナル
