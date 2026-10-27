@@ -13,6 +13,13 @@ seriesSections:
       - kaiyodo/birdtales/birdtales1
       - kaiyodo/birdtales/birdtales2
       - kaiyodo/birdtales/birdtales3
+  - name: ランチ
+    format: 食玩
+    titleIds:
+      - kaiyodo/lunch/zoorasia
+      - kaiyodo/lunch/HamstersLunchi
+      - kaiyodo/lunch/penguinslunch1
+      - kaiyodo/lunch/penguinslunch2
   - name: タイムスリップグリコ
     format: 食玩
     titleIds:

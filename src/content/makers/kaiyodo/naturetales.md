@@ -10,6 +10,9 @@ seriesSections:
   - name: ネイチャーテイルズ
     itemIds:
       - kaiyodo/naturetales/Tyrannosaurus
+  - name: Dinotales
+    itemIds:
+      - kaiyodo/dinotales/dinotales_gorgosaurus
 ---
 ### 概要
 海洋堂のネイチャーテイルズを紹介します。

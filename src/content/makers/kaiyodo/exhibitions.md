@@ -15,7 +15,7 @@ seriesSections:
   - name: 恐竜博限定フィギュア
     format: 特別展
     titleIds:
-      - kaiyodo/kyoryuhaku_fukui_
+      - kaiyodo/kyoryuhaku_fukui
       - kaiyodo/kyoryuhaku2004
       - kaiyodo/kyoryuhaku2005
       - kaiyodo/kyoryuhaku2006

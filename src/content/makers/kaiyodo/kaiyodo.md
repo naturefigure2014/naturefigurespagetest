@@ -116,7 +116,6 @@ seriesSections:
   - listingName: 自然史モデルコレクション
     name: 自然史モデルコレクション
     format: コレクション
-    showAllFigures: true
     href: "/makers/kaiyodo/naturehistory/"
     titleIds:
       - kaiyodo/nature_history/cat
