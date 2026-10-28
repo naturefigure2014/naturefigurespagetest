@@ -40,11 +40,13 @@ seriesSections:
       - kaiyodo/dinotales/dinotales5
       - kaiyodo/dinotales/dinotales6
       - kaiyodo/dinotales/dinotales7
-  - name: すべて
+  - name: ダイノテイルズ・コレクションシリーズ
     format: 食玩
     titleIds:
-      - kaiyodo/dinotales/dinotales_sofubi/2001
-      - kaiyodo/dinotales/dinotales_sofubi/2012
+      - kaiyodo/dinotales/dinotales_sofubi/2001/tyranno_normal
+      - kaiyodo/dinotales/dinotales_sofubi/2001/tyranno_white
+      - kaiyodo/dinotales/dinotales_sofubi/2012/allo_green
+      - kaiyodo/dinotales/dinotales_sofubi/2012/tyranno_brown      
 ---
 海洋堂の恐竜・古代生物フィギュアシリーズ。造形総指揮はアニマテイルズと同じく松村しのぶさんが担当。
 <details class="maker-detail-expand">
