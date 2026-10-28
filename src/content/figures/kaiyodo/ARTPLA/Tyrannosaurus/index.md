@@ -14,7 +14,7 @@ figureIds:
   - kaiyodo/ARTPLA/Tyrannosaurus/006
   - kaiyodo/ARTPLA/Tyrannosaurus/007
 executiveProducer: "-"
-seriesName: "-"
+seriesName: "ARTPLA"
 releaseStart: "2023.07"
 price: "5,500円"
 species: "ティラノサウルス"
@@ -28,8 +28,8 @@ freetag:
     value: "コチラ"
   - label: "ホビージャパンによるインタビュー"
     value: "コチラ"
-coverImage: "img/tyranno034.jpg"
-collectionImage: "img/tyranno016.jpg"
+coverImage: "img/tyranno035.jpg"
+collectionImage: "img/tyranno034.jpg"
 resources:
   package:
     image: "img/tyranno032.jpg"

@@ -75,10 +75,14 @@ seriesSections:
     name: DINOLAND
     format: コレクション
     href: "/makers/kaiyodo/dinoland/"
+    titleIds:
+      - kaiyodo/dinoland/20tyrannosaurs
+      - kaiyodo/dinoland/100mm_model/stegosaurus
+      - kaiyodo/dinoland/skull_model/Velociraptor
   - listingName: ARTPLA
     name: ARTPLA
     format: プラモデル
-    showAllFigures: true
+    href: "/makers/kaiyodo/artpla/"
   - listingName: デジタルガレージキット
     name: デジタルガレージキット
     format: ガレージキット
