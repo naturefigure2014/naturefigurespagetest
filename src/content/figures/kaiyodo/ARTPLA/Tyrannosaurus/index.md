@@ -28,7 +28,7 @@ freetag:
     value: "コチラ"
   - label: "ホビージャパンによるインタビュー"
     value: "コチラ"
-coverImage: "img/tyranno035.jpg"
+coverImage: "img/tyranno034.jpg"
 collectionImage: "img/tyranno034.jpg"
 resources:
   package:

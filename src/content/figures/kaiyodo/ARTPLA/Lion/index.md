@@ -27,7 +27,7 @@ freetag:
     value: "松村しのぶ"
   - label: "公式サイト"
     value: "コチラ"
-coverImage: "img/lion049.jpg"
+coverImage: "img/lion050.jpg"
 collectionImage: "img/lion050.jpg"
 resources:
   guide:

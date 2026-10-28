@@ -14,8 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "img/dragon_header.png"
-coverImage: "img/dragon_header.png"
+figureTopImage: "img/reddragon001.jpg"
+coverImage: "img/reddragon001.jpg"
 resources:
   package:
     image: "img/reddragonhako.jpg"

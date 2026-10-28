@@ -23,6 +23,8 @@ seriesSections:
     titleIds:
       - kaiyodo/biwako
       - kaiyodo/toyotomi
+      - kaiyodo/reddragon
+      - kaiyodo/capsule/dragonfigure
       - kaiyodo/rekishieiketsu
       - kaiyodo/shokugann/museum_limited
 ---
