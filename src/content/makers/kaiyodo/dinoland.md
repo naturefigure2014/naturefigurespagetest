@@ -24,17 +24,21 @@ seriesSections:
     - kaiyodo/dinoland/35tyrannosaursType1
     - kaiyodo/dinoland/styracosaurus
     - kaiyodo/dinoland/Deinonychus
+  - name: 100mm恐竜シリーズ(初期)
+    format: コレクション
+    titleIds:
+    - kaiyodo/dinoland/100mm_model/camarasaurus
+    - kaiyodo/dinoland/100mm_model_dinoalive/tyrannosaurs
+    - kaiyodo/dinoland/100mm_model_dinoalive/camarasaurus
   - name: 100mm恐竜シリーズ
     format: コレクション
     titleIds:
     - kaiyodo/dinoland/100mm_model/allosaurus
     - kaiyodo/dinoland/100mm_model/barosaurus
-    - kaiyodo/dinoland/100mm_model/camarasaurus
     - kaiyodo/dinoland/100mm_model/dimetrodon
     - kaiyodo/dinoland/100mm_model/mosasaurus
     - kaiyodo/dinoland/100mm_model/stegosaurus
     - kaiyodo/dinoland/100mm_model/triceratops
-    - kaiyodo/dinoland/100mm_model/triceratops_
     - kaiyodo/dinoland/100mm_model/tyrannosaurus
     - kaiyodo/dinoland/100mm_model/velociraptor
   - name: 頭骨モデル
