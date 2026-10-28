@@ -1,9 +1,9 @@
 ---
-title: "エリオプス (Aカラー)"
+title: "エリオプス (Bカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "016"
+figureId: "092B"
 maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
@@ -22,8 +22,6 @@ topics:
     images:
       - "dino5_033.jpg"
       - "dino5_034.jpg"
-      - "dino5_031.jpg"
-      - "dino5_032.jpg"
     comment: |
       原型製作：菅谷 中 ペルム紀に生息した大型両生類。この弾では唯一の恐竜以外の生物です。これまでのシリーズでの比率を考えればもっと多くても良いような気がします。
 ---

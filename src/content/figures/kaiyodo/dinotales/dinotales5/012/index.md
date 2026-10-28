@@ -1,9 +1,9 @@
 ---
-title: "トリケラトプス (Aカラー)"
+title: "トリケラトプス (Bカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "012"
+figureId: "088B"
 maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
@@ -15,13 +15,11 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "dino5_017.jpg"
-coverImage: "dino5_017.jpg"
+figureTopImage: "dino5_015.jpg"
+coverImage: "dino5_015.jpg"
 topics:
   - title: ""
     images:
-      - "dino5_017.jpg"
-      - "dino5_018.jpg"
       - "dino5_015.jpg"
       - "dino5_016.jpg"
     comment: |

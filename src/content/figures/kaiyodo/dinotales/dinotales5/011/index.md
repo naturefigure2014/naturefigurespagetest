@@ -1,9 +1,9 @@
 ---
-title: "ティラノサウルス (Aカラー)"
+title: "ティラノサウルス (Bカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "011"
+figureId: "087B"
 maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
@@ -15,13 +15,11 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "dino5_001.jpg"
-coverImage: "dino5_001.jpg"
+figureTopImage: "dino5_003.jpg"
+coverImage: "dino5_003.jpg"
 topics:
   - title: ""
     images:
-      - "dino5_001.jpg"
-      - "dino5_002.jpg"
       - "dino5_003.jpg"
       - "dino5_004.jpg"
     comment: |

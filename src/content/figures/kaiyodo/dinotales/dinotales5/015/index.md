@@ -1,9 +1,9 @@
 ---
-title: "カルノタウルス (Aカラー)"
+title: "カルノタウルス (Bカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "015"
+figureId: "091B"
 maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
@@ -15,13 +15,11 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "dino5_010.jpg"
-coverImage: "dino5_010.jpg"
+figureTopImage: "dino5_011.jpg"
+coverImage: "dino5_011.jpg"
 topics:
   - title: ""
     images:
-      - "dino5_010.jpg"
-      - "dino5_009.jpg"
       - "dino5_012.jpg"
       - "dino5_011.jpg"
     comment: |

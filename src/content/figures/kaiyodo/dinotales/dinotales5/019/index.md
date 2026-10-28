@@ -1,9 +1,9 @@
 ---
-title: "コエロフィシス (Aカラー)"
+title: "コエロフィシス (Bカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "019"
+figureId: "095B"
 maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
@@ -15,13 +15,11 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "dino5_024.jpg"
-coverImage: "dino5_024.jpg"
+figureTopImage: "dino5_026.jpg"
+coverImage: "dino5_026.jpg"
 topics:
   - title: ""
     images:
-      - "dino5_024.jpg"
-      - "dino5_023.jpg"
       - "dino5_026.jpg"
       - "dino5_025.jpg"
     comment: |

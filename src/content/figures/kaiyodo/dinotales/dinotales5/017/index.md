@@ -1,9 +1,9 @@
 ---
-title: "オヴィラプトル (Aカラー)"
+title: "オヴィラプトル (Bカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "017"
+figureId: "093B"
 maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
@@ -15,13 +15,11 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "dino5_020.jpg"
-coverImage: "dino5_020.jpg"
+figureTopImage: "dino5_022.jpg"
+coverImage: "dino5_022.jpg"
 topics:
   - title: ""
     images:
-      - "dino5_020.jpg"
-      - "dino5_019.jpg"
       - "dino5_022.jpg"
       - "dino5_021.jpg"
     comment: |

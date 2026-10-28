@@ -1,9 +1,9 @@
 ---
-title: "カルノタウルス (A/B)"
+title: "カルノタウルス (Aカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "005"
+figureId: "091A"
 maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
@@ -22,13 +22,6 @@ topics:
     images:
       - "dino5_010.jpg"
       - "dino5_009.jpg"
-    comment: |
-      A
-      B
-  - title: ""
-    images:
-      - "dino5_012.jpg"
-      - "dino5_011.jpg"
     comment: |
       原型製作：菅谷 中 白亜紀に生息。角や皮膚のスパイクやイボなどがあったことが化石から分かっています。足元の血まみれの死骸もよく出来ています。松村氏のカルノタウルスに似たポーズ。
 ---

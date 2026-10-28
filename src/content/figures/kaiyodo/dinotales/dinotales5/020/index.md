@@ -1,9 +1,9 @@
 ---
-title: "プロトケラトプス (Aカラー)"
+title: "プロトケラトプス (Bカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "020"
+figureId: "096B"
 maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
@@ -15,13 +15,12 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "dino5_036.jpg"
-coverImage: "dino5_036.jpg"
+figureTopImage: "dino5_037.jpg"
+coverImage: "dino5_037.jpg"
 topics:
   - title: ""
     images:
-      - "dino5_036.jpg"
-      - "dino5_035.jpg"
+
       - "dino5_037.jpg"
       - "dino5_038.jpg"
     comment: |

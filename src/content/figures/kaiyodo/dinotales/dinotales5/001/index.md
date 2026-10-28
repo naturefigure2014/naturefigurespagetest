@@ -1,9 +1,9 @@
 ---
-title: "ティラノサウルス (A/B)"
+title: "ティラノサウルス (Aカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "001"
+figureId: "087A"
 maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
@@ -23,12 +23,5 @@ topics:
       - "dino5_001.jpg"
       - "dino5_002.jpg"
     comment: |
-      A
-      B
-  - title: ""
-    images:
-      - "dino5_003.jpg"
-      - "dino5_004.jpg"
-    comment: |
-      原型製作：山本聖士 ティラノサウルスが再びラインナップ。アニマテイルズのように「ティラノサウルス(II)」ではありません。今回は咆哮ポーズ。荒木氏の作品を参考にしているそうです。ダイノテイルズシリーズのティラノサウルス3種のうち、一番気に入っています。
+     ティラノサウルスが再びラインナップ。アニマテイルズのように「ティラノサウルス(II)」ではありません。今回は咆哮ポーズ。荒木氏の作品を参考にしているそうです。ダイノテイルズシリーズのティラノサウルス3種のうち、一番気に入っています。
 ---

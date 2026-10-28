@@ -1,9 +1,9 @@
 ---
-title: "プラテオサウルス (Aカラー)"
+title: "プラテオサウルス (Bカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "014"
+figureId: "090B"
 maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
@@ -15,13 +15,11 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "dino5_005.jpg"
-coverImage: "dino5_005.jpg"
+figureTopImage: "dino5_007.jpg"
+coverImage: "dino5_007.jpg"
 topics:
   - title: ""
     images:
-      - "dino5_005.jpg"
-      - "dino5_006.jpg"
       - "dino5_007.jpg"
       - "dino5_008.jpg"
     comment: |

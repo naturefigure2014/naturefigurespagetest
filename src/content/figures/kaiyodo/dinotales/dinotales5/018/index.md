@@ -1,9 +1,9 @@
 ---
-title: "パキケファロサウルス (Aカラー)"
+title: "パキケファロサウルス (Bカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "018"
+figureId: "094B"
 maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
@@ -15,13 +15,11 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "dino5_028.jpg"
-coverImage: "dino5_028.jpg"
+figureTopImage: "dino5_029.jpg"
+coverImage: "dino5_029.jpg"
 topics:
   - title: ""
     images:
-      - "dino5_028.jpg"
-      - "dino5_027.jpg"
       - "dino5_030.jpg"
       - "dino5_029.jpg"
     comment: |

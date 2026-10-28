@@ -1,9 +1,9 @@
 ---
-title: "エリオプス (A/B)"
+title: "エリオプス (Aカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "006"
+figureId: "092A"
 maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
@@ -15,16 +15,9 @@ genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "dino5_033.jpg"
-coverImage: "dino5_033.jpg"
+figureTopImage: "dino5_031.jpg"
+coverImage: "dino5_031.jpg"
 topics:
-  - title: ""
-    images:
-      - "dino5_033.jpg"
-      - "dino5_034.jpg"
-    comment: |
-      A
-      B
   - title: ""
     images:
       - "dino5_031.jpg"

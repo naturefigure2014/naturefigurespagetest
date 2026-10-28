@@ -1,9 +1,9 @@
 ---
-title: "トリケラトプス (A/B)"
+title: "トリケラトプス (Aカラー)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales5
-figureId: "002"
+figureId: "088A"
 maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
@@ -23,12 +23,5 @@ topics:
       - "dino5_017.jpg"
       - "dino5_018.jpg"
     comment: |
-      A
-      B
-  - title: ""
-    images:
-      - "dino5_015.jpg"
-      - "dino5_016.jpg"
-    comment: |
-      原型製作：山本聖士 トリケラトプスも再びラインナップ。角竜の仲間は北米で一気に増え、トリケラトプスはその最後に出現したようです。今回はすらっとしています。
+      トリケラトプスも再びラインナップ。角竜の仲間は北米で一気に増え、トリケラトプスはその最後に出現したようです。今回はすらっとしています。
 ---
