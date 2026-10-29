@@ -19,7 +19,7 @@ genre:
 tags:
   - "-"
 figureTopImage: "img/AQM023_001.jpg"
-coverImage: "img/AQM023_001.jpg"
+coverImage: "img/AQM023_005.jpg"
 topics:
   - title: ""
     images:

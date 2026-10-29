@@ -20,39 +20,27 @@ tags:
 freetag:
   - label: "大きさ"
     value: "約10センチ"
-figureTopImage: "img/toukisei003.jpg"
-coverImage: "img/toukisei003.jpg"
+figureTopImage: "img/toukisei007.jpg"
+coverImage: "img/toukisei007.jpg"
 resources:
   package:
     image: "img/toukisei004.jpg"
     description: |
       フィギュアミュージアムで購入した際のパッケージ。
 topics:
-  - title: ""
+  - title: "全体"
     images:
       - "img/toukisei007.jpg"
       - "img/toukisei008.jpg"
     comment: |
-      こちらはレジン製のもの。 （ホビー館四万十にて撮影。）
-  - title: ""
+      
+  - title: "レジン版"
     images:
       - "img/AQ-006-2.jpg"
       - "img/AQ-006.jpg"
     comment: |
-      レジン製の方が、エッジのあるデザイン。 陶器の性質上、焼いた際に収縮し、釉薬(うわぐすり：表面を覆うガラス層)によってエッジが丸くなったそうです。
-  - title: ""
-    images:
-      - "img/toukisei009.jpg"
-      - "img/toukisei010.jpg"
-      - "img/toukisei005.jpg"
-      - "img/toukisei006.jpg"
-    comment: |
       こちらはレジン製のもの。 （ホビー館四万十にて撮影。）
-  - title: ""
-    images:
-      - "img/AQ-043.jpg"
-      - "img/toukisei001.jpg"
-      - "img/toukisei002.jpg"
+      レジン製の方が、エッジのあるデザイン。 陶器の性質上、焼いた際に収縮し、釉薬(うわぐすり：表面を覆うガラス層)によってエッジが丸くなったそうです。
 ---
 
 ### 概要

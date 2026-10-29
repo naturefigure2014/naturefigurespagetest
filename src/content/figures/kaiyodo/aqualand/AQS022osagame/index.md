@@ -18,7 +18,7 @@ genre:
 tags:
   - "-"
 figureTopImage: "img/AQS022osagame012.jpg"
-coverImage: "img/AQS022osagame012.jpg"
+coverImage: "img/AQS022osagame003.jpg"
 resources:
   package:
     image: "img/AQS022osagame011.jpg"

@@ -1,0 +1,26 @@
+---
+title: "AQS-013 ミツクリザメ"
+description: ""
+contentType: figure
+titleId: kaiyodo/aqualand
+figureId: "013"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
+executiveProducer: "-"
+species: "AQS-013 ミツクリザメ"
+speciesGroup: "-"
+price: "-"
+releaseStart: "-"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "AQ-013.jpg"
+coverImage: "AQ-013.jpg"
+topics:
+  - title: ""
+    images:
+      - "AQ-013.jpg"
+    comment: |
+      原型制作：松村しのぶ
+---

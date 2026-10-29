@@ -18,7 +18,7 @@ genre:
 tags:
   - "-"
 figureTopImage: "img/AQS085hohozirozame011.jpg"
-coverImage: "img/AQS085hohozirozame011.jpg"
+coverImage: "img/hohozirozame003.jpg"
 topics:
   - title: ""
     images:

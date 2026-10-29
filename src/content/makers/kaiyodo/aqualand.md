@@ -12,16 +12,22 @@ seriesSections:
   - name: すべて
     format: コレクション
     titleIds:
-      - kaiyodo/aqualand/AQM023akameamagaeru
-      - kaiyodo/aqualand/AQM032kuromaguro
-      - kaiyodo/aqualand/AQM046aoumigame
-      - kaiyodo/aqualand/AQM058meganekaiman
+      - kaiyodo/aqualand/AQC006hokkyokukujira
       - kaiyodo/aqualand/AQS007zatokuzira
       - kaiyodo/aqualand/AQS009zinbezame
       - kaiyodo/aqualand/AQS010shirowani
       - kaiyodo/aqualand/AQS016pirarucu
       - kaiyodo/aqualand/AQS017silverarowana
       - kaiyodo/aqualand/AQS022osagame
+      - kaiyodo/aqualand/AQM023akameamagaeru
+      - kaiyodo/aqualand/AQM032kuromaguro
+      - kaiyodo/aqualand/AQC042zinbezame
+      - kaiyodo/aqualand/AQC043shachi
+      - kaiyodo/aqualand/AQC044azarashi
+      - kaiyodo/aqualand/AQM046aoumigame
+      - kaiyodo/aqualand/AQM058meganekaiman
+
+
       - kaiyodo/aqualand/AQS028kouteipenguin
       - kaiyodo/aqualand/AQS040Wzatokujira
       - kaiyodo/aqualand/AQS041Wsemikujira

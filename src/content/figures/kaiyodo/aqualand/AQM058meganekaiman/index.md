@@ -17,24 +17,34 @@ genre:
   - aquatic
 tags:
   - "-"
-freetag:
-  - label: "そんな情勢によりネットでの入手はあきらめていましたが、 ワンフェス2019冬 で再販（キット"
-    value: "8,000円、完成品：40,000円）されました。"
-figureTopImage: "img/kaiman_013.jpg"
+figureTopImage: "img/kaiman_022.jpg"
 coverImage: "img/kaiman_013.jpg"
 resources:
   package:
     image: "img/kaiman011.jpg"
 topics:
-  - title: ""
+  - title: "全体"
     images:
       - "img/kaiman_013.jpg"
       - "img/kaiman_014.jpg"
       - "img/kaiman_015.jpg"
-      - "img/kaiman_021.jpg"
+      - "img/kaiman_016.jpg"
     comment: |
       コチラは塗装したもの。
-  - title: ""
+  - title: "本体"
+    images:
+      - "img/kaiman_019.jpg"
+      - "img/kaiman_017.jpg"
+    comment: |
+  - title: "プレコ"
+    images:
+      - "img/kaiman_021.jpg"
+    comment: |
+  - title: "いろんなワニ"
+    images:
+      - "img/kaiman_020.jpg"
+    comment: |
+  - title: "塗装前"
     images:
       - "img/kaiman002.jpg"
       - "img/kaiman004.jpg"
@@ -56,6 +66,10 @@ topics:
       - "img/kaiman010.jpg"
     comment: |
       未塗装だと分かりづらいのですが、プレコと水草もあります。細かいですね。
+  - title: "パッケージ"
+    images:
+      - "img/kaiman011.jpg"
+    comment: |
 ---
 
 ### 概要

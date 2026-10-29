@@ -1,14 +1,16 @@
 ---
-title: "AQUALAND カリカチュアシリーズ"
+title: "シャチ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/caricature
+titleId: kaiyodo/aqualand/AQC043shachi
+figureId: "AQC-043"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
-executiveProducer: "-"
-seriesName: "-"
-species: ""
-speciesGroup: その他/未分類
+seriesName: "水生動物モデルコレクション[アクアランド]"
+series:
+  - AQUALAND
+species: "シャチ"
+speciesGroup: クジラ・イルカ類
 price: "800円"
 releaseStart: "-"
 genre:
@@ -18,39 +20,23 @@ tags:
 freetag:
   - label: "大きさ"
     value: "約10センチ"
-figureTopImage: "img/toukisei003.jpg"
-coverImage: "img/toukisei003.jpg"
-resources:
-  package:
-    image: "img/toukisei004.jpg"
-    description: |
-      フィギュアミュージアムで購入した際のパッケージ。
+figureTopImage: "img/toukisei005.jpg"
+coverImage: "img/toukisei005.jpg"
 topics:
-  - title: ""
+  - title: "全体"
     images:
-      - "img/toukisei007.jpg"
-      - "img/toukisei008.jpg"
-    comment: |
-      こちらはレジン製のもの。 （ホビー館四万十にて撮影。）
-  - title: ""
-    images:
-      - "img/AQ-006-2.jpg"
-      - "img/AQ-006.jpg"
-    comment: |
-      レジン製の方が、エッジのあるデザイン。 陶器の性質上、焼いた際に収縮し、釉薬(うわぐすり：表面を覆うガラス層)によってエッジが丸くなったそうです。
-  - title: ""
-    images:
-      - "img/toukisei009.jpg"
-      - "img/toukisei010.jpg"
       - "img/toukisei005.jpg"
       - "img/toukisei006.jpg"
     comment: |
-      こちらはレジン製のもの。 （ホビー館四万十にて撮影。）
-  - title: ""
+  - title: "レジン版"
     images:
       - "img/AQ-043.jpg"
-      - "img/toukisei001.jpg"
-      - "img/toukisei002.jpg"
+      - "img/AQ-006.jpg"
+    comment: |
+      
+  - title: "パッケージ"
+    images:
+      - "img/toukisei004.jpg"
 ---
 
 ### 概要

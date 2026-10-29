@@ -18,7 +18,7 @@ genre:
 tags:
   - "-"
 figureTopImage: "img/AQS017silverarowana008.jpg"
-coverImage: "img/AQS017silverarowana008.jpg"
+coverImage: "img/AQS017silverarowana001.jpg"
 resources:
   package:
     image: "img/AQS017silverarowana006.jpg"

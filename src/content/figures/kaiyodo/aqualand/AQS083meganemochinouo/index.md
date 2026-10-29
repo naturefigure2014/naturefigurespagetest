@@ -18,7 +18,7 @@ genre:
 tags:
   - "-"
 figureTopImage: "img/AQS083meganemochinouo009.jpg"
-coverImage: "img/AQS083meganemochinouo009.jpg"
+coverImage: "img/AQS083meganemochinouo001.jpg"
 resources:
   package:
     image: "img/AQS083meganemochinouo008.jpg"

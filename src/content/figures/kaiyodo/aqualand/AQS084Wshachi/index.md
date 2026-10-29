@@ -18,7 +18,7 @@ genre:
 tags:
   - "-"
 figureTopImage: "img/AQS084Wshachi010.jpg"
-coverImage: "img/AQS084Wshachi010.jpg"
+coverImage: "img/AQS084Wshachi001.jpg"
 resources:
   package:
     image: "img/AQS084Wshachi007.jpg"
