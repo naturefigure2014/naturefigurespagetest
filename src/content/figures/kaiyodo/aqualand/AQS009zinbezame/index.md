@@ -48,6 +48,11 @@ topics:
       - "img/zinbeS011.jpg"
     comment: |
       またフィギュアワークショップではこれまでの内容から新たに琵琶湖の生物の塗装、ドラゴンや海洋生物を使用したジオラマコースが加わりました！リピーターの方も多く、何度来ても楽しめるのでご興味お持ちの方は気軽に足をお運び下さいませ～！ pic.twitter.com/ztvhmr5vna— 海洋堂フィギュアミュージアム黒壁 龍遊館 (@ryuyukan) April 27, 2019
+  - title: ""
+    images:
+      - "img/AQ-009.jpg"
+      - "img/AQ_-034.jpg"
+    comment: |
 ---
 
 ### 概要
