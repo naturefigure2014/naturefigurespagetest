@@ -1,40 +1,37 @@
 ---
-title: "龍遊館限定フィギュアレッドドラゴン"
+title: "龍遊館限定フィギュアレッドドラゴン リペイントVer."
 description: ""
 contentType: figure
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 seriesName: "-"
-species: "レッドドラゴン"
-speciesGroup: "その他/その他"
+species: "ドラゴン"
+speciesGroup: "幻獣"
 price: "2000円"
 releaseStart: "-"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "img/reddragon001.jpg"
-coverImage: "img/reddragon001.jpg"
-resources:
-  package:
-    image: "img/reddragonhako.jpg"
-    description: |
-      おなじみの黒いクッション素材の梱包材入りのダンボールに厚紙のスリーブ。他のポリストーン製の生き物フィギュアよりも箱が大きくて厚いのは翼のせい。 販売当初はどうやらこちらのスリーブで、上のパッケージは２代目のようです。リペイント版のパッケージはレッドドラゴンのパッケージに「リペイントバージョン」のシールが貼ってあるのみ。
+figureTopImage: "img/dragon_repaint001.jpg"
+coverImage: "img/dragon_repaint001.jpg"
 topics:
   - title: ""
     images:
-      - "img/reddragon001.jpg"
-      - "img/reddragon002.jpg"
-      - "img/reddragon003.jpg"
-      - "img/reddragon004.jpg"
-      - "img/reddragon005.jpg"
-      - "img/reddragon006.jpg"
+      - "img/dragon_repaint001.jpg"
+      - "img/dragon_repaint002.jpg"
+      - "img/dragon_repaint003.jpg"
+      - "img/dragon_repaint004.jpg"
     comment: |
       細かいウロコの造形に墨イレが際立ってとてもかっこいいです。カプセルフィギュアサイズのものよりひとまわり以上大きいです。
+  - title: "パッケージ"
+    images:
+      - "img/dragon_repaint005.jpg"
+    comment: |
+      リペイント版のパッケージはレッドドラゴンのパッケージに「リペイントバージョン」のシールが貼ってあるのみ。
 ---
 
-【海洋堂フィギュアミュージアム黒壁　限定フィギュア　レッドドラゴン・ブルードラゴン】
 ### 概要
 <br />
 原型製作：松村しのぶ　価格：2000円<br />
