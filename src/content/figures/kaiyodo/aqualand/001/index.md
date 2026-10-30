@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AVL-001W マッコウクジラ"
+title: "マッコウクジラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "001"
+figureId: "AVL-001W"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AVL-001W マッコウクジラ"
-speciesGroup: "-"
+species: "マッコウクジラ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

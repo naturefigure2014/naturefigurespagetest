@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-080ニホンアマガエル"
+title: "ニホンアマガエル"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "080"
+figureId: "AQS-080"
 maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
-species: "AQS-080ニホンアマガエル"
-speciesGroup: "-"
+species: "ニホンアマガエル"
+speciesGroup: "カエル類"
 price: "-"
 releaseStart: "-"
 genre:

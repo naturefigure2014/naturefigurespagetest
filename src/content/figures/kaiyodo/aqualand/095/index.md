@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-095 アリゲーターガー"
+title: "アリゲーターガー"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "095"
+figureId: "AQS-095"
 maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
-species: "AQS-095 アリゲーターガー"
-speciesGroup: "-"
+species: "アリゲーターガー"
+speciesGroup: "古代魚類"
 price: "-"
 releaseStart: "-"
 genre:

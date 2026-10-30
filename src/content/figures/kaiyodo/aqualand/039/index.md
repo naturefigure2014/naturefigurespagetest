@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQL-039 セミクジラ親子"
+title: "セミクジラ親子"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "039"
+figureId: "AQL-039"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQL-039 セミクジラ親子"
-speciesGroup: "-"
+species: "セミクジラ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

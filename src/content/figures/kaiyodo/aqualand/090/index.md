@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-090アジアアロワナ"
+title: "アジアアロワナ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "090"
+figureId: "AQS-090"
 maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
-species: "AQS-090アジアアロワナ"
-speciesGroup: "-"
+species: "アジアアロワナ"
+speciesGroup: "古代魚類"
 price: "-"
 releaseStart: "-"
 genre:

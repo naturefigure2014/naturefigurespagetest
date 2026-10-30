@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-052メカジキ"
+title: "メカジキ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "052"
+figureId: "AQM-052"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-052メカジキ"
-speciesGroup: "-"
+species: "メカジキ"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "-"
 genre:

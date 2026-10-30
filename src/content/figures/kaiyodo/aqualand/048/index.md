@@ -1,15 +1,18 @@
 ---
 collectionStatus: "notOwned"
-title: "AQL-048シャチ&アシカ"
+title: "シャチ&アシカ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "048"
+figureId: "AQL-048"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQL-048シャチ&アシカ"
-speciesGroup: "-"
+speciesEntries:
+  - species: "シャチ"
+    speciesGroup: "クジラ・イルカ類"
+  - species: "アシカ"
+    speciesGroup: "食肉類"
 price: "-"
 releaseStart: "-"
 genre:

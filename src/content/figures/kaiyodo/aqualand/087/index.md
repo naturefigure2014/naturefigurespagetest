@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-087 オニイトマキエイ♀"
+title: "オニイトマキエイ♀"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "087"
+figureId: "AQM-087"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-087 オニイトマキエイ♀"
-speciesGroup: "-"
+species: "オニイトマキエイ"
+speciesGroup: "サメ・エイ類"
 price: "-"
 releaseStart: "-"
 genre:

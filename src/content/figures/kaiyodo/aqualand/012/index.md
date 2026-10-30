@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-012 アカシュモクザメ"
+title: "アカシュモクザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "012"
+figureId: "AQS-012"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-012 アカシュモクザメ"
-speciesGroup: "-"
+species: "アカシュモクザメ"
+speciesGroup: "サメ・エイ類"
 price: "-"
 releaseStart: "-"
 genre:

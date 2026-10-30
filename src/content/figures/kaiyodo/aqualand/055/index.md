@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-055 シイラ"
+title: "シイラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "055"
+figureId: "AQS-055"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-055 シイラ"
-speciesGroup: "-"
+species: "シイラ"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "-"
 genre:

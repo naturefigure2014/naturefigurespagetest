@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-089 アカウミガメ"
+title: "アカウミガメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "089"
+figureId: "AQS-089"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-089 アカウミガメ"
-speciesGroup: "-"
+species: "アカウミガメ"
+speciesGroup: "カメ類"
 price: "-"
 releaseStart: "-"
 genre:

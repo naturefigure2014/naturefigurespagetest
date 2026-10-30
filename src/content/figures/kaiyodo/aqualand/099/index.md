@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-099 ベニザケ"
+title: "ベニザケ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "099"
+figureId: "AQS-099"
 maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
-species: "AQS-099 ベニザケ"
-speciesGroup: "-"
+species: "ベニザケ"
+speciesGroup: "サケ・マス類"
 price: "-"
 releaseStart: "-"
 genre:

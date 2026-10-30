@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-021 シーラカンス"
+title: "シーラカンス"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "021"
+figureId: "AQS-021"
 maker: "海洋堂"
 sculptor: "佐藤 拓"
 executiveProducer: "-"
-species: "AQS-021 シーラカンス"
-speciesGroup: "-"
+species: "シーラカンス"
+speciesGroup: "古代魚類"
 price: "-"
 releaseStart: "-"
 genre:

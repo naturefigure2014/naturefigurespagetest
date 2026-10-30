@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-061 セイウチ"
+title: "セイウチ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "061"
+figureId: "AQM-061"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-061 セイウチ"
-speciesGroup: "-"
+species: "セイウチ"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "-"
 genre:

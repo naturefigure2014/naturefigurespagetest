@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-063 タテゴトアザラシ"
+title: "タテゴトアザラシ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "063"
+figureId: "AQM-063"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-063 タテゴトアザラシ"
-speciesGroup: "-"
+species: "タテゴトアザラシ"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "-"
 genre:

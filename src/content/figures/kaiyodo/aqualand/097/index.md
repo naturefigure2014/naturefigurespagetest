@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-097 ピラニア・ナッテリィ"
+title: "ピラニア・ナッテリィ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "097"
+figureId: "AQS-097"
 maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
-species: "AQS-097 ピラニア・ナッテリィ"
-speciesGroup: "-"
+species: "ピラニア・ナッテリィ"
+speciesGroup: "その他魚類"
 price: "-"
 releaseStart: "-"
 genre:

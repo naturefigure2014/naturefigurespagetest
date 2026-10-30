@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-082クロカジキ"
+title: "クロカジキ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "082"
+figureId: "AQS-082"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-082クロカジキ"
-speciesGroup: "-"
+species: "クロカジキ"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "-"
 genre:

@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-070バショウカジキ"
+title: "バショウカジキ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "070"
+figureId: "AQS-070"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-070バショウカジキ"
-speciesGroup: "-"
+species: "バショウカジキ"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "-"
 genre:

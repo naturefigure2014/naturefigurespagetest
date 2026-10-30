@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-003W シロナガスクジラ"
+title: "シロナガスクジラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "003"
+figureId: "AQS-003W"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "AQS-003W シロナガスクジラ"
-speciesGroup: "-"
+species: "シロナガスクジラ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-033 クロマグロ"
+title: "クロマグロ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "033"
+figureId: "AQS-033"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-033 クロマグロ"
-speciesGroup: "-"
+species: "クロマグロ"
+speciesGroup: "マグロ・カツオ類"
 price: "-"
 releaseStart: "-"
 genre:

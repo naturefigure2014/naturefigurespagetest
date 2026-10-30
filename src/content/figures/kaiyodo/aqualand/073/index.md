@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-073 ジュゴン"
+title: "ジュゴン"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "073"
+figureId: "AQS-073"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-073 ジュゴン"
-speciesGroup: "-"
+species: "ジュゴン"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-050ワシバナトビエイ"
+title: "ワシバナトビエイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "050"
+figureId: "AQS-050"
 maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
-species: "AQS-050ワシバナトビエイ"
-speciesGroup: "-"
+species: "ワシバナトビエイ"
+speciesGroup: "サメ・エイ類"
 price: "-"
 releaseStart: "-"
 genre:

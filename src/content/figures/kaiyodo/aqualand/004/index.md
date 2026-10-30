@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-004 コマッコウ"
+title: "コマッコウ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "004"
+figureId: "AQS-004"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-004 コマッコウ"
-speciesGroup: "-"
+species: "コマッコウ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

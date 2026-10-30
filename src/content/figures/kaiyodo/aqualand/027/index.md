@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-027 モリアオガエル"
+title: "モリアオガエル"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "027"
+figureId: "AQS-027"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "AQS-027 モリアオガエル"
-speciesGroup: "-"
+species: "モリアオガエル"
+speciesGroup: "カエル類"
 price: "-"
 releaseStart: "-"
 genre:

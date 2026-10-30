@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-036バンドウイルカ"
+title: "バンドウイルカ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "036"
+figureId: "AQM-036"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-036バンドウイルカ"
-speciesGroup: "-"
+species: "バンドウイルカ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

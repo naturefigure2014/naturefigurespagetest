@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-031 シノノメサカタザメ"
+title: "シノノメサカタザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "031"
+figureId: "AQS-031"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-031 シノノメサカタザメ"
-speciesGroup: "-"
+species: "シノノメサカタザメ"
+speciesGroup: "サメ・エイ類"
 price: "-"
 releaseStart: "-"
 genre:

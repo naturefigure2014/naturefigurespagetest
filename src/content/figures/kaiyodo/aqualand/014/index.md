@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-014 ホホジロザメ"
+title: "ホホジロザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "014"
+figureId: "AQM-014"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-014 ホホジロザメ"
-speciesGroup: "-"
+species: "ホホジロザメ"
+speciesGroup: "サメ・エイ類"
 price: "-"
 releaseStart: "-"
 genre:

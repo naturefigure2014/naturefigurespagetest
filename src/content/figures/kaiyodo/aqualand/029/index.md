@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-029 メガネモチノウオ"
+title: "メガネモチノウオ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "029"
+figureId: "AQM-029"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-029 メガネモチノウオ"
-speciesGroup: "-"
+species: "メガネモチノウオ"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "-"
 genre:

@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-026 ラッコ（水面）"
+title: "ラッコ（水面）"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "026"
+figureId: "AQM-026"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-026 ラッコ（水面）"
-speciesGroup: "-"
+species: "ラッコ"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "-"
 genre:

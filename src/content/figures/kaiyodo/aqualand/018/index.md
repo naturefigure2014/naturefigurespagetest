@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-018 スダレチョウチョウウオ"
+title: "スダレチョウチョウウオ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "018"
+figureId: "AQS-018"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "AQS-018 スダレチョウチョウウオ"
-speciesGroup: "-"
+species: "スダレチョウチョウウオ"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "-"
 genre:

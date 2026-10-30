@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-094アデリーペンギン（水中）"
+title: "アデリーペンギン（水中）"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "094"
+figureId: "AQS-094"
 maker: "海洋堂"
 sculptor: "山崎 繁"
 executiveProducer: "-"
-species: "AQS-094アデリーペンギン（水中）"
-speciesGroup: "-"
+species: "アデリーペンギン"
+speciesGroup: "ペンギン類"
 price: "-"
 releaseStart: "-"
 genre:

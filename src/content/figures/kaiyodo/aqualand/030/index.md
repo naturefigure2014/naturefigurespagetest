@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-030ミンククジラ"
+title: "ミンククジラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "030"
+figureId: "AQM-030"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-030ミンククジラ"
-speciesGroup: "-"
+species: "ミンククジラ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

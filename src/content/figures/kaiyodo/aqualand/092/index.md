@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-092ワニガメ"
+title: "ワニガメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "092"
+figureId: "AQS-092"
 maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
-species: "AQS-092ワニガメ"
-speciesGroup: "-"
+species: "ワニガメ"
+speciesGroup: "カメ類"
 price: "-"
 releaseStart: "-"
 genre:

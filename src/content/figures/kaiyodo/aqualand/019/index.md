@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-19 ラクダハコフグ"
+title: "ラクダハコフグ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "019"
+figureId: "AQS-19"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-19 ラクダハコフグ"
-speciesGroup: "-"
+species: "ラクダハコフグ"
+speciesGroup: "フグ・カワハギ類"
 price: "-"
 releaseStart: "-"
 genre:

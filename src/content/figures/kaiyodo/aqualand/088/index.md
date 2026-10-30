@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQL-088ジンベエザメ"
+title: "ジンベエザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "088"
+figureId: "AQL-088"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQL-088ジンベエザメ"
-speciesGroup: "-"
+species: "ジンベエザメ"
+speciesGroup: "サメ・エイ類"
 price: "-"
 releaseStart: "-"
 genre:

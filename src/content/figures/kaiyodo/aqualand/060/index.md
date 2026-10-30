@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-060ネコザメ"
+title: "ネコザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "060"
+figureId: "AQS-060"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-060ネコザメ"
-speciesGroup: "-"
+species: "ネコザメ"
+speciesGroup: "サメ・エイ類"
 price: "-"
 releaseStart: "-"
 genre:

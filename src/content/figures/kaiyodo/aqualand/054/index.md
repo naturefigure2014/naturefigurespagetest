@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-054フエヤッコダイ"
+title: "フエヤッコダイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "054"
+figureId: "AQS-054"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-054フエヤッコダイ"
-speciesGroup: "-"
+species: "フエヤッコダイ"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "-"
 genre:

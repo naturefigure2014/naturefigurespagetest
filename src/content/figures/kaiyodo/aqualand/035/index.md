@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQ？-035 マスコットタツノオトシゴ"
+title: "マスコットタツノオトシゴ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "035"
+figureId: "AQ？-035"
 maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
-species: "AQ？-035 マスコットタツノオトシゴ"
-speciesGroup: "-"
+species: "タツノオトシゴ"
+speciesGroup: "その他魚類"
 price: "-"
 releaseStart: "-"
 genre:

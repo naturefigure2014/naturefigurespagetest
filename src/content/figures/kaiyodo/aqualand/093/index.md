@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-093 マガレイ"
+title: "マガレイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "093"
+figureId: "AQS-093"
 maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
-species: "AQS-093 マガレイ"
-speciesGroup: "-"
+species: "マガレイ"
+speciesGroup: "カレイ・ヒラメ類"
 price: "-"
 releaseStart: "-"
 genre:

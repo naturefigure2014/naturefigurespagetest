@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-069 アデリーペンギン"
+title: "アデリーペンギン"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "069"
+figureId: "AQS-069"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-069 アデリーペンギン"
-speciesGroup: "-"
+species: "アデリーペンギン"
+speciesGroup: "ペンギン類"
 price: "-"
 releaseStart: "-"
 genre:

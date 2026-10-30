@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-067 ガラパゴスコバネウ"
+title: "ガラパゴスコバネウ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "067"
+figureId: "AQM-067"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-067 ガラパゴスコバネウ"
-speciesGroup: "-"
+species: "ガラパゴスコバネウ"
+speciesGroup: "水鳥"
 price: "-"
 releaseStart: "-"
 genre:

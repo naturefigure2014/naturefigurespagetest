@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-065 ラッコ（水中）"
+title: "ラッコ（水中）"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "065"
+figureId: "AQS-065"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-065 ラッコ（水中）"
-speciesGroup: "-"
+species: "ラッコ"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "-"
 genre:

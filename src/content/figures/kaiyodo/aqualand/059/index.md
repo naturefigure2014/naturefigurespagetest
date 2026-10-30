@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-059W イッカク"
+title: "イッカク"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "059"
+figureId: "AQM-059W"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-059W イッカク"
-speciesGroup: "-"
+species: "イッカク"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

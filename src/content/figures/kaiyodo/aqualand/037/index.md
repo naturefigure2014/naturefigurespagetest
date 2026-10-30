@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-037 オウムガイ"
+title: "オウムガイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "037"
+figureId: "AQS-037"
 maker: "海洋堂"
 sculptor: "Bome"
 executiveProducer: "-"
-species: "AQS-037 オウムガイ"
-speciesGroup: "-"
+species: "オウムガイ"
+speciesGroup: "その他軟体動物"
 price: "-"
 releaseStart: "-"
 genre:

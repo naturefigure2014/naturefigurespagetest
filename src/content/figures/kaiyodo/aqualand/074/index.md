@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-074Wスナメリ"
+title: "スナメリ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "074"
+figureId: "AQS-074W"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "AQS-074Wスナメリ"
-speciesGroup: "-"
+species: "スナメリ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

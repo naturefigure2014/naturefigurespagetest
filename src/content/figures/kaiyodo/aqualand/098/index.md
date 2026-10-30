@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-098スッポンモドキ"
+title: "スッポンモドキ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "098"
+figureId: "AQS-098"
 maker: "海洋堂"
 sculptor: "古田悟郎"
 executiveProducer: "-"
-species: "AQS-098スッポンモドキ"
-speciesGroup: "-"
+species: "スッポンモドキ"
+speciesGroup: "カメ類"
 price: "-"
 releaseStart: "-"
 genre:

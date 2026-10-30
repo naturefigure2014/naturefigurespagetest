@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-057 カリフォルニアアシカ"
+title: "カリフォルニアアシカ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "057"
+figureId: "AQS-057"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-057 カリフォルニアアシカ"
-speciesGroup: "-"
+species: "カリフォルニアアシカ"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "-"
 genre:

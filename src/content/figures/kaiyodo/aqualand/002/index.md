@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AVL-002W ザトウクジラ"
+title: "ザトウクジラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "002"
+figureId: "AVL-002W"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AVL-002W ザトウクジラ"
-speciesGroup: "-"
+species: "ザトウクジラ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-008 ジンベエザメ"
+title: "ジンベエザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "008"
+figureId: "AQM-008"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-008 ジンベエザメ"
-speciesGroup: "-"
+species: "ジンベエザメ"
+speciesGroup: "サメ・エイ類"
 price: "-"
 releaseStart: "-"
 genre:

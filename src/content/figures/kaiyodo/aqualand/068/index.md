@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-068ガラパゴスゾウガメ"
+title: "ガラパゴスゾウガメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "068"
+figureId: "AQM-068"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-068ガラパゴスゾウガメ"
-speciesGroup: "-"
+species: "ガラパゴスゾウガメ"
+speciesGroup: "カメ類"
 price: "-"
 releaseStart: "-"
 genre:

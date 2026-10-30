@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-075 オオヒキガエル"
+title: "オオヒキガエル"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "075"
+figureId: "AQS-075"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "AQS-075 オオヒキガエル"
-speciesGroup: "-"
+species: "オオヒキガエル"
+speciesGroup: "カエル類"
 price: "-"
 releaseStart: "-"
 genre:

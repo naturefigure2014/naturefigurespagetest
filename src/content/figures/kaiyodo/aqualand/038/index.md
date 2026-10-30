@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQL-038ザトウクジラ親子"
+title: "ザトウクジラ親子"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "038"
+figureId: "AQL-038"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQL-038ザトウクジラ親子"
-speciesGroup: "-"
+species: "ザトウクジラ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

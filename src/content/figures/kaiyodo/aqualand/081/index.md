@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-081 カツオ"
+title: "カツオ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "081"
+figureId: "AQS-081"
 maker: "海洋堂"
 sculptor: "片山 浩"
 executiveProducer: "-"
-species: "AQS-081 カツオ"
-speciesGroup: "-"
+species: "カツオ"
+speciesGroup: "マグロ・カツオ類"
 price: "-"
 releaseStart: "-"
 genre:

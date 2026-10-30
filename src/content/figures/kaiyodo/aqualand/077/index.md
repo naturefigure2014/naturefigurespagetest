@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-077W マッコウクジラ"
+title: "マッコウクジラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "077"
+figureId: "AQM-077W"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-077W マッコウクジラ"
-speciesGroup: "-"
+species: "マッコウクジラ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

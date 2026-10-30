@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-024 インドガビアル"
+title: "インドガビアル"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "024"
+figureId: "AQM-024"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-024 インドガビアル"
-speciesGroup: "-"
+species: "インドガビアル"
+speciesGroup: "ワニ類"
 price: "-"
 releaseStart: "-"
 genre:

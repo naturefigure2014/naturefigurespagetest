@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-025 ニホンカワウソ"
+title: "ニホンカワウソ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "025"
+figureId: "AQM-025"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "AQM-025 ニホンカワウソ"
-speciesGroup: "-"
+species: "ニホンカワウソ"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "-"
 genre:

@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-062イワトビペンギン"
+title: "イワトビペンギン"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "062"
+figureId: "AQS-062"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-062イワトビペンギン"
-speciesGroup: "-"
+species: "イワトビペンギン"
+speciesGroup: "ペンギン類"
 price: "-"
 releaseStart: "-"
 genre:

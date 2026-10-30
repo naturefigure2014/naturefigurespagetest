@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-015 マンボウ"
+title: "マンボウ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "015"
+figureId: "AQS-015"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-015 マンボウ"
-speciesGroup: "-"
+species: "マンボウ"
+speciesGroup: "フグ・カワハギ類"
 price: "-"
 releaseStart: "-"
 genre:

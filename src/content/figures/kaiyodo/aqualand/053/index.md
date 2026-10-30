@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-053ハマクマノミ"
+title: "ハマクマノミ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "053"
+figureId: "AQS-053"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-053ハマクマノミ"
-speciesGroup: "-"
+species: "ハマクマノミ"
+speciesGroup: "スズキ目の魚類"
 price: "-"
 releaseStart: "-"
 genre:

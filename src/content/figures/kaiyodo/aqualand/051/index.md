@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-051 ヨシキリザメ"
+title: "ヨシキリザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "051"
+figureId: "AQM-051"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-051 ヨシキリザメ"
-speciesGroup: "-"
+species: "ヨシキリザメ"
+speciesGroup: "サメ・エイ類"
 price: "-"
 releaseStart: "-"
 genre:

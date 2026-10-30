@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-071 オニイトマキエイ"
+title: "オニイトマキエイ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "071"
+figureId: "AQS-071"
 maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
-species: "AQS-071 オニイトマキエイ"
-speciesGroup: "-"
+species: "オニイトマキエイ"
+speciesGroup: "サメ・エイ類"
 price: "-"
 releaseStart: "-"
 genre:

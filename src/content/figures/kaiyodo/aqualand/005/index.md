@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-005 イロワケイルカ"
+title: "イロワケイルカ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "005"
+figureId: "AQS-005"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQS-005 イロワケイルカ"
-speciesGroup: "-"
+species: "イロワケイルカ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

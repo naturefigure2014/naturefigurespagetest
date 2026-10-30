@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQL-072*ナイルワニ"
+title: "ナイルワニ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "072"
+figureId: "AQL-072"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQL-072*ナイルワニ"
-speciesGroup: "-"
+species: "ナイルワニ"
+speciesGroup: "ワニ類"
 price: "-"
 releaseStart: "-"
 genre:

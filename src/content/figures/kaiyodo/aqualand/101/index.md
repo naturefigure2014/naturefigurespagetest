@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQS-101 サザナミフグ"
+title: "サザナミフグ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "101"
+figureId: "AQS-101"
 maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
-species: "AQS-101 サザナミフグ"
-speciesGroup: "-"
+species: "サザナミフグ"
+speciesGroup: "フグ・カワハギ類"
 price: "-"
 releaseStart: "-"
 genre:

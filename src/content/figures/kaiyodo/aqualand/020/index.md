@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-020 シーラカンス"
+title: "シーラカンス"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "020"
+figureId: "AQM-020"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-020 シーラカンス"
-speciesGroup: "-"
+species: "シーラカンス"
+speciesGroup: "古代魚類"
 price: "-"
 releaseStart: "-"
 genre:

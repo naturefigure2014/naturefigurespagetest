@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-078Wザトウクジラ"
+title: "ザトウクジラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "078"
+figureId: "AQM-078W"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-078Wザトウクジラ"
-speciesGroup: "-"
+species: "ザトウクジラ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

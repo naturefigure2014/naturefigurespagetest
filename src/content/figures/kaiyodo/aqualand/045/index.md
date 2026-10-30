@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQM-045W シャチ親子"
+title: "シャチ親子"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "045"
+figureId: "AQM-045W"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQM-045W シャチ親子"
-speciesGroup: "-"
+species: "シャチ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:

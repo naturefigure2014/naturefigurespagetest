@@ -1,15 +1,15 @@
 ---
 collectionStatus: "notOwned"
-title: "AQL-100Wシロナガスクジラ"
+title: "シロナガスクジラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aqualand
-figureId: "100"
+figureId: "AQL-100W"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "AQL-100Wシロナガスクジラ"
-speciesGroup: "-"
+species: "シロナガスクジラ"
+speciesGroup: "クジラ・イルカ類"
 price: "-"
 releaseStart: "-"
 genre:
