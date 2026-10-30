@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-097 ピラニア・ナッテリィ"
 description: ""
 contentType: figure

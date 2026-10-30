@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQ？-035 マスコットタツノオトシゴ"
 description: ""
 contentType: figure

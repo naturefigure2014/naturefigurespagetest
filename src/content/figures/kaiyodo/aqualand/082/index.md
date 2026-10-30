@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-082クロカジキ"
 description: ""
 contentType: figure

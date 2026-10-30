@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-060ネコザメ"
 description: ""
 contentType: figure

@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQL-100Wシロナガスクジラ"
 description: ""
 contentType: figure

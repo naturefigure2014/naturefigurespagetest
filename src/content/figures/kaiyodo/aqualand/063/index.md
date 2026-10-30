@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-063 タテゴトアザラシ"
 description: ""
 contentType: figure
@@ -22,6 +23,7 @@ topics:
     images:
       - "blog20200715_029.jpg"
       - "AQ-063_2.jpg"
+      - "AQM_063.jpg"
     comment: |
       原型制作：松村しのぶ
 ---

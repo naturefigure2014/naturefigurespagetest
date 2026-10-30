@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-054フエヤッコダイ"
 description: ""
 contentType: figure

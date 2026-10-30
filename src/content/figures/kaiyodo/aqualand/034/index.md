@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQ？-034マスコットジンベエザメ"
 description: ""
 contentType: figure

@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-052メカジキ"
 description: ""
 contentType: figure

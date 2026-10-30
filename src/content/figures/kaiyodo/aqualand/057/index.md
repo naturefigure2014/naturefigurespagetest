@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-057 カリフォルニアアシカ"
 description: ""
 contentType: figure

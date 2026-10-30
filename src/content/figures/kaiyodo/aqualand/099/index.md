@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-099 ベニザケ"
 description: ""
 contentType: figure

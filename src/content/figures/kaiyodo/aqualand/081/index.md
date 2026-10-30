@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-081 カツオ"
 description: ""
 contentType: figure

@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-029 メガネモチノウオ"
 description: ""
 contentType: figure

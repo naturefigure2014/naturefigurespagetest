@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-008 ジンベエザメ"
 description: ""
 contentType: figure

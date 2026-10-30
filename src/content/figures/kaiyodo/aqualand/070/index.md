@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-070バショウカジキ"
 description: ""
 contentType: figure

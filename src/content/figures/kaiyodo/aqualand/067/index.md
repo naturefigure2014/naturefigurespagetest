@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-067 ガラパゴスコバネウ"
 description: ""
 contentType: figure

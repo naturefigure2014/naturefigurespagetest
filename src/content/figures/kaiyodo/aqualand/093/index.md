@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-093 マガレイ"
 description: ""
 contentType: figure

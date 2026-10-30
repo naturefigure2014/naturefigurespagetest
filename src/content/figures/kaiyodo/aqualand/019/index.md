@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-19 ラクダハコフグ"
 description: ""
 contentType: figure

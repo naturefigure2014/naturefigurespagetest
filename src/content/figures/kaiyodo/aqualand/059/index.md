@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-059W イッカク"
 description: ""
 contentType: figure

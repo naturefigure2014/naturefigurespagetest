@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-050ワシバナトビエイ"
 description: ""
 contentType: figure

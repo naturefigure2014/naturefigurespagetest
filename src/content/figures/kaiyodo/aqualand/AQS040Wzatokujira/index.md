@@ -44,7 +44,8 @@ topics:
   - title: ""
     images:
       - "img/AQ-040.jpg"
-      - "img/AQ-042-3.jpg"
+      - "img/AQ-040_2.jpg"
+      - "img/AQ-040_3.jpg"
     comment: |
       海洋堂ホビーランドで撮影したもの。
 ---

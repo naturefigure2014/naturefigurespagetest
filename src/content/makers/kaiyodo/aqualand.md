@@ -26,8 +26,6 @@ seriesSections:
       - kaiyodo/aqualand/AQC044azarashi
       - kaiyodo/aqualand/AQM046aoumigame
       - kaiyodo/aqualand/AQM058meganekaiman
-
-
       - kaiyodo/aqualand/AQS028kouteipenguin
       - kaiyodo/aqualand/AQS040Wzatokujira
       - kaiyodo/aqualand/AQS041Wsemikujira
@@ -38,7 +36,83 @@ seriesSections:
       - kaiyodo/aqualand/AQS085hohozirozame
       - kaiyodo/aqualand/AQS091kamonohashi
       - kaiyodo/aqualand/AQS096bandoiruka
-      - kaiyodo/aqualand/caricature
+      - kaiyodo/aqualand/001
+      - kaiyodo/aqualand/002
+      - kaiyodo/aqualand/003
+      - kaiyodo/aqualand/004
+      - kaiyodo/aqualand/005
+      - kaiyodo/aqualand/008
+      - kaiyodo/aqualand/011
+      - kaiyodo/aqualand/012
+      - kaiyodo/aqualand/013
+      - kaiyodo/aqualand/014
+      - kaiyodo/aqualand/015
+      - kaiyodo/aqualand/018
+      - kaiyodo/aqualand/019
+      - kaiyodo/aqualand/020
+      - kaiyodo/aqualand/021
+      - kaiyodo/aqualand/024
+      - kaiyodo/aqualand/025
+      - kaiyodo/aqualand/026
+      - kaiyodo/aqualand/027
+      - kaiyodo/aqualand/029
+      - kaiyodo/aqualand/030
+      - kaiyodo/aqualand/031
+      - kaiyodo/aqualand/033
+      - kaiyodo/aqualand/034
+      - kaiyodo/aqualand/035
+      - kaiyodo/aqualand/036
+      - kaiyodo/aqualand/037
+      - kaiyodo/aqualand/038
+      - kaiyodo/aqualand/039
+      - kaiyodo/aqualand/045
+      - kaiyodo/aqualand/047
+      - kaiyodo/aqualand/048
+      - kaiyodo/aqualand/049
+      - kaiyodo/aqualand/050
+      - kaiyodo/aqualand/051
+      - kaiyodo/aqualand/052
+      - kaiyodo/aqualand/053
+      - kaiyodo/aqualand/054
+      - kaiyodo/aqualand/055
+      - kaiyodo/aqualand/057
+      - kaiyodo/aqualand/059
+      - kaiyodo/aqualand/060
+      - kaiyodo/aqualand/061
+      - kaiyodo/aqualand/062
+      - kaiyodo/aqualand/063
+      - kaiyodo/aqualand/065
+      - kaiyodo/aqualand/066
+      - kaiyodo/aqualand/067
+      - kaiyodo/aqualand/068
+      - kaiyodo/aqualand/069
+      - kaiyodo/aqualand/070
+      - kaiyodo/aqualand/071
+      - kaiyodo/aqualand/072
+      - kaiyodo/aqualand/073
+      - kaiyodo/aqualand/074
+      - kaiyodo/aqualand/075
+      - kaiyodo/aqualand/076
+      - kaiyodo/aqualand/077
+      - kaiyodo/aqualand/078
+      - kaiyodo/aqualand/079
+      - kaiyodo/aqualand/080
+      - kaiyodo/aqualand/081
+      - kaiyodo/aqualand/082
+      - kaiyodo/aqualand/086
+      - kaiyodo/aqualand/087
+      - kaiyodo/aqualand/088
+      - kaiyodo/aqualand/089
+      - kaiyodo/aqualand/090
+      - kaiyodo/aqualand/092
+      - kaiyodo/aqualand/093
+      - kaiyodo/aqualand/094
+      - kaiyodo/aqualand/095
+      - kaiyodo/aqualand/097
+      - kaiyodo/aqualand/098
+      - kaiyodo/aqualand/099
+      - kaiyodo/aqualand/100
+      - kaiyodo/aqualand/101
 ---
 ### ■概要
 大阪の「海遊館」開業(1990)に合わせて展開された、海洋堂を代表する水棲生物シリーズ。全101種。

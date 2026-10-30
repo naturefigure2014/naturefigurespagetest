@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-061 セイウチ"
 description: ""
 contentType: figure

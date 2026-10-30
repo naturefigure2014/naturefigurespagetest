@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-073 ジュゴン"
 description: ""
 contentType: figure

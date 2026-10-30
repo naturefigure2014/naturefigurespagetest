@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-055 シイラ"
 description: ""
 contentType: figure

@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQL-088ジンベエザメ"
 description: ""
 contentType: figure

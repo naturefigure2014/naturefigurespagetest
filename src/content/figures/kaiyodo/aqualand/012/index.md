@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-012 アカシュモクザメ"
 description: ""
 contentType: figure

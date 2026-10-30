@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-089 アカウミガメ"
 description: ""
 contentType: figure

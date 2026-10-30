@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-021 シーラカンス"
 description: ""
 contentType: figure

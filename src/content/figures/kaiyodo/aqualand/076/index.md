@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "ATM-076陶器ピラルク"
 description: ""
 contentType: figure

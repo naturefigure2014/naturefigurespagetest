@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-024 インドガビアル"
 description: ""
 contentType: figure

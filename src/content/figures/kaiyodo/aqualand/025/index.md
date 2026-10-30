@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-025 ニホンカワウソ"
 description: ""
 contentType: figure

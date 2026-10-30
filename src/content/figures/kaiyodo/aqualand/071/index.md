@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-071 オニイトマキエイ"
 description: ""
 contentType: figure

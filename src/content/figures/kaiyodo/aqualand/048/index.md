@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQL-048シャチ&アシカ"
 description: ""
 contentType: figure

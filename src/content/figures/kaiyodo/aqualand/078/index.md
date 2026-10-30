@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-078Wザトウクジラ"
 description: ""
 contentType: figure

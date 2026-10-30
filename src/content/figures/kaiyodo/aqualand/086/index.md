@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-086オニイトマキエイ♂"
 description: ""
 contentType: figure

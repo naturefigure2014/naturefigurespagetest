@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-098スッポンモドキ"
 description: ""
 contentType: figure

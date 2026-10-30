@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-065 ラッコ（水中）"
 description: ""
 contentType: figure

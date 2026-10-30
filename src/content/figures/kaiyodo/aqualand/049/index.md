@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-049 ナミガエル"
 description: ""
 contentType: figure

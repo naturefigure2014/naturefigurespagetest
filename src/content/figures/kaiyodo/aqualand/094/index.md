@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-094アデリーペンギン（水中）"
 description: ""
 contentType: figure

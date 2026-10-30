@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-090アジアアロワナ"
 description: ""
 contentType: figure

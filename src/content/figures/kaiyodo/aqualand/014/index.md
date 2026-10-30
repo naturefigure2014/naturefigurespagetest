@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-014 ホホジロザメ"
 description: ""
 contentType: figure

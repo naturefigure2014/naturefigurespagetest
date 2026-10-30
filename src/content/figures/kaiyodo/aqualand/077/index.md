@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-077W マッコウクジラ"
 description: ""
 contentType: figure

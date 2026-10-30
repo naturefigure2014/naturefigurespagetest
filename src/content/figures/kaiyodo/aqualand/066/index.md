@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-066ジンベエザメ"
 description: ""
 contentType: figure

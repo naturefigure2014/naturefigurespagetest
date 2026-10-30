@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-095 アリゲーターガー"
 description: ""
 contentType: figure

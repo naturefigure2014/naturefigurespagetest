@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-075 オオヒキガエル"
 description: ""
 contentType: figure

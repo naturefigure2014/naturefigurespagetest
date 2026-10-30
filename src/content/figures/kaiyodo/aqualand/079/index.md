@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-079 キハダマグロ"
 description: ""
 contentType: figure

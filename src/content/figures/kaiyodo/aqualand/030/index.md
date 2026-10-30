@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-030ミンククジラ"
 description: ""
 contentType: figure

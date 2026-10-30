@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-018 スダレチョウチョウウオ"
 description: ""
 contentType: figure

@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-101 サザナミフグ"
 description: ""
 contentType: figure

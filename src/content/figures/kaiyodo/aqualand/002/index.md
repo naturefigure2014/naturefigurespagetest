@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AVL-002W ザトウクジラ"
 description: ""
 contentType: figure

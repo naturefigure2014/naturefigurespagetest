@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-020 シーラカンス"
 description: ""
 contentType: figure

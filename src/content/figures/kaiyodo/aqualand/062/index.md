@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-062イワトビペンギン"
 description: ""
 contentType: figure

@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-037 オウムガイ"
 description: ""
 contentType: figure

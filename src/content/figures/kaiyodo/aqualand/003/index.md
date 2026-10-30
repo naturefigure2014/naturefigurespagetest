@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-003W シロナガスクジラ"
 description: ""
 contentType: figure

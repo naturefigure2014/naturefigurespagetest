@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-026 ラッコ（水面）"
 description: ""
 contentType: figure

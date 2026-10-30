@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-074Wスナメリ"
 description: ""
 contentType: figure

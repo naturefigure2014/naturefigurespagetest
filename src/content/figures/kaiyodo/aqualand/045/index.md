@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-045W シャチ親子"
 description: ""
 contentType: figure

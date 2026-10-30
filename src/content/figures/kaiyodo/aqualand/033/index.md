@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-033 クロマグロ"
 description: ""
 contentType: figure
@@ -21,6 +22,7 @@ topics:
   - title: ""
     images:
       - "AQ-033-2.jpg"
+      - "AQ-033.jpg"
     comment: |
       原型制作：松村しのぶ
 ---

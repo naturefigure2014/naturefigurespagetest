@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-053ハマクマノミ"
 description: ""
 contentType: figure

@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-087 オニイトマキエイ♀"
 description: ""
 contentType: figure

@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-005 イロワケイルカ"
 description: ""
 contentType: figure

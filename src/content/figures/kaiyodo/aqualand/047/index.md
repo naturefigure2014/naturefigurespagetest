@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-047 ピラルク"
 description: ""
 contentType: figure

@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-051 ヨシキリザメ"
 description: ""
 contentType: figure

@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AVL-001W マッコウクジラ"
 description: ""
 contentType: figure

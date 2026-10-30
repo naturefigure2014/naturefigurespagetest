@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-004 コマッコウ"
 description: ""
 contentType: figure

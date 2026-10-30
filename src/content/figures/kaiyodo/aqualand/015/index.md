@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-015 マンボウ"
 description: ""
 contentType: figure

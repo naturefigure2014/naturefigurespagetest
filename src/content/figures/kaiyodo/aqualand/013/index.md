@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-013 ミツクリザメ"
 description: ""
 contentType: figure

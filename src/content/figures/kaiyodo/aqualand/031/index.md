@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-031 シノノメサカタザメ"
 description: ""
 contentType: figure

@@ -36,6 +36,7 @@ const figures = defineCollection({
     genre: z.array(z.string()).default([]),
     seriesName: z.union([z.string(), z.array(z.string())]).optional(),
     releaseStart: z.string().optional(),
+    collectionStatus: z.enum(["owned", "notOwned"]).optional(),
     salesPeriod: z.string().regex(/^\d{4}\.\d{2}\.\d{2}-\d{4}\.\d{2}\.\d{2}$/).optional(),
     figureIds: z.array(z.string()).default([]),
     speciesEntries: z.array(z.object({

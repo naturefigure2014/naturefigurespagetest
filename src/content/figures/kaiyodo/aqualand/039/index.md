@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQL-039 セミクジラ親子"
 description: ""
 contentType: figure

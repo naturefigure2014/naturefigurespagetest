@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-036バンドウイルカ"
 description: ""
 contentType: figure

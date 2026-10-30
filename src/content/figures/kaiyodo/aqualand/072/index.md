@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQL-072*ナイルワニ"
 description: ""
 contentType: figure

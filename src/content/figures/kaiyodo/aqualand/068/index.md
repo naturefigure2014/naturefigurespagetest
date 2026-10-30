@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQM-068ガラパゴスゾウガメ"
 description: ""
 contentType: figure

@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-069 アデリーペンギン"
 description: ""
 contentType: figure

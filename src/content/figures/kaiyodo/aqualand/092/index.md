@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-092ワニガメ"
 description: ""
 contentType: figure

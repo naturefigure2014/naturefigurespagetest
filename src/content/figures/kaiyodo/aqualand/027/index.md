@@ -1,4 +1,5 @@
 ---
+collectionStatus: "notOwned"
 title: "AQS-027 モリアオガエル"
 description: ""
 contentType: figure
