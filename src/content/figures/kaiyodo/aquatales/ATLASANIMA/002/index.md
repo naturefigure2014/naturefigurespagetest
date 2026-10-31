@@ -1,5 +1,5 @@
 ---
-title: "ジイベイザメ"
+title: "ジンベエザメ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/ATLASANIMA
@@ -7,7 +7,7 @@ figureId: "002"
 maker: "海洋堂"
 sculptor: "村田明玄 原型塗装：清水ゆう子"
 executiveProducer: "-"
-species: "ジイベイザメ"
+species: "ジンベエザメ"
 speciesGroup: "サメ・エイ類"
 price: "200円 販売場所：新江ノ島水族館"
 releaseStart: "2005.04"

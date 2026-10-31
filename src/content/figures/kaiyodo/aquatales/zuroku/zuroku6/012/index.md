@@ -1,5 +1,5 @@
 ---
-title: "カルフォルニアアシカ"
+title: "カリフォルニアアシカ"
 description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/zuroku/zuroku6
@@ -7,7 +7,7 @@ figureId: "012"
 maker: "海洋堂"
 sculptor: "田熊勝夫 スケール：1/25"
 executiveProducer: "松村しのぶ"
-species: "カルフォルニアアシカ"
+species: "カリフォルニアアシカ"
 speciesGroup: "食肉類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2013.04"

@@ -1,5 +1,5 @@
 ---
-title: "セキセインコ（ヒナ）ルチノー"
+title: "セキセイインコ（ヒナ）ルチノー"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_pet4
@@ -7,7 +7,7 @@ figureId: "014"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "セキセインコルチノー"
+species: "セキセイインコ"
 speciesGroup: "オウム・インコ類"
 price: "-"
 releaseStart: "2003.03"

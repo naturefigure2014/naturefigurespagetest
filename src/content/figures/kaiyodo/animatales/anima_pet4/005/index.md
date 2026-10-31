@@ -1,5 +1,5 @@
 ---
-title: "ブルドック（白)"
+title: "ブルドッグ（白)"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_pet4
@@ -7,7 +7,7 @@ figureId: "005"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "ブルドック"
+species: "ブルドッグ"
 speciesGroup: "食肉類"
 price: "-"
 releaseStart: "2003.03"
