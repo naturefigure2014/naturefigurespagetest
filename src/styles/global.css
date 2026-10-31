@@ -226,7 +226,7 @@ h2 { margin-top: 2.5rem; }
 .species-detail-section h2 { margin: 0; color: #29463c; font-size: 1.15rem; }
 .species-detail-count { margin: 3px 0 14px; color: #779188; font-size: .75rem; }
 .species-detail-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 15px 12px; }
-.species-detail-card { display: block; overflow: hidden; border: 1px solid #dce8df; border-radius: 8px; background: #fff; color: #29463c; text-decoration: none; }
+.species-detail-card { position: relative; display: block; overflow: hidden; border: 1px solid #dce8df; border-radius: 8px; background: #fff; color: #29463c; text-decoration: none; }
 .species-detail-card > img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: #f4f8f4; }
 .species-detail-card > div { position: relative; padding: 10px 32px 10px 12px; }
 .species-detail-card strong, .species-detail-card small { display: block; }

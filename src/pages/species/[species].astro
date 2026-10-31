@@ -1,6 +1,7 @@
 ---
 import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import MakerCardBadges from "../../components/MakerCardBadges.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
 import { makerBadgeClass, makerNames } from "../../lib/maker";
@@ -137,6 +138,7 @@ export async function getStaticPaths() {
           return (
             <a class="species-detail-card" href={figureHref(figure)}>
               <img src={imageFor(figure)} alt="" loading="lazy" />
+              <MakerCardBadges collectionStatus={figure.data.collectionStatus} />
               <div>
                 <strong>{figure.data.title}</strong>
                 <small>{metadata.titleName}</small>

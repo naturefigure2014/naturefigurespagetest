@@ -22,6 +22,9 @@ const { entry: page } = Astro.props;
 const figures = await getCollection("figures");
 const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
 const entryById = new Map(figures.map((item) => [normalizeId(item.id), item]));
+const collectionStatusFor = (sourceId?: string) => sourceId
+  ? figures.find((item: { id: string; data: { collectionStatus?: "owned" | "notOwned" } }) => normalizeId(item.id) === normalizeId(sourceId))?.data.collectionStatus
+  : undefined;
 const genreEntries = figures.filter((item) => {
   const isTitle = item.data.contentType === "title";
   const isSingleLineupFigure = item.data.contentType === "figure" && item.data.kind === "singleLineup";
@@ -113,7 +116,7 @@ const heroImage = page.data.heroImage
                   return (
                     <a class="maker-detail-card" href={card.href.startsWith("/") ? siteUrl(card.href) : card.href}>
                       {image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
-                      {image && <MakerCardBadges badges={card.badges} />}
+                      {image && <MakerCardBadges badges={card.badges} collectionStatus={collectionStatusFor(card.sourceId)} />}
                       <strong>{card.name}</strong>
                     </a>
                   );
@@ -123,7 +126,7 @@ const heroImage = page.data.heroImage
                   return (
                     <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}>
                       {image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
-                      {image && <MakerCardBadges badges={badgesForTitle(section, title.id)} />}
+                      {image && <MakerCardBadges badges={badgesForTitle(section, title.id)} collectionStatus={title.data.collectionStatus} />}
                       <strong>
                         {title.data.contentType === "figure" && title.data.figureId && (
                           <span class="maker-detail-card-figure-id">{title.data.figureId}</span>

@@ -6,14 +6,20 @@ interface Badge {
   textColor?: string;
 }
 
-const { badges = [] } = Astro.props as { badges?: Badge[] };
+const { badges = [], collectionStatus } = Astro.props as {
+  badges?: Badge[];
+  collectionStatus?: "owned" | "notOwned";
+};
 const defaults: Record<Badge["label"], { text: string; backgroundColor: string; textColor: string }> = {
   serieseNo: { text: "", backgroundColor: "#2c7a55", textColor: "#fff" },
   limited: { text: "限定", backgroundColor: "#c9a227", textColor: "#fff" },
   notOwned: { text: "未入手", backgroundColor: "#4b5563", textColor: "#fff" },
   exibition: { text: "展示作品", backgroundColor: "#8b5e3c", textColor: "#fff" }
 };
-const visibleBadges = badges
+const resolvedBadges = collectionStatus === "notOwned" && !badges.some((badge) => badge.label === "notOwned")
+  ? [...badges, { label: "notOwned" as const }]
+  : badges;
+const visibleBadges = resolvedBadges
   .map((badge) => ({
     text: badge.text ?? defaults[badge.label].text,
     backgroundColor: badge.backgroundColor ?? defaults[badge.label].backgroundColor,

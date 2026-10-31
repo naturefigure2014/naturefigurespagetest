@@ -22,6 +22,9 @@ const makers = await getCollection("makers");
 const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
 const titleEntries = figures.filter((item) => item.data.contentType === "title");
 const entryById = new Map(figures.map((item) => [normalizeId(item.id), item]));
+const collectionStatusFor = (sourceId?: string) => sourceId
+  ? figures.find((item: { id: string; data: { collectionStatus?: "owned" | "notOwned" } }) => normalizeId(item.id) === normalizeId(sourceId))?.data.collectionStatus
+  : undefined;
 
 const imageFor = (sourceId?: string, image?: string | number) => {
   // sourceId が無くても img/ 相対パスならメーカー自身の画像として解決する
@@ -150,13 +153,13 @@ const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], tit
                   {section.cards.map((card) => (
                     <a class="maker-detail-card" href={linkFor(card.href)}>
                       {imageFor(card.sourceId, card.image) ? <img src={imageFor(card.sourceId, card.image)} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
-                      {imageFor(card.sourceId, card.image) && <MakerCardBadges badges={card.badges} />}
+                      {imageFor(card.sourceId, card.image) && <MakerCardBadges badges={card.badges} collectionStatus={collectionStatusFor(card.sourceId)} />}
                       <strong>{card.name}</strong>
                     </a>
                   ))}
                   {titles.map((title) => {
                     const image = resolveFigureImage(title.id, title.data.coverImage);
-                    return <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}><>{image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}{image && <MakerCardBadges badges={badgesForTitle(section, title.id)} />}<strong>{title.data.contentType === "figure" && title.data.figureId && <span class="maker-detail-card-figure-id">{title.data.figureId}</span>}{title.data.shortTitle || title.data.title}</strong></></a>;
+                    return <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}><>{image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}{image && <MakerCardBadges badges={badgesForTitle(section, title.id)} collectionStatus={title.data.collectionStatus} />}<strong>{title.data.contentType === "figure" && title.data.figureId && <span class="maker-detail-card-figure-id">{title.data.figureId}</span>}{title.data.shortTitle || title.data.title}</strong></></a>;
                   })}
                 </div>
               </section>
@@ -176,6 +179,7 @@ const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], tit
                 {section.cards.map((card) => (
                   <a class="maker-detail-card" href={linkFor(card.href)}>
                     {imageFor(card.sourceId, card.image) ? <img src={imageFor(card.sourceId, card.image)} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
+                    {imageFor(card.sourceId, card.image) && <MakerCardBadges collectionStatus={collectionStatusFor(card.sourceId)} />}
                     <strong>{card.name}</strong>
                   </a>
                 ))}

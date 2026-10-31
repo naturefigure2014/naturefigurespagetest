@@ -130,7 +130,7 @@ const heroImage = heroSource
                   return (
                     <a class="maker-detail-card" href={card.href.startsWith("/") ? siteUrl(card.href) : card.href}>
                       {image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
-                      {image && <MakerCardBadges badges={card.badges} />}
+                      {image && <MakerCardBadges badges={card.badges} collectionStatus={card.sourceId ? entryById.get(normalizeId(card.sourceId))?.data.collectionStatus : undefined} />}
                       <strong>{card.name}</strong>
                     </a>
                   );
@@ -140,7 +140,7 @@ const heroImage = heroSource
                   return (
                     <a class="maker-detail-card" href={siteUrl(`/figures/${normalizeId(title.id)}/`)}>
                       {image ? <img src={image} alt="" /> : <span class="maker-detail-card-placeholder">FIGURE</span>}
-                      {image && <MakerCardBadges badges={badgesForTitle(section, title.id)} />}
+                      {image && <MakerCardBadges badges={badgesForTitle(section, title.id)} collectionStatus={title.data.collectionStatus} />}
                       <strong>
                         {title.data.contentType === "figure" && title.data.figureId && (
                           <span class="maker-detail-card-figure-id">{title.data.figureId}</span>
