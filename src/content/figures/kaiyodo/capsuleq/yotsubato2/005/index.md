@@ -4,8 +4,11 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yotsubato2
 figureId: "005"
-species: "よつばとエリマキキツネザル＋シマスカンク"
-speciesGroup: "霊長類"
+speciesEntries:
+  - species: "エリマキキツネザル"
+    speciesGroup: "霊長類"
+  - species: "シマスカンク"
+    speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "yotsubatoshirokuro2_007.jpg"
 coverImage: "yotsubatoshirokuro2_007.jpg"
@@ -16,4 +19,3 @@ topics:
       - "yotsubatoshirokuro2_008.jpg"
     comment: |
       比較的小さな2種はセット。
----

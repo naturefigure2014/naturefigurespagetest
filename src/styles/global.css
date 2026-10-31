@@ -395,6 +395,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-directory-heading a { color: #39785f; font-size: .67rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
 .maker-directory-heading a span { margin-left: 4px; font-size: .9rem; }
 .maker-pickup-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 9px; }
+.maker-pickup-grid > :nth-child(n + 6) { display: none; }
 .maker-pickup-card { position: relative; display: block; min-width: 0; overflow: hidden; border: 1px solid #dbe7e2; border-radius: 7px; color: inherit; background: #fff; text-decoration: none; }
 .maker-pickup-card img, .maker-pickup-placeholder { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: grid; place-items: center; background: linear-gradient(135deg, #e4f1eb, #cddfd6); color: #54806d; font-size: .72rem; font-weight: 800; }
 .maker-pickup-caption { display: block; min-height: 54px; padding: 7px 24px 7px 8px; }
@@ -634,7 +635,8 @@ body.lightbox-open { overflow: hidden; }
   .maker-directory-hero { margin-left: -20px; margin-right: -20px; padding: 18px 20px 20px; }
   .maker-directory-heading { align-items: flex-start; flex-direction: column; gap: 5px; }
   .maker-directory-heading a { align-self: flex-end; }
-  .maker-pickup-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .maker-pickup-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .maker-pickup-grid > :nth-child(n + 4) { display: none; }
   .maker-detail { display: block; }
   .maker-detail-sidebar { width: min(260px, calc(100vw - 20px)); box-shadow: 0 8px 24px rgba(28,72,54,.18); }
   .maker-detail-hero { min-height: 100px; }
