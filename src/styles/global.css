@@ -227,7 +227,8 @@ h2 { margin-top: 2.5rem; }
 .species-detail-count { margin: 3px 0 14px; color: #779188; font-size: .75rem; }
 .species-detail-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 15px 12px; }
 .species-detail-card { position: relative; display: block; overflow: hidden; border: 1px solid #dce8df; border-radius: 8px; background: #fff; color: #29463c; text-decoration: none; }
-.species-detail-card > img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: #f4f8f4; }
+.species-detail-media { position: relative; display: block; min-width: 0; }
+.species-detail-media > img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: #f4f8f4; }
 .species-detail-card > div { position: relative; padding: 10px 32px 10px 12px; }
 .species-detail-card strong, .species-detail-card small { display: block; }
 .species-detail-card strong { color: #1c6380; font-size: .82rem; }
@@ -769,7 +770,8 @@ body.lightbox-open { overflow: hidden; }
   .species-detail-hero { margin-left: -16px; margin-right: -16px; padding: 22px 20px; }
   .species-detail-grid { grid-template-columns: 1fr; gap: 10px; }
   .species-detail-card { display: grid; grid-template-columns: 108px minmax(0, 1fr); }
-  .species-detail-card > img { width: 108px; height: auto; aspect-ratio: 4 / 3; }
+  .species-detail-media { width: 108px; }
+  .species-detail-media > img { width: 100%; height: auto; aspect-ratio: 4 / 3; }
   .blog-hero { min-height: 260px; margin: -30px -16px 28px; padding: 42px 22px; }
   .blog-layout { grid-template-columns: 1fr; gap: 18px; }
   .blog-sidebar { position: static; }
@@ -812,7 +814,8 @@ body.lightbox-open { overflow: hidden; }
   .primates-hero-art { font-size: 8rem; }
   .species-detail-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px 8px; }
   .species-detail-card { display: block; }
-  .species-detail-card > img { width: 100%; }
+  .species-detail-media { width: 100%; }
+  .species-detail-media > img { width: 100%; }
   .species-detail-card > div { padding: 8px 28px 8px 10px; }
   .species-detail-card strong { font-size: .75rem; }
   .species-detail-card small { font-size: .59rem; line-height: 1.4; }

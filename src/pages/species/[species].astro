@@ -137,8 +137,10 @@ export async function getStaticPaths() {
 
           return (
             <a class="species-detail-card" href={figureHref(figure)}>
-              <img src={imageFor(figure)} alt="" loading="lazy" />
-              <MakerCardBadges collectionStatus={figure.data.collectionStatus} />
+              <span class="species-detail-media">
+                <img src={imageFor(figure)} alt="" loading="lazy" />
+                <MakerCardBadges collectionStatus={figure.data.collectionStatus ?? titleForFigure(figure)?.data.collectionStatus} />
+              </span>
               <div>
                 <strong>{figure.data.title}</strong>
                 <small>{metadata.titleName}</small>
