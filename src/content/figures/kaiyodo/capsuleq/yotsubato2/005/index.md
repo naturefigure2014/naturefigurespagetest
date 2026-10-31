@@ -19,3 +19,4 @@ topics:
       - "yotsubatoshirokuro2_008.jpg"
     comment: |
       比較的小さな2種はセット。
+---
