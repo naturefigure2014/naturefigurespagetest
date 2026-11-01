@@ -1,10 +1,10 @@
 ---
-title: "3. 雪男（イエティ）"
+title: "雪男（イエティ）"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/UMA
 figureId: "003"
-species: "3. 雪男（イエティ）"
+species: "イエティ"
 speciesGroup: "UMA"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

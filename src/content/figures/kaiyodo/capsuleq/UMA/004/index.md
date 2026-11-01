@@ -1,10 +1,10 @@
 ---
-title: "4. ツチノコ"
+title: "ツチノコ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/UMA
 figureId: "004"
-species: "4. ツチノコ"
+species: "ツチノコ"
 speciesGroup: "UMA"
 maker: "海洋堂"
 sculptor: "菅谷 中"

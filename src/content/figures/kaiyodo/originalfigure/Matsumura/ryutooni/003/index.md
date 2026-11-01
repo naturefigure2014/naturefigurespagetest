@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "鬼"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "10,000円（キット版） 20,000円（完成品）"
 releaseStart: "-"
 genre:

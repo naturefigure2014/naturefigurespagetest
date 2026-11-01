@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "村井太郎（飼育員）、水田帆南（掃除用具）"
 executiveProducer: "-"
 species: "飼育員"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "500円/550円 造形総指揮：松村しのぶ"
 releaseStart: "2022.08"
 genre:

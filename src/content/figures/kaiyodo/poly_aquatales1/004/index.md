@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "イワトビペンギン"
-speciesGroup: 鳥類/ペンギン類
+speciesGroup: ペンギン類
 price: "1900円"
 releaseStart: "2013.04"
 genre:

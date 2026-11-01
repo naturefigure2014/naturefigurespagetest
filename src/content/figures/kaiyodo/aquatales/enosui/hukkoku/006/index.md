@@ -8,7 +8,7 @@ maker: "江の島ビーエフアイ株式会社"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "フンボルトペンギン"
-speciesGroup: "鳥類/ペンギン類"
+speciesGroup: "ペンギン類"
 price: "の高騰、そろそろ頭打ちになってくれませんかね。"
 releaseStart: "2015.03"
 genre:

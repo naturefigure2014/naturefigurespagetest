@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "イワトビペンギン"
-speciesGroup: "鳥類/ペンギン類"
+speciesGroup: "ペンギン類"
 price: "500円 造形製作：海洋堂 制作総指揮：松村しのぶ"
 releaseStart: "2019.10"
 genre:

@@ -69,7 +69,7 @@ speciesEntries:
   - species: "シノサウロプテリクス"
     speciesGroup: "獣脚類"
   - species: "リオプレウロドン"
-    speciesGroup: "古生物/海生爬虫類"
+    speciesGroup: "古代の海生爬虫類"
   - species: "アンハングェラ"
     speciesGroup: "翼竜類"
   - species: "ディメトロドン"

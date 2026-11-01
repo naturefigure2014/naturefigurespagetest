@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "カブトガニ"
-speciesGroup: "カニ類"
+speciesGroup: "その他節足動物"
 price: "-"
 releaseStart: "-"
 genre:

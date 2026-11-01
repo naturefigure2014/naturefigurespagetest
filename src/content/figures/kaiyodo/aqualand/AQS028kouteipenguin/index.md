@@ -10,7 +10,7 @@ seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
 species: コウテイペンギン
-speciesGroup: 鳥類/ペンギン類
+speciesGroup: ペンギン類
 price: "2,500円（再販）"
 releaseStart: "2011.07"
 genre:

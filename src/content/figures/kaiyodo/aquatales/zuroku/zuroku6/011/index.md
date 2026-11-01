@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎 スケール：1/15"
 executiveProducer: "松村しのぶ"
 species: "マゼランペンギン"
-speciesGroup: "鳥類/ペンギン類"
+speciesGroup: "ペンギン類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2013.04"
 genre:

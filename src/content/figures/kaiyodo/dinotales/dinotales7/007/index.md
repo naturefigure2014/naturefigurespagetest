@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "清水ゆう子"
 executiveProducer: "-"
 species: "エラスモサウルス"
-speciesGroup: "古生物/海生爬虫類"
+speciesGroup: "古代の海生爬虫類"
 price: "-"
 releaseStart: "2006.08"
 genre:

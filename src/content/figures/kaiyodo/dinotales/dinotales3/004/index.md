@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "プレシオサウルス"
-speciesGroup: "古生物/海生爬虫類"
+speciesGroup: "古代の海生爬虫類"
 price: "158円"
 releaseStart: "2002.07"
 genre:

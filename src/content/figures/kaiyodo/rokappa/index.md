@@ -7,7 +7,7 @@ sculptor: "松村しのぶ"
 executiveProducer: "-"
 seriesName: "-"
 species: "河童"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "3,000円"
 releaseStart: "2016.07"
 genre:

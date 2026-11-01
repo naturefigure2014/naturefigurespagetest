@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "村井太郎"
 executiveProducer: "-"
 species: "飼育員"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "5,500円"
 releaseStart: "2023.07"
 genre:

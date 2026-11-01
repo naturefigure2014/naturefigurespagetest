@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ミズクラゲ"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "200円 造形企画制作：海洋堂 公式サイト： コチラ"
 releaseStart: "2005.04"
 genre:

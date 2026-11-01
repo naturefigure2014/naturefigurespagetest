@@ -8,7 +8,7 @@ maker: "タカラ"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "ムラサキクラゲ"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "-"
 releaseStart: "2004.12"
 genre:

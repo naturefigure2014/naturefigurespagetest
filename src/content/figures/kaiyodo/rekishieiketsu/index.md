@@ -14,7 +14,7 @@ seriesName: "-"
 releaseStart: "-"
 price: "-"
 species: "武将"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 genre:
   - "-"
 tags:

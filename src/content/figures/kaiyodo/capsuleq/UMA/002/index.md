@@ -1,10 +1,10 @@
 ---
-title: "2. ネッシー"
+title: "ネッシー"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/UMA
 figureId: "002"
-species: "2. ネッシー"
+species: "ネッシー"
 speciesGroup: "UMA"
 maker: "海洋堂"
 sculptor: "山本聖士"

@@ -25,7 +25,7 @@ speciesEntries:
   - species: "プテラノドン"
     speciesGroup: "その他古生物"
   - species: "モササウルス"
-    speciesGroup: "古生物/海生爬虫類"
+    speciesGroup: "古代の海生爬虫類"
 genre:
   - "-"
 tags:

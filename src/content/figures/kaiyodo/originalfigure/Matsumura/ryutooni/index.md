@@ -14,7 +14,7 @@ seriesName: "-"
 releaseStart: "-"
 price: "10,000円（キット版） 20,000円（完成品）"
 species: "龍と鬼"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 genre:
   - "-"
 tags:

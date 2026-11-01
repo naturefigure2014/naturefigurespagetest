@@ -9,9 +9,9 @@ sculptor: "菅谷 中"
 executiveProducer: "-"
 speciesEntries:
   - species: "ウデフリツノザヤウミウシ"
-    speciesGroup: "その他/その他"
+    speciesGroup: "その他の動物"
   - species: "エリザベスウミウシ"
-    speciesGroup: "その他/その他"
+    speciesGroup: "その他の動物"
 price: "-"
 releaseStart: "2004.12"
 genre:

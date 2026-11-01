@@ -40,7 +40,7 @@ speciesEntries:
   - species: "プロトケラトプス"
     speciesGroup: "角竜類"
   - species: "メトリオリンクス"
-    speciesGroup: "古生物/海生爬虫類"
+    speciesGroup: "古代の海生爬虫類"
   - species: "ティタニス"
     speciesGroup: "その他古生物"
   - species: "クリオロフォサウルス"

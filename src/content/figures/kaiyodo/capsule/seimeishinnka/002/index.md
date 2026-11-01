@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "ダンクルオステウス"
-speciesGroup: "古生物/古代の魚類"
+speciesGroup: "古代の魚類"
 price: "400円 造形総指揮：松村しのぶ 造形企画制作：海洋堂"
 releaseStart: "2015.07"
 genre:

@@ -8,7 +8,7 @@ maker: "株式会社TBSグロウディア"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "モササウルス類"
-speciesGroup: "古生物/海生爬虫類"
+speciesGroup: "古代の海生爬虫類"
 price: "５００円"
 releaseStart: "-"
 genre:

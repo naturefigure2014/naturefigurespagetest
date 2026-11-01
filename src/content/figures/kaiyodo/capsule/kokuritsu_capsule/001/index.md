@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "フタバスズキリュウ"
-speciesGroup: "古生物/海生爬虫類"
+speciesGroup: "古代の海生爬虫類"
 price: "300円 監修：国立科学博物館"
 releaseStart: "2007.04"
 genre:

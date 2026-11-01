@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "リオプレウロドン"
-speciesGroup: "古生物/海生爬虫類"
+speciesGroup: "古代の海生爬虫類"
 price: "158円"
 releaseStart: "2001.12"
 genre:

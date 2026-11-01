@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yudokukikenn2
 figureId: "004"
-species: "ファイアサラマンダー（赤）"
+species: "ファイアサラマンダー"
 speciesGroup: "イモリ・サンショウウオ類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"

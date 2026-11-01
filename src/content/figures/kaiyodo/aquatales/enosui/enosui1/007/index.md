@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "タコクラゲ"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "200円 造形企画製作：海洋堂 公式サイト： コチラ"
 releaseStart: "2004.04"
 genre:

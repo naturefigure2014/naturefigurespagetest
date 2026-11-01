@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ スケール：1/15"
 executiveProducer: "松村しのぶ"
 species: "オウサマペンギン"
-speciesGroup: "鳥類/ペンギン類"
+speciesGroup: "ペンギン類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2011.07"
 genre:

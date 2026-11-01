@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "柵パーツ"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "500円/550円 造形総指揮：松村しのぶ"
 releaseStart: "2022.08"
 genre:

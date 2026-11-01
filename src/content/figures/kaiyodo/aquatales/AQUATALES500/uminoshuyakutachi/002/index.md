@@ -8,7 +8,7 @@ maker: "株式会社AQUA 造形企画制作：海洋堂 造形総指揮：松村
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ケープペンギン"
-speciesGroup: "鳥類/ペンギン類"
+speciesGroup: "ペンギン類"
 price: "500円"
 releaseStart: "2018.05"
 genre:

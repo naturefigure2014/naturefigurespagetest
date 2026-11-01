@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "プレシオサウルス"
-speciesGroup: "古生物/海生爬虫類"
+speciesGroup: "古代の海生爬虫類"
 price: "300円 造形総指揮：松村しのぶ"
 releaseStart: "2014.07"
 genre:

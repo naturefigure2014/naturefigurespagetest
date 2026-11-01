@@ -18,13 +18,13 @@ releaseStart: "2014.07"
 price: "300円 造形総指揮：松村しのぶ"
 speciesEntries:
   - species: "アーケロン"
-    speciesGroup: "古生物/海生爬虫類"
+    speciesGroup: "古代の海生爬虫類"
   - species: "イクチオサウルス"
-    speciesGroup: "古生物/海生爬虫類"
+    speciesGroup: "古代の海生爬虫類"
   - species: "プリオサウルス"
-    speciesGroup: "古生物/海生爬虫類"
+    speciesGroup: "古代の海生爬虫類"
   - species: "プレシオサウルス"
-    speciesGroup: "古生物/海生爬虫類"
+    speciesGroup: "古代の海生爬虫類"
 genre:
   - "-"
 tags:

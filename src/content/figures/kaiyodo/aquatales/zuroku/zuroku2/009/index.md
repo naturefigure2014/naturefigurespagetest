@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士 スケール：1/6"
 executiveProducer: "松村しのぶ"
 species: "ブルージェリーフィッシュ"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2008.08"
 genre:

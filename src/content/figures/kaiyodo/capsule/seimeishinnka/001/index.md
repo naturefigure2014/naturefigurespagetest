@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "アノマロカリス"
-speciesGroup: "古生物/古代の節足動物"
+speciesGroup: "古代の節足動物"
 price: "400円 造形総指揮：松村しのぶ 造形企画制作：海洋堂"
 releaseStart: "2015.07"
 genre:

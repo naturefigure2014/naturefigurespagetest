@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "ハサミムシ"
-speciesGroup: "その他の昆虫類"
+speciesGroup: "その他の昆虫"
 price: "300円 造形総指揮：松村しのぶ"
 releaseStart: "2015.04"
 genre:

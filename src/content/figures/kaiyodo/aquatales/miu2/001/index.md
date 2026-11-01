@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "ハオリムシ"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "-"
 releaseStart: "2001.09"
 genre:

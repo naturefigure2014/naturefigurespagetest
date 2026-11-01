@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "森 謙次"
 executiveProducer: "-"
 species: "侍大将"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "-"
 releaseStart: "-"
 genre:

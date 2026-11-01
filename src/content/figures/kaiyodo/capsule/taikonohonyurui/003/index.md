@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "ゴンフォテリウム"
-speciesGroup: "古生物/古代の哺乳類"
+speciesGroup: "古代の哺乳類"
 price: "500円"
 releaseStart: "-"
 genre:

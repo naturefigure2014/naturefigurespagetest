@@ -1,10 +1,10 @@
 ---
-title: "1. チュパカブラ"
+title: "チュパカブラ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/UMA
 figureId: "001"
-species: "1. チュパカブラ"
+species: "チュパカブラ"
 speciesGroup: "UMA"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

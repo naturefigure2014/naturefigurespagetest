@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アオウミウシ"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "-"
 releaseStart: "2002.02"
 genre:

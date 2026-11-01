@@ -30,7 +30,7 @@ speciesEntries:
   - species: "フアヤンゴサウルス"
     speciesGroup: "装盾類"
   - species: "エラスモサウルス"
-    speciesGroup: "古生物/海生爬虫類"
+    speciesGroup: "古代の海生爬虫類"
   - species: "アルシノイテリウム"
     speciesGroup: "その他古生物"
   - species: "プテリゴトゥス"

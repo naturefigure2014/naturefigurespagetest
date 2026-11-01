@@ -10,7 +10,7 @@ seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
 species: カモノハシ
-speciesGroup: 哺乳類/その他
+speciesGroup: その他哺乳類
 price: "-"
 releaseStart: "-"
 genre:

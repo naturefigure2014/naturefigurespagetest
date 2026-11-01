@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中 スケール：1/25"
 executiveProducer: "松村しのぶ"
 species: "シーネットル"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2012.05"
 genre:

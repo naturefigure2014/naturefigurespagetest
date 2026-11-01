@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "タコクラゲ"
-speciesGroup: その他/その他
+speciesGroup: その他の動物
 price: "1900円"
 releaseStart: "2013.07"
 genre:

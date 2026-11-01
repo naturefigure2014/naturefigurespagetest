@@ -8,7 +8,7 @@ maker: "江の島ビーエフアイ株式会社"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ミズクラゲ"
-speciesGroup: "その他/その他"
+speciesGroup: "その他の動物"
 price: "の高騰、そろそろ頭打ちになってくれませんかね。"
 releaseStart: "2015.03"
 genre:
