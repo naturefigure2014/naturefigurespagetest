@@ -9,7 +9,7 @@ sculptor: "佐藤 拓"
 seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
-species: ピラルク
+species: ピラルクー
 speciesGroup: 古代魚類
 price: "1500円"
 releaseStart: "-"

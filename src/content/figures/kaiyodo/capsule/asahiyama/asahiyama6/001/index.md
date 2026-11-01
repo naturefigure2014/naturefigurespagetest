@@ -8,7 +8,7 @@ maker: "ケンエレファント 企画：旭川市/ケンエレファント"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 speciesEntries:
-  - species: "キングペンギン"
+  - species: "オウサマペンギン"
     speciesGroup: "ペンギン類"
   - species: "ジェンツーペンギン"
     speciesGroup: "ペンギン類"

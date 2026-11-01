@@ -7,7 +7,7 @@ figureId: "001"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
-species: "ハンドウイルカ"
+species: "バンドウイルカ"
 speciesGroup: クジラ・イルカ類
 price: "1900円"
 releaseStart: "2013.04"

@@ -10,7 +10,7 @@ executiveProducer: "-"
 speciesEntries:
   - species: "キタジェンツーペンギン"
     speciesGroup: "ペンギン類"
-  - species: "キングペンギン"
+  - species: "オウサマペンギン"
     speciesGroup: "ペンギン類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2009.11"
