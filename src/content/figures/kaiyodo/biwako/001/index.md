@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ニホンアマガエル"
-speciesGroup: "ニホンアマガエル"
+speciesGroup: "両生類"
 price: "840円"
 releaseStart: "-"
 genre:

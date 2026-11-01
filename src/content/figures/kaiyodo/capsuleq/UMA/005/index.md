@@ -1,10 +1,10 @@
 ---
-title: "5. カッパ"
+title: "カッパ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/UMA
 figureId: "005"
-species: "5. カッパ"
+species: "カッパ"
 speciesGroup: "妖怪"
 maker: "海洋堂"
 sculptor: "松本栄一郎"

@@ -1,10 +1,10 @@
 ---
-title: "2.河童"
+title: "カッパ"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/hokusai
 figureId: "002"
-species: "2.河童"
+species: "カッパ"
 speciesGroup: "妖怪"
 maker: "海洋堂"
 figureTopImage: "hokusai003.jpg"
