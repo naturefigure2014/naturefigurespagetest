@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi
 figureId: "003"
-maker: "株式会社AQUA 造形企画制作：海洋堂 造形総指揮：松村しのぶ"
+maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "トラフカラッパ"

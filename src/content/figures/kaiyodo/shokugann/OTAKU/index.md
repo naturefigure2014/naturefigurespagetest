@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/shokugann/OTAKU
 kind: series
-maker: "-"
+maker: "海洋堂"
 figureIds: []
 executiveProducer: "-"
 seriesName: "-"

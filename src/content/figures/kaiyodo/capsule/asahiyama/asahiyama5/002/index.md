@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/asahiyama/asahiyama5
 figureId: "002"
-maker: "タカラトミー"
+maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "アミメキリン"

@@ -2,7 +2,7 @@
 title: "白ツチノコ （槌の子/アルビノ）"
 description: ""
 contentType: figure
-maker:
+maker: "海洋堂"
   - "海洋堂"
   - "ユニオンクリエイティブ"
 figureId: "015B"

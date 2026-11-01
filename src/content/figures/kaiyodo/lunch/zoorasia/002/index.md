@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/lunch/zoorasia
 figureId: "002"
-maker: "北陸製菓"
+maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "松村しのぶ"
 species: "インドゾウ"

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/cap_miyage/Chiba
 figureId: "003"
-maker: "JR東日本リテールネット 造形・企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "アジアゾウ"

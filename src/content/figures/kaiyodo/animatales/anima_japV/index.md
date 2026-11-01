@@ -5,7 +5,7 @@ title2: 琵琶湖/母なる古代湖
 description: ""
 contentType: title
 kind: series
-maker: 海洋堂
+maker: "海洋堂"
 series:
   - capsuleq
 seriesName:

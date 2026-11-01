@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/startales/ouritsu_EX
 kind: series
-maker: "-"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/startales/ouritsu_EX/001
   - kaiyodo/startales/ouritsu_EX/002

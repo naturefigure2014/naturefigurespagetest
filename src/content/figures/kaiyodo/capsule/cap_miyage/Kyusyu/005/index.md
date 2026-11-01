@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/cap_miyage/Kyusyu
 figureId: "005"
-maker: "JR九州エージェンシー(株) 企画制作・発売元：(株)ケンエレファント"
+maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "[鹿児島] 西郷隆盛銅像"

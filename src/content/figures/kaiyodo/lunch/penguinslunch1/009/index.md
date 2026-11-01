@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/lunch/penguinslunch1
 figureId: "009"
-maker: "北陸製菓株式会社 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "オオウミガラス"

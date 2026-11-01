@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/tennoji
 figureId: "001"
-maker: "ケンエレファント 制作協力：Gallery Cafe *kirin*"
+maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "ホッキョクグマ"

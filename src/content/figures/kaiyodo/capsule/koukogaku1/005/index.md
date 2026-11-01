@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/koukogaku1
 figureId: "005"
-maker: "ケンエレファント 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "ボーメ"
 executiveProducer: "-"
 species: "5. 埴輪 踊る人々（大）"

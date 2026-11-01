@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/kyoryuhaku2019
 figureId: "004"
-maker: "株式会社TBSグロウディア"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "モササウルス類"

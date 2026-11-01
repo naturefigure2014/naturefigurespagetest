@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/shokugann/gekisen
 figureId: "005"
-maker: "UHA味覚糖 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "杉田 晋"
 executiveProducer: "-"
 species: "-"

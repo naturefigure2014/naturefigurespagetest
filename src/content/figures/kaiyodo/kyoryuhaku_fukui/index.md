@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/kyoryuhaku_fukui
 kind: series
-maker: "(株)ノムラデベロプメント"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/kyoryuhaku_fukui/001
   - kaiyodo/kyoryuhaku_fukui/002

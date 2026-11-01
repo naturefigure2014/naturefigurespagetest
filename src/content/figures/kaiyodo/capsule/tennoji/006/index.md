@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/tennoji
 figureId: "006"
-maker: "ケンエレファント 制作協力：Gallery Cafe *kirin*"
+maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "梱包材"

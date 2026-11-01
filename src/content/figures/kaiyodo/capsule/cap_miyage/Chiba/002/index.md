@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/cap_miyage/Chiba
 figureId: "002"
-maker: "JR東日本リテールネット 造形・企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "渡辺結樹 (G-tempest)"
 executiveProducer: "-"
 species: "八街落花生"

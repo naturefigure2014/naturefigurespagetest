@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/cap_miyage/Fukuoka
 figureId: "003"
-maker: "(株)ケンエレファント 造形企画制作：海洋堂 企画・販売元：(株)ヘソプロダクション"
+maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "金印「漢委奴国王」"

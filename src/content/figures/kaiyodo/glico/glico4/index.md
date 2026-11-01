@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/glico/glico4
 kind: series
-maker: "-"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/glico/glico4/001
   - kaiyodo/glico/glico4/002

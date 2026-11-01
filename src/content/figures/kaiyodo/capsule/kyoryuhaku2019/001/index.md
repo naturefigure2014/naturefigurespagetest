@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/kyoryuhaku2019
 figureId: "001"
-maker: "株式会社TBSグロウディア"
+maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "デイノケイルス"

@@ -2,7 +2,7 @@
 title: "1/35 スケールソフトビニールキット トリケラトプス"
 description: ""
 contentType: figure
-maker: "-"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 seriesName: "DINOLAND DINOSAURUS MODEL COLLECTION "

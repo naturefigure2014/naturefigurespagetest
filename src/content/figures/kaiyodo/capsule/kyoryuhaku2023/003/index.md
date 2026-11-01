@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/kyoryuhaku2023
 figureId: "003"
-maker: "株式会社TBSグロウディア"
+maker: "海洋堂"
 sculptor: "杉本・F・ダイチ"
 executiveProducer: "-"
 species: "ゴルゴサウルス"

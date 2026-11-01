@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/koukogaku1
 figureId: "004"
-maker: "ケンエレファント 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "村田明玄"
 executiveProducer: "-"
 species: "4. 埴輪 犬"

@@ -5,7 +5,7 @@ title2: 八重山諸島/ヤマネコの島
 description: ""
 contentType: title
 kind: series
-maker: 海洋堂
+maker: "海洋堂"
 series:
   - capsuleq
 seriesName:

@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/miniQ/gakibonkei
 kind: series
-maker: "ユニオンクリエイティブ"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/miniQ/gakibonkei/001
   - kaiyodo/capsule/miniQ/gakibonkei/002

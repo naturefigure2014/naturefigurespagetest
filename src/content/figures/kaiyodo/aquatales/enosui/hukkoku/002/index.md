@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/enosui/hukkoku
 figureId: "002"
-maker: "江の島ビーエフアイ株式会社"
+maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "マイワシ"

@@ -5,7 +5,7 @@ title2: 東北/北限のサル
 description: ""
 contentType: title
 kind: series
-maker: 海洋堂
+maker: "海洋堂"
 series:
   - capsuleq
 seriesName:

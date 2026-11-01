@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/cap_miyage/Kyusyu
 figureId: "003"
-maker: "JR九州エージェンシー(株) 企画制作・発売元：(株)ケンエレファント"
+maker: "海洋堂"
 sculptor: "村田明玄"
 executiveProducer: "-"
 species: "[佐賀] 吉野ヶ里遺跡"

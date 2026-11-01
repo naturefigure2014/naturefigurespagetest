@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/SouvenirOfNippon/Tradition
 figureId: "004"
-maker: "ケンエレファント 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "村田明玄"
 executiveProducer: "-"
 species: "文楽人形"

@@ -3,7 +3,7 @@ title: "DINOLAND[ダイノランド]"
 description: ""
 contentType: title
 kind: series
-maker: 海洋堂
+maker: "海洋堂"
 series:
   - dinoland
 seriesName: DINOLAND

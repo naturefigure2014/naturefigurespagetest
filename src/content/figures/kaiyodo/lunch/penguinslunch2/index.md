@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/lunch/penguinslunch2
 kind: series
-maker: "北陸製菓株式会社 造形企画制作：海洋堂"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/lunch/penguinslunch2/001
   - kaiyodo/lunch/penguinslunch2/002

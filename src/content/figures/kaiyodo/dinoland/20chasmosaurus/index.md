@@ -1,7 +1,7 @@
 ---
 title: "DINOLAND 1/20カスモサウルス"
 description: ""
-maker: 海洋堂
+maker: "海洋堂"
 titleId: kaiyodo/dinoland
 figureId: ""
 species: "カスモサウルス"

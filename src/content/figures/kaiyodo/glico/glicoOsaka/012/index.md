@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/glico/glicoOsaka
 figureId: "012"
-maker: "江崎グリコ フィギュアプロデュース：海洋堂"
+maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "-"

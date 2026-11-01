@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/lunch/penguinslunch2
 figureId: "002"
-maker: "北陸製菓株式会社 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "ロイヤルペンギン"

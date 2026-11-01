@@ -6,7 +6,7 @@ figureId: ""
 species: "ティラノサウルス"
 speciesGroup: "獣脚類"
 contentType: figure
-maker: 海洋堂
+maker: "海洋堂"
 price: "1,800円"
 sculptor: "松村しのぶ"
 coverImage: "img/tyrannosaurus001.jpg"

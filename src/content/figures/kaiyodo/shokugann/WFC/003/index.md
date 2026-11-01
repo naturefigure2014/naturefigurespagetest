@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/shokugann/WFC
 figureId: "003"
-maker: "-"
+maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "ヘラクレスオオカブト"

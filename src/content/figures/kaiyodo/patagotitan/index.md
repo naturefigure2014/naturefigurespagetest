@@ -2,7 +2,7 @@
 title: "海洋堂高知 ポリストーン製塗装済完成品 パタゴティタン・マヨルム骨格レリーフモデル"
 description: ""
 contentType: figure
-maker: "ニュートラルコーポレーション"
+maker: "海洋堂"
 sculptor: "吉良かずや 監修：福井県立恐竜博物館"
 executiveProducer: "-"
 seriesName: "-"

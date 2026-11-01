@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/mummy2019
 figureId: "002"
-maker: "株式会社TBSテレビ Presented by 海洋堂"
+maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
 species: "2 若い女性ミイラ"

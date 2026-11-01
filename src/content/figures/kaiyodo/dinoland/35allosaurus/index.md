@@ -2,7 +2,7 @@
 title: "DINOLAND 1/35スケールソフトビニールキット [アロサウルス]"
 description: ""
 contentType: figure
-maker: "-"
+maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 seriesName: "DINOLAND DINOSAURUS MODEL COLLECTION"

@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/glico/glicoOsaka
 kind: series
-maker: "江崎グリコ フィギュアプロデュース：海洋堂"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/glico/glicoOsaka/001
   - kaiyodo/glico/glicoOsaka/002

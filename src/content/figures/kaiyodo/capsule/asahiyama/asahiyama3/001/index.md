@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/asahiyama/asahiyama3
 figureId: "001"
-maker: "タカラトミー"
+maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "エゾシカ"

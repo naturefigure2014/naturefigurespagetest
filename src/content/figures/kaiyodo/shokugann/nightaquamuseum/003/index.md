@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/shokugann/nightaquamuseum
 figureId: "003"
-maker: "タカラ"
+maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "ミジンコ"

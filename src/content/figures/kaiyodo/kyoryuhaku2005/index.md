@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/kyoryuhaku2005
 kind: series
-maker: "-"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/kyoryuhaku2005/001
   - kaiyodo/kyoryuhaku2005/002

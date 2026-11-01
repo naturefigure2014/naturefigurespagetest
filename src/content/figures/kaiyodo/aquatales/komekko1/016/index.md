@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1
 figureId: "016"
-maker: "-"
+maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "ダイバー(黄)＆マンタ"

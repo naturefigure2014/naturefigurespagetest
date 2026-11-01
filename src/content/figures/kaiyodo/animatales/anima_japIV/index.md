@@ -5,7 +5,7 @@ title2: 四国/最後の清流の郷
 description: ""
 contentType: title
 kind: series
-maker: 海洋堂
+maker: "海洋堂"
 series:
   - capsuleq
 seriesName:

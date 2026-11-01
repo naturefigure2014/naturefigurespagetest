@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/cap_miyage/Chiba
 kind: series
-maker: "JR東日本リテールネット 造形・企画制作：海洋堂"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/cap_miyage/Chiba/001
   - kaiyodo/capsule/cap_miyage/Chiba/002

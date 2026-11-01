@@ -2,7 +2,7 @@
 title: "オオサンショウウオ 明色 (大山椒魚 明色)"
 description: ""
 contentType: figure
-maker:
+maker: "海洋堂"
   - "海洋堂"
   - "ユニオンクリエイティブ"
 figureId: "010A"

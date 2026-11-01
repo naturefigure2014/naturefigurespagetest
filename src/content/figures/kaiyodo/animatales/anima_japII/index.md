@@ -5,7 +5,7 @@ title2: 沖縄奄美/やんばるの森
 description: ""
 contentType: title
 kind: series
-maker: 海洋堂
+maker: "海洋堂"
 series:
   - capsuleq
 seriesName:

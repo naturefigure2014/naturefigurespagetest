@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/shokugann/gekisen
 kind: series
-maker: "UHA味覚糖 造形企画制作：海洋堂"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/shokugann/gekisen/001
   - kaiyodo/shokugann/gekisen/002

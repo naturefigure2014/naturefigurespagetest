@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/startales/ouritsu_mono
 kind: series
-maker: "-"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/startales/ouritsu_mono/001
   - kaiyodo/startales/ouritsu_mono/002

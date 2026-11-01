@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/TOMAMU
 figureId: "003"
-maker: "星野リゾートトマム"
+maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "水の協会"

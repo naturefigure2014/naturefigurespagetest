@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/lunch/zoorasia
 kind: series
-maker: "北陸製菓"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/lunch/zoorasia/001
   - kaiyodo/lunch/zoorasia/002

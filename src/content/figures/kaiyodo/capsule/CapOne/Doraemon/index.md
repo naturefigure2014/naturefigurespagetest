@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/CapOne/Doraemon
 kind: series
-maker: "海洋堂 公式サイト： コチラ"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/CapOne/Doraemon/001
   - kaiyodo/capsule/CapOne/Doraemon/002

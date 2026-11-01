@@ -6,7 +6,7 @@ figureId: ""
 species: "ディメトロドン"
 speciesGroup: "その他古生物"
 contentType: figure
-maker: 海洋堂
+maker: "海洋堂"
 price: "1800円"
 sculptor: "山崎　繁　価格：1800円"
 coverImage: "img/dimetoro_p002.jpg"

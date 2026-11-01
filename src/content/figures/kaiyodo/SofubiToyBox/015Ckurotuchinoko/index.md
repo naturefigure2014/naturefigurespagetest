@@ -2,7 +2,7 @@
 title: "黒ツチノコ （槌の子/黒）"
 description: ""
 contentType: figure
-maker:
+maker: "海洋堂"
   - "海洋堂"
   - "ユニオンクリエイティブ"
 figureId: "015C"

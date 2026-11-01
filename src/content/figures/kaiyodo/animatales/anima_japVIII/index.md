@@ -5,7 +5,7 @@ title2: 日本アルプス／雷鳥の棲む岳
 description: ""
 contentType: title
 kind: series
-maker: 海洋堂
+maker: "海洋堂"
 series:
   - capsuleq
 seriesName:

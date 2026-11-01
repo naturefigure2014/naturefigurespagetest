@@ -6,7 +6,7 @@ figureId: ""
 species: "ステゴサウルス"
 speciesGroup: "装盾類"
 contentType: figure
-maker: 海洋堂
+maker: "海洋堂"
 sculptor: "木下隆志"
 coverImage: "img/stegosaurus001.jpg"
 topics:

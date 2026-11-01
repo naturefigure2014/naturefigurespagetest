@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/shokugann/WFC
 figureId: "001"
-maker: "-"
+maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "セイスモサウルス"

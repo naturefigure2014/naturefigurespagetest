@@ -6,7 +6,7 @@ figureId: ""
 species: "トリケラトプス"
 speciesGroup: "角竜類"
 contentType: figure
-maker: 海洋堂
+maker: "海洋堂"
 sculptor: "木下隆志"
 coverImage: "img/triceratops001.jpg"
 topics:

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/asahiyama/asahiyama5
 figureId: "006"
-maker: "タカラトミー"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ニホンアマガエル"

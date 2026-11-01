@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/cap_miyage/Fukuoka
 figureId: "005"
-maker: "(株)ケンエレファント 造形企画制作：海洋堂 企画・販売元：(株)ヘソプロダクション"
+maker: "海洋堂"
 sculptor: "かたやまひろし モデルイラスト制作：BLACKBOX"
 executiveProducer: "-"
 species: "博多華丸・大吉"

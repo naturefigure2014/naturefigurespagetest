@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/koukogaku1
 figureId: "001"
-maker: "ケンエレファント 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "1. 遮光器土偶"

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/CapOne/Doraemon
 figureId: "004"
-maker: "海洋堂 公式サイト： コチラ"
+maker: "海洋堂"
 sculptor: "Studio 蓮"
 executiveProducer: "-"
 species: "ドラえもん《ポケットサーチ》"

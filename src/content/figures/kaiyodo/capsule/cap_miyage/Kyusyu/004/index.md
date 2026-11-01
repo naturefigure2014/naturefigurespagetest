@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/cap_miyage/Kyusyu
 figureId: "004"
-maker: "JR九州エージェンシー(株) 企画制作・発売元：(株)ケンエレファント"
+maker: "海洋堂"
 sculptor: "市原俊成"
 executiveProducer: "-"
 species: "[長崎] 軍艦島"

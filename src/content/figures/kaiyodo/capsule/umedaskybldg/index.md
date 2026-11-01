@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/umedaskybldg
 kind: series
-maker: "積水ハウス梅田オペレーション株式会社 協力：遠藤秀平建築研究所 監修：橋爪紳也（建築史家・大阪府立大学教授）"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/umedaskybldg/001
   - kaiyodo/capsule/umedaskybldg/002

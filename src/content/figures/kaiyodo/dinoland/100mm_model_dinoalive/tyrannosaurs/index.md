@@ -2,7 +2,7 @@
 title: "ティラノサウルス＆トリケラトプス"
 description: ""
 contentType: figure
-maker: "-"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ティラノサウルス"

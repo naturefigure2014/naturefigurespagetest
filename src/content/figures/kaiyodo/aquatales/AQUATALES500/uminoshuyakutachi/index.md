@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi
 kind: series
-maker: "株式会社AQUA 造形企画制作：海洋堂 造形総指揮：松村しのぶ"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi/001
   - kaiyodo/aquatales/AQUATALES500/uminoshuyakutachi/002

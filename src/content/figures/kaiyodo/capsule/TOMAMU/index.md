@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/TOMAMU
 kind: series
-maker: "星野リゾートトマム"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/TOMAMU/001
   - kaiyodo/capsule/TOMAMU/002

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/umedaskybldg
 figureId: "001"
-maker: "積水ハウス梅田オペレーション株式会社 協力：遠藤秀平建築研究所 監修：橋爪紳也（建築史家・大阪府立大学教授）"
+maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "デイタイムビュー"

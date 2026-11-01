@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/aquatales/komekko2
 kind: series
-maker: "-"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/aquatales/komekko2/001
   - kaiyodo/aquatales/komekko2/002

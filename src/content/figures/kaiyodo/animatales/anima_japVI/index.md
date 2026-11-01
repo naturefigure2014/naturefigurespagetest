@@ -5,7 +5,7 @@ title2: 北海道/蝦夷地の哺乳類
 description: ""
 contentType: title
 kind: series
-maker: 海洋堂
+maker: "海洋堂"
 series:
   - capsuleq
 seriesName:

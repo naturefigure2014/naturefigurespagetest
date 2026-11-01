@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/koukogaku1
 figureId: "003"
-maker: "ケンエレファント 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "ボーメ"
 executiveProducer: "-"
 species: "3. 人面付壺形土器"

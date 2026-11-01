@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/asahiyama/asahiyama6
 figureId: "006"
-maker: "ケンエレファント 企画：旭川市/ケンエレファント"
+maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "シロフクロウ"

@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/cap_miyage/Fukuoka
 kind: series
-maker: "(株)ケンエレファント 造形企画制作：海洋堂 企画・販売元：(株)ヘソプロダクション"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/cap_miyage/Fukuoka/001
   - kaiyodo/capsule/cap_miyage/Fukuoka/002

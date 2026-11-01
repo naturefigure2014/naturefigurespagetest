@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/CapOne/Doraemon
 figureId: "002"
-maker: "海洋堂 公式サイト： コチラ"
+maker: "海洋堂"
 sculptor: "香川雅彦"
 executiveProducer: "-"
 species: "タケコプターで大空に"

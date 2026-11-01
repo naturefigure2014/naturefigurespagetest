@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/shokugann/nightaquamuseum
 figureId: "007"
-maker: "タカラ"
+maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "ハマクマノミ"

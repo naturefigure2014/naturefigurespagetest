@@ -6,7 +6,7 @@ figureId: ""
 species: "ヴェロキラプトル"
 speciesGroup: "獣脚類"
 contentType: figure
-maker: 海洋堂
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 coverImage: "img/raptor003.jpg"
 topics:

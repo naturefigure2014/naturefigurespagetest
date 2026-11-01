@@ -6,7 +6,7 @@ figureId: ""
 species: "モササウルス"
 speciesGroup: "古代の海生爬虫類"
 contentType: figure
-maker: 海洋堂
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 coverImage: "img/mosa004.jpg"
 topics:

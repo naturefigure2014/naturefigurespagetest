@@ -2,7 +2,7 @@
 title: "1/35 スケールソフトビニールキット ステゴサウルス"
 description: ""
 contentType: figure
-maker: "-"
+maker: "海洋堂"
 sculptor: "山下伸一"
 executiveProducer: "-"
 seriesName: "DINOLAND DINOSAURUS MODEL COLLECTION"

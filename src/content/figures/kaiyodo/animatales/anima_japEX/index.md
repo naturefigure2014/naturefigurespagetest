@@ -5,7 +5,7 @@ title2: 外来生物/新たな仲間たち
 description: ""
 contentType: title
 kind: series
-maker: 海洋堂
+maker: "海洋堂"
 series:
   - capsuleq
 seriesName:

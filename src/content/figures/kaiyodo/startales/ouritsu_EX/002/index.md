@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/startales/ouritsu_EX
 figureId: "002"
-maker: "-"
+maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "-"

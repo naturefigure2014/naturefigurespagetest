@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/shokugann/WFC
 figureId: "004"
-maker: "-"
+maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "-"

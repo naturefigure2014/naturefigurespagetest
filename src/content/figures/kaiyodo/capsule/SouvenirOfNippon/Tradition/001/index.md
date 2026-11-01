@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/SouvenirOfNippon/Tradition
 figureId: "001"
-maker: "ケンエレファント 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "市原俊成"
 executiveProducer: "-"
 species: "五重塔（奈良・元興寺）"

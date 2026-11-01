@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/shokugann/WFC
 kind: series
-maker: "-"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/shokugann/WFC/001
   - kaiyodo/shokugann/WFC/002

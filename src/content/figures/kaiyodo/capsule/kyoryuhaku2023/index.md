@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/kyoryuhaku2023
 kind: series
-maker: "株式会社TBSグロウディア"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/kyoryuhaku2023/001
   - kaiyodo/capsule/kyoryuhaku2023/002

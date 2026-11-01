@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko2
 figureId: "012"
-maker: "-"
+maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "ザトウクジラ"

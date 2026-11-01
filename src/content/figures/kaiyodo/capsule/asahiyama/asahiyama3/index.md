@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/asahiyama/asahiyama3
 kind: series
-maker: "タカラトミー"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/asahiyama/asahiyama3/001
   - kaiyodo/capsule/asahiyama/asahiyama3/002

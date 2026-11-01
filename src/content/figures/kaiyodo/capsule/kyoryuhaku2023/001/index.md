@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/kyoryuhaku2023
 figureId: "001"
-maker: "株式会社TBSグロウディア"
+maker: "海洋堂"
 sculptor: "ねんど星人（RYO）"
 executiveProducer: "-"
 species: "ズール"

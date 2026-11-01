@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/aquatales/enosui/hukkoku
 kind: series
-maker: "江の島ビーエフアイ株式会社"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/aquatales/enosui/hukkoku/001
   - kaiyodo/aquatales/enosui/hukkoku/002

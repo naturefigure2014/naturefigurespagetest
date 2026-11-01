@@ -6,7 +6,7 @@ figureId: ""
 species: "バロサウルス"
 speciesGroup: "竜脚類"
 contentType: figure
-maker: 海洋堂
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 coverImage: "img/barosaurus001.jpg"
 topics:

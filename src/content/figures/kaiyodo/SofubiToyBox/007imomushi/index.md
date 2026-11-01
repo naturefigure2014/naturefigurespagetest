@@ -2,7 +2,7 @@
 title: "イモムシ (ナミアゲハ５令幼虫)"
 description: ""
 contentType: figure
-maker:
+maker: "海洋堂"
   - "海洋堂"
   - "ユニオンクリエイティブ"
 figureId: "007"

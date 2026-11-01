@@ -2,7 +2,7 @@
 title: "海洋堂かっぱ館限定 老河伯 未塗装レジンキャストキット"
 description: ""
 contentType: figure
-maker: "-"
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 seriesName: "-"

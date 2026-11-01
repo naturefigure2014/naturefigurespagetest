@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/koukogaku1
 kind: series
-maker: "ケンエレファント 造形企画制作：海洋堂"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/koukogaku1/001
   - kaiyodo/capsule/koukogaku1/002

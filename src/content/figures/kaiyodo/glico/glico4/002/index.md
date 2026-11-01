@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/glico/glico4
 figureId: "002"
-maker: "-"
+maker: "海洋堂"
 sculptor: "米良健一郎"
 executiveProducer: "-"
 species: "-"

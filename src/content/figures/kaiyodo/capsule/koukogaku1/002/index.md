@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/koukogaku1
 figureId: "002"
-maker: "ケンエレファント 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "2. 袈裟襷文銅鐸"

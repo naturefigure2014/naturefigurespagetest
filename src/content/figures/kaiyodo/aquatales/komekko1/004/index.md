@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/aquatales/komekko1
 figureId: "004"
-maker: "-"
+maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "メカジキ"

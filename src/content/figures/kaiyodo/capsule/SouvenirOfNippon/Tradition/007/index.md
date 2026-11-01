@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/SouvenirOfNippon/Tradition
 figureId: "007"
-maker: "ケンエレファント 造形企画制作：海洋堂"
+maker: "海洋堂"
 sculptor: "香川雅彦"
 executiveProducer: "-"
 species: "忍者"

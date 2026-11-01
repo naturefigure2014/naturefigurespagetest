@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/kyoryuhaku_fukui
 figureId: "001"
-maker: "(株)ノムラデベロプメント"
+maker: "海洋堂"
 sculptor: "荒木一成"
 executiveProducer: "-"
 species: "フクイラプトル"

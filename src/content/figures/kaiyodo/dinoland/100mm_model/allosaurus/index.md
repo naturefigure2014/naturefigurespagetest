@@ -6,7 +6,7 @@ figureId: ""
 species: "アロサウルス"
 speciesGroup: "獣脚類"
 contentType: figure
-maker: 海洋堂
+maker: "海洋堂"
 sculptor: "松村しのぶ"
 coverImage: "img/allo007.jpg"
 topics:

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/miniQ/gakibonkei
 figureId: "005"
-maker: "ユニオンクリエイティブ"
+maker: "海洋堂"
 sculptor: "香川雅彦"
 executiveProducer: "-"
 species: "トカゲ"

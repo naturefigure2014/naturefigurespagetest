@@ -5,7 +5,7 @@ title2: 東京/巨大都市と離島
 description: ""
 contentType: title
 kind: series
-maker: 海洋堂
+maker: "海洋堂"
 series:
   - capsuleq
 seriesName:

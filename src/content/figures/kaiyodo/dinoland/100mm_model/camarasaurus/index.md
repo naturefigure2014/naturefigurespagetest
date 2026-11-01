@@ -6,7 +6,7 @@ figureId: "DIS-10"
 species: "カマラサウルス"
 speciesGroup: "竜脚類"
 contentType: figure
-maker: 海洋堂
+maker: "海洋堂"
 sculptor: "???"
 coverImage: "img/camara001.jpg"
 topics:

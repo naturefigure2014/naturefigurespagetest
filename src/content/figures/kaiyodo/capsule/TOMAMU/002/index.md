@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsule/TOMAMU
 figureId: "002"
-maker: "星野リゾートトマム"
+maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
 species: "アイスヴィレッジ"

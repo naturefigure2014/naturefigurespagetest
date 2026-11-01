@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: kaiyodo/capsule/cap_miyage/Kyusyu
 kind: series
-maker: "JR九州エージェンシー(株) 企画制作・発売元：(株)ケンエレファント"
+maker: "海洋堂"
 figureIds:
   - kaiyodo/capsule/cap_miyage/Kyusyu/001
   - kaiyodo/capsule/cap_miyage/Kyusyu/002

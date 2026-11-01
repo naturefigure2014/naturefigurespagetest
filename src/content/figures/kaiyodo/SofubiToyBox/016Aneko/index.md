@@ -2,7 +2,7 @@
 title: "ネコ マンチカン"
 description: ""
 contentType: figure
-maker:
+maker: "海洋堂"
   - "海洋堂"
   - "ユニオンクリエイティブ"
 figureId: "016A"
