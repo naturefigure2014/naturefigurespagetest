@@ -41,7 +41,7 @@ const figures = defineCollection({
     figureIds: z.array(z.string()).default([]),
     speciesEntries: z.array(z.object({
       species: z.string(),
-      speciesGroup: z.string()
+      speciesGroup: z.string().optional()
     })).default([]),
     collectionImage: z.union([z.string(), z.number()]).optional(),
     // 個別フィギュアページ専用の集合写真（collectionImageより小さく表示）
@@ -186,3 +186,4 @@ const makers = defineCollection({
 });
 
 export const collections = { figures, works, blog, makers };
+
