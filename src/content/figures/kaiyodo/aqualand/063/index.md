@@ -4,6 +4,7 @@ title: "タテゴトアザラシ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/063
 figureId: "AQM-063"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

@@ -4,6 +4,7 @@ title: "クロカジキ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/082
 figureId: "AQS-082"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

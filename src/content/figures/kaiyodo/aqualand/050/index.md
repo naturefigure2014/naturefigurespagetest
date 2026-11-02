@@ -4,6 +4,7 @@ title: "ワシバナトビエイ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/050
 figureId: "AQS-050"
 maker: "海洋堂"
 sculptor: "？？？"

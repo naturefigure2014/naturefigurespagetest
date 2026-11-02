@@ -4,6 +4,7 @@ title: "オオヒキガエル"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/075
 figureId: "AQS-075"
 maker: "海洋堂"
 sculptor: "寺岡邦明"

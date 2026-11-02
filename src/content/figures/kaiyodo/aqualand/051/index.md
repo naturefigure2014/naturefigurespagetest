@@ -4,6 +4,7 @@ title: "ヨシキリザメ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/051
 figureId: "AQM-051"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

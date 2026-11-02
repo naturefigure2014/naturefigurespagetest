@@ -4,6 +4,7 @@ title: "オニイトマキエイ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/071
 figureId: "AQS-071"
 maker: "海洋堂"
 sculptor: "？？？"

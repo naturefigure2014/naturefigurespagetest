@@ -4,6 +4,7 @@ title: "アリゲーターガー"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/095
 figureId: "AQS-095"
 maker: "海洋堂"
 sculptor: "？？？"

@@ -4,6 +4,7 @@ title: "ラッコ（水中）"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/065
 figureId: "AQS-065"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

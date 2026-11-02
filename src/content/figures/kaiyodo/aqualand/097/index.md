@@ -4,6 +4,7 @@ title: "ピラニア・ナッテリィ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/097
 figureId: "AQS-097"
 maker: "海洋堂"
 sculptor: "？？？"

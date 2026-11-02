@@ -4,6 +4,7 @@ title: "メカジキ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/052
 figureId: "AQM-052"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

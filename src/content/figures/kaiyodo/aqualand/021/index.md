@@ -4,6 +4,7 @@ title: "シーラカンス"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/021
 figureId: "AQS-021"
 maker: "海洋堂"
 sculptor: "佐藤 拓"

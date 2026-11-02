@@ -4,6 +4,7 @@ title: "マガレイ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/093
 figureId: "AQS-093"
 maker: "海洋堂"
 sculptor: "？？？"

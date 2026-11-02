@@ -4,6 +4,7 @@ title: "ジンベエザメ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
+titleId: kaiyodo/aqualand/088
 figureId: "AQL-088"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
