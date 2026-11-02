@@ -3,7 +3,7 @@ collectionStatus: "notOwned"
 title: "インドガビアル"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand
+seriesName: "水生動物モデルコレクション[アクアランド]"
 figureId: "AQM-024"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

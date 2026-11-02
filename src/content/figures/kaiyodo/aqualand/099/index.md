@@ -3,7 +3,7 @@ collectionStatus: "notOwned"
 title: "ベニザケ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand
+seriesName: "水生動物モデルコレクション[アクアランド]"
 figureId: "AQS-099"
 maker: "海洋堂"
 sculptor: "木下隆志"

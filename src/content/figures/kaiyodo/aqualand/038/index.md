@@ -3,7 +3,7 @@ collectionStatus: "notOwned"
 title: "ザトウクジラ親子"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand
+seriesName: "水生動物モデルコレクション[アクアランド]"
 figureId: "AQL-038"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

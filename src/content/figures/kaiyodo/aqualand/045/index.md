@@ -3,7 +3,7 @@ collectionStatus: "notOwned"
 title: "シャチ親子"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand
+seriesName: "水生動物モデルコレクション[アクアランド]"
 figureId: "AQM-045W"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

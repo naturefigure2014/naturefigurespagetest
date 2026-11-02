@@ -3,7 +3,7 @@ collectionStatus: "notOwned"
 title: "カツオ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand
+seriesName: "水生動物モデルコレクション[アクアランド]"
 figureId: "AQS-081"
 maker: "海洋堂"
 sculptor: "片山 浩"

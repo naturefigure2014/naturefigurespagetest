@@ -2,7 +2,6 @@
 title: "index"
 description: ""
 contentType: title
-titleId: kaiyodo/aqualand
 kind: series
 maker: "海洋堂"
 figureIds:
@@ -108,7 +107,7 @@ figureIds:
   - kaiyodo/aqualand/100
   - kaiyodo/aqualand/101
 executiveProducer: "-"
-seriesName: ""
+seriesName: "水生動物モデルコレクション[アクアランド]"
 releaseStart: "-"
 price: "-"
 species: "-"

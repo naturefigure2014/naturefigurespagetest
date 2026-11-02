@@ -3,7 +3,7 @@ collectionStatus: "notOwned"
 title: "マスコットタツノオトシゴ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand
+seriesName: "水生動物モデルコレクション[アクアランド]"
 figureId: "AQ？-035"
 maker: "海洋堂"
 sculptor: "？？？"

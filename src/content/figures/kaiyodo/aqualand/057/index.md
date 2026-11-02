@@ -3,7 +3,7 @@ collectionStatus: "notOwned"
 title: "カリフォルニアアシカ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand
+seriesName: "水生動物モデルコレクション[アクアランド]"
 figureId: "AQS-057"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

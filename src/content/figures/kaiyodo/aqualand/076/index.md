@@ -3,7 +3,7 @@ collectionStatus: "notOwned"
 title: "陶器ピラルク"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand
+seriesName: "水生動物モデルコレクション[アクアランド]"
 figureId: "ATM-076"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

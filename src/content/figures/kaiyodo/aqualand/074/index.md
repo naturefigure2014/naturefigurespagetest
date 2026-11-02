@@ -3,7 +3,7 @@ collectionStatus: "notOwned"
 title: "スナメリ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand
+seriesName: "水生動物モデルコレクション[アクアランド]"
 figureId: "AQS-074W"
 maker: "海洋堂"
 sculptor: "-"

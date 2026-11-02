@@ -3,7 +3,7 @@ collectionStatus: "notOwned"
 title: "ピラニア・ナッテリィ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand
+seriesName: "水生動物モデルコレクション[アクアランド]"
 figureId: "AQS-097"
 maker: "海洋堂"
 sculptor: "？？？"
