@@ -27,7 +27,6 @@ figureIds:
   - kaiyodo/animatales/anima_japII/010
   - kaiyodo/animatales/anima_japII/011
   - kaiyodo/animatales/anima_japII/012
-  - kaiyodo/animatales/anima_japII/013
 executiveProducer: "-"
 releaseStart: "2013.05"
 price: "300円"
@@ -43,6 +42,10 @@ collectionImage: "img/japIIall.jpg"
 resources:
   guide:
     image: "img/capqanima2kaisetsu.jpg"
+topics:
+  - title: "ディスプレイPOP"
+    images:
+      - "img/capqanima2dp.jpg"
 ---
 
 【海洋堂カプセルQミュージアム　日本の動物コレクション　2：沖縄奄美/やんばるの森】<br />

@@ -26,7 +26,6 @@ figureIds:
   - kaiyodo/aquatales/enosui/enosui1/017
   - kaiyodo/aquatales/enosui/enosui1/018
   - kaiyodo/aquatales/enosui/enosui1/019
-  - kaiyodo/aquatales/enosui/enosui1/020
 executiveProducer: "-"
 seriesName: "アクアテイルズ"
 releaseStart: "2004.04"
@@ -49,6 +48,12 @@ resources:
     image: "img/enosui1cap.jpg"
   package:
     image: "img/enosui1pack_s.jpg"
+topics:
+  - title: "ブックレット(誘い)"
+    images:
+      - "img/enosui1.jpg"
+    comment: |
+      ひとつの表絵(一番上)に対し裏は2種類(真ん中、一番下)。
 ---
 
 【新江ノ島水族館への誘い ENOSHIMA AQUARIUM】<br />

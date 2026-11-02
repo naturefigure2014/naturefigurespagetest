@@ -15,13 +15,17 @@ figureIds:
   - kaiyodo/capsuleq/osaifugaeru2/005
   - kaiyodo/capsuleq/osaifugaeru2/006
   - kaiyodo/capsuleq/osaifugaeru2/007
-  - kaiyodo/capsuleq/osaifugaeru2/008
   - kaiyodo/capsuleq/osaifugaeru2/009
 executiveProducer: 松村しのぶ
 releaseStart: "2020.01"
 price: "300円"
 coverImage: "img/osaflo2_023.jpg"
 collectionImage: "img/osaflo2_003.jpg"
+topics:
+  - title: "ペイントマスター（？）展示"
+    images: []
+    comment: |
+      発表されたワンフェス2019夏の展示。グラスフロッグはまだ塗装がされていませんでした。
 ---
 
 ■概要<br />

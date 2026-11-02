@@ -17,7 +17,6 @@ figureIds:
   - kaiyodo/capsule/cap_miyage/Kochi/009
   - kaiyodo/capsule/cap_miyage/Kochi/010
   - kaiyodo/capsule/cap_miyage/Kochi/011
-  - kaiyodo/capsule/cap_miyage/Kochi/012
 executiveProducer: "-"
 seriesName: "-"
 releaseStart: "2015.09"
@@ -44,6 +43,11 @@ collectionImage: "img/kochi027.jpg"
 resources:
   displayPop:
     image: "img/kochiDP.jpg"
+topics:
+  - title: "解説書（SEASON1）"
+    images: []
+    comment: |
+      フィギュアのテーマ解説だけでなく、フィギュア自体の解説も記載されているのがうれしい。
 ---
 
 ### 概要

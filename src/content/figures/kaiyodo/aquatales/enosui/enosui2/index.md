@@ -22,8 +22,6 @@ figureIds:
   - kaiyodo/aquatales/enosui/enosui2/013
   - kaiyodo/aquatales/enosui/enosui2/014
   - kaiyodo/aquatales/enosui/enosui2/015
-  - kaiyodo/aquatales/enosui/enosui2/016
-  - kaiyodo/aquatales/enosui/enosui2/017
 executiveProducer: "-"
 seriesName: "アクアテイルズ"
 releaseStart: "2005.04"
@@ -50,6 +48,18 @@ resources:
       おまけのほうを前面に打ち出したパッケージ。
   package:
     image: "img/enosui2hukuro.jpg"
+topics:
+  - title: "解説書(誘い)"
+    images:
+      - "img/enosui2book1.jpg"
+      - "img/enosui2book2.jpg"
+    comment: |
+      表絵は2種類。
+  - title: "解説書(図録)"
+    images:
+      - "img/enosui2kobetsu.jpg"
+    comment: |
+      水族館版は個別解説書付き。
 ---
 
 【新江ノ島水族館への誘い2 ENOSHIMA AQUARIUM】<br />

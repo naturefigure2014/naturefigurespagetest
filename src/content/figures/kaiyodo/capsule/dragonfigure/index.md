@@ -13,7 +13,6 @@ figureIds:
   - kaiyodo/capsule/dragonfigure/005
   - kaiyodo/capsule/dragonfigure/006
   - kaiyodo/capsule/dragonfigure/007
-  - kaiyodo/capsule/dragonfigure/008
   - kaiyodo/capsule/dragonfigure/009
 executiveProducer: "-"
 seriesName: "-"
@@ -32,6 +31,10 @@ freetag:
     value: "レッド、ブルー、ブラック、パープル"
 coverImage: "img/dragon004.jpg"
 collectionImage: "img/dragon004.jpg"
+topics:
+  - title: "ディスプレイポップ（Ver.2）"
+    images:
+      - "img/dragon001.jpg"
 ---
 
 ### 概要

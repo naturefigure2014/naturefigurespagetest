@@ -14,12 +14,16 @@ figureIds:
   - kaiyodo/capsuleq/imokore4/004
   - kaiyodo/capsuleq/imokore4/005
   - kaiyodo/capsuleq/imokore4/006
-  - kaiyodo/capsuleq/imokore4/007
 executiveProducer: 松村しのぶ
 releaseStart: "2020.07"
 price: "400円"
 coverImage: "img/imokore4_018.jpg"
 collectionImage: "img/imokore4_004.jpg"
+topics:
+  - title: "ワンフェス"
+    images: []
+    comment: |
+      WF2020Wで公開されました。
 ---
 
 販売開始：2020年7月　販売元：海洋堂　価格：400円　造形総指揮：松村しのぶ　<a href="https://kaiyodo.co.jp/items/capsuleq/cqm123/" target="_blank">公式サイト</a><br />

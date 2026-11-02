@@ -13,7 +13,6 @@ figureIds:
   - kaiyodo/capsule/TokyoLandmark/005
   - kaiyodo/capsule/TokyoLandmark/006
   - kaiyodo/capsule/TokyoLandmark/007
-  - kaiyodo/capsule/TokyoLandmark/008
 executiveProducer: "-"
 seriesName: "-"
 releaseStart: "2012.05"
@@ -38,6 +37,10 @@ resources:
     image: "img/TLbook.jpg"
   capsule:
     image: "img/TL011.jpg"
+topics:
+  - title: "解説書（初版）"
+    images:
+      - "img/TLbook2.jpg"
 ---
 
 ### 概要

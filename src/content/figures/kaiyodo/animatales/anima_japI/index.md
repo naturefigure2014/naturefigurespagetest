@@ -27,7 +27,6 @@ figureIds:
   - kaiyodo/animatales/anima_japI/010
   - kaiyodo/animatales/anima_japI/011
   - kaiyodo/animatales/anima_japI/012
-  - kaiyodo/animatales/anima_japI/013
 executiveProducer: "-"
 releaseStart: "2013.01"
 price: "300円"
@@ -43,6 +42,10 @@ collectionImage: "img/japIall.jpg"
 resources:
   guide:
     image: "img/capqanima1kaisetsu.jpg"
+topics:
+  - title: "ディスプレイPOP"
+    images:
+      - "img/capqanima1dp.jpg"
 ---
 
 【海洋堂カプセルQミュージアム　日本の動物コレクション　１：東北/北限のサル】<br />

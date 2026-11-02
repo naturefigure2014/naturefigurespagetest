@@ -28,7 +28,6 @@ figureIds:
   - kaiyodo/animatales/anima_japIII/011
   - kaiyodo/animatales/anima_japIII/012
   - kaiyodo/animatales/anima_japIII/013
-  - kaiyodo/animatales/anima_japIII/014
 executiveProducer: "-"
 releaseStart: "2013.08"
 price: "300円"
@@ -42,6 +41,10 @@ collectionImage: "img/japIIIall.jpg"
 resources:
   guide:
     image: "img/capqanima3kaisetsu.jpg"
+topics:
+  - title: "ディスプレイPOP"
+    images:
+      - "img/IIIDP.jpg"
 ---
 
 【海洋堂カプセルQミュージアム　日本の動物コレクション　３：東京/巨大都市と離島】<br />

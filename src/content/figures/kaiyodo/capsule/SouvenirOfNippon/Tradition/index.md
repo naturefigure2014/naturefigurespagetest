@@ -13,8 +13,6 @@ figureIds:
   - kaiyodo/capsule/SouvenirOfNippon/Tradition/005
   - kaiyodo/capsule/SouvenirOfNippon/Tradition/006
   - kaiyodo/capsule/SouvenirOfNippon/Tradition/007
-  - kaiyodo/capsule/SouvenirOfNippon/Tradition/008
-  - kaiyodo/capsule/SouvenirOfNippon/Tradition/009
 executiveProducer: "-"
 seriesName: "-"
 releaseStart: "2010.10"
@@ -35,6 +33,19 @@ collectionImage: "img/tradition026.jpg"
 resources:
   package:
     image: "img/tradition024.jpg"
+topics:
+  - title: "解説書（2回目）"
+    images:
+      - "img/traditionbook21.jpg"
+      - "img/traditionbook22.jpg"
+    comment: |
+      全国流通版の解説書からは「THE STUDY ROOM」の文字が消え、正方形になりました。
+  - title: "解説書（3回目）"
+    images:
+      - "img/traditionbook31.jpg"
+      - "img/traditionbook32.jpg"
+    comment: |
+      3度目のリリースでは横長に。
 ---
 
 ### 概要

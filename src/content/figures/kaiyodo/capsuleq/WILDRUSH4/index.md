@@ -19,7 +19,6 @@ figureIds:
   - kaiyodo/capsuleq/WILDRUSH4/005
   - kaiyodo/capsuleq/WILDRUSH4/006
   - kaiyodo/capsuleq/WILDRUSH4/007
-  - kaiyodo/capsuleq/WILDRUSH4/008
   - kaiyodo/capsuleq/WILDRUSH4/009
 executiveProducer: 松村しのぶ
 releaseStart: "2019.12"

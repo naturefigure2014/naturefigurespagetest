@@ -15,7 +15,6 @@ figureIds:
   - kaiyodo/capsule/cap_miyage/MINIATURE_NIPPON/007
   - kaiyodo/capsule/cap_miyage/MINIATURE_NIPPON/008
   - kaiyodo/capsule/cap_miyage/MINIATURE_NIPPON/009
-  - kaiyodo/capsule/cap_miyage/MINIATURE_NIPPON/010
 executiveProducer: "-"
 seriesName: "-"
 releaseStart: "-"
@@ -35,6 +34,10 @@ freetag:
     value: "コチラ"
 coverImage: "img/MN001.jpg"
 collectionImage: "img/MN001.jpg"
+topics:
+  - title: "ディスプレイ"
+    images:
+      - "img/MN026.jpg"
 ---
 
 ### 概要

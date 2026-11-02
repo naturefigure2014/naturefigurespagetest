@@ -23,7 +23,6 @@ figureIds:
   - kaiyodo/animatales/anima_japVIII/006
   - kaiyodo/animatales/anima_japVIII/007
   - kaiyodo/animatales/anima_japVIII/008
-  - kaiyodo/animatales/anima_japVIII/009
 executiveProducer: "-"
 releaseStart: "2014.12"
 price: "300円"
@@ -37,6 +36,11 @@ collectionImage: "img/anima_japVIII002.jpg"
 resources:
   guide:
     image: "img/capqanima8kaisetsu.jpg"
+topics:
+  - title: "ディスプレイPOP"
+    images:
+      - "img/capqanima6dp1.jpg"
+      - "img/capqanima6dp2.jpg"
 ---
 
 販売開始時期：2014年12月　価格：300円　造形企画製作：海洋堂　原型製作：松村しのぶ<br />

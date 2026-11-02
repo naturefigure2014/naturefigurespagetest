@@ -15,8 +15,6 @@ figureIds:
   - kaiyodo/capsule/cap_miyage/Kyoto/007
   - kaiyodo/capsule/cap_miyage/Kyoto/008
   - kaiyodo/capsule/cap_miyage/Kyoto/009
-  - kaiyodo/capsule/cap_miyage/Kyoto/010
-  - kaiyodo/capsule/cap_miyage/Kyoto/011
 executiveProducer: "-"
 seriesName: "-"
 releaseStart: "2015.04"
@@ -45,6 +43,15 @@ collectionImage: "img/kyoto001.jpg"
 resources:
   displayPop:
     image: "img/kyotoDP1.jpg"
+topics:
+  - title: "解説書（シーズン１）"
+    images:
+      - "img/kyotobook11.jpg"
+      - "img/kyotobook12.jpg"
+  - title: "解説書（シーズン２）"
+    images:
+      - "img/kyotobook21.jpg"
+      - "img/kyotobook22.jpg"
 ---
 
 ### 概要

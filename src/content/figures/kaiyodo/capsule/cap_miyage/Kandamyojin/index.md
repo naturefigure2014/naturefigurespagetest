@@ -14,9 +14,7 @@ figureIds:
   - kaiyodo/capsule/cap_miyage/Kandamyojin/006
   - kaiyodo/capsule/cap_miyage/Kandamyojin/007
   - kaiyodo/capsule/cap_miyage/Kandamyojin/008
-  - kaiyodo/capsule/cap_miyage/Kandamyojin/009
   - kaiyodo/capsule/cap_miyage/Kandamyojin/010
-  - kaiyodo/capsule/cap_miyage/Kandamyojin/011
 executiveProducer: "-"
 seriesName: "-"
 releaseStart: "2014.12"
@@ -38,6 +36,19 @@ freetag:
     value: "ラブライブ！絵馬、IN：金のだいこく様、のラインナップの変更があったようです。解説書も共通のものへ変更されました。"
 coverImage: "img/kanda019.jpg"
 collectionImage: "img/kanda019.jpg"
+topics:
+  - title: "解説書"
+    images:
+      - "img/kandabook1_1.jpg"
+      - "img/kandabook1_2.jpg"
+  - title: "袋"
+    images:
+      - "img/kandafukuro.jpg"
+    comment: |
+      初版では個別解説書が付属。 フィギュアとおみくじが白い袋に入っていました。
+  - title: "ディスプレイポップ（再販版）"
+    images:
+      - "img/kandaDP.jpg"
 ---
 
 ### 概要

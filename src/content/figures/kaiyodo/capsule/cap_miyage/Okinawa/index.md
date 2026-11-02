@@ -17,7 +17,6 @@ figureIds:
   - kaiyodo/capsule/cap_miyage/Okinawa/009
   - kaiyodo/capsule/cap_miyage/Okinawa/010
   - kaiyodo/capsule/cap_miyage/Okinawa/011
-  - kaiyodo/capsule/cap_miyage/Okinawa/012
 executiveProducer: "-"
 seriesName: "-"
 releaseStart: "2015.06"
@@ -46,6 +45,9 @@ collectionImage: "img/okinawa042.jpg"
 resources:
   displayPop:
     image: "img/okinawaDP3.jpg"
+topics:
+  - title: "解説書（シーズン１）"
+    images: []
 ---
 
 ### 概要
