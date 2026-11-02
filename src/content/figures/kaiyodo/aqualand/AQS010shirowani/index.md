@@ -2,7 +2,6 @@
 title: "シロワニ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS010shirowani
 figureId: "AQS-010"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

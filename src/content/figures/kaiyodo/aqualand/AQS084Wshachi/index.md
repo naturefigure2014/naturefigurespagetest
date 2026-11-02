@@ -2,7 +2,6 @@
 title: "シャチ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS084Wshachi
 figureId: "AQS-084W"
 maker: "海洋堂"
 sculptor: "木下隆志"

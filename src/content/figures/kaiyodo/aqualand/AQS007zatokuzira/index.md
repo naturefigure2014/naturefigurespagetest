@@ -2,7 +2,6 @@
 title: "ザトウクジラ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS007zatokuzira
 figureId: "AQS-007"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

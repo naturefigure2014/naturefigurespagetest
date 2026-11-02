@@ -2,7 +2,6 @@
 title: "ホホジロザメ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS085hohozirozame
 figureId: "AQS-085"
 maker: "海洋堂"
 sculptor: "木下隆志"

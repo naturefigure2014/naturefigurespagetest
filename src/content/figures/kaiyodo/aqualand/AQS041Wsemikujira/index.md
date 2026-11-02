@@ -2,7 +2,6 @@
 title: "セミクジラ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS041Wsemikujira
 figureId: "AQS-041W"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

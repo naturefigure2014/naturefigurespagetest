@@ -2,7 +2,6 @@
 title: "アオザメ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS056aozame
 figureId: "AQS-056"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

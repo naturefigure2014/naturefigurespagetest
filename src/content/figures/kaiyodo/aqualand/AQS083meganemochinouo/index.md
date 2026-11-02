@@ -2,7 +2,6 @@
 title: "メガネモチノウオ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS083meganemochinouo
 figureId: "AQS-083"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

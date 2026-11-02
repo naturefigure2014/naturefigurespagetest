@@ -4,7 +4,6 @@ title: "オウムガイ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/037
 figureId: "AQS-037"
 maker: "海洋堂"
 sculptor: "Bome"

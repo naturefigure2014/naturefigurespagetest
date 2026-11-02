@@ -4,7 +4,6 @@ title: "マッコウクジラ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/077
 figureId: "AQM-077W"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

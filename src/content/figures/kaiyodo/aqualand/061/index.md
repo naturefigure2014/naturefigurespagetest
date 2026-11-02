@@ -4,7 +4,6 @@ title: "セイウチ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/061
 figureId: "AQM-061"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

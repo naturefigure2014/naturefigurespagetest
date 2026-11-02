@@ -4,7 +4,6 @@ title: "ニホンカワウソ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/025
 figureId: "AQM-025"
 maker: "海洋堂"
 sculptor: "-"

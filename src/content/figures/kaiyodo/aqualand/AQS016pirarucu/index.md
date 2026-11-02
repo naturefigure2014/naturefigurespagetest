@@ -2,7 +2,6 @@
 title: "ピラルク"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS016pirarucu
 figureId: "AQS-016"
 maker: "海洋堂"
 sculptor: "佐藤 拓"

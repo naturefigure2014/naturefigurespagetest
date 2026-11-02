@@ -2,7 +2,6 @@
 title: "バンドウイルカ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS096bandoiruka
 figureId: "AQS-096"
 maker: "海洋堂"
 sculptor: "古田悟郎"

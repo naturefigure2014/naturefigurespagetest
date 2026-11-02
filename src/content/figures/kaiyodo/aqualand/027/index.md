@@ -4,7 +4,6 @@ title: "モリアオガエル"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/027
 figureId: "AQS-027"
 maker: "海洋堂"
 sculptor: "寺岡邦明"

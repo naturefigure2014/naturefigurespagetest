@@ -4,7 +4,6 @@ title: "アジアアロワナ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/090
 figureId: "AQS-090"
 maker: "海洋堂"
 sculptor: "木下隆志"

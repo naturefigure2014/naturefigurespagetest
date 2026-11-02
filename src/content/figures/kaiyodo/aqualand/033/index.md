@@ -4,7 +4,6 @@ title: "クロマグロ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/033
 figureId: "AQS-033"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

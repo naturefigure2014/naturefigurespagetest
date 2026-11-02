@@ -2,7 +2,6 @@
 title: "コウテイペンギン"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS028kouteipenguin
 figureId: "AQM-028"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

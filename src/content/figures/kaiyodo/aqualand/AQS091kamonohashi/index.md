@@ -2,7 +2,6 @@
 title: "カモノハシ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS091kamonohashi
 figureId: "AQS-091"
 maker: "海洋堂"
 sculptor: "茨木一美"

@@ -4,7 +4,6 @@ title: "サザナミフグ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/101
 figureId: "AQS-101"
 maker: "海洋堂"
 sculptor: "木下隆志"

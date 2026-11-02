@@ -2,7 +2,6 @@
 title: "アザラシ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQC044azarashi
 figureId: "AQC-044"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

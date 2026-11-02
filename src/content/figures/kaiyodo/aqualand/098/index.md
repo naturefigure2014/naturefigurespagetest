@@ -4,7 +4,6 @@ title: "スッポンモドキ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/098
 figureId: "AQS-098"
 maker: "海洋堂"
 sculptor: "古田悟郎"

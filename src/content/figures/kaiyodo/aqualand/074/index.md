@@ -4,7 +4,6 @@ title: "スナメリ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/074
 figureId: "AQS-074W"
 maker: "海洋堂"
 sculptor: "-"

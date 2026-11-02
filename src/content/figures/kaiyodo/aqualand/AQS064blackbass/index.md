@@ -2,7 +2,6 @@
 title: "ブラックバス"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS064blackbass
 figureId: "AQS-064"
 maker: "海洋堂"
 sculptor: "中澤博之"

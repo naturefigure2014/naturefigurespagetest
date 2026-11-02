@@ -2,7 +2,6 @@
 title: "アオウミガメ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQM046aoumigame
 figureId: "AQM-046"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

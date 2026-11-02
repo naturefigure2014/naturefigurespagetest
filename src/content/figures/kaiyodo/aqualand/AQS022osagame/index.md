@@ -2,7 +2,6 @@
 title: "オサガメ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS022osagame
 figureId: "AQS-022"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

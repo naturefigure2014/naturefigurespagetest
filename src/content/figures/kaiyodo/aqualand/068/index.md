@@ -4,7 +4,6 @@ title: "ガラパゴスゾウガメ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/068
 figureId: "AQM-068"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

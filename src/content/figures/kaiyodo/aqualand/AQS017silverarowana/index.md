@@ -2,7 +2,6 @@
 title: "シルバーアロワナ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQS017silverarowana
 figureId: "AQS-017"
 maker: "海洋堂"
 sculptor: "木下隆志"

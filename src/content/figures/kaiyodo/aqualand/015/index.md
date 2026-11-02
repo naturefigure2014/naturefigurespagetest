@@ -4,7 +4,6 @@ title: "マンボウ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/015
 figureId: "AQS-015"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

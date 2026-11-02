@@ -3,7 +3,6 @@ title: "アカメアマガエル"
 description: ""
 contentType: figure
 
-titleId: kaiyodo/aqualand/AQM023akameamagaeru
 figureId: "AQM-023"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

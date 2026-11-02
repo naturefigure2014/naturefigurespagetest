@@ -2,7 +2,6 @@
 title: "メガネカイマン"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQM058meganekaiman
 figureId: "AQM-058"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

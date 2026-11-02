@@ -4,7 +4,6 @@ title: "ハマクマノミ"
 description: ""
 contentType: figure
 seriesName: "水生動物モデルコレクション[アクアランド]"
-titleId: kaiyodo/aqualand/053
 figureId: "AQS-053"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

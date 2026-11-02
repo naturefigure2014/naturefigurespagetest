@@ -2,7 +2,6 @@
 title: "クロマグロ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQM032kuromaguro
 figureId: "AQM-032"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

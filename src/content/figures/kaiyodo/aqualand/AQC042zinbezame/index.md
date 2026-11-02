@@ -2,7 +2,6 @@
 title: "ジンベエザメ"
 description: ""
 contentType: figure
-titleId: kaiyodo/aqualand/AQC042zinbezame
 figureId: "AQC-042"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
