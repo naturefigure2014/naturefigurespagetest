@@ -46,7 +46,6 @@ seriesSections:
     titleIds:
       - kaiyodo/capsuleq/kosedai
       - kaiyodo/capsuleq/wakeatte
-    maxTitles: 100
   - name: ワイルドラッシュ
     format: ガチャ
     titleIds:
@@ -111,6 +110,8 @@ seriesSections:
       - kaiyodo/capsuleq/nohmask2
       - kaiyodo/capsuleq/shinju_yonshin
       - kaiyodo/capsuleq/hokusai
+      - kaiyodo/capsule/miniQ/gakibonkei
+      - kaiyodo/capsule/miniQ/sengokukacchu
     maxTitles: 100
   - name: キャラクターのタイトル
     format: ガチャ

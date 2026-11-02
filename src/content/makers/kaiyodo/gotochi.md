@@ -52,5 +52,10 @@ seriesSections:
       - kaiyodo/capsule/cap_miyage/Yamaguchi
       - kaiyodo/capsule/cap_miyage/Yamanotesen
       - kaiyodo/capsule/cap_miyage/Yamanotesen2
+  - name: その他ご当地ガチャ
+    format: ガチャ
+    titleIds:
+      - kaiyodo/capsule/tanemaru
+      - kaiyodo/capsule/sentokun
 ---
 物産展や各地の名物・名所を題材にした、海洋堂のご当地カプセルフィギュアを紹介します。
