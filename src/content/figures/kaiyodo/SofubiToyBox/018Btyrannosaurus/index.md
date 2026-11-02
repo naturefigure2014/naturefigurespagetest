@@ -3,8 +3,6 @@ title: "ティラノサウルス（スモークグリーン）"
 description: ""
 contentType: figure
 maker: "海洋堂"
-  - "海洋堂"
-  - "ユニオンクリエイティブ"
 figureId: "018B"
 sculptor: "SHINZEN"
 executiveProducer: "-"

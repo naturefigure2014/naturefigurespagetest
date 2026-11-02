@@ -3,8 +3,6 @@ title: "ダンゴムシ オカダンゴムシ"
 description: ""
 contentType: figure
 maker: "海洋堂"
-  - "海洋堂"
-  - "ユニオンクリエイティブ"
 figureId: "012"
 sculptor: "吉良かずや"
 executiveProducer: "-"

@@ -5,8 +5,6 @@ contentType: figure
 
 
 maker: "海洋堂"
-  - "海洋堂"
-  - "ユニオンクリエイティブ"
 figureId: "001"
 sculptor: "松村しのぶ"
 executiveProducer: "-"

@@ -3,8 +3,6 @@ title: "イモムシ (ナミアゲハ５令幼虫)"
 description: ""
 contentType: figure
 maker: "海洋堂"
-  - "海洋堂"
-  - "ユニオンクリエイティブ"
 figureId: "007"
 sculptor: "松本栄一郎"
 executiveProducer: "-"

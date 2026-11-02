@@ -3,8 +3,6 @@ title: "コモドドラゴン (コモドオオトカゲ)"
 description: ""
 contentType: figure
 maker: "海洋堂"
-  - "海洋堂"
-  - "ユニオンクリエイティブ"
 figureId: "005"
 sculptor: "清水ゆう子"
 executiveProducer: "-"

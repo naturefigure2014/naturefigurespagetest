@@ -3,8 +3,6 @@ title: "オオサンショウウオ 明色 (大山椒魚 明色)"
 description: ""
 contentType: figure
 maker: "海洋堂"
-  - "海洋堂"
-  - "ユニオンクリエイティブ"
 figureId: "010A"
 sculptor: "古田悟郎"
 executiveProducer: "-"

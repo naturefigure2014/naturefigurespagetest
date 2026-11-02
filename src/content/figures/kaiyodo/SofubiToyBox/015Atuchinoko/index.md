@@ -3,8 +3,6 @@ title: "ツチノコ 槌の子"
 description: ""
 contentType: figure
 maker: "海洋堂"
-  - "海洋堂"
-  - "ユニオンクリエイティブ"
 figureId: "015A"
 sculptor: "吉良かずや 造形アドバイス・デザイン監修：松村しのぶ"
 executiveProducer: "-"

@@ -3,8 +3,6 @@ title: "ペンギン フンボルトペンギン"
 description: ""
 contentType: figure
 maker: "海洋堂"
-  - "海洋堂"
-  - "ユニオンクリエイティブ"
 figureId: "011"
 sculptor: "松村しのぶ"
 executiveProducer: "-"

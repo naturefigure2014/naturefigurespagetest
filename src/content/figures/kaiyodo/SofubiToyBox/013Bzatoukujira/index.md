@@ -3,8 +3,6 @@ title: "クジラ ザトウクジラ 海中イメージ"
 description: ""
 contentType: figure
 maker: "海洋堂"
-  - "海洋堂"
-  - "ユニオンクリエイティブ"
 figureId: "013B"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
