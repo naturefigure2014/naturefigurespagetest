@@ -74,8 +74,8 @@ const badgesForTitle = (section: (typeof page.data.seriesSections)[number], titl
   return typeof configuredTitle === "string" || !configuredTitle ? [] : configuredTitle.badges;
 };
 const heroSource = page.data.heroSourceId ? entryById.get(normalizeId(page.data.heroSourceId)) : undefined;
-const heroImage = heroSource
-  ? resolveFigureImage(heroSource.id, page.data.heroImage === "coverImage" ? heroSource.data.coverImage : page.data.heroImage)
+const heroImage = page.data.heroSourceId
+  ? resolveFigureImage(page.data.heroSourceId, page.data.heroImage === "coverImage" ? heroSource?.data.coverImage : page.data.heroImage)
   : undefined;
 ---
 

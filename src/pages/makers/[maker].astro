@@ -39,6 +39,9 @@ const imageFor = (sourceId?: string, image?: string | number) => {
     return resolveFigureImage(source.id, image === "coverImage" ? source.data.coverImage : image);
   }
 
+  const directFigureImage = resolveFigureImage(sourceId, image);
+  if (directFigureImage) return directFigureImage;
+
   const makerSource = makers.find((item) => normalizeId(item.id) === normalizeId(sourceId));
   if (!makerSource) return undefined;
 

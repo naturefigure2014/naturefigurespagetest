@@ -161,9 +161,9 @@ freeThemesSections:
       - name: アニマテイルズ 水辺の生き物
         href: "#"
         sourceId: kaiyodo/aqualand
-        image: coverImage
+        image: img/aqualand_header.png
       - name: アニマテイルズ 深海の生き物
         href: "#"
         sourceId: kaiyodo/aqualand
-        image: coverImage
+        image: img/aqualand_header.png
 ---

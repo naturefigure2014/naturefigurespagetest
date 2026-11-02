@@ -18,15 +18,15 @@ const seriesNamesOf = (entry?: (typeof figures)[number]) => {
   return Array.isArray(value) ? value : [value];
 };
 
-type Pickup = { title: string; id?: string; count?: string };
+type Pickup = { title: string; id?: string; href?: string; imageSourceId?: string; image?: string | number };
 type Maker = { name: string; english: string; pickups: Pickup[] };
 
 const makers: Maker[] = [
   { name: "海洋堂", english: "KAIYODO", pickups: [
-    { title: "水生生物モデルコレクションAQUALAND", id: "kaiyodo/aqualand", count: "22種類" },
-    { title: "日本の動物コレクション1", id: "kaiyodo/animatales/anima_jap1", count: "12種類" },
-    { title: "DINOLAND", id: "kaiyodo/dinoland", count: "12種類" },
-    { title: "カプセルQミュージアム", count: "フィギュア", id: "kaiyodo/capsuleq" }
+    { title: "水生生物モデルコレクションAQUALAND", href: "/makers/kaiyodo/aqualand/", imageSourceId: "kaiyodo/aqualand", image: "img/aqualand_header.png" },
+    { title: "日本の動物コレクション1", id: "kaiyodo/animatales/anima_jap1" },
+    { title: "DINOLAND", id: "kaiyodo/dinoland", href: "/makers/kaiyodo/dinoland/" },
+    { title: "カプセルQミュージアム", id: "kaiyodo/capsuleq", href: "/makers/kaiyodo/capsuleq/" }
   ] },
   { name: "ユージン", english: "YUJIN", pickups: [
     { title: "原色日本昆虫図鑑1" }, { title: "原色淡水魚図鑑1" },
@@ -53,8 +53,8 @@ const makers: Maker[] = [
     { title: "森のなかまたち" }
   ] },
   { name: "その他", english: "OTHER MAKERS", pickups: [
-    { title: "メーカー別ピックアップ", count: "準備中" },
-    { title: "気になるタイトル", count: "準備中" }, { title: "新着フィギュア", count: "準備中" }
+    { title: "メーカー別ピックアップ" },
+    { title: "気になるタイトル" }, { title: "新着フィギュア" }
   ] }
 ];
 ---
@@ -80,26 +80,28 @@ const makers: Maker[] = [
           <div class="maker-pickup-grid">
             {maker.pickups.map((pickup) => {
               const entry = pickup.id ? titleEntries.get(normalizeId(pickup.id)) : undefined;
-              const image = entry ? resolveFigureImage(entry.id, entry.data.coverImage) : undefined;
+              const image = pickup.imageSourceId
+                ? resolveFigureImage(pickup.imageSourceId, pickup.image)
+                : entry
+                  ? resolveFigureImage(entry.id, entry.data.coverImage)
+                  : undefined;
               const seriesNames = seriesNamesOf(entry);
               const card = (
                 <>
                   {image ? <img src={image} alt="" loading="lazy" /> : <div class="maker-pickup-placeholder">{maker.name}</div>}
                   <span class="maker-pickup-caption">
                     <strong>{entry?.data.title ?? pickup.title}</strong>
-                    {seriesNames.length > 0 ? (
+                    {seriesNames.length > 0 && (
                       <span class="maker-pickup-series">
                         {seriesNames.map((name) => <small>{name}</small>)}
                       </span>
-                    ) : (
-                      <small>{pickup.count ?? "ピックアップ"}</small>
                     )}
                   </span>
                   <span class="maker-pickup-arrow">›</span>
                 </>
               );
-              const pickupHref = pickup.id === "kaiyodo/capsuleq"
-                ? siteUrl("/makers/kaiyodo/capsuleq/")
+              const pickupHref = pickup.href
+                ? siteUrl(pickup.href)
                 : entry
                   ? siteUrl(`/figures/${normalizeId(entry.id)}/`)
                   : undefined;

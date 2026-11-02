@@ -79,7 +79,12 @@ const imageFor = (figure: (typeof allFigures)[number]) => {
 };
 const figureMetadata = (figure: (typeof allFigures)[number]) => {
   const title = titleForFigure(figure);
-  const titleName = title?.data.shortTitle || title?.data.title;
+  const ownSeriesName = Array.isArray(figure.data.seriesName)
+    ? figure.data.seriesName.join("・")
+    : figure.data.seriesName;
+  const titleName = title
+    ? title.data.shortTitle || title.data.title
+    : ownSeriesName || "-";
   const makers = makerNames(title?.data.maker ?? figure.data.maker);
   const releaseYear =
     (figure.data.releaseDate instanceof Date
@@ -92,7 +97,7 @@ const figureMetadata = (figure: (typeof allFigures)[number]) => {
     "-";
 
   return {
-    titleName: titleName || "-",
+    titleName,
     sculptor: figure.data.sculptor || "-",
     maker: makers.length > 0 ? makers.join("・") : "-",
     makerClass: makerBadgeClass(makers[0] ?? ""),
