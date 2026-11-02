@@ -11,15 +11,20 @@ series:
 seriesName: カプセルQミュージアム
 figureIds:
   - kaiyodo/capsuleq/ikakore_shinkai/001
-  - kaiyodo/capsuleq/ikakore_shinkai/002
-  - kaiyodo/capsuleq/ikakore_shinkai/003
-  - kaiyodo/capsuleq/ikakore_shinkai/004
-  - kaiyodo/capsuleq/ikakore_shinkai/005
+  - kaiyodo/capsuleq/ikakore/001
+  - kaiyodo/capsuleq/ikakore/002
+  - kaiyodo/capsuleq/ikakore/003
+  - kaiyodo/capsuleq/ikakore/004
+  - kaiyodo/capsuleq/ikakore/005
 executiveProducer: 松村しのぶ
 releaseStart: "2013.01"
 price: "300円"
 coverImage: "img/ikakore_shinkai016.jpg"
-collectionImage: "img/ikakore_shinkai003.jpg"
+collectionImage: "img/ikakore_shinkai016.jpg"
+topics:
+  - title: "カプセル"
+    images:
+      - "ikakore_shinkai014.jpg"
 ---
 
 ### 概要

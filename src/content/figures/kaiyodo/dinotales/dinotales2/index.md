@@ -61,7 +61,7 @@ speciesEntries:
     speciesGroup: "その他古生物"
   - species: "メガテリウム"
     speciesGroup: "その他古生物"
-  - species: "アウストラロピテクス・ボイセイ"
+  - species: "アウストラロピテクス"
     speciesGroup: "その他古生物"
   - species: "アカントステガ"
     speciesGroup: "その他古生物"

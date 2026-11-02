@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/kahaku_official
 figureId: "011"
-species: "アファレンシス猿人"
+species: "アウストラロピテクス"
 speciesGroup: "霊長類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"

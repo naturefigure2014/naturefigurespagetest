@@ -15,12 +15,18 @@ figureIds:
   - kaiyodo/capsuleq/ikakore/003
   - kaiyodo/capsuleq/ikakore/004
   - kaiyodo/capsuleq/ikakore/005
-  - kaiyodo/capsuleq/ikakore/006
-  - kaiyodo/capsuleq/ikakore/007
 releaseStart: "2013.05"
 price: "300円"
 coverImage: "img/ikakore015.jpg"
 collectionImage: "img/surumeika001.jpg"
+topics:
+  - title: "解説書/ディスプレイポップ"
+    images:
+      - "ikakorebook1.jpg"
+      - "ikakoreDP.jpg"
+  - title: "全5種"
+    images:
+      - "ikakore014.jpg"
 ---
 
 ### 概要

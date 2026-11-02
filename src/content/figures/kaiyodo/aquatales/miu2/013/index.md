@@ -7,8 +7,9 @@ figureId: "013"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "マッコウクジラvsダイオウイカ"
-speciesGroup: "-"
+speciesEntries:
+  - species: "マッコウクジラ"
+  - species: "ダイオウイカ"
 price: "-"
 releaseStart: "2001.09"
 genre:
