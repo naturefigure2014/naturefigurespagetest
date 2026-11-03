@@ -7,31 +7,31 @@ titleId: kaiyodo/animatales/anima_jap2
 kind: series
 maker: "海洋堂"
 figureIds:
-  - kaiyodo/animatales/anima_jap2/001
-  - kaiyodo/animatales/anima_jap2/002
-  - kaiyodo/animatales/anima_jap2/003
-  - kaiyodo/animatales/anima_jap2/004
-  - kaiyodo/animatales/anima_jap2/005
-  - kaiyodo/animatales/anima_jap2/006
-  - kaiyodo/animatales/anima_jap2/007
-  - kaiyodo/animatales/anima_jap2/008
-  - kaiyodo/animatales/anima_jap2/009
-  - kaiyodo/animatales/anima_jap2/010
-  - kaiyodo/animatales/anima_jap2/011
-  - kaiyodo/animatales/anima_jap2/012
-  - kaiyodo/animatales/anima_jap2/013
-  - kaiyodo/animatales/anima_jap2/014
-  - kaiyodo/animatales/anima_jap2/015
-  - kaiyodo/animatales/anima_jap2/016
-  - kaiyodo/animatales/anima_jap2/017
-  - kaiyodo/animatales/anima_jap2/018
-  - kaiyodo/animatales/anima_jap2/019
-  - kaiyodo/animatales/anima_jap2/020
-  - kaiyodo/animatales/anima_jap2/021
-  - kaiyodo/animatales/anima_jap2/022
-  - kaiyodo/animatales/anima_jap2/023
-  - kaiyodo/animatales/anima_jap2/024
   - kaiyodo/animatales/anima_jap2/025
+  - kaiyodo/animatales/anima_jap2/026
+  - kaiyodo/animatales/anima_jap2/027
+  - kaiyodo/animatales/anima_jap2/028
+  - kaiyodo/animatales/anima_jap2/029
+  - kaiyodo/animatales/anima_jap2/030
+  - kaiyodo/animatales/anima_jap2/031
+  - kaiyodo/animatales/anima_jap2/032
+  - kaiyodo/animatales/anima_jap2/033
+  - kaiyodo/animatales/anima_jap2/034
+  - kaiyodo/animatales/anima_jap2/035
+  - kaiyodo/animatales/anima_jap2/036
+  - kaiyodo/animatales/anima_jap2/037
+  - kaiyodo/animatales/anima_jap2/038
+  - kaiyodo/animatales/anima_jap2/039
+  - kaiyodo/animatales/anima_jap2/040
+  - kaiyodo/animatales/anima_jap2/041
+  - kaiyodo/animatales/anima_jap2/042
+  - kaiyodo/animatales/anima_jap2/043
+  - kaiyodo/animatales/anima_jap2/044
+  - kaiyodo/animatales/anima_jap2/045
+  - kaiyodo/animatales/anima_jap2/046
+  - kaiyodo/animatales/anima_jap2/047
+  - kaiyodo/animatales/anima_jap2/048
+  - kaiyodo/animatales/anima_jap2/secret
 executiveProducer: "-"
 seriesName: "アニマテイルズ"
 releaseStart: "-"
@@ -49,9 +49,25 @@ coverImage: "img/anima_jap2_024.jpg"
 collectionImage: "img/anima_jap2_024.jpg"
 resources:
   guide:
-    image: "img/anima2book1.jpg"
+    images: 
+      - "img/anima2book1.jpg"
+      - "img/anima2book2.jpg"
   package:
     image: "img/chocoegg2hako1.jpg"
+topics:
+  - title: "パッケージ(単品)"
+    images:
+      - "img/chocoegg2hako1.jpg"
+    comment: |
+  - title: "パッケージ(2個セット)"
+    images:
+      - "img/chocoegg2hako2.jpg"
+    comment: |
+  - title: "パッケージ(香港版)"
+    images:
+      - "img/chocoegg2_hongkong_hako.jpg"
+    comment: |
+      香港版ですが底の表記が変更されたのみ。解説書も日本語だったようです。
 ---
 
 ### 概要

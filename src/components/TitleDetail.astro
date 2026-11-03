@@ -100,26 +100,48 @@ const resourceSections = [
         </div>
       </section>
 
-      {resourceSections.map(([heading, sectionKey, resource]) => (
-        (resource?.image || resource?.description) && (
-        <section class:list={["title-section", "title-placeholder-section", `title-resource-${sectionKey}`]}>
-          <div class="title-section-header">
-            <span class="topic-marker"></span>
-            <h2>{heading}</h2>
-          </div>
-          <div class="title-resource-body">
-            {resource?.image && (
-              <img
-                src={resolveFigureImage(entry.id, resource.image)}
-                alt={`${entry.data.title}の${heading}`}
-                loading="lazy"
-              />
-            )}
-            {resource?.description && <p>{resource.description}</p>}
-          </div>
-        </section>
-        )
-      ))}
+      {resourceSections.map(([heading, sectionKey, resource]) => {
+        const resourceImages = resource?.images?.length
+          ? resource.images
+          : resource?.image !== undefined ? [resource.image] : [];
+        return (resourceImages.length > 0 || resource?.description) && (
+          <section class:list={["title-section", "title-placeholder-section", `title-resource-${sectionKey}`]}>
+            <div class="title-section-header">
+              <span class="topic-marker"></span>
+              <h2>{heading}</h2>
+            </div>
+            <div class="title-resource-body">
+              {resourceImages.length > 0 && (
+                <div class:list={["topic-images", {
+                  single: resourceImages.length === 1,
+                  two: resourceImages.length === 2,
+                  "three-or-more": resourceImages.length >= 3
+                }]}>
+                  {resourceImages.map((image, index) => {
+                    const imageUrl = resolveFigureImage(entry.id, image);
+                    return (
+                      <a
+                        class="topic-image-link"
+                        href={imageUrl}
+                        data-lightbox-image={imageUrl}
+                        data-lightbox-alt={`${heading} ${index + 1}`}
+                        aria-label={`${heading}の画像${index + 1}を拡大表示`}
+                      >
+                        <img
+                          src={imageUrl}
+                          alt={`${entry.data.title}の${heading} ${index + 1}`}
+                          loading="lazy"
+                        />
+                      </a>
+                    );
+                  })}
+                </div>
+              )}
+              {resource?.description && <p>{resource.description}</p>}
+            </div>
+          </section>
+        );
+      })}
 
       {entry.data.topics.map((topic, topicIndex) => (
         <section class="title-section title-topic-section">

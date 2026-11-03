@@ -11,6 +11,12 @@ const common = {
   tags: z.array(z.string()).default([])
 };
 
+const resourceSchema = z.object({
+  image: z.union([z.string(), z.number()]).optional(),
+  images: z.array(z.union([z.string(), z.number()])).optional(),
+  description: z.string().optional()
+});
+
 const figures = defineCollection({
   type: "content",
   schema: z.object({
@@ -47,26 +53,11 @@ const figures = defineCollection({
     // 個別フィギュアページ専用の集合写真（collectionImageより小さく表示）
     figureTopImage: z.union([z.string(), z.number()]).optional(),
     resources: z.object({
-      guide: z.object({
-        image: z.union([z.string(), z.number()]).optional(),
-        description: z.string().optional()
-      }).optional(),
-      displayPop: z.object({
-        image: z.union([z.string(), z.number()]).optional(),
-        description: z.string().optional()
-      }).optional(),
-      capsule: z.object({
-        image: z.union([z.string(), z.number()]).optional(),
-        description: z.string().optional()
-      }).optional(),
-      package: z.object({
-        image: z.union([z.string(), z.number()]).optional(),
-        description: z.string().optional()
-      }).optional(),
-      salesLocation: z.object({
-        image: z.union([z.string(), z.number()]).optional(),
-        description: z.string().optional()
-      }).optional()
+      guide: resourceSchema.optional(),
+      displayPop: resourceSchema.optional(),
+      capsule: resourceSchema.optional(),
+      package: resourceSchema.optional(),
+      salesLocation: resourceSchema.optional()
     }).default({}),
     relatedPostEmbed: z.string().optional(),
     species: z.string().optional(),

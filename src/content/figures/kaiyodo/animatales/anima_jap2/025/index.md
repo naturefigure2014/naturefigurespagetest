@@ -1,5 +1,5 @@
 ---
-title: "ツチノコ(橙)"
+title: "オコジョ"
 description: ""
 contentType: figure
 titleId: kaiyodo/animatales/anima_jap2
@@ -7,24 +7,21 @@ figureId: "025"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "ツチノコ"
-speciesGroup: "その他"
+species: "オコジョ"
+speciesGroup: "食肉類"
 price: "-"
 releaseStart: "-"
 genre:
   - "-"
 tags:
   - "-"
-figureTopImage: "anima_jap2_052.jpg"
-coverImage: "anima_jap2_052.jpg"
+figureTopImage: "anima_jap2_045.jpg"
+coverImage: "anima_jap2_045.jpg"
 topics:
   - title: ""
     images:
-      - "anima_jap2_052.jpg"
-      - "anima_jap2_053.jpg"
-  - title: ""
-    images:
-      - "anima_jap2_054.jpg"
+      - "anima_jap2_045.jpg"
+      - "anima_jap2_046.jpg"
     comment: |
-      譲っていただいたコレクターさん曰く、案の定、舌が折れていたのでフルタに送ったところ舌が逆向きに接着されて送り返されたとのこと。 ちょっとヒドイ対応ですね。こちらはそれを修正しました。
+      山岳地帯に棲む小さなイタチの仲間。型抜きの関係で顔が若干そがれてしまったそうです。
 ---
