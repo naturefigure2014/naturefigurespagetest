@@ -6,32 +6,32 @@ titleId: kaiyodo/animatales/anima_jap7
 kind: series
 maker: "海洋堂"
 figureIds:
-  - kaiyodo/animatales/anima_jap7/001
-  - kaiyodo/animatales/anima_jap7/002
-  - kaiyodo/animatales/anima_jap7/003
-  - kaiyodo/animatales/anima_jap7/004
-  - kaiyodo/animatales/anima_jap7/005
-  - kaiyodo/animatales/anima_jap7/006
-  - kaiyodo/animatales/anima_jap7/007
-  - kaiyodo/animatales/anima_jap7/008
-  - kaiyodo/animatales/anima_jap7/009
-  - kaiyodo/animatales/anima_jap7/010
-  - kaiyodo/animatales/anima_jap7/011
-  - kaiyodo/animatales/anima_jap7/012
-  - kaiyodo/animatales/anima_jap7/013
-  - kaiyodo/animatales/anima_jap7/014
-  - kaiyodo/animatales/anima_jap7/015
-  - kaiyodo/animatales/anima_jap7/016
-  - kaiyodo/animatales/anima_jap7/017
-  - kaiyodo/animatales/anima_jap7/018
-  - kaiyodo/animatales/anima_jap7/019
-  - kaiyodo/animatales/anima_jap7/020
-  - kaiyodo/animatales/anima_jap7/021
-  - kaiyodo/animatales/anima_jap7/022
-  - kaiyodo/animatales/anima_jap7/023
-  - kaiyodo/animatales/anima_jap7/024
-  - kaiyodo/animatales/anima_jap7/025
-  - kaiyodo/animatales/anima_jap7/026
+  - kaiyodo/animatales/anima_jap7/169
+  - kaiyodo/animatales/anima_jap7/170
+  - kaiyodo/animatales/anima_jap7/171
+  - kaiyodo/animatales/anima_jap7/172
+  - kaiyodo/animatales/anima_jap7/173
+  - kaiyodo/animatales/anima_jap7/174
+  - kaiyodo/animatales/anima_jap7/175
+  - kaiyodo/animatales/anima_jap7/176
+  - kaiyodo/animatales/anima_jap7/177
+  - kaiyodo/animatales/anima_jap7/178
+  - kaiyodo/animatales/anima_jap7/179
+  - kaiyodo/animatales/anima_jap7/180
+  - kaiyodo/animatales/anima_jap7/181
+  - kaiyodo/animatales/anima_jap7/182
+  - kaiyodo/animatales/anima_jap7/183
+  - kaiyodo/animatales/anima_jap7/184
+  - kaiyodo/animatales/anima_jap7/185
+  - kaiyodo/animatales/anima_jap7/186
+  - kaiyodo/animatales/anima_jap7/187
+  - kaiyodo/animatales/anima_jap7/188
+  - kaiyodo/animatales/anima_jap7/189
+  - kaiyodo/animatales/anima_jap7/190
+  - kaiyodo/animatales/anima_jap7/191
+  - kaiyodo/animatales/anima_jap7/S04a
+  - kaiyodo/animatales/anima_jap7/S04b
+  - kaiyodo/animatales/anima_jap7/S04c
 executiveProducer: "-"
 seriesName: "アニマテイルズ"
 releaseStart: "2003.03"

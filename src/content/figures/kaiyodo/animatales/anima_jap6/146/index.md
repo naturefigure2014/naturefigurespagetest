@@ -1,0 +1,27 @@
+---
+title: "ツシマテン"
+description: ""
+contentType: figure
+titleId: kaiyodo/animatales/anima_jap6
+figureId: "146"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
+executiveProducer: "-"
+species: "ツシマテン"
+speciesGroup: "食肉類"
+price: "-"
+releaseStart: "2002.09"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "anima_jap6005.jpg"
+coverImage: "anima_jap6005.jpg"
+topics:
+  - title: ""
+    images:
+      - "anima_jap6005.jpg"
+      - "anima_jap6006.jpg"
+    comment: |
+      原型よりすっきりした顔。
+---

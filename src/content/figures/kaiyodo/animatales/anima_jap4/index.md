@@ -7,33 +7,33 @@ titleId: kaiyodo/animatales/anima_jap4
 kind: series
 maker: "海洋堂"
 figureIds:
-  - kaiyodo/animatales/anima_jap4/001
-  - kaiyodo/animatales/anima_jap4/002
-  - kaiyodo/animatales/anima_jap4/003
-  - kaiyodo/animatales/anima_jap4/004
-  - kaiyodo/animatales/anima_jap4/005
-  - kaiyodo/animatales/anima_jap4/006
-  - kaiyodo/animatales/anima_jap4/007
-  - kaiyodo/animatales/anima_jap4/008
-  - kaiyodo/animatales/anima_jap4/009
-  - kaiyodo/animatales/anima_jap4/010
-  - kaiyodo/animatales/anima_jap4/011
-  - kaiyodo/animatales/anima_jap4/012
-  - kaiyodo/animatales/anima_jap4/013
-  - kaiyodo/animatales/anima_jap4/014
-  - kaiyodo/animatales/anima_jap4/015
-  - kaiyodo/animatales/anima_jap4/016
-  - kaiyodo/animatales/anima_jap4/017
-  - kaiyodo/animatales/anima_jap4/018
-  - kaiyodo/animatales/anima_jap4/019
-  - kaiyodo/animatales/anima_jap4/020
-  - kaiyodo/animatales/anima_jap4/021
-  - kaiyodo/animatales/anima_jap4/022
-  - kaiyodo/animatales/anima_jap4/023
-  - kaiyodo/animatales/anima_jap4/024
-  - kaiyodo/animatales/anima_jap4/025
-  - kaiyodo/animatales/anima_jap4/026
-  - kaiyodo/animatales/anima_jap4/027
+  - kaiyodo/animatales/anima_jap4/097
+  - kaiyodo/animatales/anima_jap4/098
+  - kaiyodo/animatales/anima_jap4/099
+  - kaiyodo/animatales/anima_jap4/100
+  - kaiyodo/animatales/anima_jap4/101
+  - kaiyodo/animatales/anima_jap4/102
+  - kaiyodo/animatales/anima_jap4/103
+  - kaiyodo/animatales/anima_jap4/104
+  - kaiyodo/animatales/anima_jap4/105
+  - kaiyodo/animatales/anima_jap4/106
+  - kaiyodo/animatales/anima_jap4/107
+  - kaiyodo/animatales/anima_jap4/108
+  - kaiyodo/animatales/anima_jap4/109
+  - kaiyodo/animatales/anima_jap4/110
+  - kaiyodo/animatales/anima_jap4/111
+  - kaiyodo/animatales/anima_jap4/112
+  - kaiyodo/animatales/anima_jap4/113
+  - kaiyodo/animatales/anima_jap4/114
+  - kaiyodo/animatales/anima_jap4/115
+  - kaiyodo/animatales/anima_jap4/116
+  - kaiyodo/animatales/anima_jap4/117
+  - kaiyodo/animatales/anima_jap4/118
+  - kaiyodo/animatales/anima_jap4/119
+  - kaiyodo/animatales/anima_jap4/120
+  - kaiyodo/animatales/anima_jap4/secret1
+  - kaiyodo/animatales/anima_jap4/secret2
+  - kaiyodo/animatales/anima_jap4/secret3
 executiveProducer: "-"
 seriesName: "アニマテイルズ"
 releaseStart: "2000.09"

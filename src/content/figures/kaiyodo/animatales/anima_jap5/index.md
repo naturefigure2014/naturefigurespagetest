@@ -7,32 +7,32 @@ titleId: kaiyodo/animatales/anima_jap5
 kind: series
 maker: "海洋堂"
 figureIds:
-  - kaiyodo/animatales/anima_jap5/001
-  - kaiyodo/animatales/anima_jap5/002
-  - kaiyodo/animatales/anima_jap5/003
-  - kaiyodo/animatales/anima_jap5/004
-  - kaiyodo/animatales/anima_jap5/005
-  - kaiyodo/animatales/anima_jap5/006
-  - kaiyodo/animatales/anima_jap5/007
-  - kaiyodo/animatales/anima_jap5/008
-  - kaiyodo/animatales/anima_jap5/009
-  - kaiyodo/animatales/anima_jap5/010
-  - kaiyodo/animatales/anima_jap5/011
-  - kaiyodo/animatales/anima_jap5/012
-  - kaiyodo/animatales/anima_jap5/013
-  - kaiyodo/animatales/anima_jap5/014
-  - kaiyodo/animatales/anima_jap5/015
-  - kaiyodo/animatales/anima_jap5/016
-  - kaiyodo/animatales/anima_jap5/017
-  - kaiyodo/animatales/anima_jap5/018
-  - kaiyodo/animatales/anima_jap5/019
-  - kaiyodo/animatales/anima_jap5/020
-  - kaiyodo/animatales/anima_jap5/021
-  - kaiyodo/animatales/anima_jap5/022
-  - kaiyodo/animatales/anima_jap5/023
-  - kaiyodo/animatales/anima_jap5/024
-  - kaiyodo/animatales/anima_jap5/025
-  - kaiyodo/animatales/anima_jap5/026
+  - kaiyodo/animatales/anima_jap5/121
+  - kaiyodo/animatales/anima_jap5/122
+  - kaiyodo/animatales/anima_jap5/123
+  - kaiyodo/animatales/anima_jap5/124
+  - kaiyodo/animatales/anima_jap5/125
+  - kaiyodo/animatales/anima_jap5/126
+  - kaiyodo/animatales/anima_jap5/127
+  - kaiyodo/animatales/anima_jap5/128
+  - kaiyodo/animatales/anima_jap5/129
+  - kaiyodo/animatales/anima_jap5/130
+  - kaiyodo/animatales/anima_jap5/131
+  - kaiyodo/animatales/anima_jap5/132
+  - kaiyodo/animatales/anima_jap5/133
+  - kaiyodo/animatales/anima_jap5/134
+  - kaiyodo/animatales/anima_jap5/135
+  - kaiyodo/animatales/anima_jap5/136
+  - kaiyodo/animatales/anima_jap5/137
+  - kaiyodo/animatales/anima_jap5/138
+  - kaiyodo/animatales/anima_jap5/139
+  - kaiyodo/animatales/anima_jap5/140
+  - kaiyodo/animatales/anima_jap5/141
+  - kaiyodo/animatales/anima_jap5/142
+  - kaiyodo/animatales/anima_jap5/143
+  - kaiyodo/animatales/anima_jap5/144
+  - kaiyodo/animatales/anima_jap5/secret1
+  - kaiyodo/animatales/anima_jap5/secret2
 executiveProducer: "-"
 seriesName: "アニマテイルズ"
 releaseStart: "2001.03"

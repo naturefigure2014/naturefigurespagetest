@@ -6,33 +6,33 @@ titleId: kaiyodo/animatales/anima_jap6
 kind: series
 maker: "海洋堂"
 figureIds:
-  - kaiyodo/animatales/anima_jap6/001
-  - kaiyodo/animatales/anima_jap6/002
-  - kaiyodo/animatales/anima_jap6/003
-  - kaiyodo/animatales/anima_jap6/004
-  - kaiyodo/animatales/anima_jap6/005
-  - kaiyodo/animatales/anima_jap6/006
-  - kaiyodo/animatales/anima_jap6/007
-  - kaiyodo/animatales/anima_jap6/008
-  - kaiyodo/animatales/anima_jap6/009
-  - kaiyodo/animatales/anima_jap6/010
-  - kaiyodo/animatales/anima_jap6/011
-  - kaiyodo/animatales/anima_jap6/012
-  - kaiyodo/animatales/anima_jap6/013
-  - kaiyodo/animatales/anima_jap6/014
-  - kaiyodo/animatales/anima_jap6/015
-  - kaiyodo/animatales/anima_jap6/016
-  - kaiyodo/animatales/anima_jap6/017
-  - kaiyodo/animatales/anima_jap6/018
-  - kaiyodo/animatales/anima_jap6/019
-  - kaiyodo/animatales/anima_jap6/020
-  - kaiyodo/animatales/anima_jap6/021
-  - kaiyodo/animatales/anima_jap6/022
-  - kaiyodo/animatales/anima_jap6/023
-  - kaiyodo/animatales/anima_jap6/024
-  - kaiyodo/animatales/anima_jap6/025
-  - kaiyodo/animatales/anima_jap6/026
-  - kaiyodo/animatales/anima_jap6/027
+  - kaiyodo/animatales/anima_jap6/145
+  - kaiyodo/animatales/anima_jap6/146
+  - kaiyodo/animatales/anima_jap6/147
+  - kaiyodo/animatales/anima_jap6/148
+  - kaiyodo/animatales/anima_jap6/149
+  - kaiyodo/animatales/anima_jap6/150
+  - kaiyodo/animatales/anima_jap6/151
+  - kaiyodo/animatales/anima_jap6/152
+  - kaiyodo/animatales/anima_jap6/153
+  - kaiyodo/animatales/anima_jap6/154
+  - kaiyodo/animatales/anima_jap6/155
+  - kaiyodo/animatales/anima_jap6/156
+  - kaiyodo/animatales/anima_jap6/157
+  - kaiyodo/animatales/anima_jap6/158
+  - kaiyodo/animatales/anima_jap6/159
+  - kaiyodo/animatales/anima_jap6/160
+  - kaiyodo/animatales/anima_jap6/161
+  - kaiyodo/animatales/anima_jap6/162
+  - kaiyodo/animatales/anima_jap6/163
+  - kaiyodo/animatales/anima_jap6/164
+  - kaiyodo/animatales/anima_jap6/165
+  - kaiyodo/animatales/anima_jap6/166
+  - kaiyodo/animatales/anima_jap6/167
+  - kaiyodo/animatales/anima_jap6/168
+  - kaiyodo/animatales/anima_jap6/secret1
+  - kaiyodo/animatales/anima_jap6/secret2
+  - kaiyodo/animatales/anima_jap6/secret3
 executiveProducer: "-"
 seriesName: "アニマテイルズ"
 releaseStart: "2002.09"

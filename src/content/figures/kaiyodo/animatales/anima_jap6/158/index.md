@@ -1,0 +1,27 @@
+---
+title: "ワカケホンセイインコ"
+description: ""
+contentType: figure
+titleId: kaiyodo/animatales/anima_jap6
+figureId: "158"
+maker: "海洋堂"
+sculptor: "松村しのぶ"
+executiveProducer: "-"
+species: "ワカケホンセイインコ"
+speciesGroup: "オウム・インコ類"
+price: "-"
+releaseStart: "2002.09"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "anima_jap6027.jpg"
+coverImage: "anima_jap6027.jpg"
+topics:
+  - title: ""
+    images:
+      - "anima_jap6027.jpg"
+      - "anima_jap6028.jpg"
+    comment: |
+      グラデーションが美しいです。
+---
