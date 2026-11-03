@@ -616,7 +616,7 @@ def write_single_figure_page(
         f"maker: {quoted(maker or '-')}",
     ]
     append_metadata(lines, metadata, (
-        "sculptor", "executiveProducer", "seriesName", "species", "speciesGroup",
+        "sculptor", "executiveProducer", "seriesName", "species",
         "price", "releaseStart", "salesPeriod", "genre", "tags",
     ))
     append_freetags(lines, freetags)
@@ -677,6 +677,32 @@ def item_key(item: dict) -> str:
     return str(int(match.group(1))) if match else item["label"]
 
 
+def register_species(species: str, species_file: Path) -> bool:
+    species = species.replace("/", "・")
+    if not species or species == "-":
+        return False
+
+    with species_file.open("r", encoding="utf-8", newline="") as file:
+        content = file.read()
+    quoted_species = quoted(species)
+    if re.search(rf"(?m)^[ \t]*-[ \t]+{re.escape(quoted_species)}[ \t]*\r?$", content):
+        return False
+
+    group = re.search(r"(?m)^  その他の動物:\r?\n    species:\r?\n", content)
+    if group is None:
+        raise ValueError(f'Could not find "その他の動物" species group in {species_file}')
+
+    newline = "\r\n" if "\r\n" in content else "\n"
+    content = (
+        content[:group.end()]
+        + f"      - {quoted_species}{newline}"
+        + content[group.end():]
+    )
+    with species_file.open("w", encoding="utf-8", newline="") as file:
+        file.write(content)
+    return True
+
+
 def generate(source: Path, content_type: str, extra_sources: list[Path] = (), options: argparse.Namespace | None = None):
     if source.parent.parent.name == "legacy-html":
         output_folder = Path.cwd().resolve()
@@ -728,6 +754,14 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = (), op
             entry = species_map.get(f"{number:03d}")
             if entry:
                 item["species"], item["speciesGroup"] = entry
+    species_file = Path(__file__).resolve().parents[1] / "src" / "data" / "species.yaml"
+    seen_species: set[str] = set()
+    for species in [metadata.get("species", ""), *(item.get("species", "") for item in items)]:
+        normalized_species = species.replace("/", "・")
+        if normalized_species and normalized_species not in seen_species:
+            seen_species.add(normalized_species)
+            if register_species(normalized_species, species_file):
+                print(f'species.yaml に新規追加しました: "{normalized_species}"')
     resources = extract_resources(main)
     metadata.setdefault("releaseStart", release_start(metadata_source) or "")
     metadata.setdefault("salesPeriod", sales_period(metadata_source) or "")

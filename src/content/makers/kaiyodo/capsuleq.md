@@ -161,4 +161,9 @@ seriesSections:
       - kaiyodo/capsuleq/yudokukikenn
       - kaiyodo/capsuleq/yudokukikenn2
     maxTitles: 100
+  - name: miniQ
+    format: ガチャ
+    titleIds:
+      - kaiyodo/miniQ/001
+      - kaiyodo/miniQ/002
 ---

@@ -26,6 +26,7 @@ description: "旧サイト(レガシーHTML)からの変換作業専用: フィ�
 - 種名は title から色・版・備考を除いた名前にする（例: `ゴールデンハムスター（アプリコット）` → `ゴールデンハムスター`）。
 - 1つのフィギュアに2種ある場合は、`species` / `speciesGroup` の代わりに `speciesEntries` を使う。
 - 生成したフィギュアのページに画像ファイルが無い場合は、species / speciesGroup の設定をスキップする。
+- 設定した species が `src/data/species.yaml` に未登録の場合、スクリプトが「その他の動物」の先頭に追加し、ターミナルに追加したspeciesを表示する。生成ページには `speciesGroup` を出力しない。
 
 ```yaml
 speciesEntries:
