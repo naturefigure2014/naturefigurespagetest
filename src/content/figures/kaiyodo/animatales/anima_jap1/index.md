@@ -49,10 +49,30 @@ collectionImage: "img/anima_jap1_033.jpg"
 resources:
   guide:
     image: "img/anima1book.jpg"
-  package:
-    image: "img/hako015.jpg"
-    description: |
-      最初はこのように個別包装の箱は無く、卵をそのままレジへ持っていく販売方法でした。 香港版ですが底の表記が変更されたのみ。解説書も日本語だったとか。
+topics:
+  - title: "パッケージ(最初期)"
+    images:
+      - "img/hako015.jpg"
+      - "img/hako016.jpg"
+    comment: |
+      最初期は個別包装の箱は無く、卵をそのままレジへ持っていく販売方法でした。
+  - title: "パッケージ(単品)"
+    images:
+      - "img/anima1hako1.jpg"
+    comment: |
+  - title: "パッケージ(2個セット)"
+    images:
+      - "img/chocoegg1hako1.jpg"
+    comment: |
+  - title: "パッケージ(香港版)"
+    images:
+      - "img/anima1hako2.jpg"
+    comment: |
+      香港版ですが底の表記が変更されたのみ。解説書も日本語だったようです。
+  - title: "包装紙"
+    images:
+      - "img/chocoegg_kami.jpg"
+    comment: |
 ---
 
 販売時期(最初期)：1999年9月～12月　販売元：フルタ　原型製作：松村しのぶ　カプセルカラー：青

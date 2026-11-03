@@ -101,6 +101,7 @@ const resourceSections = [
       </section>
 
       {resourceSections.map(([heading, sectionKey, resource]) => (
+        (resource?.image || resource?.description) && (
         <section class:list={["title-section", "title-placeholder-section", `title-resource-${sectionKey}`]}>
           <div class="title-section-header">
             <span class="topic-marker"></span>
@@ -117,6 +118,7 @@ const resourceSections = [
             {resource?.description && <p>{resource.description}</p>}
           </div>
         </section>
+        )
       ))}
 
       {entry.data.topics.map((topic, topicIndex) => (
@@ -158,17 +160,17 @@ const resourceSections = [
         </section>
       ))}
 
+      {entry.data.relatedPostEmbed && (
       <section class="title-section title-placeholder-section title-related-post-section">
         <div class="title-section-header">
           <span class="topic-marker"></span>
           <h2>関連投稿</h2>
         </div>
         <div class="title-resource-body related-post-body">
-          {entry.data.relatedPostEmbed
-            ? <div set:html={entry.data.relatedPostEmbed}></div>
-            : <div aria-label="関連投稿の掲載予定位置"></div>}
+          <div set:html={entry.data.relatedPostEmbed}></div>
         </div>
       </section>
+      )}
     </article>
 
     <aside class="title-sidebar">
