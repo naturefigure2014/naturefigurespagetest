@@ -42,7 +42,6 @@ seriesSections:
       - kaiyodo/capsule/cap_miyage/Okinawa
       - kaiyodo/capsule/cap_miyage/Osaka
       - kaiyodo/capsule/cap_miyage/Shinsyu
-      - kaiyodo/capsule/cap_miyage/tmp
       - kaiyodo/capsule/cap_miyage/Tochigi
       - kaiyodo/capsule/cap_miyage/Tokaido1
       - kaiyodo/capsule/cap_miyage/Tokaido2
@@ -57,5 +56,9 @@ seriesSections:
     titleIds:
       - kaiyodo/capsule/tanemaru
       - kaiyodo/capsule/sentokun
+      - kaiyodo/capsule/TOMAMU
+      - kaiyodo/capsule/kumamoto_kiko
+      - kaiyodo/capsule/TokyoLandmark
+      - kaiyodo/capsule/umedaskybldg
 ---
 物産展や各地の名物・名所を題材にした、海洋堂のご当地カプセルフィギュアを紹介します。

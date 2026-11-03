@@ -50,6 +50,12 @@ seriesSections:
       - kaiyodo/glico/glicoOsaka
       - kaiyodo/capsule/MorizoKikkoro
       - kaiyodo/capsule/inochidama
+  - name: 岡本太郎
+    titleIds:
+      - kaiyodo/capsule/OkamotoTaro/artpiece_hikarinokyoen
+      - kaiyodo/capsule/OkamotoTaro/artpiececollection1
+      - kaiyodo/capsule/OkamotoTaro/artpiececollection2
+      - kaiyodo/capsule/OkamotoTaro/masterpiece
 ---
 ### About
 博物館や特別展にあわせて販売された、海洋堂のフィギュアを紹介します。
