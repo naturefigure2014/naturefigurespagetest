@@ -1,5 +1,5 @@
 ---
-title: "海洋堂 カプセルQミュージアム イモコレ！２"
+title: "イモコレ！２"
 description: ""
 contentType: title
 kind: series

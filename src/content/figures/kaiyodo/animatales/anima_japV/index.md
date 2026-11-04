@@ -35,8 +35,8 @@ tags:
 freetag:
   - label: "造形企画制作"
     value: "海洋堂"
-coverImage: "img/japV_header.png"
-collectionImage: "img/japV_header.png"
+coverImage: "img/anima_japV012.jpg"
+collectionImage: "img/anima_japV012.jpg"
 resources:
   guide:
     image: "img/capqanima5kaisetsu.jpg"

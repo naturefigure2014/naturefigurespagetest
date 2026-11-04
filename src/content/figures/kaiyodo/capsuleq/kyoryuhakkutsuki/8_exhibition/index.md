@@ -32,8 +32,8 @@ tags:
 freetag:
   - label: "造形総指揮"
     value: "松村しのぶ"
-coverImage: "img/exhibition_header.png"
-collectionImage: "img/exhibition_header.png"
+coverImage: "img/exhibition021.jpg"
+collectionImage: "img/exhibition021.jpg"
 resources:
   guide:
     image: "img/exhibitionbook.jpg"

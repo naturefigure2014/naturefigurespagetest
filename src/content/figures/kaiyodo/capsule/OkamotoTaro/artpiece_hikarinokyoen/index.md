@@ -1,5 +1,5 @@
 ---
-title: "カプセルQミュージアム 岡本太郎 アートピース集 ～光の饗宴～"
+title: "岡本太郎 アートピース集 ～光の饗宴～"
 description: ""
 contentType: title
 titleId: kaiyodo/capsule/OkamotoTaro/artpiece_hikarinokyoen

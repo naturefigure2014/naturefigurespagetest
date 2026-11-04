@@ -1,5 +1,5 @@
 ---
-title: "海洋堂 カプセルQミュージアム 子パンダ日和 SEASON2"
+title: "子パンダ日和 SEASON2"
 description: ""
 contentType: title
 kind: series

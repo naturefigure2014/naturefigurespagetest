@@ -1,5 +1,5 @@
 ---
-title: "海洋堂 カプセルQミュージアム マグネット水族館 日本の食用魚"
+title: "マグネット水族館 日本の食用魚"
 description: ""
 contentType: title
 kind: series

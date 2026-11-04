@@ -1,5 +1,5 @@
 ---
-title: "カプセルQミュージアム 樹液に集まる昆虫 ～真夏の夜の宴～"
+title: "樹液に集まる昆虫 ～真夏の夜の宴～"
 description: ""
 contentType: title
 titleId: kaiyodo/capsuleq/jueki

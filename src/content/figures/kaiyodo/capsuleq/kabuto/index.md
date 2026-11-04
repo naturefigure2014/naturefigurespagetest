@@ -1,5 +1,5 @@
 ---
-title: "海洋堂 カプセルQミュージアム カブトムシ大全"
+title: "カブトムシ大全"
 description: ""
 contentType: title
 kind: series

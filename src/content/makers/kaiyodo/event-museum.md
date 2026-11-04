@@ -28,6 +28,7 @@ seriesSections:
       - kaiyodo/capsule/dragonfigure
       - kaiyodo/rekishieiketsu
       - kaiyodo/shokugann/museum_limited
+      - kaiyodo/DON_QUIXOTE
 ---
 ### 概要
 イベントや海洋堂ミュージアムで販売されたフィギュアを紹介します。
