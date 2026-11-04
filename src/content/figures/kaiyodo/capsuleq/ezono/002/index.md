@@ -4,8 +4,9 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/ezono
 figureId: "002"
-species: "荒馬と女学生［御影］"
-speciesGroup: "奇蹄類"
+speciesEntries:
+  - species: "銀の匙"
+  - species: "ウマ"
 maker: "海洋堂"
 figureTopImage: "ezono003.jpg"
 coverImage: "ezono003.jpg"

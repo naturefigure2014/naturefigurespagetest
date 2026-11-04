@@ -4,8 +4,9 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/ezono
 figureId: "003"
-species: "豚舎の作業［駒場］"
-speciesGroup: "偶蹄類"
+speciesEntries:
+  - species: "銀の匙"
+  - species: "ブタ"
 maker: "海洋堂"
 figureTopImage: "ezono006.jpg"
 coverImage: "ezono006.jpg"

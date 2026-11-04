@@ -4,8 +4,9 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/ezono
 figureId: "005"
-species: "ネコ"
-speciesGroup: "食肉類"
+speciesEntries:
+  - species: "銀の匙"
+  - species: "ニホンネコ"
 maker: "海洋堂"
 figureTopImage: "ezono010.jpg"
 coverImage: "ezono010.jpg"

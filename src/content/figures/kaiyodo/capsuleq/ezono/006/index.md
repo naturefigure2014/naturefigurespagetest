@@ -4,8 +4,9 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/ezono
 figureId: "006"
-species: "【EX】豚丼＆福ぶちょーストラップ"
-speciesGroup: "その他/未分類"
+speciesEntries:
+  - species: "銀の匙"
+  - species: "ブタ"
 maker: "海洋堂"
 figureTopImage: "ezono012.jpg"
 coverImage: "ezono012.jpg"

@@ -4,8 +4,9 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/ezono
 figureId: "004"
-species: "鶏卵運び［多摩子と副ぶちょー］"
-speciesGroup: "キジ・ニワトリ類"
+speciesEntries:
+  - species: "銀の匙"
+  - species: "ニワトリ"
 maker: "海洋堂"
 figureTopImage: "ezono008.jpg"
 coverImage: "ezono008.jpg"

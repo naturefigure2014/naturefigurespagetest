@@ -4,8 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/sango
 figureId: "003"
-species: "2-A. ウマ"
-speciesGroup: "その他/未分類"
+species: "ウマ"
 maker: "海洋堂"
 sculptor: "山本聖士"
 figureTopImage: "sango001.jpg"

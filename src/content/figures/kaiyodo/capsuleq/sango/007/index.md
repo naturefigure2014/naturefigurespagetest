@@ -4,8 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/sango
 figureId: "007"
-species: "4-A. 母豚と子豚"
-speciesGroup: "その他/未分類"
+species: "ブタ"
 maker: "海洋堂"
 figureTopImage: "sango013.jpg"
 coverImage: "sango013.jpg"

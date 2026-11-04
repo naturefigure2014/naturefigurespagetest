@@ -4,8 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/magnet_aquarium
 figureId: "006"
-species: "6.マダコ【真蛸】"
-speciesGroup: "その他/未分類"
+species: "マダコ"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 figureTopImage: "magnet010.jpg"

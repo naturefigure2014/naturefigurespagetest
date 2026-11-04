@@ -4,8 +4,9 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/ezono
 figureId: "001"
-species: "子牛のお世話［八軒］"
-speciesGroup: "偶蹄類"
+speciesEntries:
+  - species: "銀の匙"
+  - species: "ウシ"
 maker: "海洋堂"
 figureTopImage: "ezono001.jpg"
 coverImage: "ezono001.jpg"
