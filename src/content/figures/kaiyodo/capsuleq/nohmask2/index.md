@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 魔除の仮面 ～能面根付～Vol.2"
+title: "魔除の仮面 ～能面根付～Vol.2"
 description: ""
 contentType: title
 kind: series

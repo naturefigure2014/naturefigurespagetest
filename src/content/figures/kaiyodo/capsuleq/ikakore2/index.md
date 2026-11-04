@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム イカコレ！2 -絶品食材と深海の怪物-"
+title: "イカコレ！2 -絶品食材と深海の怪物-"
 description: ""
 contentType: title
 kind: series

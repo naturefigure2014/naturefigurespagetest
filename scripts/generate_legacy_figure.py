@@ -492,7 +492,7 @@ def write_title_page(
         "speciesGroup", "salesPeriod", "genre", "tags",
     ))
     append_freetags(lines, freetags)
-    lines.extend([f"coverImage: {quoted(cover)}",     f"collectionImage: {quoted(cover)}"])
+    lines.extend([f"coverImage: {quoted(cover)}", f"collectionImage: {quoted(collection)}"])
     if resources:
         lines.append("resources:")
         for key in ("guide", "displayPop", "capsule", "package"):
@@ -772,16 +772,16 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = (), op
     # the source HTML may have been relocated to _legacy/ or legacy-html/.
     image_dir = output_folder / "img"
     all_images = list(content.descendants("img"))
-    cover_source = next(
-        (image_path(full_size_image_source(image)) for image in all_images if image.attrs.get("src")),
-        "",
-    )
-    collection_source = next(
-        (image_path(link.attrs["href"]) for link in content.descendants("a") if (link.attrs.get("href") or "").lower().endswith((".jpg", ".jpeg", ".png", ".gif"))),
-        cover_source,
-    )
+    cover_source = ""
+    for image in all_images:
+        if not image.attrs.get("src"):
+            continue
+        image_source = image_path(full_size_image_source(image))
+        if Path(image_source).suffix.lower() == ".jpg":
+            cover_source = image_source
+            break
     cover = f"img/{Path(cover_source).name}" if cover_source else ""
-    collection = f"img/{Path(collection_source).name}" if collection_source else cover
+    collection = cover
     if content_type == "title":
         title_id = figure_content_id(output_folder)
         copied_images: set[Path] = set()
@@ -799,6 +799,7 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = (), op
                         moved_image_refs.setdefault(source_image.name, f"{index:03d}/{source_image.name}")
             write_figure_page(output_folder, item, index, maker, metadata)
         cover = moved_image_refs.get(Path(cover_source).name, cover)
+        collection = cover
         write_title_page(output_folder, title, maker, overview, items, cover, collection, metadata, freetags, resources)
         for image in copied_images:
             image.unlink()

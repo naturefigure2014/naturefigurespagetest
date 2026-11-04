@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム ニャンズ・ライフ"
+title: "ニャンズ・ライフ"
 description: ""
 contentType: title
 kind: series

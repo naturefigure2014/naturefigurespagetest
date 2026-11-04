@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 日本切手立体図録"
+title: "日本切手立体図録"
 description: ""
 contentType: title
 kind: series

@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム ホネコレ！十二支動物頭骨根付 上巻【子～巳編】"
+title: "ホネコレ！十二支動物頭骨根付 上巻【子～巳編】"
 description: ""
 contentType: title
 kind: series

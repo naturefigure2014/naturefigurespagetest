@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム UMA大全 -世界の未確認動物-"
+title: "UMA大全 -世界の未確認動物-"
 description: ""
 contentType: title
 kind: series

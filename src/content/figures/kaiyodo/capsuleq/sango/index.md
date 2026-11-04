@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 北海道 サンゴー牧場の朝 ～1/35スケールの畜産動物たち～ Aカラー / Bカラー"
+title: "北海道 サンゴー牧場の朝 ～1/35スケールの畜産動物たち～ Aカラー / Bカラー"
 description: ""
 contentType: title
 kind: series

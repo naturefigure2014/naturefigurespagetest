@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 日本の城名鑑 Vol.2 城郭と装飾"
+title: "日本の城名鑑 Vol.2 城郭と装飾"
 description: ""
 contentType: title
 kind: series

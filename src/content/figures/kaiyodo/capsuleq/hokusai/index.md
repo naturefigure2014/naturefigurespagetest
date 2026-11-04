@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 葛飾北斎浮世絵立体図録"
+title: "葛飾北斎浮世絵立体図録"
 description: ""
 contentType: title
 kind: series

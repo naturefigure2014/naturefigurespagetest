@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 古生代-生命大爆発(ビッグバン)-"
+title: "古生代-生命大爆発(ビッグバン)-"
 description: ""
 contentType: title
 kind: series

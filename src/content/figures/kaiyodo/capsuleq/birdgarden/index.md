@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム バードガーデン-鳥の庭-"
+title: "バードガーデン-鳥の庭-"
 description: ""
 contentType: title
 kind: series

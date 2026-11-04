@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 隈取 日本の伝統芸・歌舞伎面根付"
+title: "隈取 日本の伝統芸・歌舞伎面根付"
 description: ""
 contentType: title
 kind: series

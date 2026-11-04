@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 衛生害虫博覧会 ～身近に潜む生活害虫～"
+title: "衛生害虫博覧会 ～身近に潜む生活害虫～"
 description: ""
 contentType: title
 kind: series

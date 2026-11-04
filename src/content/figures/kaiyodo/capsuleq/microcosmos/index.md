@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム ミクロコスモス ～プランクトン大全～"
+title: "ミクロコスモス ～プランクトン大全～"
 description: ""
 contentType: title
 kind: series

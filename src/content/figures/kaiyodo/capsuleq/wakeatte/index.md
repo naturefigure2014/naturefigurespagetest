@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム わけあって絶滅しました。 立体図鑑"
+title: "わけあって絶滅しました。 立体図鑑"
 description: ""
 contentType: title
 kind: series

@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 超古代の謎 オーパーツ"
+title: "超古代の謎 オーパーツ"
 description: ""
 contentType: title
 kind: series

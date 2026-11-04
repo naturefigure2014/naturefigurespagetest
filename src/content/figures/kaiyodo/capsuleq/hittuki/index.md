@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 実践ひっつき虫図鑑 ～部屋の壁の昆虫王国～"
+title: "実践ひっつき虫図鑑 ～部屋の壁の昆虫王国～"
 description: ""
 contentType: title
 kind: series

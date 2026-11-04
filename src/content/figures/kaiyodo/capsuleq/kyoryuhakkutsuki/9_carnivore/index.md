@@ -1,5 +1,5 @@
 ---
-title: "恐竜発掘記９　最大最強肉食恐竜編 Sculpture of The largest &amp; strongest Carnivore Dinosaur"
+title: "恐竜発掘記９　最大最強肉食恐竜編"
 description: ""
 contentType: title
 titleId: kaiyodo/capsuleq/kyoryuhakkutsuki/9_carnivore
@@ -32,8 +32,8 @@ freetag:
     value: "松村しのぶ"
   - label: "公式サイト"
     value: "製品ページ 、 公式レビュー"
-coverImage: "img/hakkutsuki9_header.png"
-collectionImage: "img/hakkutsuki9_header.png"
+coverImage: "img/hakkutsuki9_016.jpg"
+collectionImage: "img/hakkutsuki9_016.jpg"
 ---
 
 【カプセルQミュージアム　恐竜発掘記９　最大最強肉食恐竜編 Sculpture of The largest &amp; strongest

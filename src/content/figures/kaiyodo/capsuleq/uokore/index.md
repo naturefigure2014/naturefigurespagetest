@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム ウオコレ！ ～干物の根付～"
+title: "ウオコレ！ ～干物の根付～"
 description: ""
 contentType: title
 kind: series

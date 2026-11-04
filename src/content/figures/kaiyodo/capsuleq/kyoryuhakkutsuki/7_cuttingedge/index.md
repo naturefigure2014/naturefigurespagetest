@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "恐竜発掘記７　恐竜造形最前線"
 description: ""
 contentType: title
 titleId: kaiyodo/capsuleq/kyoryuhakkutsuki/7_cuttingedge
@@ -33,8 +33,8 @@ tags:
 freetag:
   - label: "造形総指揮"
     value: "松村しのぶ"
-coverImage: "img/kyoryu7_header.png"
-collectionImage: "img/kyoryu7_header.png"
+coverImage: "img/kyoryu7_011.jpg"
+collectionImage: "img/kyoryu7_011.jpg"
 resources:
   guide:
     image: "img/kyoryu7book1.jpg"

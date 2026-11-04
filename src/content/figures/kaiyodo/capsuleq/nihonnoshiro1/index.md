@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 日本の城名鑑"
+title: "日本の城名鑑"
 description: ""
 contentType: title
 kind: series

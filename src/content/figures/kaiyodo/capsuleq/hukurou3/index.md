@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 福をよぶフクロウ大全3"
+title: "福をよぶフクロウ大全3"
 description: ""
 contentType: title
 kind: series

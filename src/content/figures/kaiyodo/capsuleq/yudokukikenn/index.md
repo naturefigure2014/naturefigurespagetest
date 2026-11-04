@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 有毒危険動物大全 -おそろしくも美しい世界の有毒生物たち-"
+title: "有毒危険動物大全 -おそろしくも美しい世界の有毒生物たち-"
 description: ""
 contentType: title
 kind: series

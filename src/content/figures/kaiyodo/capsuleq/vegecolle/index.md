@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム ベジコレ！～野菜ストラップコレクション～"
+title: "ベジコレ！～野菜ストラップコレクション～"
 description: ""
 contentType: title
 kind: series

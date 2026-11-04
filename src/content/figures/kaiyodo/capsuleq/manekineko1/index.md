@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 福を招く まねきねこ大全"
+title: "福を招く まねきねこ大全"
 description: ""
 contentType: title
 kind: series

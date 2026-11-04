@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "恐竜発掘記８　恐竜造形大博覧会"
 description: ""
 contentType: title
 titleId: kaiyodo/capsuleq/kyoryuhakkutsuki/8_exhibition

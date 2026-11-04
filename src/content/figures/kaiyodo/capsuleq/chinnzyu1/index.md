@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 珍獣動物園"
+title: "珍獣動物園"
 description: ""
 contentType: title
 kind: series

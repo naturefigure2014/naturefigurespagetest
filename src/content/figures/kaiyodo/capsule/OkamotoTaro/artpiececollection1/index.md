@@ -1,5 +1,5 @@
 ---
-title: "「生誕100年 岡本太郎展」開催記念ハイクオリティミニチュアモデル 岡本太郎アートピースコレクション / 海洋堂カプセルQミュージアム 岡本太郎アートピース集【２】祝祭の復活"
+title: "「生誕100年 岡本太郎展」開催記念ハイクオリティミニチュアモデル 岡本太郎アートピースコレクション / 岡本太郎アートピース集【２】祝祭の復活"
 description: ""
 contentType: title
 titleId: kaiyodo/capsule/OkamotoTaro/artpiececollection1

@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム 日本カニ大全"
+title: "日本カニ大全"
 description: ""
 contentType: title
 kind: series

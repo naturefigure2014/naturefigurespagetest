@@ -1,5 +1,5 @@
 ---
-title: "海洋堂カプセルQミュージアム お財布蛙"
+title: "お財布蛙"
 description: ""
 contentType: title
 kind: series

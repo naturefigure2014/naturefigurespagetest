@@ -1,5 +1,5 @@
 ---
-title: "特別展「深海」会場限定商品 海洋堂カプセルQミュージアム イカコレ！ 深海スペシャル"
+title: "特別展「深海」会場限定商品 イカコレ！ 深海スペシャル"
 description: ""
 contentType: title
 kind: series

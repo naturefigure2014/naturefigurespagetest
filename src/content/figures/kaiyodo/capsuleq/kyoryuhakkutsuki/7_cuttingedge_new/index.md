@@ -1,5 +1,5 @@
 ---
-title: "恐竜発掘記７ 新・恐竜造形最前線 The cutting edge of Dinosaur modeling"
+title: "恐竜発掘記７ 新・恐竜造形最前線"
 description: ""
 contentType: title
 titleId: kaiyodo/capsuleq/kyoryuhakkutsuki/7_cuttingedge_new
