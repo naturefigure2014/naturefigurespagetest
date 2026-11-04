@@ -13,7 +13,6 @@ figureIds:
   - kaiyodo/capsuleq/yudokukikenn2/003
   - kaiyodo/capsuleq/yudokukikenn2/004
   - kaiyodo/capsuleq/yudokukikenn2/005
-  - kaiyodo/capsuleq/yudokukikenn2/006
 executiveProducer: 松村しのぶ
 releaseStart: "2021.05"
 price: "400円"
@@ -22,6 +21,12 @@ collectionImage: "img/yudoku2_002.jpg"
 resources:
   guide:
     image: "img/yudoku2_book.jpg"
+topics:
+  - title: "梱包"
+    images:
+      - "img/yudoku2_019.jpg"
+    comment: |
+      ２種は破損防止処置がされていました。
 ---
 
 ■概要<br />

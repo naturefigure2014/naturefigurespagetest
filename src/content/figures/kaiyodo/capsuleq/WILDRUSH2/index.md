@@ -15,7 +15,6 @@ figureIds:
   - kaiyodo/capsuleq/WILDRUSH2/003
   - kaiyodo/capsuleq/WILDRUSH2/004
   - kaiyodo/capsuleq/WILDRUSH2/005
-  - kaiyodo/capsuleq/WILDRUSH2/007
   - kaiyodo/capsuleq/WILDRUSH2/008
 executiveProducer: 松村しのぶ
 releaseStart: "2018.09"
@@ -29,6 +28,19 @@ topics:
       - "img/WR2_009.jpg"
     comment: |
       テーマカラーは緑。
+  - title: "ミニブック"
+    images:
+      - "img/WR2_book.jpg"
+    comment: |
+      前回はそれぞれに1から５の番号が振られていましたが、今回はなし。
+  - title: ""
+    images:
+      - "img/WR2_005.jpg"
+    comment: |
+  - title: ""
+    images:
+      - "img/WR2_007.jpg"
+    comment: |
 ---
 
 販売開始時期：2018年9月　販売元：海洋堂　価格：400円　造形総指揮：松村しのぶ<br />

@@ -15,7 +15,6 @@ figureIds:
   - kaiyodo/capsuleq/WILDRUSH1/003
   - kaiyodo/capsuleq/WILDRUSH1/004
   - kaiyodo/capsuleq/WILDRUSH1/005
-  - kaiyodo/capsuleq/WILDRUSH1/007
 executiveProducer: 松村しのぶ
 releaseStart: "2018.05"
 price: "400円"
@@ -28,6 +27,11 @@ topics:
       - "img/WR1_022.jpg"
     comment: |
       久しぶりのカラー帯付き。気合入ってます。
+  - title: "ミニブック"
+    images:
+      - "img/wildrush1book.jpg"
+    comment: |
+      解説はありませんが、学名の記載はあり。
 ---
 
 ■概要<br />

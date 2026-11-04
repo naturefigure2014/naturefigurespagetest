@@ -13,7 +13,6 @@ figureIds:
   - kaiyodo/capsuleq/osaifukame2/003
   - kaiyodo/capsuleq/osaifukame2/004
   - kaiyodo/capsuleq/osaifukame2/005
-  - kaiyodo/capsuleq/osaifukame2/006
 executiveProducer: 松村しのぶ
 releaseStart: "2021.01"
 price: "300円"
@@ -22,6 +21,15 @@ collectionImage: "img/osaifukame2_022.jpg"
 resources:
   displayPop:
     image: "img/osaifukame2DP.jpg"
+topics:
+  - title: "ミニブック"
+    images:
+      - "img/osaifukame2book1.jpg"
+    comment: |
+  - title: ""
+    images:
+      - "img/osaifukame2book2.jpg"
+    comment: |
 ---
 
 ■概要<br />

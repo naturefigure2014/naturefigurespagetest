@@ -15,11 +15,15 @@ figureIds:
   - kaiyodo/capsuleq/yotsubato2/003
   - kaiyodo/capsuleq/yotsubato2/004
   - kaiyodo/capsuleq/yotsubato2/005
-  - kaiyodo/capsuleq/yotsubato2/006
 releaseStart: "2013.03"
 price: "400円"
 coverImage: "img/yotsubatoshirokuro2_014.jpg"
 collectionImage: "img/yotsubatoshirokuro2_001.jpg"
+topics:
+  - title: "ミニブック"
+    images:
+      - "img/yotsuba2book.jpg"
+    comment: |
 ---
 
 ■概要<br />

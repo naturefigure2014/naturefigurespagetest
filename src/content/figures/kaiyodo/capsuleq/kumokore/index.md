@@ -13,11 +13,16 @@ figureIds:
   - kaiyodo/capsuleq/kumokore/003
   - kaiyodo/capsuleq/kumokore/004
   - kaiyodo/capsuleq/kumokore/005
-  - kaiyodo/capsuleq/kumokore/006
 releaseStart: "2020.11"
 price: "400円"
 coverImage: "img/kumokore019.jpg"
 collectionImage: "img/kumokore001.jpg"
+topics:
+  - title: "ミニブック"
+    images:
+      - "img/kumokore.jpg"
+    comment: |
+      センムが3D出力された原型をアップしたのがちょうど1年前でした。 松村さんも３D造形をバリバリ使いこなしているようなので、もしかしたらこれも３D造形かもしれません。 以前から「節足動物は足をつくるのが面倒」とインタビュー等でおっしゃっていたので、3D造形はうってつけですね。
 ---
 
 ■概要<br />

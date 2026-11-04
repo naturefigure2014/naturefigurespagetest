@@ -15,7 +15,6 @@ figureIds:
   - kaiyodo/capsuleq/kabuto/003
   - kaiyodo/capsuleq/kabuto/004
   - kaiyodo/capsuleq/kabuto/005
-  - kaiyodo/capsuleq/kabuto/006
 executiveProducer: 松村しのぶ
 releaseStart: "2020.02"
 price: "400円"
@@ -24,6 +23,12 @@ collectionImage: "img/kabuto001.jpg"
 resources:
   guide:
     image: "img/kabutobook.jpg"
+topics:
+  - title: "梱包"
+    images:
+      - "img/kabuto020.jpg"
+    comment: |
+      今回驚いたのはこの厳重な梱包。 脚は透明なブリスターに固定されて、破損の心配はありません。 最近品質あがっていますよね。
 ---
 
 ■概要<br />

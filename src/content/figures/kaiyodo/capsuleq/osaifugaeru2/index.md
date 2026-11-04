@@ -14,8 +14,6 @@ figureIds:
   - kaiyodo/capsuleq/osaifugaeru2/004
   - kaiyodo/capsuleq/osaifugaeru2/005
   - kaiyodo/capsuleq/osaifugaeru2/006
-  - kaiyodo/capsuleq/osaifugaeru2/007
-  - kaiyodo/capsuleq/osaifugaeru2/009
 executiveProducer: 松村しのぶ
 releaseStart: "2020.01"
 price: "300円"
@@ -26,6 +24,16 @@ topics:
     images: []
     comment: |
       発表されたワンフェス2019夏の展示。グラスフロッグはまだ塗装がされていませんでした。
+  - title: "ミニブック"
+    images:
+      - "img/osaflo2_book.jpg"
+    comment: |
+      おさいふ「かえる」だと思っていましたが、「がえる」でした。
+  - title: "サンプル展示"
+    images:
+      - "img/20191201_103.jpg"
+    comment: |
+      いきもにあ2019(12月)にもサンプルが展示されていました。
 ---
 
 ■概要<br />

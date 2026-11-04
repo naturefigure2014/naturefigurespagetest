@@ -14,7 +14,6 @@ figureIds:
   - kaiyodo/capsuleq/osaifugaeru1/004
   - kaiyodo/capsuleq/osaifugaeru1/005
   - kaiyodo/capsuleq/osaifugaeru1/006
-  - kaiyodo/capsuleq/osaifugaeru1/007
 executiveProducer: 松村しのぶ
 releaseStart: "2015.01"
 price: "300円"
@@ -25,6 +24,12 @@ resources:
     image: "img/osaifugaerubook1.jpg"
   displayPop:
     image: "img/osaifugaeruDP1.jpg"
+topics:
+  - title: "巾着"
+    images:
+      - "img/osaifugaeru007.jpg"
+    comment: |
+      付属した巾着。
 ---
 
 ■概要<br />

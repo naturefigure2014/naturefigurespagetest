@@ -15,8 +15,6 @@ figureIds:
   - kaiyodo/capsuleq/WILDRUSH3/003
   - kaiyodo/capsuleq/WILDRUSH3/004
   - kaiyodo/capsuleq/WILDRUSH3/005
-  - kaiyodo/capsuleq/WILDRUSH3/007
-  - kaiyodo/capsuleq/WILDRUSH3/008
 executiveProducer: 松村しのぶ
 releaseStart: "2019.03"
 price: "400円"
@@ -29,6 +27,26 @@ topics:
       - "img/WR3_018.jpg"
     comment: |
       氷河の風景をバックに。
+  - title: "ミニブック"
+    images:
+      - "img/WR3_book.jpg"
+    comment: |
+      サイズは大きくなりましたが、いつもどおり解説は無し。
+  - title: ""
+    images:
+      - "img/WR3_016.jpg"
+    comment: |
+  - title: ""
+    images:
+      - "img/WR3_019.jpg"
+    comment: |
+      松村さんのラフ画も公開されていました。
+  - title: "miniQ版パッケージ"
+    images:
+      - "img/WR3_hako2.jpg"
+      - "img/WR3_hako1.jpg"
+    comment: |
+      ミニパンフも入っていました。恐竜発掘記7のときと比べて、パッケージ上面が「miniQ」→「海洋堂」に変更になりました。底面のQマークは集めると・・・、特になにもありません。
 ---
 
 海洋堂　カプセルＱ・miniQ ワイルドラッシュ　真・世界動物誌　第3章　極地・北極圏編<br />

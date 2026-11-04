@@ -26,7 +26,6 @@ figureIds:
   - kaiyodo/animatales/wagaten2/018
   - kaiyodo/animatales/wagaten2/019
   - kaiyodo/animatales/wagaten2/020
-  - kaiyodo/animatales/wagaten2/021
 executiveProducer: "-"
 seriesName: "アニマテイルズ"
 releaseStart: "2002.12"
@@ -47,6 +46,12 @@ resources:
     image: "img/wagaten2kaisetsu.jpg"
     description: |
       個別解説書はいつもと違うサイズ。
+topics:
+  - title: "パッケーシ"
+    images:
+      - "img/wagatenn2hukuro.jpg"
+    comment: |
+      前回は赤でしたが今回は緑に。
 ---
 
 販売開始時期：2002年12月<br />

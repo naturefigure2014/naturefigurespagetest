@@ -13,7 +13,6 @@ figureIds:
   - kaiyodo/capsuleq/imokore4/003
   - kaiyodo/capsuleq/imokore4/004
   - kaiyodo/capsuleq/imokore4/005
-  - kaiyodo/capsuleq/imokore4/006
 executiveProducer: 松村しのぶ
 releaseStart: "2020.07"
 price: "400円"
@@ -24,6 +23,10 @@ topics:
     images: []
     comment: |
       WF2020Wで公開されました。
+  - title: "ミニブック"
+    images:
+      - "img/imokore4_book.jpg"
+    comment: |
 ---
 
 販売開始：2020年7月　販売元：海洋堂　価格：400円　造形総指揮：松村しのぶ　<a href="https://kaiyodo.co.jp/items/capsuleq/cqm123/" target="_blank">公式サイト</a><br />
