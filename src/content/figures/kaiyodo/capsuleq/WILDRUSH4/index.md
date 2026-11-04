@@ -17,9 +17,7 @@ figureIds:
   - kaiyodo/capsuleq/WILDRUSH4/003
   - kaiyodo/capsuleq/WILDRUSH4/004
   - kaiyodo/capsuleq/WILDRUSH4/005
-  - kaiyodo/capsuleq/WILDRUSH4/006
   - kaiyodo/capsuleq/WILDRUSH4/007
-  - kaiyodo/capsuleq/WILDRUSH4/009
 executiveProducer: 松村しのぶ
 releaseStart: "2019.12"
 price: "400円"
@@ -38,6 +36,20 @@ topics:
       - "img/WR4_026.jpg"
     comment: |
       ワンフェス2019夏に展示されていたデコマスたち。これを見るとトラの塗装が惜しいですね。 
+  - title: "カプセル"
+    images:
+      - "img/WR4_021.jpg"
+      - "img/WR4_020.jpg"
+  - title: ""
+    images:
+      - "img/WR4_022.jpg"
+    comment: |
+      今回はメロンみたいな色。
+  - title: "RUSH！"
+    images:
+      - "img/WR4_026.jpg"
+    comment: |
+      通算４シリーズ、全20種。かつて思い描いてきた「世界の動物シリーズ」がようやく充実しつつあります。 これからも続いていって欲しいところ。
 ---
 
 販売開始：2019年12月　販売元：海洋堂　価格：400円　造形総指揮：松村しのぶ<br />

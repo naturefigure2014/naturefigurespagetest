@@ -15,13 +15,19 @@ figureIds:
   - kaiyodo/capsuleq/WILDRUSH1/003
   - kaiyodo/capsuleq/WILDRUSH1/004
   - kaiyodo/capsuleq/WILDRUSH1/005
-  - kaiyodo/capsuleq/WILDRUSH1/006
   - kaiyodo/capsuleq/WILDRUSH1/007
 executiveProducer: 松村しのぶ
 releaseStart: "2018.05"
 price: "400円"
 coverImage: "img/WR1.png"
 collectionImage: "img/WR1_021.jpg"
+topics:
+  - title: "カプセル"
+    images:
+      - "img/WR1_023.jpg"
+      - "img/WR1_022.jpg"
+    comment: |
+      久しぶりのカラー帯付き。気合入ってます。
 ---
 
 ■概要<br />

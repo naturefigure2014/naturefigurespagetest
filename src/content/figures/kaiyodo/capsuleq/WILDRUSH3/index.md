@@ -15,7 +15,6 @@ figureIds:
   - kaiyodo/capsuleq/WILDRUSH3/003
   - kaiyodo/capsuleq/WILDRUSH3/004
   - kaiyodo/capsuleq/WILDRUSH3/005
-  - kaiyodo/capsuleq/WILDRUSH3/006
   - kaiyodo/capsuleq/WILDRUSH3/007
   - kaiyodo/capsuleq/WILDRUSH3/008
 executiveProducer: 松村しのぶ
@@ -23,6 +22,13 @@ releaseStart: "2019.03"
 price: "400円"
 coverImage: "img/WR3.png"
 collectionImage: "img/WR3_024.jpg"
+topics:
+  - title: "カプセル"
+    images:
+      - "img/WR3_017.jpg"
+      - "img/WR3_018.jpg"
+    comment: |
+      氷河の風景をバックに。
 ---
 
 海洋堂　カプセルＱ・miniQ ワイルドラッシュ　真・世界動物誌　第3章　極地・北極圏編<br />

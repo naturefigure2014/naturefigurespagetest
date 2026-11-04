@@ -15,7 +15,6 @@ figureIds:
   - kaiyodo/capsuleq/WILDRUSH2/003
   - kaiyodo/capsuleq/WILDRUSH2/004
   - kaiyodo/capsuleq/WILDRUSH2/005
-  - kaiyodo/capsuleq/WILDRUSH2/006
   - kaiyodo/capsuleq/WILDRUSH2/007
   - kaiyodo/capsuleq/WILDRUSH2/008
 executiveProducer: 松村しのぶ
@@ -23,6 +22,13 @@ releaseStart: "2018.09"
 price: "400円"
 coverImage: "img/WR2.png"
 collectionImage: "img/WR2_006.jpg"
+topics:
+  - title: "カプセル"
+    images:
+      - "img/WR2_008.jpg"
+      - "img/WR2_009.jpg"
+    comment: |
+      テーマカラーは緑。
 ---
 
 販売開始時期：2018年9月　販売元：海洋堂　価格：400円　造形総指揮：松村しのぶ<br />
