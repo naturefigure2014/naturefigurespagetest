@@ -40,7 +40,6 @@ seriesSections:
       - kaiyodo/capsuleq/kyoryuhakkutsuki/8_exhibition
       - kaiyodo/capsuleq/kyoryuhakkutsuki/9_carnivore
       - kaiyodo/capsuleq/kyoryuhakkutsuki/10_hunter
-    maxTitles: 100
   - name: 古生物のタイトル
     format: ガチャ
     titleIds:
@@ -53,7 +52,7 @@ seriesSections:
       - kaiyodo/capsuleq/WILDRUSH2
       - kaiyodo/capsuleq/WILDRUSH3
       - kaiyodo/capsuleq/WILDRUSH4
-    maxTitles: 100
+      - kaiyodo/capsuleq/WILDRUSH2_mitoso
   - name: 両生類・爬虫類のタイトル
     format: ガチャ
     titleIds:
@@ -66,7 +65,6 @@ seriesSections:
       - kaiyodo/capsuleq/osaifugaeru2
       - kaiyodo/capsuleq/osaifugame
       - kaiyodo/capsuleq/osaifukame2
-    maxTitles: 100
   - name: 海の生き物のタイトル
     format: ガチャ
     titleIds:
@@ -76,7 +74,6 @@ seriesSections:
       - kaiyodo/capsuleq/ikakore
       - kaiyodo/capsuleq/ikakore2
       - kaiyodo/capsuleq/ikakore_shinkai
-    maxTitles: 100
   - name: 昆虫・ムシのタイトル
     format: ガチャ
     titleIds:
@@ -91,7 +88,6 @@ seriesSections:
       - kaiyodo/capsuleq/hittuki
       - kaiyodo/capsuleq/jueki
       - kaiyodo/capsuleq/uraniwa
-    maxTitles: 100
   - name: 鳥類のタイトル
     format: ガチャ
     titleIds:
@@ -99,7 +95,6 @@ seriesSections:
       - kaiyodo/capsuleq/hukurou
       - kaiyodo/capsuleq/hukurou2
       - kaiyodo/capsuleq/hukurou3
-    maxTitles: 100
   - name: 日本の文化のタイトル
     format: ガチャ
     titleIds:
@@ -112,55 +107,35 @@ seriesSections:
       - kaiyodo/capsuleq/hokusai
       - kaiyodo/capsule/miniQ/gakibonkei
       - kaiyodo/capsule/miniQ/sengokukacchu
-    maxTitles: 100
   - name: キャラクターのタイトル
     format: ガチャ
     titleIds:
       - kaiyodo/capsuleq/yotsubato1
       - kaiyodo/capsuleq/yotsubato2
       - kaiyodo/capsuleq/ezono
-    maxTitles: 100
   - name: すべて
     format: ガチャ
     titleIds:
-
       - kaiyodo/capsuleq/chinnzyu1
       - kaiyodo/capsuleq/chinnzyu2
       - kaiyodo/capsuleq/egypt
-
       - kaiyodo/capsuleq/fushigipet
-
-
       - kaiyodo/capsuleq/honekore1
       - kaiyodo/capsuleq/honekore2
-
-
       - kaiyodo/capsuleq/jppet1
-
-
       - kaiyodo/capsuleq/kanndume
       - kaiyodo/capsuleq/kopanda
       - kaiyodo/capsuleq/kopanda2
-
-
-
       - kaiyodo/capsuleq/manekineko1
       - kaiyodo/capsuleq/manekineko2
       - kaiyodo/capsuleq/microcosmos
-
       - kaiyodo/capsuleq/nyanslife
       - kaiyodo/capsuleq/ooparts
-
       - kaiyodo/capsuleq/sango
-
       - kaiyodo/capsuleq/UMA
-
       - kaiyodo/capsuleq/vegecolle
-
-
       - kaiyodo/capsuleq/yudokukikenn
       - kaiyodo/capsuleq/yudokukikenn2
-    maxTitles: 100
   - name: miniQ
     format: ガチャ
     titleIds:
