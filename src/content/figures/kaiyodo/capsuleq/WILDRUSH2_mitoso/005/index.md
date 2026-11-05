@@ -8,8 +8,8 @@ species: "メガネカイマン"
 speciesGroup: "ワニ類"
 maker: "海洋堂"
 sculptor: "菅谷 中"
-figureTopImage: "WR2_001.jpg"
-coverImage: "WR2_001.jpg"
+figureTopImage: "WR2mitoso005.jpg"
+coverImage: "WR2mitoso005.jpg"
 topics:
   - title: ""
     images:

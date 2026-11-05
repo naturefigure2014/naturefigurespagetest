@@ -8,8 +8,8 @@ species: "オオアリクイ"
 speciesGroup: "食肉類"
 maker: "海洋堂"
 sculptor: "吉良かずや"
-figureTopImage: "WR2_014.jpg"
-coverImage: "WR2_014.jpg"
+figureTopImage: "WR2mitoso001.jpg"
+coverImage: "WR2mitoso001.jpg"
 topics:
   - title: ""
     images:

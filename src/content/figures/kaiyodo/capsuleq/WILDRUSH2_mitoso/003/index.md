@@ -8,8 +8,8 @@ species: "カピバラ"
 speciesGroup: "齧歯・兎類"
 maker: "海洋堂"
 sculptor: "菅谷 中"
-figureTopImage: "WR2_022.jpg"
-coverImage: "WR2_022.jpg"
+figureTopImage: "WR2mitoso003.jpg"
+coverImage: "WR2mitoso003.jpg"
 topics:
   - title: ""
     images:
