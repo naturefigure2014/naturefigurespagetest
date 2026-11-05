@@ -29,6 +29,29 @@ seriesSections:
       - kaiyodo/rekishieiketsu
       - kaiyodo/shokugann/museum_limited
       - kaiyodo/DON_QUIXOTE
+  - name: 所属原型師
+    format: ミュージアム
+    titleIds:
+      - sculptors/FurutaGoro/diplocaulus
+      - sculptors/FurutaGoro/diplocaulus_mini
+      - sculptors/FurutaGoro/kouhironagakubigame
+      - sculptors/FurutaGoro/matamata
+      - sculptors/FurutaGoro/ooatamagame
+      - sculptors/FurutaGoro/osagame
+      - sculptors/FurutaGoro/ryukyuyamagame
+      - sculptors/FurutaGoro/tenguzaru
+      - sculptors/KiraKazuya/hakone
+      - sculptors/KiraKazuya/kawauso2024
+      - sculptors/KiraKazuya/mahaze
+      - sculptors/KiraKazuya/oomizunagidori_toukotsu
+      - sculptors/KiraKazuya/spinosaurus
+      - sculptors/MatsumuraShinobu/ryutooni
+      - sculptors/ShimizuYuko/housekikanahebi
+      - sculptors/ShimizuYuko/iboimori_tokotsu
+      - sculptors/ShimizuYuko/mizuootokage
+      - sculptors/ShimizuYuko/mukashitokage
+      - sculptors/ShimizuYuko/nihonkanahebi
+      - sculptors/ShimizuYuko/togeoagama
 ---
 ### 概要
 イベントや海洋堂ミュージアムで販売されたフィギュアを紹介します。
