@@ -34,21 +34,6 @@ figureIds:
   - kaiyodo/dinotales/dinotales1_ver2/025
   - kaiyodo/dinotales/dinotales1_ver2/026
   - kaiyodo/dinotales/dinotales1_ver2/027
-  - kaiyodo/dinotales/dinotales1_ver2/028
-  - kaiyodo/dinotales/dinotales1_ver2/029
-  - kaiyodo/dinotales/dinotales1_ver2/030
-  - kaiyodo/dinotales/dinotales1_ver2/031
-  - kaiyodo/dinotales/dinotales1_ver2/032
-  - kaiyodo/dinotales/dinotales1_ver2/033
-  - kaiyodo/dinotales/dinotales1_ver2/034
-  - kaiyodo/dinotales/dinotales1_ver2/035
-  - kaiyodo/dinotales/dinotales1_ver2/036
-  - kaiyodo/dinotales/dinotales1_ver2/037
-  - kaiyodo/dinotales/dinotales1_ver2/038
-  - kaiyodo/dinotales/dinotales1_ver2/039
-  - kaiyodo/dinotales/dinotales1_ver2/040
-  - kaiyodo/dinotales/dinotales1_ver2/041
-  - kaiyodo/dinotales/dinotales1_ver2/042
 executiveProducer: "-"
 seriesName: "ダイノテイルズ"
 releaseStart: "2001.12"
