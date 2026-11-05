@@ -15,7 +15,6 @@ figureIds:
   - kaiyodo/capsuleq/WILDRUSH2/003
   - kaiyodo/capsuleq/WILDRUSH2/004
   - kaiyodo/capsuleq/WILDRUSH2/005
-  - kaiyodo/capsuleq/WILDRUSH2/008
 executiveProducer: 松村しのぶ
 releaseStart: "2018.09"
 price: "400円"

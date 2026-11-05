@@ -21,7 +21,7 @@ figureIds:
 executiveProducer: 松村しのぶ
 releaseStart: "2019.12"
 price: "400円"
-coverImage: "img/WR4.png"
+coverImage: "img/WR4_027.jpg"
 collectionImage: "img/WR4_027.jpg"
 resources:
   capsule:

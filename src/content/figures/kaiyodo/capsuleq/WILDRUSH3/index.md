@@ -18,8 +18,8 @@ figureIds:
 executiveProducer: 松村しのぶ
 releaseStart: "2019.03"
 price: "400円"
-coverImage: "img/WR3.png"
-collectionImage: "img/WR3_024.jpg"
+coverImage: "img/WR3_015.jpg"
+collectionImage: "img/WR3_015.jpg"
 topics:
   - title: "カプセル"
     images:
