@@ -23,7 +23,7 @@ figureTopImage: "img/matamata009.jpg"
 coverImage: "img/matamata009.jpg"
 resources:
   package:
-    image: "img/matamata004.jpg"
+    image: "img/matamata010.jpg"
 topics:
   - title: ""
     images:

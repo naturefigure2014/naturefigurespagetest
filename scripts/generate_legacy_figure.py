@@ -573,11 +573,14 @@ def sequential_topics(main: Node) -> list[dict]:
     resource_headings = {"解説書", "ミニブック", "ディスプレイポップ", "DP", "ミニパンフ", "ブックレット", "カプセル"}
     topics: list[dict] = []
     current: dict | None = None
+    in_resource = False
     for row in direct_rows(main):
         heading = row_heading(row)
-        if heading in resource_headings or resource_key_for_heading(heading):
-            break
         if heading:
+            in_resource = bool(heading in resource_headings or resource_key_for_heading(heading))
+            current = None
+            continue
+        if in_resource:
             continue
         row_images = node_images(row)
         if row_images:
