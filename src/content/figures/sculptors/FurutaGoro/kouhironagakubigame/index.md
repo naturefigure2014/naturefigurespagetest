@@ -23,7 +23,9 @@ figureTopImage: "img/kouhironagakubigame012.jpg"
 coverImage: "img/kouhironagakubigame012.jpg"
 resources:
   package:
-    image: "img/nagakubigame005.jpg"
+    image: "img/nagakubigame014.jpg"
+  salesLocation:
+    image: "img/kouhironagakubigame013.jpg"
 topics:
   - title: ""
     images:

@@ -25,7 +25,7 @@ resources:
   package:
     image: "img/ooatamaWF2019W001.jpg"
 topics:
-  - title: ""
+  - title: "いきもにあ2018版"
     images:
       - "img/ooatamagame004.jpg"
       - "img/ooatamagame005.jpg"
@@ -37,16 +37,38 @@ topics:
       - "img/ooatamagame007.jpg"
       - "img/ooatamagame008.jpg"
       - "img/ooatamagame009.jpg"
+  - title: "ワンフェス2019冬版"
+    images:
       - "img/ooatamagame001.jpg"
       - "img/ooatamagame002.jpg"
+      - "img/ooatamagame003.jpg"
     comment: |
       ワンフェス2019冬ではカメ三種が新パッケージに入って販売。塗装がなんとなく違っていたので、オオアタマガメのみ購入しました。以前いきもにあで「前回の塗装を覚えていないから毎回塗装が変わる」と古田さんもおっしゃっていました。
-  - title: ""
+  - title: "2種比較"
     images:
-      - "img/ooatamagame003.jpg"
       - "img/ooatamagame010.jpg"
       - "img/ooatamagame011.jpg"
       - "img/ooatamagame012.jpg"
+  - title: "パッケージ"
+    images:
+      - "img/ooatamaWF2019W001.jpg"
+  - title: "販売場所"
+    images:
+      - "img/ooatamagame014.jpg"
+    comment: |
+      いきもにあ2018の様子。
+  - title: "販売場所"
+    images:
+      - "img/ooatamagame014.jpg"
+    comment: |
+      ワンフェス2019冬での販売ブース。
+  - title: "大型版"
+    images:
+      - "img/blog20240911_004.jpg"
+    comment: |
+      ワンフェス2019冬での販売ブース。
+      デジタル技術により大型サイズで出力され、超絶塗装された超高級品。
+      ワンフェス2024夏にて撮影。
 ---
 
 ### 概要

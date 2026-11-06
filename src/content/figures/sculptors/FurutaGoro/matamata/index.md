@@ -24,6 +24,8 @@ coverImage: "img/matamata009.jpg"
 resources:
   package:
     image: "img/matamata010.jpg"
+  salesLocation:
+    image: []
 topics:
   - title: ""
     images:
