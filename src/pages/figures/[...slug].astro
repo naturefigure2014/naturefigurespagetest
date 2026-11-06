@@ -173,6 +173,49 @@ const resourceSections = [
         </div>
       </section>
 
+      {entry.data.topics.map((topic, topicIndex) => (
+        <section class:list={["topic-card", { featured: topicIndex === 0 }]}>
+          <div class="topic-card-header">
+            <span class="topic-marker">{topicIndex + 1}</span>
+            <h2>{topic.title}</h2>
+          </div>
+
+          <div class:list={["topic-body", {
+            "has-images": topic.images.length > 0,
+            "single-image": topic.images.length === 1,
+            "multiple-images": topic.images.length >= 2
+          }]}>
+            {topic.images.length > 0 && (
+              <div class:list={["topic-images", {
+                single: topic.images.length === 1,
+                two: topic.images.length === 2,
+                "three-or-more": topic.images.length >= 3
+              }]}>
+                {topic.images.map((image, index) => {
+                  const imageUrl = resolveFigureImage(entry.id, image);
+                  return (
+                    <a
+                      class="topic-image-link"
+                      href={imageUrl}
+                      data-lightbox-image={imageUrl}
+                      data-lightbox-alt={`${topic.title} ${index + 1}`}
+                      aria-label={`${topic.title}の画像${index + 1}を拡大表示`}
+                    >
+                      <img
+                        src={imageUrl}
+                        alt={`${topic.title} ${index + 1}`}
+                        loading={topicIndex === 0 ? "eager" : "lazy"}
+                      />
+                    </a>
+                  );
+                })}
+              </div>
+            )}
+            {topic.comment && <p class="topic-comment">{topic.comment}</p>}
+          </div>
+        </section>
+      ))}
+
       {resourceSections.map(([heading, sectionKey, resource]) => {
         const resourceImages = resource?.images?.length
           ? resource.images
@@ -216,48 +259,6 @@ const resourceSections = [
         );
       })}
 
-      {entry.data.topics.map((topic, topicIndex) => (
-        <section class:list={["topic-card", { featured: topicIndex === 0 }]}>
-          <div class="topic-card-header">
-            <span class="topic-marker">{topicIndex + 1}</span>
-            <h2>{topic.title}</h2>
-          </div>
-
-          <div class:list={["topic-body", {
-            "has-images": topic.images.length > 0,
-            "single-image": topic.images.length === 1,
-            "multiple-images": topic.images.length >= 2
-          }]}>
-            {topic.images.length > 0 && (
-              <div class:list={["topic-images", {
-                single: topic.images.length === 1,
-                two: topic.images.length === 2,
-                "three-or-more": topic.images.length >= 3
-              }]}>
-                {topic.images.map((image, index) => {
-                  const imageUrl = resolveFigureImage(entry.id, image);
-                  return (
-                    <a
-                      class="topic-image-link"
-                      href={imageUrl}
-                      data-lightbox-image={imageUrl}
-                      data-lightbox-alt={`${topic.title} ${index + 1}`}
-                      aria-label={`${topic.title}の画像${index + 1}を拡大表示`}
-                    >
-                      <img
-                        src={imageUrl}
-                        alt={`${topic.title} ${index + 1}`}
-                        loading={topicIndex === 0 ? "eager" : "lazy"}
-                      />
-                    </a>
-                  );
-                })}
-              </div>
-            )}
-            {topic.comment && <p class="topic-comment">{topic.comment}</p>}
-          </div>
-        </section>
-      ))}
     </article>
 
     <aside class="figure-sidebar">
