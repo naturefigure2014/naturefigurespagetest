@@ -489,7 +489,7 @@ def write_title_page(
     lines.extend(f"  - {title_id}/{index:03d}" for index in range(1, len(items) + 1))
     append_metadata(lines, metadata, (
         "executiveProducer", "seriesName", "releaseStart", "price", "species",
-        "speciesGroup", "salesPeriod", "genre", "tags",
+        "salesPeriod", "genre", "tags",
     ))
     append_freetags(lines, freetags)
     lines.extend([f"coverImage: {quoted(cover)}", f"collectionImage: {quoted(collection)}"])
@@ -506,7 +506,7 @@ def write_title_page(
                     lines.extend(["    description: |", f"      {resource['description']}"])
     lines.extend(["---", "", overview_to_markdown(overview), ""])
     page = folder / "index.md"
-    preserve_existing_fields(lines, page, {"species", "speciesGroup", "seriesName"})
+    preserve_existing_fields(lines, page, {"species", "seriesName"})
     page.write_text("\n".join(line for line in lines if line is not None), encoding="utf-8")
 
 
@@ -529,7 +529,7 @@ def write_figure_page(folder: Path, item: dict, index: int, maker: str, metadata
     figure_metadata.update({key: item[key] for key in ("species", "speciesGroup") if item.get(key)})
     figure_metadata.setdefault("species", item["name"])
     append_metadata(lines, figure_metadata, (
-        "sculptor", "executiveProducer", "species", "speciesGroup",
+        "sculptor", "executiveProducer", "species",
         "price", "releaseStart", "salesPeriod", "genre", "tags",
     ))
     lines.extend([
@@ -543,7 +543,7 @@ def write_figure_page(folder: Path, item: dict, index: int, maker: str, metadata
     lines.extend(yaml_topics(local_topics))
     lines.extend(["---", ""])
     page = figure_folder / "index.md"
-    preserve_existing_fields(lines, page, {"species", "speciesGroup"})
+    preserve_existing_fields(lines, page, {"species"})
     page.write_text("\n".join(lines), encoding="utf-8")
 
 
