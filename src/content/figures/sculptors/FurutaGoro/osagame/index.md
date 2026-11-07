@@ -15,19 +15,15 @@ tags:
 freetag:
   - label: "購入"
     value: "2019/12"
-  - label: "生きものファンイベント「いきもにあ」に今年も海洋堂で参加いたします。海洋堂ブースの販売アイテムのご紹介（その１） 古田悟郎原型制作ハンドメイド仕上げによるレジンキャスト製オサガメ根付 1個4000円 ttps"
-    value: "//www.equimonia.net/ pic.twitter.com/TSyn0yLCSR"
 figureTopImage: "img/osagame010.jpg"
 coverImage: "img/osagame010.jpg"
-resources:
-  package:
-    image: "img/osagame004.jpg"
 topics:
-  - title: ""
+  - title: "全体-1"
     images:
       - "img/osagame001.jpg"
       - "img/osagame003.jpg"
     comment: |
+      深い青色に独特なまだら模様。プロ塗装師の手作業が光ります。
       オサガメ独特の甲羅のない背中。 水中を飛ぶように泳ぐ姿。
   - title: ""
     images:
@@ -35,17 +31,24 @@ topics:
       - "img/osagame004.jpg"
       - "img/osagame005.jpg"
     comment: |
-      ディテールチェック。 真っ黒の目、くちばし。
+      
   - title: ""
     images:
       - "img/osagame007.jpg"
+    comment: |
+      ディテールチェック。 真っ黒の目、くちばし。
+  - title: ""
+    images:
       - "img/osagame006.jpg"
     comment: |
-      シワも造形されています。
+      フチはギザギザしています。
+      はくふぇす版からのアップデート？
   - title: ""
     images:
       - "img/osagame008.jpg"
       - "img/osagame009.jpg"
+    comment: |
+      シワも造形されています。
 ---
 
 ### 概要
