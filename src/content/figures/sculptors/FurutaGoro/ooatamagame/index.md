@@ -47,7 +47,7 @@ topics:
       - "img/ooatamagame010.jpg"
       - "img/ooatamagame011.jpg"
       - "img/ooatamagame012.jpg"
-  - title: "パッケージ"
+  - title: "パッケージ（ワンフェス2019）"
     images:
       - "img/ooatamaWF2019W001.jpg"
   - title: "販売場所"
@@ -57,7 +57,7 @@ topics:
       いきもにあ2018の様子。
   - title: "販売場所"
     images:
-      - "img/ooatamagame014.jpg"
+      - "img/ooatamaWF2019W004.jpg"
     comment: |
       ワンフェス2019冬での販売ブース。
   - title: "大型版"
@@ -67,6 +67,10 @@ topics:
       ワンフェス2019冬での販売ブース。
       デジタル技術により大型サイズで出力され、超絶塗装された超高級品。
       ワンフェス2024夏にて撮影。
+relatedPostEmbed: |
+  <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">【海洋堂高知・四万十ファクトリーブース会場販売物】<br>原型制作古田悟郎　カメ根付<br><br>爬虫類や古代生物に造詣の深い古田悟郎原型制作のカメ根付です。<br>■コウヒロナガクビガメ根付　￥5,000-(税込)<br>■オオアタマガメ根付　￥4,000-(税込)<br>■マタマタ根付　￥4,000-(税込)<a href="https://twitter.com/hashtag/wf2019w?src=hash&amp;ref_src=twsrc%5Etfw">#wf2019w</a> <a href="https://twitter.com/hashtag/%E5%8F%A4%E7%94%B0%E6%82%9F%E9%83%8E?src=hash&amp;ref_src=twsrc%5Etfw">#古田悟郎</a> <a href="https://t.co/d0muZqiudP">pic.twitter.com/d0muZqiudP</a></p>&mdash; 海洋堂ホビー館四万十_公式 (@hobbykan) <a href="https://twitter.com/hobbykan/status/1093791738349608960?ref_src=twsrc%5Etfw">2019年2月8日</a></blockquote>
+  <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">古田さんのオオアタマガメ、いきもにあ版とワンフェス版。「前回の塗装を忘れるから毎回違った仕上がりになる」と、いきもにあのときにおっしゃっていました。<br>ただしこれを毎回買うと一生買い続けることになるので、もうしません（自戒 <a href="https://t.co/JrVRCMcRdZ">pic.twitter.com/JrVRCMcRdZ</a></p>&mdash; いっちー@ﾈｲﾁｬｰﾌｨｷﾞｭｱ (@aquarium_ninja) <a href="https://twitter.com/aquarium_ninja/status/1094954003039846400?ref_src=twsrc%5Etfw">February 11, 2019</a></blockquote>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 
 ### 概要
