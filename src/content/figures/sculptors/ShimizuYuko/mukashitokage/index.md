@@ -1,5 +1,5 @@
 ---
-title: "清水ゆう子 ムカシトカゲ"
+title: "ムカシトカゲ"
 description: ""
 contentType: figure
 maker: "-"

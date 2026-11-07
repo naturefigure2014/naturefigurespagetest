@@ -1,5 +1,5 @@
 ---
-title: "清水ゆう子 トゲオアガマ"
+title: "トゲオアガマ"
 description: ""
 contentType: figure
 maker: "海洋堂"

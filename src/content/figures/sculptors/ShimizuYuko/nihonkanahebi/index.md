@@ -1,5 +1,5 @@
 ---
-title: "清水ゆう子 ニホンカナヘビ根付"
+title: "ニホンカナヘビ根付"
 description: ""
 contentType: figure
 maker: "-"

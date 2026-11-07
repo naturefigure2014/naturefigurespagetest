@@ -1,5 +1,5 @@
 ---
-title: "清水ゆう子 ホウセキカナヘビ根付"
+title: "ホウセキカナヘビ根付"
 description: ""
 contentType: figure
 maker: "海洋堂"

@@ -1,5 +1,5 @@
 ---
-title: "古田悟郎 オサガメ根付"
+title: "オサガメ根付"
 description: ""
 contentType: figure
 maker: "海洋堂"

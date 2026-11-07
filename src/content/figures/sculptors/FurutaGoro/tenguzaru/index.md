@@ -1,5 +1,5 @@
 ---
-title: "古田悟郎 テングザル根付"
+title: "テングザル根付"
 description: ""
 contentType: figure
 maker: "-"

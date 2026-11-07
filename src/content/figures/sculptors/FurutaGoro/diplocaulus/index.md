@@ -1,5 +1,5 @@
 ---
-title: "古田悟郎 ディプロカウルス"
+title: "ディプロカウルス"
 description: ""
 contentType: figure
 maker: "-"

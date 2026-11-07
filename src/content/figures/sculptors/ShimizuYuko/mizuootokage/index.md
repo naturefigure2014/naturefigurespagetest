@@ -1,5 +1,5 @@
 ---
-title: "清水ゆう子 ミズオオトカゲ根付"
+title: "ミズオオトカゲ根付"
 description: ""
 contentType: figure
 maker: "-"

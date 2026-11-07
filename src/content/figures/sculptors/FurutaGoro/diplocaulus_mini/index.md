@@ -1,5 +1,5 @@
 ---
-title: "[古田悟郎]オリジナルフィギュア ディプロカウルス根付"
+title: "オリジナルフィギュア ディプロカウルス根付"
 description: ""
 contentType: figure
 maker: "-"

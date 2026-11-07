@@ -1,5 +1,5 @@
 ---
-title: "[古田悟郎]オリジナルフィギュア リュウキュウヤマガメ根付"
+title: "オリジナルフィギュア リュウキュウヤマガメ根付"
 description: ""
 contentType: figure
 maker: "海洋堂"

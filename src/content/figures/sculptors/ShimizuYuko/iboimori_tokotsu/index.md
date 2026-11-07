@@ -1,5 +1,5 @@
 ---
-title: "清水ゆう子 イボイモリ頭骨"
+title: "イボイモリ頭骨"
 description: ""
 contentType: figure
 maker: "-"

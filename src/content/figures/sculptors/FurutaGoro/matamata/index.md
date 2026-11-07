@@ -1,5 +1,5 @@
 ---
-title: "古田悟郎 マタマタ根付"
+title: "マタマタ根付"
 description: ""
 contentType: figure
 maker: "-"

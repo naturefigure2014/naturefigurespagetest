@@ -1,5 +1,5 @@
 ---
-title: "古田悟郎 コウヒロナガクビガメ根付"
+title: "コウヒロナガクビガメ根付"
 description: ""
 contentType: figure
 maker: "海洋堂"
