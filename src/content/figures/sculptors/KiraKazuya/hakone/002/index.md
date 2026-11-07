@@ -6,10 +6,9 @@ titleId: sculptors/KiraKazuya/hakone
 figureId: "002"
 maker: "海洋堂高知"
 sculptor: "吉良かずや"
-executiveProducer: "-"
 species: "ハコネサンショウウオ"
 price: "3,000円"
-releaseStart: "-"
+releaseStart: "2019.02"
 genre:
   - "-"
 tags:

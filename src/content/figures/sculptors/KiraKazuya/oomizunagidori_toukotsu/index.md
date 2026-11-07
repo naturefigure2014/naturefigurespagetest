@@ -1,13 +1,11 @@
 ---
-title: "吉良かずや オオミズナギドリ頭骨"
+title: "オオミズナギドリ頭骨"
 description: ""
 contentType: figure
 maker: "海洋堂"
 sculptor: "吉良かずや"
-executiveProducer: "-"
 seriesName: "-"
 species: "オオミズナギドリ"
-speciesGroup: "その他鳥類"
 price: "-"
 releaseStart: "-"
 genre:

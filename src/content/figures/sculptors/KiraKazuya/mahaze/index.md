@@ -1,15 +1,13 @@
 ---
-title: "[吉良かずやオリジナルフィギュア] マハゼ レジンキット"
+title: "マハゼ レジンキット"
 description: ""
 contentType: figure
 maker: "-"
 sculptor: "吉良かずや"
-executiveProducer: "-"
 seriesName: "-"
 species: "マハゼ"
-speciesGroup: "スズキ目の魚類"
 price: "は考え中"
-releaseStart: "-"
+releaseStart: "2025.10"
 genre:
   - "-"
 tags:

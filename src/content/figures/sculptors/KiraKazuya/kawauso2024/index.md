@@ -1,10 +1,9 @@
 ---
-title: "吉良かずや"
+title: "カワウソ"
 description: ""
 contentType: figure
 maker: "海洋堂"
 sculptor: "吉良かずや"
-executiveProducer: "-"
 seriesName: "-"
 species: "-"
 price: "300円"

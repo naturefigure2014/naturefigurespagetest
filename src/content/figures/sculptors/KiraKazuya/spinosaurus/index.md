@@ -1,15 +1,13 @@
 ---
-title: "[吉良かずやオリジナルフィギュア] スピノサウルス レジンキット"
+title: "オリジナルフィギュア スピノサウルス レジンキット"
 description: ""
 contentType: figure
 maker: "海洋堂"
 sculptor: "吉良かずや"
-executiveProducer: "-"
 seriesName: "-"
 species: "スピノサウルス"
-speciesGroup: "獣脚類"
 price: "-"
-releaseStart: "-"
+releaseStart: "2025.10"
 genre:
   - "-"
 tags:
