@@ -3,13 +3,11 @@ title: "古田悟郎 ディプロカウルス"
 description: ""
 contentType: figure
 maker: "-"
-sculptor: "-"
-executiveProducer: "-"
+sculptor: "古田悟郎"
 seriesName: "-"
 species: "ディプロカウルス"
-speciesGroup: "古代の両生類"
 price: "33,000円"
-releaseStart: "-"
+releaseStart: "2019.09"
 genre:
   - "-"
 tags:

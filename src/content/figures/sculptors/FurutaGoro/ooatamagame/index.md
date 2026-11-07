@@ -3,13 +3,11 @@ title: "古田悟郎 オオアタマガメ根付"
 description: ""
 contentType: figure
 maker: "海洋堂"
-sculptor: "-"
-executiveProducer: "-"
+sculptor: "古田悟郎"
 seriesName: "-"
 species: "オオアタマガメ"
-speciesGroup: "カメ類"
 price: "4,000円"
-releaseStart: "-"
+releaseStart: "2018.12"
 genre:
   - "-"
 tags:

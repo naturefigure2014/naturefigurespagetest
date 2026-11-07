@@ -3,13 +3,11 @@ title: "古田悟郎 マタマタ根付"
 description: ""
 contentType: figure
 maker: "-"
-sculptor: "-"
-executiveProducer: "-"
+sculptor: "古田悟郎"
 seriesName: "-"
 species: "マタマタ"
-speciesGroup: "カメ類"
 price: "3,000円"
-releaseStart: "-"
+releaseStart: "2018.09"
 genre:
   - "-"
 tags:

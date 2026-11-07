@@ -3,13 +3,11 @@ title: "古田悟郎 コウヒロナガクビガメ根付"
 description: ""
 contentType: figure
 maker: "海洋堂"
-sculptor: "-"
-executiveProducer: "-"
+sculptor: "古田悟郎"
 seriesName: "-"
 species: "コウヒロナガクビガメ"
-speciesGroup: "カメ類"
 price: "4,000円"
-releaseStart: "-"
+releaseStart: "2018.09"
 genre:
   - "-"
 tags:
@@ -24,8 +22,6 @@ coverImage: "img/kouhironagakubigame012.jpg"
 resources:
   package:
     image: "img/nagakubigame014.jpg"
-  salesLocation:
-    image: "img/kouhironagakubigame013.jpg"
 topics:
   - title: ""
     images:
@@ -47,6 +43,12 @@ topics:
       - "img/kouhironagakubigame008.jpg"
       - "img/kouhironagakubigame009.jpg"
       - "img/kouhironagakubigame011.jpg"
+  - title: "販売場所"
+    images:
+      - "img/kouhironagakubigame013.jpg"
+    comment: |
+      てんず～いきものフェス ～造形の巻～（2018/09）での販売ブース。
+      
 ---
 
 ### 概要

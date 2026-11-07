@@ -672,6 +672,7 @@ body.lightbox-open { overflow: hidden; }
   .figure-main > .figure-heading { order: 0; }
   .figure-sidebar > .basic-card { order: 1; }
   .figure-main > .topic-card, .figure-main > .review-card { order: 2; }
+  .figure-main > .title-placeholder-section { order: 2; }
   .figure-sidebar > :not(.basic-card) { order: 3; }
   .figure-heading { margin-bottom: 5px; }
   .figure-layout.detail-style .figure-heading,

@@ -3,13 +3,11 @@ title: "[古田悟郎]オリジナルフィギュア ディプロカウルス根
 description: ""
 contentType: figure
 maker: "-"
-sculptor: "-"
-executiveProducer: "-"
+sculptor: "古田悟郎"
 seriesName: "-"
 species: "ディプロカウルス"
-speciesGroup: "古代の両生類"
 price: "5,000円"
-releaseStart: "-"
+releaseStart: "2024.07"
 genre:
   - "-"
 tags:

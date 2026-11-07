@@ -3,13 +3,11 @@ title: "[古田悟郎]オリジナルフィギュア リュウキュウヤマガ
 description: ""
 contentType: figure
 maker: "海洋堂"
-sculptor: "-"
-executiveProducer: "-"
+sculptor: "古田悟郎"
 seriesName: "-"
 species: "リュウキュウヤマガメ"
-speciesGroup: "カメ類"
 price: "3,000円"
-releaseStart: "-"
+releaseStart: "2025.10"
 genre:
   - "-"
 tags:

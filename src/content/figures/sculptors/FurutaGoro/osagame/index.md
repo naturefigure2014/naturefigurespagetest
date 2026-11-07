@@ -4,12 +4,10 @@ description: ""
 contentType: figure
 maker: "海洋堂"
 sculptor: "古田悟郎"
-executiveProducer: "-"
 seriesName: "-"
 species: "オサガメ"
-speciesGroup: "カメ類"
 price: "4,000円"
-releaseStart: "-"
+releaseStart: "2019.12"
 genre:
   - "-"
 tags:

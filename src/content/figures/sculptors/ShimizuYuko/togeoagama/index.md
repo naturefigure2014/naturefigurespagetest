@@ -4,12 +4,10 @@ description: ""
 contentType: figure
 maker: "海洋堂"
 sculptor: "清水ゆう子"
-executiveProducer: "-"
 seriesName: "-"
 species: "トゲオアガマ"
-speciesGroup: "トカゲ類"
 price: "3,000円"
-releaseStart: "-"
+releaseStart: "2018.12"
 genre:
   - "-"
 tags:

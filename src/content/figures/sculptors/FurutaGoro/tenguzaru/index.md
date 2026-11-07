@@ -3,13 +3,11 @@ title: "古田悟郎 テングザル根付"
 description: ""
 contentType: figure
 maker: "-"
-sculptor: "-"
-executiveProducer: "-"
+sculptor: "古田悟郎"
 seriesName: "-"
 species: "テングザル"
-speciesGroup: "霊長類"
 price: "3,000円"
-releaseStart: "-"
+releaseStart: "2018.09"
 genre:
   - "-"
 tags:

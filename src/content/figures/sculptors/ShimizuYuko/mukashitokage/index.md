@@ -3,13 +3,11 @@ title: "清水ゆう子 ムカシトカゲ"
 description: ""
 contentType: figure
 maker: "-"
-sculptor: "-"
-executiveProducer: "-"
+sculptor: "清水ゆう子"
 seriesName: "-"
 species: "ムカシトカゲ"
-speciesGroup: "その他古生物"
 price: "33,000円"
-releaseStart: "-"
+releaseStart: "2019.09"
 genre:
   - "-"
 tags:

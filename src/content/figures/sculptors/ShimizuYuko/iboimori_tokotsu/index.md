@@ -4,12 +4,10 @@ description: ""
 contentType: figure
 maker: "-"
 sculptor: "清水ゆう子"
-executiveProducer: "-"
 seriesName: "-"
 species: "イボイモリ"
-speciesGroup: "イモリ・サンショウウオ類"
 price: "000円"
-releaseStart: "-"
+releaseStart: "2017"
 genre:
   - "-"
 tags:

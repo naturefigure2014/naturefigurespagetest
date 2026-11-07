@@ -4,12 +4,10 @@ description: ""
 contentType: figure
 maker: "-"
 sculptor: "清水ゆう子"
-executiveProducer: "-"
 seriesName: "-"
 species: "ミズオオトカゲ"
-speciesGroup: "トカゲ類"
 price: "2,000円（墨入れ版）"
-releaseStart: "-"
+releaseStart: "2018.09"
 genre:
   - "-"
 tags:

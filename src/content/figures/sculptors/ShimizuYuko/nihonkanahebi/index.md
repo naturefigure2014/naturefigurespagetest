@@ -4,12 +4,10 @@ description: ""
 contentType: figure
 maker: "-"
 sculptor: "清水ゆう子"
-executiveProducer: "-"
 seriesName: "-"
 species: "ニホンカナヘビ"
-speciesGroup: "トカゲ類"
 price: "3,000円"
-releaseStart: "-"
+releaseStart: "2017.03"
 genre:
   - "-"
 tags:
