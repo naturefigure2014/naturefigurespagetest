@@ -259,6 +259,18 @@ const resourceSections = [
         );
       })}
 
+      {entry.data.relatedPostEmbed && (
+        <section class="title-section title-placeholder-section title-related-post-section">
+          <div class="title-section-header">
+            <span class="topic-marker"></span>
+            <h2>関連投稿</h2>
+          </div>
+          <div class="title-resource-body related-post-body">
+            <div set:html={entry.data.relatedPostEmbed}></div>
+          </div>
+        </section>
+      )}
+
     </article>
 
     <aside class="figure-sidebar">
