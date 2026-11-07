@@ -20,7 +20,22 @@ const figureImages = import.meta.glob(
 ) as Record<string, string>;
 
 function normalize(value: string) {
-  return value.replace(/\\/g, "/").replace(/^\.\//, "");
+  const parts: string[] = [];
+
+  for (const part of value.replace(/\\/g, "/").split("/")) {
+    if (!part || part === ".") continue;
+    if (part === "..") {
+      if (parts.length > 0 && parts[parts.length - 1] !== "..") {
+        parts.pop();
+      } else {
+        parts.push(part);
+      }
+      continue;
+    }
+    parts.push(part);
+  }
+
+  return parts.join("/");
 }
 
 export function resolveFigureImage(
@@ -62,10 +77,15 @@ export function resolveFigureImage(
     .replace(/^\//, "")
     .replace(/\/index(?:\.md)?$/, "");
 
-  const targetSuffix = `/content/figures/${cleanEntryId}/${filename}`;
+  const targetPath = normalize(
+    `../content/figures/${cleanEntryId}/${filename}`
+  );
+  if (!targetPath.startsWith("../content/figures/")) {
+    return undefined;
+  }
 
-  const match = Object.entries(figureImages).find(([path]) =>
-    normalize(path).endsWith(targetSuffix)
+  const match = Object.entries(figureImages).find(
+    ([path]) => normalize(path) === targetPath
   );
 
   return match?.[1];

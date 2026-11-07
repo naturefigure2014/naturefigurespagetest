@@ -18,7 +18,7 @@ freetag:
   - label: "原型・塗装"
     value: "古田悟郎"
 figureTopImage: "img/diplocaulus013.jpg"
-coverImage: "img/diplocaulus003.jpg"
+coverImage: "img/diplocaulus004.jpg"
 resources:
   package:
     image: "img/diplocaulus001.jpg"
