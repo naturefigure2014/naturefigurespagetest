@@ -24,19 +24,18 @@ topics:
       - "img/osagame003.jpg"
     comment: |
       深い青色に独特なまだら模様。プロ塗装師の手作業が光ります。
-      オサガメ独特の甲羅のない背中。 水中を飛ぶように泳ぐ姿。
   - title: ""
     images:
       - "img/osagame002.jpg"
       - "img/osagame004.jpg"
       - "img/osagame005.jpg"
     comment: |
-      
-  - title: ""
+      オサガメ独特の甲羅のない背中。 水中を飛ぶように泳ぐ姿。
+  - title: "ディテールチェック"
     images:
       - "img/osagame007.jpg"
     comment: |
-      ディテールチェック。 真っ黒の目、くちばし。
+      真っ黒の目、くちばし。
   - title: ""
     images:
       - "img/osagame006.jpg"
@@ -49,6 +48,50 @@ topics:
       - "img/osagame009.jpg"
     comment: |
       シワも造形されています。
+  - title: "パッケージ"
+    images:
+      - "img/osagame011.jpg"
+    comment: |
+      いきもにあ2019で販売されたときのパッケージ。
+      このとき販売された根付は、すべてこのパッケージでした。
+  - title: "販売場所"
+    images:
+      - "img/blog20191201_048.jpg.jpg"
+      - "img/blog20191201_048.jpg.jpg"
+    comment: |
+      いきもにあ2019にて。
+relatedPostEmbed: |
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/39WbYOSZfS/" data-instgrm-version="12">
+    <a href="https://www.instagram.com/p/39WbYOSZfS/">Instagramで投稿を見る</a>
+  </blockquote>
+
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/5AC9JCyZTk/" data-instgrm-version="12">
+    <a href="https://www.instagram.com/p/5AC9JCyZTk/">Instagramで投稿を見る</a>
+  </blockquote>
+
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/5ADEvJSZT4/" data-instgrm-version="12">
+    <a href="https://www.instagram.com/p/5ADEvJSZT4/">Instagramで投稿を見る</a>
+  </blockquote>
+
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/6ARioayZc-/" data-instgrm-version="12">
+    <a href="https://www.instagram.com/p/6ARioayZc-/">Instagramで投稿を見る</a>
+  </blockquote>
+
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B1TUEvWharr/" data-instgrm-version="12">
+    <a href="https://www.instagram.com/p/B1TUEvWharr/">Instagramで投稿を見る</a>
+  </blockquote>
+
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B46z892B1L6/" data-instgrm-version="12">
+    <a href="https://www.instagram.com/p/B46z892B1L6/">Instagramで投稿を見る</a>
+  </blockquote>
+
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B5LFYpjhVl6/" data-instgrm-version="12">
+    <a href="https://www.instagram.com/p/B5LFYpjhVl6/">Instagramで投稿を見る</a>
+  </blockquote>
+
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/B5PTjjbhMbD/" data-instgrm-version="12">
+    <a href="https://www.instagram.com/p/B5PTjjbhMbD/">Instagramで投稿を見る</a>
+  </blockquote>
 ---
 
 ### 概要
