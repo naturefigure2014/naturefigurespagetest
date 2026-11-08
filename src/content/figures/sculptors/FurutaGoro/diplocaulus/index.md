@@ -19,36 +19,42 @@ freetag:
     value: "古田悟郎"
 figureTopImage: "img/diplocaulus013.jpg"
 coverImage: "img/diplocaulus004.jpg"
-resources:
-  package:
-    image: "img/diplocaulus001.jpg"
-    description: |
-      イベント当日の古田さんは、このイラストがプリントされたTシャツを着ていました。
-  
 topics:
-  - title: ""
+  - title: "オリジナル版"
     images:
       - "img/Diplocaulus.jpg"
       - "img/ikimonoten036.jpg"
     comment: |
       まずは本作の元になった作品のご紹介。 屋外で撮影された画像は「古代生物が生きていた！」と各種SNSで超絶バズりました。
-  - title: ""
+      デジタル技術で（少数ながら）量産されたコイツを見ていこう。
+  - title: "箱-表面"
+    images:
+      - "img/diplocaulus001.jpg"
+    comment: |
+      まるで標本のようなケース。背面にはイラストつき。
+      サインは購入した当日に古田さんにいただいたものです。
+  - title: "箱-裏面"
+    images:
+      - "img/diplocaulus002.jpg"
+    comment: |
+      イベント当日の古田さんは、このイラストがプリントされたTシャツを着ていました。
+  - title: "フィギュア本体"
     images:
       - "img/diplocaulus003.jpg"
     comment: |
-      デジタル技術で（少数ながら）量産化されたコイツを見ていこう。
-  - title: ""
+      塗装済み完成品、台座つき。 材質はいつものレジンに近いような気がします。 
+  - title: "台座"
     images:
       - "img/diplocaulus010.jpg"
     comment: |
-      塗装済み完成品、台座つき。 材質はいつものレジンに近いような気がします。 台座は京都水族館のオオサンショウウオと同タイプのもの。
-  - title: ""
+      台座は京都水族館のオオサンショウウオと同タイプのもの。
+  - title: "全体"
     images:
       - "img/diplocaulus004.jpg"
       - "img/diplocaulus005.jpg"
     comment: |
       圧倒的な仕上がり。 今後、これを越えるディプロカウルスはないかもしれません。
-  - title: ""
+  - title: "いろんな向きから"
     images:
       - "img/diplocaulus006.jpg"
       - "img/diplocaulus007.jpg"
@@ -56,12 +62,12 @@ topics:
       - "img/diplocaulus009.jpg"
     comment: |
       縮小に際して、特別手を加えた部分はないとのことです。
-  - title: ""
+  - title: "古田さんのマタマタと"
     images:
       - "img/diplocaulus011.jpg"
     comment: |
       オオサンショウウオのような身体のフォルムに対して、マタマタのような頭とヒダ。 哺乳類も爬虫類も両生類から進化したと聞きます。きっとコイツの遺伝子が発現したカメがマタマタになった・・・という妄想が膨らみます。
-  - title: ""
+  - title: "「日本動物誌」"
     images:
       - "img/diplocaulus014.jpg"
       - "img/diplocaulus015.jpg"

@@ -56,8 +56,8 @@ topics:
       このとき販売された根付は、すべてこのパッケージでした。
   - title: "販売場所"
     images:
-      - "img/blog20191201_048.jpg.jpg"
-      - "img/blog20191201_048.jpg.jpg"
+      - "img/20191201_013.jpg"
+      - "img/20191201_048.jpg"
     comment: |
       いきもにあ2019にて。
 relatedPostEmbed: |
