@@ -1,10 +1,10 @@
 ---
-title: "オリジナルフィギュア リュウキュウヤマガメ根付"
+title: "リュウキュウヤマガメ根付"
 description: ""
 contentType: figure
 maker: "海洋堂"
 sculptor: "古田悟郎"
-seriesName: "-"
+seriesName: "ぶりくら25周年記念 限定オリジナル根付"
 species: "リュウキュウヤマガメ"
 price: "3,000円"
 releaseStart: "2025.10"
@@ -18,7 +18,7 @@ freetag:
   - label: "原型・塗装"
     value: "古田悟郎"
 figureTopImage: "img/ryukyuyamagame007.jpg"
-coverImage: "img/ryukyuyamagame007.jpg"
+coverImage: "img/ryukyuyamagame001.jpg"
 resources:
   package:
     image: "img/ryukyuyamagame007.jpg"

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 maker: "-"
 sculptor: "清水ゆう子"
-seriesName: "-"
+seriesName: "ぶりくら×海洋堂コラボフィギュア"
 species: "ムカシトカゲ"
 price: "33,000円"
 releaseStart: "2019.09"
@@ -15,16 +15,14 @@ tags:
 freetag:
   - label: "購入"
     value: "2019/09"
-  - label: "原型・塗装"
-    value: "清水ゆう子"
 figureTopImage: "img/mukashitokage010.jpg"
-coverImage: "img/mukashitokage010.jpg"
+coverImage: "img/mukashitokage001.jpg"
 topics:
-  - title: ""
+  - title: "オリジナル版"
     images:
       - "img/mukashi.jpg"
     comment: |
-      こちらが元になったオリジナル版。てんず～いきものフェス(2018.09)で撮影。 まさかこれが手に入る日がこようとは・・・。
+      本作の元になったオリジナル版。てんず～いきものフェス(2018.09)で撮影。 まさかこれが手に入る日がこようとは・・・。
   - title: ""
     images:
       - "img/mukashitokage001.jpg"
@@ -45,19 +43,19 @@ topics:
       - "img/mukashitokage008.jpg"
     comment: |
       背中のトゲも抜かりなく造形されています。
-  - title: ""
+  - title: "他のムカシトカゲと"
     images:
       - "img/mukashitokage009.jpg"
     comment: |
       チョコラザウルスでムカシトカゲを知った人も多いでしょう（僕もその一人だ）。そちらの原型は菅谷さん。 菅谷さんのムカシトカゲはシュッとしてすばやそうな印象、清水さんのはぷっくりして可愛らしい印象を受けます。 原型師の個性がでるのが手作りの（成体スキャンではない）動物フィギュアの面白いところです。
-  - title: ""
+  - title: "大 / 小"
     images:
       - "img/blog20231118_053.jpg"
     comment: |
       愛媛県美術館で開催された海洋堂展(2023/07)では、この縮小版がオリジナル版と一緒に展示されていました。
-  - title: ""
+  - title: "梱包"
     images:
-      - "img/mukashitokage001.jpg"
+      - "img/mukashitokage011.jpg"
     comment: |
       フィギュアはプラスチックのパッケージにガチガチに固定されていました。 壊れやすさを考えれば当然の仕様です。 争奪戦を勝ち抜き会場を歩いていたところ、清水さんにお会いできたので一筆お願いしました。
 ---
