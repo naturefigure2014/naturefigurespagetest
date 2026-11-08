@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/hukurou2
 figureId: "002"
-species: "メンフクロウ（白化）"
+species: "メンフクロウ"
 speciesGroup: "猛禽類"
 maker: "海洋堂"
 sculptor: "山本聖士"

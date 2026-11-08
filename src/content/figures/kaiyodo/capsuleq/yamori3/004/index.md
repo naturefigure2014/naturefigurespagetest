@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yamori3
 figureId: "004"
-species: "クレステッドゲッコー(タイガー)"
+species: "クレステッドゲッコー"
 speciesGroup: "トカゲ類"
 maker: "海洋堂"
 figureTopImage: "yamori3_001.jpg"

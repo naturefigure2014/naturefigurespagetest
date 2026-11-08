@@ -144,6 +144,27 @@ def row_heading(row: Node) -> str:
     return normalize_text(headings[0].text()) if headings else ""
 
 
+def extract_related_posts(main: Node) -> str:
+    posts = []
+    active = False
+    for row in direct_rows(main):
+        heading = row_heading(row)
+        if heading:
+            if active:
+                break
+            active = heading == "関連投稿"
+            continue
+        if active:
+            posts.extend(cell.inner_html().strip() for cell in row.descendants("td"))
+    return "\n".join(post for post in posts if post)
+
+
+def append_related_posts(lines: list[str], related_posts: str):
+    if related_posts:
+        lines.append("relatedPostEmbed: |")
+        lines.extend(f"  {line}" for line in related_posts.splitlines())
+
+
 def resource_key_for_heading(heading: str) -> str | None:
     labels = {
         "解説書": "guide",
@@ -378,11 +399,16 @@ def extract_items(main: Node):
     rows = direct_rows(main)
     items = []
     current = None
+    in_related_posts = False
     for row in rows:
         headings = list(row.descendants("th"))
         if headings:
             label = normalize_text(headings[0].text())
             heading = re.sub(r"^\d+\.\s*", "", label)
+            in_related_posts = heading == "関連投稿"
+            if in_related_posts:
+                current = None
+                continue
             if heading in resource_headings or resource_key_for_heading(heading):
                 break
             if not heading:
@@ -474,6 +500,7 @@ def write_title_page(
     metadata: dict[str, str],
     freetags: list[dict[str, str]],
     resources: dict[str, dict[str, str]],
+    related_posts: str,
 ):
     title_id = figure_content_id(folder)
     lines = [
@@ -504,6 +531,7 @@ def write_title_page(
                 ])
                 if resource["description"]:
                     lines.extend(["    description: |", f"      {resource['description']}"])
+    append_related_posts(lines, related_posts)
     lines.extend(["---", "", overview_to_markdown(overview), ""])
     page = folder / "index.md"
     preserve_existing_fields(lines, page, {"species", "seriesName"})
@@ -577,7 +605,7 @@ def sequential_topics(main: Node) -> list[dict]:
     for row in direct_rows(main):
         heading = row_heading(row)
         if heading:
-            in_resource = bool(heading in resource_headings or resource_key_for_heading(heading))
+            in_resource = bool(heading == "関連投稿" or heading in resource_headings or resource_key_for_heading(heading))
             current = None
             continue
         if in_resource:
@@ -610,6 +638,7 @@ def write_single_figure_page(
     cover: str,
     main: Node,
     resources: dict[str, dict[str, str]],
+    related_posts: str,
 ):
     lines = [
         "---",
@@ -642,6 +671,7 @@ def write_single_figure_page(
         {**topic, "images": [f"img/{Path(image).name}" for image in topic["images"]]}
         for topic in topics
     ]))
+    append_related_posts(lines, related_posts)
     lines.extend(["---", "", overview_to_markdown(overview), ""])
     (folder / "index.md").write_text("\n".join(lines), encoding="utf-8")
 
@@ -766,6 +796,7 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = (), op
             if register_species(normalized_species, species_file):
                 print(f'species.yaml に新規追加しました: "{normalized_species}"')
     resources = extract_resources(main)
+    related_posts = extract_related_posts(main)
     metadata.setdefault("releaseStart", release_start(metadata_source) or "")
     metadata.setdefault("salesPeriod", sales_period(metadata_source) or "")
     metadata.setdefault("price", extract_price(metadata_source) or "")
@@ -803,12 +834,12 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = (), op
             write_figure_page(output_folder, item, index, maker, metadata)
         cover = moved_image_refs.get(Path(cover_source).name, cover)
         collection = cover
-        write_title_page(output_folder, title, maker, overview, items, cover, collection, metadata, freetags, resources)
+        write_title_page(output_folder, title, maker, overview, items, cover, collection, metadata, freetags, resources, related_posts)
         for image in copied_images:
             image.unlink()
         print(f"Generated {output_folder / 'index.md'} and {len(items)} figure pages (titleId: {title_id}).")
     else:
-        write_single_figure_page(output_folder, title, maker, overview, items, metadata, freetags, cover, main, resources)
+        write_single_figure_page(output_folder, title, maker, overview, items, metadata, freetags, cover, main, resources, related_posts)
         print(f"Generated {output_folder / 'index.md'} as a figure.")
     remove_unused_thumbnail_images(image_dir)
 

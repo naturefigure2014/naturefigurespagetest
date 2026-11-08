@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/kabuto
 figureId: "003"
-species: "ヘラクレスオオカブト【黄翅】"
+species: "ヘラクレスオオカブト"
 speciesGroup: "カブトムシ・クワガタ類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
