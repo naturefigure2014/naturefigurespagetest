@@ -9,6 +9,8 @@ sculptor: "村田明玄"
 executiveProducer: "-"
 species: "上野恩賜公園の桜"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2017.06"
 genre:

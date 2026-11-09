@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "上野あんみつ「みはし」"
 speciesGroup: "-"
+themes:
+  - "郷土料理・特産品"
 price: "400円"
 releaseStart: "2016.02"
 genre:

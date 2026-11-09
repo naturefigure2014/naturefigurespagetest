@@ -9,6 +9,8 @@ sculptor: "谷 明"
 executiveProducer: "-"
 species: "鉄道ホビートレイン"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "400円"
 releaseStart: "2015.09"
 genre:

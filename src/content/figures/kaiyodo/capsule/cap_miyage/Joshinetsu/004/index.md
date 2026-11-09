@@ -9,6 +9,8 @@ sculptor: "大津敦哉"
 executiveProducer: "-"
 species: "越乃寒梅"
 speciesGroup: "-"
+themes:
+  - "郷土料理・特産品"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2016.08"
 genre:

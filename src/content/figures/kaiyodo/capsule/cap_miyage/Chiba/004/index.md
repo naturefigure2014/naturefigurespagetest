@@ -9,6 +9,8 @@ sculptor: "市原俊成"
 executiveProducer: "-"
 species: "幕張メッセ"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "400円"
 releaseStart: "2016.12"
 genre:

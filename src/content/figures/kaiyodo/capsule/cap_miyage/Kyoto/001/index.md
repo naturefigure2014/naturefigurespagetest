@@ -9,6 +9,8 @@ sculptor: "村田明玄"
 executiveProducer: "-"
 species: "清水寺"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "400円"
 releaseStart: "2015.04"
 genre:

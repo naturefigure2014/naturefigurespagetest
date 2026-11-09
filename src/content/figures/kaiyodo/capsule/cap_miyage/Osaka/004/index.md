@@ -9,6 +9,8 @@ sculptor: "香川雅彦"
 executiveProducer: "-"
 species: "大阪のおばちゃん"
 speciesGroup: "-"
+themes:
+  - "暮らし・祭り"
 price: "400円"
 releaseStart: "2016.01"
 genre:

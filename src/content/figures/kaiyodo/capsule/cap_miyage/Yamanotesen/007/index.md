@@ -9,6 +9,8 @@ sculptor: "？？？"
 executiveProducer: "-"
 species: "シークレット 新型 山手線車両"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "400円"
 releaseStart: "2016.02"
 genre:

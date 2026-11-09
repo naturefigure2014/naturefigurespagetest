@@ -9,6 +9,8 @@ sculptor: "森岡一基"
 executiveProducer: "-"
 species: ""
 speciesGroup: ""
+themes:
+  - "景観・建築"
 price: "400円"
 releaseStart: "2016.02"
 genre:

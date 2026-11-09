@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "恵比寿駅 『恵比寿様』"
 speciesGroup: "-"
+themes:
+  - "暮らし・祭り"
 price: "400円"
 releaseStart: "2018.06"
 genre:

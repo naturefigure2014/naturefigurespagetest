@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "赤べこ"
 speciesGroup: "-"
+themes:
+  - "工芸"
 price: "500円"
 releaseStart: "2019.01"
 genre:

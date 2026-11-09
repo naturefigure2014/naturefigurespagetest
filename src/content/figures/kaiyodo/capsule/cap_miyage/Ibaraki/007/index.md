@@ -9,6 +9,8 @@ sculptor: "香川雅彦"
 executiveProducer: "-"
 species: "ムコナくん"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "400円"
 releaseStart: "2016.02"
 genre:

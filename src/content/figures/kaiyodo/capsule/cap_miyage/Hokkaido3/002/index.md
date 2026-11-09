@@ -9,6 +9,8 @@ sculptor: "山本聖士"
 executiveProducer: "-"
 species: "サラブレッド"
 speciesGroup: "奇蹄類"
+themes:
+  - "スポーツ"
 price: "400円"
 releaseStart: "2014.02"
 genre:

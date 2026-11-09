@@ -9,6 +9,8 @@ sculptor: "谷 明"
 executiveProducer: "-"
 species: "札幌市電"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "400円"
 releaseStart: "2014.02"
 genre:

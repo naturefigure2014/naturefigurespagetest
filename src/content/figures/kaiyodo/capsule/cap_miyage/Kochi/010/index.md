@@ -9,6 +9,8 @@ sculptor: "村田明玄"
 executiveProducer: "-"
 species: "くろしおくん"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "400円"
 releaseStart: "2015.09"
 genre:

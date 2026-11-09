@@ -9,6 +9,8 @@ sculptor: "マツオカステン"
 executiveProducer: "-"
 species: "大船観音"
 speciesGroup: "-"
+themes:
+  - "仏像"
 price: "400円"
 releaseStart: "2016.12"
 genre:

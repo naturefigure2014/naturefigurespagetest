@@ -9,6 +9,8 @@ sculptor: "市原俊成"
 executiveProducer: "-"
 species: "北海道新幹線 H5系"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "400円"
 releaseStart: "2016.03"
 genre:

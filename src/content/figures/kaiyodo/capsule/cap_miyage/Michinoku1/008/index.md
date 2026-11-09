@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "青函トンネルとH5系新幹線"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "400円"
 releaseStart: "2016.04"
 genre:

@@ -9,6 +9,8 @@ sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "伊達政宗騎馬像"
 speciesGroup: "-"
+themes:
+  - "日本の偉人"
 price: "400円"
 releaseStart: "2016.04"
 genre:

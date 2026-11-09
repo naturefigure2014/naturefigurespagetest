@@ -9,6 +9,8 @@ sculptor: "市原俊成"
 executiveProducer: "-"
 species: "通天閣"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "400円"
 releaseStart: "2016.01"
 genre:

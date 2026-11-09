@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "茶道具"
 speciesGroup: "-"
+themes:
+  - "工芸"
 price: "400円"
 releaseStart: "2015.04"
 genre:

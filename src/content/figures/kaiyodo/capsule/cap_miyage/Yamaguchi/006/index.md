@@ -9,6 +9,8 @@ sculptor: "片山ひろし"
 executiveProducer: "-"
 species: "伊藤博文"
 speciesGroup: "-"
+themes:
+  - "日本の偉人"
 price: "400円"
 releaseStart: "2017.09"
 genre:

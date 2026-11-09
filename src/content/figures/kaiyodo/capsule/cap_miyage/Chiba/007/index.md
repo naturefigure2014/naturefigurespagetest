@@ -9,6 +9,8 @@ sculptor: "市原俊成"
 executiveProducer: "-"
 species: "成田エクスプレス"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "400円"
 releaseStart: "2016.12"
 genre:

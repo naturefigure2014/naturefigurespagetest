@@ -9,6 +9,8 @@ sculptor: "村田明玄"
 executiveProducer: "-"
 species: "浅草花やしき"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "500円"
 releaseStart: "2021.02"
 genre:

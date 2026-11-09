@@ -9,6 +9,8 @@ sculptor: "BOME"
 executiveProducer: "-"
 species: "コスプレの女の子 第２ターミナル限定"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "300円"
 releaseStart: "2014.08"
 genre:

@@ -9,6 +9,8 @@ sculptor: "マツオカステン"
 executiveProducer: "-"
 species: "三陸鉄道"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "500円"
 releaseStart: "2019.01"
 genre:

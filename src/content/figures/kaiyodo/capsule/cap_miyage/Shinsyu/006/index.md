@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "河童橋"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "400円"
 releaseStart: "2017.08"
 genre:

@@ -9,6 +9,8 @@ sculptor: "木下隆志"
 executiveProducer: "-"
 species: "1. 札幌市時計台"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "300円→400円"
 releaseStart: "2012.01"
 genre:

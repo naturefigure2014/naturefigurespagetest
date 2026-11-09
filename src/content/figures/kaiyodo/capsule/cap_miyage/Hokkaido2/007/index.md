@@ -9,6 +9,8 @@ sculptor: "？？？"
 executiveProducer: "-"
 species: "AIR DOボーイング 737-700"
 speciesGroup: "-"
+themes:
+  - "航空機"
 price: "400円"
 releaseStart: "2013.02"
 genre:

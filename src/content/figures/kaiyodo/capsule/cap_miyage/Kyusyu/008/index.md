@@ -9,6 +9,8 @@ sculptor: "市原俊成"
 executiveProducer: "-"
 species: "特急 ゆふいんの森"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "500円"
 releaseStart: "2018.04"
 genre:

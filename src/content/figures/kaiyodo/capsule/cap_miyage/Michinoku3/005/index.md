@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "花笠踊り"
 speciesGroup: "-"
+themes:
+  - "暮らし・祭り"
 price: "500円"
 releaseStart: "2019.01"
 genre:

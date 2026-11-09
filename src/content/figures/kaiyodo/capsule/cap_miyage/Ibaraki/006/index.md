@@ -9,6 +9,8 @@ sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "485系特急「ひたち」"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "400円"
 releaseStart: "2016.02"
 genre:

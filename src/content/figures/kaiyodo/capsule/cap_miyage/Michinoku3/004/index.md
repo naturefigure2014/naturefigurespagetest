@@ -9,6 +9,8 @@ sculptor: "村田明玄"
 executiveProducer: "-"
 species: "歌川国芳「日の出之松島」"
 speciesGroup: "-"
+themes:
+  - "日本画"
 price: "500円"
 releaseStart: "2019.01"
 genre:

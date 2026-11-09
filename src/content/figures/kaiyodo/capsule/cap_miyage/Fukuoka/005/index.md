@@ -9,6 +9,8 @@ sculptor: "かたやまひろし モデルイラスト制作：BLACKBOX"
 executiveProducer: "-"
 species: "博多華丸・大吉"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "500円"
 releaseStart: "2019.04"
 genre:

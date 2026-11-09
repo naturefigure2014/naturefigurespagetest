@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "2. クラーク像"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "300円→400円"
 releaseStart: "2012.01"
 genre:

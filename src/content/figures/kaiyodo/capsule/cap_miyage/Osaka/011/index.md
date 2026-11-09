@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "仁徳天皇陵"
 speciesGroup: "-"
+themes:
+  - "歴史資料"
 price: "400円"
 releaseStart: "2016.01"
 genre:

@@ -9,6 +9,8 @@ sculptor: "渡辺結樹"
 executiveProducer: "-"
 species: "東京駅「丸の内駅舎」"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "400円"
 releaseStart: "2016.02"
 genre:

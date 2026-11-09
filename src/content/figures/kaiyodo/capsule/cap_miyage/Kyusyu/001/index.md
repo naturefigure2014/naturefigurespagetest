@@ -9,6 +9,8 @@ sculptor: "海野彼方"
 executiveProducer: "-"
 species: "[熊本] 熊本城"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "500円"
 releaseStart: "2018.04"
 genre:

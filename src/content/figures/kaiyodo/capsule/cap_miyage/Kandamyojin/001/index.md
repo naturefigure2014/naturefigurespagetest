@@ -9,6 +9,8 @@ sculptor: "村田明玄"
 executiveProducer: "-"
 species: "①だいこく様"
 speciesGroup: "-"
+themes:
+  - "暮らし・祭り"
 price: "400円"
 releaseStart: "2014.12"
 genre:

@@ -9,6 +9,9 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "エイサー"
 speciesGroup: "-"
+themes:
+  - "伝統芸能"
+  - "暮らし・祭り"
 price: "400円"
 releaseStart: "2015.06"
 genre:

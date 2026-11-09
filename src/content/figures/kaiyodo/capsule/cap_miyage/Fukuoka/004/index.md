@@ -9,6 +9,9 @@ sculptor: "市原俊成（500系） 寺岡邦明（車両基地）"
 executiveProducer: "-"
 species: "500 TYPE EVA（エヴァンゲリオン新幹線）"
 speciesGroup: "-"
+themes:
+  - "鉄道"
+  - "ポップカルチャー"
 price: "500円"
 releaseStart: "2019.04"
 genre:

@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "[大分] おんせん県（シンフロ）"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "500円"
 releaseStart: "2018.04"
 genre:

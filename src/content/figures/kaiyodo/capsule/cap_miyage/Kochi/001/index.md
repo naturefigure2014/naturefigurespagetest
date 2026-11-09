@@ -9,6 +9,8 @@ sculptor: "香川雅彦"
 executiveProducer: "-"
 species: "坂本龍馬像（通常カラー）"
 speciesGroup: "-"
+themes:
+  - "日本の偉人"
 price: "400円"
 releaseStart: "2015.09"
 genre:

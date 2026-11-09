@@ -9,6 +9,8 @@ sculptor: "マツオカステン"
 executiveProducer: "-"
 species: "富士山とスーパービュー踊り子"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "400円"
 releaseStart: "2016.12"
 genre:

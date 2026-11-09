@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "青森ねぶた祭"
 speciesGroup: "-"
+themes:
+  - "暮らし・祭り"
 price: "400円"
 releaseStart: "2016.04"
 genre:

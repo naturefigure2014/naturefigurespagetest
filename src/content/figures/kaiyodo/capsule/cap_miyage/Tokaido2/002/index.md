@@ -9,6 +9,8 @@ sculptor: "かたやまひろし"
 executiveProducer: "-"
 species: "芦ノ湖"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "500円"
 releaseStart: "2019.04"
 genre:

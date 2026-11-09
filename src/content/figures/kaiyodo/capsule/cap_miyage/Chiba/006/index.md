@@ -9,6 +9,8 @@ sculptor: "木下隆志"
 executiveProducer: "-"
 species: "ふなっしー"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "400円"
 releaseStart: "2016.12"
 genre:

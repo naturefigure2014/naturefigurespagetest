@@ -1,10 +1,8 @@
 ---
 import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import MakerCardBadges from "../../components/MakerCardBadges.astro";
+import FigureCardGrid from "../../components/FigureCardGrid.astro";
 import { getCollection } from "astro:content";
-import { resolveFigureImage } from "../../lib/figure-images";
-import { makerBadgeClass, makerNames } from "../../lib/maker";
 import { getSpeciesEntries } from "../../lib/species";
 import { siteUrl } from "../../lib/site-url";
 /*
@@ -34,76 +32,6 @@ const speciesGroup = speciesGroups.join("・") || "分類未設定";
 const speciesGroupBreadcrumb = speciesGroups
   .map((group) => group.split("/").filter(Boolean).join(" › "))
   .join("・");
-const figureHref = (figure: (typeof allFigures)[number]) =>
-  siteUrl(`/figures/${figure.id.replace(/\/index(?:\.md)?$/, "")}/`);
-const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
-const titleForFigure = (figure: (typeof allFigures)[number]) =>
-  allEntries.find(
-    (entry) =>
-      entry.data.contentType === "title" &&
-      (
-        normalizeId(entry.id) === normalizeId(figure.data.titleId ?? "") ||
-        entry.data.figureIds.some(
-          (figureId) => normalizeId(figureId) === normalizeId(figure.id)
-        )
-      )
-  );
-const imageForFigure = (figure: (typeof allFigures)[number]) => {
-  const imageRefs = [
-    figure.data.coverImage,
-    ...figure.data.topics.flatMap((topic) => topic.images)
-  ];
-  return imageRefs
-    .map((ref) => resolveFigureImage(figure.id, ref))
-    .find((image) => image !== undefined);
-};
-const imageFor = (figure: (typeof allFigures)[number]) => {
-  const figureImage = imageForFigure(figure);
-  if (figureImage) return figureImage;
-
-  const title = titleForFigure(figure);
-  if (!title) return undefined;
-
-  const titleImage = [title.data.collectionImage, title.data.coverImage]
-    .map((ref) => resolveFigureImage(title.id, ref))
-    .find((image) => image !== undefined);
-  if (titleImage) return titleImage;
-
-  return title.data.figureIds
-    .map((figureId) =>
-      allFigures.find((item) => normalizeId(item.id) === normalizeId(figureId))
-    )
-    .filter((item): item is (typeof allFigures)[number] => item !== undefined)
-    .map(imageForFigure)
-    .find((image) => image !== undefined);
-};
-const figureMetadata = (figure: (typeof allFigures)[number]) => {
-  const title = titleForFigure(figure);
-  const ownSeriesName = Array.isArray(figure.data.seriesName)
-    ? figure.data.seriesName.join("・")
-    : figure.data.seriesName;
-  const titleName = title
-    ? title.data.shortTitle || title.data.title
-    : ownSeriesName || "-";
-  const makers = makerNames(title?.data.maker ?? figure.data.maker);
-  const releaseYear =
-    (figure.data.releaseDate instanceof Date
-      ? figure.data.releaseDate.getFullYear().toString()
-      : undefined) ??
-    title?.data.releaseStart?.match(/^\d{4}/)?.[0] ??
-    figure.data.releaseStart?.match(/^\d{4}/)?.[0] ??
-    title?.data.salesPeriod?.match(/^\d{4}/)?.[0] ??
-    figure.data.salesPeriod?.match(/^\d{4}/)?.[0] ??
-    "-";
-
-  return {
-    titleName,
-    sculptor: figure.data.sculptor || "-",
-    maker: makers.length > 0 ? makers.join("・") : "-",
-    makerClass: makerBadgeClass(makers[0] ?? ""),
-    releaseYear
-  };
-};
 
 export async function getStaticPaths() {
   const allEntries = await getCollection("figures");
@@ -136,30 +64,7 @@ export async function getStaticPaths() {
     <section class="species-detail-section">
       <h2>{speciesName}のフィギュア</h2>
       <p class="species-detail-count">{figures.length}種類のフィギュア</p>
-      <div class="species-detail-grid">
-        {figures.map((figure: (typeof allFigures)[number]) => {
-          const metadata = figureMetadata(figure);
-
-          return (
-            <a class="species-detail-card" href={figureHref(figure)}>
-              <span class="species-detail-media">
-                <img src={imageFor(figure)} alt="" loading="lazy" />
-                <MakerCardBadges collectionStatus={figure.data.collectionStatus ?? titleForFigure(figure)?.data.collectionStatus} />
-              </span>
-              <div>
-                <strong>{figure.data.title}</strong>
-                <small>{metadata.titleName}</small>
-                <small class="species-detail-sculptor">{metadata.sculptor}</small>
-                <div class="species-detail-meta">
-                  <span class:list={["species-detail-maker", metadata.makerClass]}>{metadata.maker}</span>
-                  <small class="species-detail-year">{metadata.releaseYear}</small>
-                </div>
-                <b aria-hidden="true">›</b>
-              </div>
-            </a>
-          );
-        })}
-      </div>
+      <FigureCardGrid figures={figures} />
     </section>
   </div>
 </BaseLayout>

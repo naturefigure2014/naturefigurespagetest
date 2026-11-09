@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "尾道水道の渡船"
 speciesGroup: "-"
+themes:
+  - "船舶"
 price: "400円"
 releaseStart: "2018.05"
 genre:

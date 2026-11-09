@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "⑧絵馬[ラブライブ！]"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "400円"
 releaseStart: "2014.12"
 genre:

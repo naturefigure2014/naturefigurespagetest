@@ -9,6 +9,8 @@ sculptor: "大嶋優木（オリジナル製作）大津敦哉（フィニッシ
 executiveProducer: "-"
 species: "秋葉原駅「秋葉原電気街」"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "400円"
 releaseStart: "2016.02"
 genre:

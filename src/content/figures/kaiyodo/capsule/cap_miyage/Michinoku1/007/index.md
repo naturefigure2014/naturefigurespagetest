@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "喜多方ラーメン"
 speciesGroup: "-"
+themes:
+  - "郷土料理・特産品"
 price: "400円"
 releaseStart: "2016.04"
 genre:

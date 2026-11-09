@@ -9,6 +9,8 @@ sculptor: "マツオカステン"
 executiveProducer: "-"
 species: "江ノ島電鉄"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "500円"
 releaseStart: "2019.04"
 genre:

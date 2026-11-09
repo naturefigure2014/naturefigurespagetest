@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "遮光器土偶"
 speciesGroup: "-"
+themes:
+  - "歴史資料"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2017.06"
 genre:

@@ -9,6 +9,8 @@ sculptor: "マツオカステン"
 executiveProducer: "-"
 species: "200系 上越新幹線"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2016.08"
 genre:

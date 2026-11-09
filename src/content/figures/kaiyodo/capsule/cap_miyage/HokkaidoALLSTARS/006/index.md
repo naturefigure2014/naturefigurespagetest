@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "アジャンタのスープカレー"
 speciesGroup: "-"
+themes:
+  - "郷土料理・特産品"
 price: "400円"
 releaseStart: "2016.03"
 genre:

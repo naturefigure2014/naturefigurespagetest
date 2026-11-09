@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "どぜう飯田屋 どぜう鍋"
 speciesGroup: "-"
+themes:
+  - "郷土料理・特産品"
 price: "500円"
 releaseStart: "2021.02"
 genre:

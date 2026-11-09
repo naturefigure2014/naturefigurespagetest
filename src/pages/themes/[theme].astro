@@ -1,0 +1,42 @@
+---
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import FigureCardGrid from "../../components/FigureCardGrid.astro";
+import { getCollection } from "astro:content";
+import { getThemeGroupOf, getThemeGroups } from "../../lib/themes";
+import { siteUrl } from "../../lib/site-url";
+
+export function getStaticPaths() {
+  return getThemeGroups().flatMap((group) =>
+    group.subgroups.map((theme) => ({ params: { theme } }))
+  );
+}
+
+const theme = Astro.params.theme ?? "";
+const groupName = getThemeGroupOf(theme)?.name ?? "";
+const figures = (await getCollection("figures")).filter(
+  (item) => item.data.contentType !== "title" && item.data.themes.includes(theme)
+);
+---
+
+<BaseLayout title={`${theme} | NATURE FIGURE`}>
+  <div class="species-detail-page">
+    <div class="breadcrumb">
+      <a href={siteUrl("/")}>ホーム</a><span>›</span>
+      <a href={siteUrl("/themes/")}>テーマから探す</a><span>›</span>
+      <span>{groupName}</span><span>›</span>
+      {theme}
+    </div>
+
+    <section class="species-detail-hero">
+      <p class="eyebrow">{groupName}</p>
+      <h1>{theme}</h1>
+    </section>
+
+    <section class="species-detail-section">
+      <h2>{theme}のフィギュア</h2>
+      <p class="species-detail-count">{figures.length}種類のフィギュア</p>
+      <FigureCardGrid figures={figures} />
+    </section>
+  </div>
+</BaseLayout>

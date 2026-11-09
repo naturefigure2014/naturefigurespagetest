@@ -9,6 +9,8 @@ sculptor: "市原俊成"
 executiveProducer: "-"
 species: "東京都庁"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "300円"
 releaseStart: "2014.08"
 genre:

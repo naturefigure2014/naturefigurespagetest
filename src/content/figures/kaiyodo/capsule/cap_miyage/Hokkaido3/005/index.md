@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "スキージャンプ"
 speciesGroup: "-"
+themes:
+  - "スポーツ"
 price: "400円"
 releaseStart: "2014.02"
 genre:

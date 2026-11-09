@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "スイギュウ"
 speciesGroup: "偶蹄類"
+themes:
+  - "その他の乗り物"
 price: "400円"
 releaseStart: "2015.06"
 genre:

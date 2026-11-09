@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "ヒミコ"
 speciesGroup: "-"
+themes:
+  - "船舶"
 price: "500円"
 releaseStart: "2021.02"
 genre:

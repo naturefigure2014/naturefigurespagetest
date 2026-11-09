@@ -9,6 +9,8 @@ sculptor: "木下隆志"
 executiveProducer: "-"
 species: "雷門の大提灯"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "300円"
 releaseStart: "2014.08"
 genre:

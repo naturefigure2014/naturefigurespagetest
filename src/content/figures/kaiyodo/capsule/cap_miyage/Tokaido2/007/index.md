@@ -9,6 +9,8 @@ sculptor: "渡辺結樹（G-tempest）"
 executiveProducer: "-"
 species: "戦艦 三笠"
 speciesGroup: "-"
+themes:
+  - "船舶"
 price: "500円"
 releaseStart: "2019.04"
 genre:

@@ -9,6 +9,8 @@ sculptor: "渡辺結樹(G-tempest)"
 executiveProducer: "-"
 species: "浜松町駅 『東京モノレール 10000形車両』"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "400円"
 releaseStart: "2018.06"
 genre:

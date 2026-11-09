@@ -9,6 +9,8 @@ sculptor: "香川雅彦"
 executiveProducer: "-"
 species: "カツオにゃんこ（通常カラー）"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "400円"
 releaseStart: "2015.09"
 genre:

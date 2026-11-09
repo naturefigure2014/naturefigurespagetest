@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "[福岡] 辛子明太子"
 speciesGroup: "-"
+themes:
+  - "郷土料理・特産品"
 price: "500円"
 releaseStart: "2018.04"
 genre:

@@ -9,6 +9,8 @@ sculptor: "榎木ともひで"
 executiveProducer: "-"
 species: "8. 初音ミク"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "300円→400円"
 releaseStart: "2012.01"
 genre:

@@ -9,6 +9,8 @@ sculptor: "村田明玄"
 executiveProducer: "-"
 species: "水戸黄門助さん格さん像"
 speciesGroup: "-"
+themes:
+  - "日本の偉人"
 price: "400円"
 releaseStart: "2016.02"
 genre:

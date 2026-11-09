@@ -9,6 +9,8 @@ sculptor: "村田明玄"
 executiveProducer: "-"
 species: "[佐賀] 吉野ヶ里遺跡"
 speciesGroup: "-"
+themes:
+  - "歴史資料"
 price: "500円"
 releaseStart: "2018.04"
 genre:

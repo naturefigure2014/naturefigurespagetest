@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "雷門(風雷神門)"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "500円"
 releaseStart: "2021.02"
 genre:

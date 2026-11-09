@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "[鹿児島] 西郷隆盛銅像"
 speciesGroup: "-"
+themes:
+  - "日本の偉人"
 price: "500円"
 releaseStart: "2018.04"
 genre:

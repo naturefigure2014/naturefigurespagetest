@@ -9,6 +9,8 @@ sculptor: "マツオカステン"
 executiveProducer: "-"
 species: "Ｈ-ⅡＡロケット"
 speciesGroup: "-"
+themes:
+  - "宇宙船・ロケット"
 price: "400円"
 releaseStart: "2016.02"
 genre:

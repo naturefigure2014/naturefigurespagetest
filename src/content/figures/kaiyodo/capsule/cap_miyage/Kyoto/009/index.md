@@ -9,6 +9,8 @@ sculptor: "やすらひろちか"
 executiveProducer: "-"
 species: "慈照寺 銀閣（観音殿）"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "400円"
 releaseStart: "2015.04"
 genre:

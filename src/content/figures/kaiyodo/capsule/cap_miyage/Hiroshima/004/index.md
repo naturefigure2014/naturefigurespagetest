@@ -9,6 +9,8 @@ sculptor: "香川雅彦"
 executiveProducer: "-"
 species: "この世界の片隅に"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "400円"
 releaseStart: "2018.05"
 genre:

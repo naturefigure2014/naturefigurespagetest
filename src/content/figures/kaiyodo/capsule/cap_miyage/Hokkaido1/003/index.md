@@ -9,6 +9,8 @@ sculptor: "谷 明"
 executiveProducer: "-"
 species: "3. 寝台特急北斗星"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "300円→400円"
 releaseStart: "2012.01"
 genre:

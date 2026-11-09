@@ -9,6 +9,8 @@ sculptor: "海野彼方"
 executiveProducer: "-"
 species: "南部鉄器"
 speciesGroup: "-"
+themes:
+  - "工芸"
 price: "400円"
 releaseStart: "2016.04"
 genre:

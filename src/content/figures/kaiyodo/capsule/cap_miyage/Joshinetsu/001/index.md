@@ -9,6 +9,8 @@ sculptor: "市原俊成"
 executiveProducer: "-"
 species: "国宝 松本城"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2016.08"
 genre:

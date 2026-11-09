@@ -9,6 +9,8 @@ sculptor: "榎木ともひで"
 executiveProducer: "-"
 species: "キャラクター・ボーカル・シリーズ「初音ミク」 （with 雪ミク2013ver.）"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "400円"
 releaseStart: "2013.02"
 genre:

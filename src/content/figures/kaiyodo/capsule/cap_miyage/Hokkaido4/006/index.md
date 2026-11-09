@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "アイヌ像"
 speciesGroup: "-"
+themes:
+  - "暮らし・祭り"
 price: "400円"
 releaseStart: "2015.07"
 genre:

@@ -9,6 +9,9 @@ sculptor: "市原俊成"
 executiveProducer: "-"
 species: "[長崎] 軍艦島"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
+  - "産業"
 price: "500円"
 releaseStart: "2018.04"
 genre:

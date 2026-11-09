@@ -9,6 +9,8 @@ sculptor: "海洋堂兵器局"
 executiveProducer: "-"
 species: "ガールズ＆パンツァー"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "400円"
 releaseStart: "2016.02"
 genre:

@@ -9,6 +9,8 @@ sculptor: "大津敦哉"
 executiveProducer: "-"
 species: "大阪城"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "400円"
 releaseStart: "2016.01"
 genre:

@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "[宮崎] 太陽のタマゴ"
 speciesGroup: "-"
+themes:
+  - "郷土料理・特産品"
 price: "500円"
 releaseStart: "2018.04"
 genre:

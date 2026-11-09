@@ -9,6 +9,8 @@ sculptor: "市原俊成"
 executiveProducer: "-"
 species: "中尊寺金色堂"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "500円"
 releaseStart: "2019.01"
 genre:

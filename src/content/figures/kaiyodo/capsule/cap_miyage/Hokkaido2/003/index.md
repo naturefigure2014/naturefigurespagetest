@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "[網走] 破氷船おーろら"
 speciesGroup: "-"
+themes:
+  - "船舶"
 price: "400円"
 releaseStart: "2013.02"
 genre:

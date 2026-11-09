@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "鎌倉大仏"
 speciesGroup: "-"
+themes:
+  - "仏像"
 price: "500円"
 releaseStart: "2019.04"
 genre:

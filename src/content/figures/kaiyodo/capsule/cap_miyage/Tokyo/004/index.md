@@ -9,6 +9,8 @@ sculptor: "市原俊成"
 executiveProducer: "-"
 species: "力士"
 speciesGroup: "-"
+themes:
+  - "スポーツ"
 price: "300円"
 releaseStart: "2014.08"
 genre:

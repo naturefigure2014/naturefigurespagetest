@@ -9,6 +9,9 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "キンギョ"
 speciesGroup: "コイ・フナ類"
+themes:
+  - "工芸"
+  - "暮らし・祭り"
 price: "400円"
 releaseStart: "2017.09"
 genre:

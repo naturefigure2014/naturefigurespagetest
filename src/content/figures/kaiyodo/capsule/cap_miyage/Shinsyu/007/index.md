@@ -9,6 +9,8 @@ sculptor: "香川雅彦"
 executiveProducer: "-"
 species: "縄文のビーナス"
 speciesGroup: "-"
+themes:
+  - "歴史資料"
 price: "400円"
 releaseStart: "2017.08"
 genre:

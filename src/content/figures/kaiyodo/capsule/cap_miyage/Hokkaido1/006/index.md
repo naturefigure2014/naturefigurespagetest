@@ -9,6 +9,8 @@ sculptor: "木下隆志"
 executiveProducer: "-"
 species: "サケ"
 speciesGroup: "サケ・マス類"
+themes:
+  - "郷土料理・特産品"
 price: "300円→400円"
 releaseStart: "2012.01"
 genre:

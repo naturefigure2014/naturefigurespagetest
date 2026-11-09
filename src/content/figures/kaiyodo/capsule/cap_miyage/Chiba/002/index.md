@@ -9,6 +9,8 @@ sculptor: "渡辺結樹 (G-tempest)"
 executiveProducer: "-"
 species: "八街落花生"
 speciesGroup: "-"
+themes:
+  - "郷土料理・特産品"
 price: "400円"
 releaseStart: "2016.12"
 genre:

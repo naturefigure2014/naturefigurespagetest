@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "関東・栃木レモン"
 speciesGroup: "-"
+themes:
+  - "郷土料理・特産品"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2018.03"
 genre:

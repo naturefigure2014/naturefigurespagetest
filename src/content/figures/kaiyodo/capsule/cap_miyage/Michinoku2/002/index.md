@@ -9,6 +9,8 @@ sculptor: "寒河江弘・渡辺結樹"
 executiveProducer: "-"
 species: "スパリゾートハワイアンズ"
 speciesGroup: "-"
+themes:
+  - "景観・建築"
 price: "400円"
 releaseStart: "2017.05"
 genre:

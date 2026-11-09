@@ -9,6 +9,8 @@ sculptor: "渡辺結樹"
 executiveProducer: "-"
 species: "SL「やまぐち」号と篠目駅"
 speciesGroup: "-"
+themes:
+  - "鉄道"
 price: "400円"
 releaseStart: "2017.09"
 genre:

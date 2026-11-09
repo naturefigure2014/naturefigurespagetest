@@ -9,6 +9,8 @@ sculptor: "木下隆志"
 executiveProducer: "-"
 species: "スキージャンプ"
 speciesGroup: "-"
+themes:
+  - "スポーツ"
 price: "400円"
 releaseStart: "2017.08"
 genre:

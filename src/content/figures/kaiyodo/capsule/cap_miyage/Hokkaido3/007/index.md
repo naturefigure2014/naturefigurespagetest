@@ -9,6 +9,8 @@ sculptor: "BOME"
 executiveProducer: "-"
 species: "初音ミク(with 雪ミク2014ver.)"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "400円"
 releaseStart: "2014.02"
 genre:

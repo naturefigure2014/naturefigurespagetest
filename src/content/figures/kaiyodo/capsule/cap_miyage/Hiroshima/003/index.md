@@ -9,6 +9,8 @@ sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "お好み焼きとオタフクソース"
 speciesGroup: "-"
+themes:
+  - "郷土料理・特産品"
 price: "400円"
 releaseStart: "2018.05"
 genre:

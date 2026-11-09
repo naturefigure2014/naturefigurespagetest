@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "金印「漢委奴国王」"
 speciesGroup: "-"
+themes:
+  - "歴史資料"
 price: "500円"
 releaseStart: "2019.04"
 genre:

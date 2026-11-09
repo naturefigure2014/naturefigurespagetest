@@ -9,6 +9,8 @@ sculptor: "村田明玄"
 executiveProducer: "-"
 species: "舞妓"
 speciesGroup: "-"
+themes:
+  - "伝統芸能"
 price: "400円"
 releaseStart: "2015.04"
 genre:

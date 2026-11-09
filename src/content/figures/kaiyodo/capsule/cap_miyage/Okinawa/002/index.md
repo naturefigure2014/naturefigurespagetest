@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "シーサー"
 speciesGroup: "-"
+themes:
+  - "工芸"
 price: "400円"
 releaseStart: "2015.06"
 genre:

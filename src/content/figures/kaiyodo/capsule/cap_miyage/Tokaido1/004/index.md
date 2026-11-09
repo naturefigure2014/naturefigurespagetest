@@ -9,6 +9,8 @@ sculptor: "平野英之"
 executiveProducer: "-"
 species: "川崎工場群"
 speciesGroup: "-"
+themes:
+  - "産業"
 price: "400円"
 releaseStart: "2016.12"
 genre:

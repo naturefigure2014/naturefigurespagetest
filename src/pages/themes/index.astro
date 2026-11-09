@@ -1,0 +1,68 @@
+---
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { resolveFigureImage } from "../../lib/figure-images";
+import { getThemeGroups } from "../../lib/themes";
+import { siteUrl } from "../../lib/site-url";
+
+const figures = (await getCollection("figures")).filter(
+  (item) => item.data.contentType !== "title" && item.data.themes.length > 0
+);
+const groupIcons = ["❖", "✧", "➤", "✦"];
+
+const figuresFor = (subgroup: string) =>
+  figures.filter((figure) => figure.data.themes.includes(subgroup));
+const imageFor = (subgroup: string) =>
+  figuresFor(subgroup)
+    .map((figure) =>
+      resolveFigureImage(
+        figure.id,
+        figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
+      )
+    )
+    .find((image) => image !== undefined);
+const groups = getThemeGroups();
+---
+
+<BaseLayout title="テーマから探す | NATURE FIGURE">
+  <div class="species-page">
+    <div class="breadcrumb"><a href={siteUrl("/")}>ホーム</a> / テーマから探す</div>
+
+    <section class="species-hero">
+      <div class="species-hero-copy">
+        <p class="eyebrow">テーマから探す</p>
+        <h1>テーマから探す</h1>
+        <p>文化・歴史・乗り物・宇宙など、テーマからフィギュアを探すことができます。</p>
+      </div>
+      <div class="species-hero-art" aria-hidden="true">❖</div>
+    </section>
+
+    <div class="species-category-list">
+      {groups.map((group, index) => (
+        <section class="species-category">
+          <div class="species-category-intro">
+            <div class="species-category-icon" aria-hidden="true">{groupIcons[index % groupIcons.length]}</div>
+            <div>
+              <h2>{group.name}</h2>
+            </div>
+          </div>
+          <div class="species-group-grid">
+            {group.subgroups.map((subgroup) => {
+              const image = imageFor(subgroup);
+              return (
+                <a class="species-group-card" href={siteUrl(`/themes/${encodeURIComponent(subgroup)}/`)}>
+                  {image ? <img src={image} alt="" loading="lazy" /> : <span class="species-group-placeholder" aria-hidden="true" />}
+                  <span class="species-group-content">
+                    <strong>{subgroup}</strong>
+                    <span class="species-group-arrow" aria-hidden="true">›</span>
+                  </span>
+                </a>
+              );
+            })}
+          </div>
+        </section>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

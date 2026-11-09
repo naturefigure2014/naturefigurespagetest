@@ -9,6 +9,9 @@ sculptor: "村田明玄"
 executiveProducer: "-"
 species: "③熊手"
 speciesGroup: "-"
+themes:
+  - "工芸"
+  - "暮らし・祭り"
 price: "400円"
 releaseStart: "2014.12"
 genre:

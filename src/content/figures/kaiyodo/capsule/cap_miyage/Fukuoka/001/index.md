@@ -9,6 +9,8 @@ sculptor: "香川雅彦"
 executiveProducer: "-"
 species: "山笠（舁き手）"
 speciesGroup: "-"
+themes:
+  - "暮らし・祭り"
 price: "500円"
 releaseStart: "2019.04"
 genre:

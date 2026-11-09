@@ -9,6 +9,8 @@ sculptor: "KATAYAMA×REN"
 executiveProducer: "-"
 species: "GLAY HISASHI(G)"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "400円"
 releaseStart: "2016.03"
 genre:

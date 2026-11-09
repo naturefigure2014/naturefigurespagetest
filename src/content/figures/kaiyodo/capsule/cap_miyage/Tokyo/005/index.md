@@ -9,6 +9,8 @@ sculptor: "木下隆志"
 executiveProducer: "-"
 species: "たいやき"
 speciesGroup: "-"
+themes:
+  - "郷土料理・特産品"
 price: "300円"
 releaseStart: "2014.08"
 genre:

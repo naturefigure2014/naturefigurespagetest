@@ -9,6 +9,8 @@ sculptor: "大津敦哉"
 executiveProducer: "-"
 species: "エヴァンゲリオン"
 speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "400円"
 releaseStart: "2016.12"
 genre:

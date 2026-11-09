@@ -9,6 +9,8 @@ sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "具志堅用高"
 speciesGroup: "-"
+themes:
+  - "スポーツ"
 price: "400円"
 releaseStart: "2015.06"
 genre:

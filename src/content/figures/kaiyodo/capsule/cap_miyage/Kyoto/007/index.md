@@ -9,6 +9,8 @@ sculptor: "村田明玄"
 executiveProducer: "-"
 species: "ニワトリ"
 speciesGroup: "キジ・ニワトリ類"
+themes:
+  - "日本画"
 price: "400円"
 releaseStart: "2015.04"
 genre:
