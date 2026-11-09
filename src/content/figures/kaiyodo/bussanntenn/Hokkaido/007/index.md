@@ -2,6 +2,9 @@
 title: "木彫りクマ"
 description: ""
 contentType: figure
+themes:
+  - "祭り・伝統文化"
+  - "工芸・民芸"
 titleId: kaiyodo/bussanntenn/Hokkaido
 figureId: "007"
 maker: "海洋堂"

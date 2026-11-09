@@ -2,6 +2,8 @@
 title: "北海のタラバガニ"
 description: ""
 contentType: figure
+themes:
+  - "動物"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "008"
 maker: "海洋堂"

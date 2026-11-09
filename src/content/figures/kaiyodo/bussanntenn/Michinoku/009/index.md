@@ -2,6 +2,8 @@
 title: "下北のニホンザル（青森県）"
 description: ""
 contentType: figure
+themes:
+  - "動物"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "009"
 maker: "海洋堂"

@@ -2,6 +2,9 @@
 title: "坂本龍馬像"
 description: ""
 contentType: figure
+themes:
+  - "建築・史跡"
+  - "人物"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "014"
 maker: "海洋堂"

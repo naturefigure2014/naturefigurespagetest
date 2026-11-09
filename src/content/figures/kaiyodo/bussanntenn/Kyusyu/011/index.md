@@ -2,6 +2,8 @@
 title: "佐世保造船所（長崎県）"
 description: ""
 contentType: figure
+themes:
+  - "産業・暮らし"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "011"
 maker: "海洋堂"

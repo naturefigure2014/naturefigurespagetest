@@ -2,6 +2,8 @@
 title: "ACLビンと小樽ガラス工芸のグラス"
 description: ""
 contentType: figure
+themes:
+  - "工芸・民芸"
 titleId: kaiyodo/bussanntenn/Hokkaido
 figureId: "008"
 maker: "海洋堂"

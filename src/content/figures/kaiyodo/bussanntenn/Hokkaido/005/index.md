@@ -2,6 +2,8 @@
 title: "クラーク像"
 description: ""
 contentType: figure
+themes:
+  - "建築・史跡"
 titleId: kaiyodo/bussanntenn/Hokkaido
 figureId: "005"
 maker: "海洋堂"

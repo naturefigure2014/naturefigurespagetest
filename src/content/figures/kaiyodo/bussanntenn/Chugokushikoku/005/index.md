@@ -2,6 +2,8 @@
 title: "四国遍路"
 description: ""
 contentType: figure
+themes:
+  - "祭り・伝統文化"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "005"
 maker: "海洋堂"

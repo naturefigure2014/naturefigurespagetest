@@ -7,8 +7,8 @@ figureId: "004"
 maker: "海洋堂"
 sculptor: "Studio 蓮"
 executiveProducer: "-"
-species: "ドラえもん《ポケットサーチ》"
-speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "500円"
 releaseStart: "2019.05"
 genre:

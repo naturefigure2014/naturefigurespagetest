@@ -2,6 +2,8 @@
 title: "新巻鮭"
 description: ""
 contentType: figure
+themes:
+  - "郷土料理・特産品"
 titleId: kaiyodo/bussanntenn/Hokkaido
 figureId: "002"
 maker: "海洋堂"

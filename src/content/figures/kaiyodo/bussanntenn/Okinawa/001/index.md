@@ -2,6 +2,8 @@
 title: "守礼門"
 description: ""
 contentType: figure
+themes:
+  - "建築・史跡"
 titleId: kaiyodo/bussanntenn/Okinawa
 figureId: "001"
 maker: "海洋堂"

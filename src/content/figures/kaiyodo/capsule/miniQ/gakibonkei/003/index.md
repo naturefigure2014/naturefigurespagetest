@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "日本画"
 figureTopImage: "gakibonkei_004.jpg"
 coverImage: "gakibonkei_004.jpg"
 topics:

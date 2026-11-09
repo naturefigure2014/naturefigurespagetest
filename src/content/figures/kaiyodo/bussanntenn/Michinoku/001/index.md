@@ -2,6 +2,8 @@
 title: "雪景色（秋田県）"
 description: ""
 contentType: figure
+themes:
+  - "自然・風景"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "001"
 maker: "海洋堂"

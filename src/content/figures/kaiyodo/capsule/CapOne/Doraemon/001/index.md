@@ -7,8 +7,8 @@ figureId: "001"
 maker: "海洋堂"
 sculptor: "香川雅彦"
 executiveProducer: "-"
-species: "タイムマシンで冒険に"
-speciesGroup: "-"
+themes:
+  - "ポップカルチャー"
 price: "500円"
 releaseStart: "2019.05"
 genre:

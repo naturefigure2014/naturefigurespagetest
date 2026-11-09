@@ -2,6 +2,8 @@
 title: "種子島ロケット発射台（鹿児島県）"
 description: ""
 contentType: figure
+themes:
+  - "科学技術"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "012"
 maker: "海洋堂"

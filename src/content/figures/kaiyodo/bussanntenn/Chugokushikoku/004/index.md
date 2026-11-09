@@ -2,6 +2,8 @@
 title: "厳島神社の大鳥居"
 description: ""
 contentType: figure
+themes:
+  - "建築・史跡"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "004"
 maker: "海洋堂"

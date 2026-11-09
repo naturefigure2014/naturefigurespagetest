@@ -2,6 +2,8 @@
 title: "南部鉄器（岩手県）"
 description: ""
 contentType: figure
+themes:
+  - "工芸・民芸"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "010"
 maker: "海洋堂"

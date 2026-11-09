@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "宇宙飛行士"
 figureTopImage: "ouritsu2white010.jpg"
 coverImage: "ouritsu2white010.jpg"
 topics:

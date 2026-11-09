@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "宇宙船・ロケット"
 figureTopImage: "SpaceShuttle011.jpg"
 coverImage: "SpaceShuttle011.jpg"
 topics:

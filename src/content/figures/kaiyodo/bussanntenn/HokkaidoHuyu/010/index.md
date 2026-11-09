@@ -2,6 +2,9 @@
 title: "湿原のタンチョウヅル"
 description: ""
 contentType: figure
+themes:
+  - "動物"
+  - "自然・風景"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "010"
 maker: "海洋堂"

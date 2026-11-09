@@ -2,6 +2,8 @@
 title: "熊本城（熊本県）"
 description: ""
 contentType: figure
+themes:
+  - "建築・史跡"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "003"
 maker: "海洋堂"

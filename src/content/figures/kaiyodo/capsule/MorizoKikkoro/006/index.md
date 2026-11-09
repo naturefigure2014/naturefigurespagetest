@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "ポップカルチャー"
 figureTopImage: "morizo015.jpg"
 coverImage: "morizo015.jpg"
 topics:

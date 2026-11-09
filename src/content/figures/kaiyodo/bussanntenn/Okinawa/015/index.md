@@ -2,6 +2,10 @@
 title: "海辺で生ビールを飲むお姉さん"
 description: ""
 contentType: figure
+themes:
+  - "郷土料理・特産品"
+  - "自然・風景"
+  - "人物"
 titleId: kaiyodo/bussanntenn/Okinawa
 figureId: "015"
 maker: "海洋堂"

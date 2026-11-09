@@ -2,6 +2,8 @@
 title: "オホーツクのクリオネ"
 description: ""
 contentType: figure
+themes:
+  - "動物"
 titleId: kaiyodo/bussanntenn/Hokkaido
 figureId: "011"
 maker: "海洋堂"

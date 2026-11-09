@@ -2,6 +2,8 @@
 title: "シークレット：毛がに（茹で）"
 description: ""
 contentType: figure
+themes:
+  - "郷土料理・特産品"
 titleId: kaiyodo/bussanntenn/Hokkaido
 figureId: "015"
 maker: "海洋堂"

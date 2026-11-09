@@ -2,6 +2,9 @@
 title: "太宰府の木ウソ（福岡県）"
 description: ""
 contentType: figure
+themes:
+  - "祭り・伝統文化"
+  - "工芸・民芸"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "013"
 maker: "海洋堂"

@@ -2,6 +2,8 @@
 title: "ホヤ"
 description: ""
 contentType: figure
+themes:
+  - "動物"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "008"
 maker: "海洋堂"

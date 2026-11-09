@@ -2,6 +2,8 @@
 title: "金田一耕助登場 ～本陣殺人事件～"
 description: ""
 contentType: figure
+themes:
+  - "人物"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "015"
 maker: "海洋堂"

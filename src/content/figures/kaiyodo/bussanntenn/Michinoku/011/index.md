@@ -2,6 +2,9 @@
 title: "鳴子のこけし（宮城県）"
 description: ""
 contentType: figure
+themes:
+  - "祭り・伝統文化"
+  - "工芸・民芸"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "011"
 maker: "海洋堂"

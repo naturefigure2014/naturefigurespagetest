@@ -2,6 +2,8 @@
 title: "キタキツネとナキウサギ"
 description: ""
 contentType: figure
+themes:
+  - "動物"
 titleId: kaiyodo/bussanntenn/Hokkaido
 figureId: "009"
 maker: "海洋堂"

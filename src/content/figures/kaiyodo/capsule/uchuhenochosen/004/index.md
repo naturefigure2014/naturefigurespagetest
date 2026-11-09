@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "宇宙船・ロケット"
 figureTopImage: "space2014_022.jpg"
 coverImage: "space2014_022.jpg"
 topics:

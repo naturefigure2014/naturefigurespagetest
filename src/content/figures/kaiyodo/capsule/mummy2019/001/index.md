@@ -7,8 +7,8 @@ figureId: "001"
 maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
-species: "ネコ"
-speciesGroup: "食肉類"
+themes:
+  - "古代エジプト"
 price: "５００円"
 releaseStart: "-"
 genre:

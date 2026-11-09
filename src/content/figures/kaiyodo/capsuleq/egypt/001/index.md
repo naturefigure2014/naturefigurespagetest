@@ -4,6 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/egypt
 figureId: "001"
+themes:
+  - "古代エジプト"
 species: "トトメス三世像（頭部）"
 speciesGroup: "その他/未分類"
 maker: "海洋堂"

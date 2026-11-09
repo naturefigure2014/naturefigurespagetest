@@ -7,8 +7,8 @@ figureId: "004"
 maker: "海洋堂"
 sculptor: "東田万偶斎"
 executiveProducer: "-"
-species: "4. アフロディテの胸像"
-speciesGroup: "-"
+themes:
+  - "古代ギリシャ"
 price: "400円 公式サイト： コチラ"
 releaseStart: "-"
 genre:

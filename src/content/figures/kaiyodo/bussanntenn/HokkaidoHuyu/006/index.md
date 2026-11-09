@@ -2,6 +2,8 @@
 title: "石狩鍋"
 description: ""
 contentType: figure
+themes:
+  - "郷土料理・特産品"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "006"
 maker: "海洋堂"

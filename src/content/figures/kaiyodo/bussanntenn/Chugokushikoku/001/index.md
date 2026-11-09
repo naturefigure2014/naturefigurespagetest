@@ -2,6 +2,8 @@
 title: "山陽新幹線500系のぞみ"
 description: ""
 contentType: figure
+themes:
+  - "乗り物"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "001"
 maker: "海洋堂"

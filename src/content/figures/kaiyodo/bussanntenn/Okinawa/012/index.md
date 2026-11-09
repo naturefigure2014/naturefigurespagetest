@@ -2,6 +2,8 @@
 title: "イリオモテヤマネコとヤンバルクイナ"
 description: ""
 contentType: figure
+themes:
+  - "動物"
 titleId: kaiyodo/bussanntenn/Okinawa
 figureId: "012"
 maker: "海洋堂"

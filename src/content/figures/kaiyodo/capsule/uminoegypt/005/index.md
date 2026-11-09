@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "古代エジプト"
 figureTopImage: "uminoegypt034.jpg"
 coverImage: "uminoegypt034.jpg"
 topics:

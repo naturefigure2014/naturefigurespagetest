@@ -4,6 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/egypt
 figureId: "004"
+themes:
+  - "古代エジプト"
 species: "アメンヘテプ三世の座像"
 speciesGroup: "その他/未分類"
 maker: "海洋堂"

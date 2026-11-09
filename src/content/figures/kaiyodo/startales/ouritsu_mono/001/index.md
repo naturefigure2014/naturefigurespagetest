@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "宇宙船・ロケット"
 figureTopImage: "ouritsu1mono008.jpg"
 coverImage: "ouritsu1mono008.jpg"
 topics:

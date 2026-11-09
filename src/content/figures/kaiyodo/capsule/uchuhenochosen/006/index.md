@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "宇宙飛行士"
 figureTopImage: "space2014_010.jpg"
 coverImage: "space2014_010.jpg"
 topics:

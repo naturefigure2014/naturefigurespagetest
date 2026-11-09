@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "ポップカルチャー"
 figureTopImage: "kumamoto021.jpg"
 coverImage: "kumamoto021.jpg"
 topics:

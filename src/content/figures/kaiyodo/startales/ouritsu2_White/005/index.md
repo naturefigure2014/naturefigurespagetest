@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "宇宙ステーション"
 figureTopImage: "ouritsu2white003.jpg"
 coverImage: "ouritsu2white003.jpg"
 topics:

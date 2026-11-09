@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "星"
 figureTopImage: "ouritsu2white013.jpg"
 coverImage: "ouritsu2white013.jpg"
 topics:

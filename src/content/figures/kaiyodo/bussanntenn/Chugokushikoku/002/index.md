@@ -2,6 +2,8 @@
 title: "山口線蒸気機関車C57-1「貴婦人」"
 description: ""
 contentType: figure
+themes:
+  - "乗り物"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "002"
 maker: "海洋堂"

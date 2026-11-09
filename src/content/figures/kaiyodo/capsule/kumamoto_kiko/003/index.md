@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "景観・建築"
 figureTopImage: "kumamoto011.jpg"
 coverImage: "kumamoto011.jpg"
 topics:

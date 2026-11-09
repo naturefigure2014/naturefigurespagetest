@@ -2,6 +2,8 @@
 title: "りんご（青森県）"
 description: ""
 contentType: figure
+themes:
+  - "郷土料理・特産品"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "005"
 maker: "海洋堂"

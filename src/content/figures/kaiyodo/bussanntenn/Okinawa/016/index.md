@@ -2,6 +2,8 @@
 title: "シークレット：ヤシガニ（ゆで）"
 description: ""
 contentType: figure
+themes:
+  - "動物"
 titleId: kaiyodo/bussanntenn/Okinawa
 figureId: "016"
 maker: "海洋堂"

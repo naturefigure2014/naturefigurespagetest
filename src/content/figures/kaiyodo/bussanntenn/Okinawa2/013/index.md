@@ -2,6 +2,8 @@
 title: "ヤシガニ"
 description: ""
 contentType: figure
+themes:
+  - "動物"
 titleId: kaiyodo/bussanntenn/Okinawa2
 figureId: "013"
 maker: "海洋堂"

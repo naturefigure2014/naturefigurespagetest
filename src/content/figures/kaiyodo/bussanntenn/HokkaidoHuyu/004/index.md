@@ -2,6 +2,8 @@
 title: "AIR DO（ノーマル / 風景ペイント）"
 description: ""
 contentType: figure
+themes:
+  - "乗り物"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "004"
 maker: "海洋堂"

@@ -2,6 +2,9 @@
 title: "雪まつりの雪像（ノルウェーの国会議事堂）"
 description: ""
 contentType: figure
+themes:
+  - "建築・史跡"
+  - "祭り・伝統文化"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "001"
 maker: "海洋堂"

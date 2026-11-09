@@ -2,6 +2,8 @@
 title: "出雲大社"
 description: ""
 contentType: figure
+themes:
+  - "建築・史跡"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "003"
 maker: "海洋堂"

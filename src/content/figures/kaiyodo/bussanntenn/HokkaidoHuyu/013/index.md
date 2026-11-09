@@ -2,6 +2,8 @@
 title: "雪の札幌時計台"
 description: ""
 contentType: figure
+themes:
+  - "建築・史跡"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "013"
 maker: "海洋堂"

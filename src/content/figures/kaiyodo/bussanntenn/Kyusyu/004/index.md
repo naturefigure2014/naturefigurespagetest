@@ -2,6 +2,8 @@
 title: "辛子明太子（福岡県）"
 description: ""
 contentType: figure
+themes:
+  - "郷土料理・特産品"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "004"
 maker: "海洋堂"

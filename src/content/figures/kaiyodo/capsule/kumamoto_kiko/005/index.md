@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "郷土料理・特産品"
 figureTopImage: "kumamoto017.jpg"
 coverImage: "kumamoto017.jpg"
 topics:

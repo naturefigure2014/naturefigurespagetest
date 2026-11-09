@@ -2,6 +2,8 @@
 title: "★5. チラガー"
 description: ""
 contentType: figure
+themes:
+  - "郷土料理・特産品"
 titleId: kaiyodo/bussanntenn/Okinawa2
 figureId: "005"
 maker: "海洋堂"

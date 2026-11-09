@@ -7,8 +7,8 @@ figureId: "002"
 maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
-species: "2 若い女性ミイラ"
-speciesGroup: "-"
+themes:
+  - "メソアメリカ文明"
 price: "５００円"
 releaseStart: "-"
 genre:

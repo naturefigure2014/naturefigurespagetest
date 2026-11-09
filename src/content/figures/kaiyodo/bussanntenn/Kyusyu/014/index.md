@@ -2,6 +2,8 @@
 title: "温泉美人（大分県）"
 description: ""
 contentType: figure
+themes:
+  - "人物"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "014"
 maker: "海洋堂"

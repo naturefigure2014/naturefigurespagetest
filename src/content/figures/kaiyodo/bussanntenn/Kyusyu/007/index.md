@@ -2,6 +2,8 @@
 title: "氷しろくま（鹿児島県）"
 description: ""
 contentType: figure
+themes:
+  - "郷土料理・特産品"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "007"
 maker: "海洋堂"

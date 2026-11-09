@@ -15,6 +15,9 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "星"
+  - "探査機・人工衛星"
 figureTopImage: "ouritsu1_032.jpg"
 coverImage: "ouritsu1_032.jpg"
 topics:

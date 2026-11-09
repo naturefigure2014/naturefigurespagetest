@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "古代エジプト"
 figureTopImage: "daiei033.jpg"
 coverImage: "daiei033.jpg"
 topics:

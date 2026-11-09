@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "星"
 figureTopImage: "space2014_004.jpg"
 coverImage: "space2014_004.jpg"
 topics:

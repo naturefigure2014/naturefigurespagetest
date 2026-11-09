@@ -6,8 +6,8 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 seriesName: "-"
-species: "-"
-speciesGroup: "-"
+themes:
+  - "仏像"
 price: "2,980円"
 releaseStart: "-"
 genre:

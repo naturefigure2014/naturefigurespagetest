@@ -2,6 +2,8 @@
 title: "ムツゴロウ（佐賀県）"
 description: ""
 contentType: figure
+themes:
+  - "動物"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "009"
 maker: "海洋堂"

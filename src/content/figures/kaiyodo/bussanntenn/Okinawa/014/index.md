@@ -2,6 +2,9 @@
 title: "市場に並ぶ熱帯魚"
 description: ""
 contentType: figure
+themes:
+  - "動物"
+  - "産業・暮らし"
 titleId: kaiyodo/bussanntenn/Okinawa
 figureId: "014"
 maker: "海洋堂"

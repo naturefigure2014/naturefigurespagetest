@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "宇宙人"
 figureTopImage: "ouritsu2black015.jpg"
 coverImage: "ouritsu2black015.jpg"
 topics:

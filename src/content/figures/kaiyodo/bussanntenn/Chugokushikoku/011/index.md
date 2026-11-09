@@ -2,6 +2,8 @@
 title: "土佐犬"
 description: ""
 contentType: figure
+themes:
+  - "動物"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "011"
 maker: "海洋堂"

@@ -7,8 +7,8 @@ figureId: "003"
 maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
-species: "3 彩色が施されたアンナの頭蓋骨"
-speciesGroup: "-"
+themes:
+  - "ヨーロッパの歴史・文化"
 price: "５００円"
 releaseStart: "-"
 genre:

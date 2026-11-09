@@ -2,6 +2,8 @@
 title: "雪ぐつとかんじき"
 description: ""
 contentType: figure
+themes:
+  - "祭り・伝統文化"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "002"
 maker: "海洋堂"

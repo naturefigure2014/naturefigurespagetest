@@ -2,6 +2,8 @@
 title: "広島焼き"
 description: ""
 contentType: figure
+themes:
+  - "郷土料理・特産品"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "012"
 maker: "海洋堂"

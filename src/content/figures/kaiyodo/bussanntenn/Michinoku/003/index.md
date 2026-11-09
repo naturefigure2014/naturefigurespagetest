@@ -2,6 +2,8 @@
 title: "青森ねぶた（青森県）"
 description: ""
 contentType: figure
+themes:
+  - "祭り・伝統文化"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "003"
 maker: "海洋堂"

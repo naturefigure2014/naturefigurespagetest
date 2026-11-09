@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "探査機・人工衛星"
 figureTopImage: "space2014_020.jpg"
 coverImage: "space2014_020.jpg"
 topics:

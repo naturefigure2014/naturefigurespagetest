@@ -2,6 +2,8 @@
 title: "四万十川のアカメ(A)"
 description: ""
 contentType: figure
+themes:
+  - "動物"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "009"
 maker: "海洋堂"

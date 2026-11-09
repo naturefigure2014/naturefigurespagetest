@@ -2,6 +2,9 @@
 title: "★8.シーサー（吽）"
 description: ""
 contentType: figure
+themes:
+  - "祭り・伝統文化"
+  - "工芸・民芸"
 titleId: kaiyodo/bussanntenn/Okinawa2
 figureId: "008"
 maker: "海洋堂"

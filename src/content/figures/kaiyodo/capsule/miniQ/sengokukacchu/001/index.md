@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "歴史資料"
 figureTopImage: "kacchu010.jpg"
 coverImage: "kacchu010.jpg"
 topics:

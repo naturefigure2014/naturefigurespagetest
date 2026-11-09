@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "鉄道"
 figureTopImage: "kumamoto019.jpg"
 coverImage: "kumamoto019.jpg"
 topics:

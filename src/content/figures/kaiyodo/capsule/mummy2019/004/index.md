@@ -7,8 +7,8 @@ figureId: "004"
 maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
-species: "4 ハヤブサの頭部が付いたカノポス壺"
-speciesGroup: "-"
+themes:
+  - "古代エジプト"
 price: "５００円"
 releaseStart: "-"
 genre:

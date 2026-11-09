@@ -2,6 +2,8 @@
 title: "桜島大根（鹿児島県）"
 description: ""
 contentType: figure
+themes:
+  - "郷土料理・特産品"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "008"
 maker: "海洋堂"

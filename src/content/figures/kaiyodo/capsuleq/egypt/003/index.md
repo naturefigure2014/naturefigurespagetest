@@ -4,6 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/egypt
 figureId: "003"
+themes:
+  - "古代エジプト"
 species: "ペエのホルス神像"
 speciesGroup: "その他/未分類"
 maker: "海洋堂"
