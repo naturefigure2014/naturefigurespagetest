@@ -7,8 +7,6 @@ figureId: "005"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
-species: "#5 オリシス・カノポス壺"
-speciesGroup: "-"
 price: "300円"
 releaseStart: "-"
 genre:
@@ -16,7 +14,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "ミイラ・棺"
 figureTopImage: "uminoegypt034.jpg"
 coverImage: "uminoegypt034.jpg"
 topics:
