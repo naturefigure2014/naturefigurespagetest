@@ -5,9 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/egypt
 figureId: "006"
 themes:
-  - "古代エジプト"
-species: "カノポス壺（ケベフセヌエフ）"
-speciesGroup: "その他/未分類"
+  - "ミイラ・棺"
 maker: "海洋堂"
 figureTopImage: "egypt020.jpg"
 coverImage: "egypt020.jpg"
