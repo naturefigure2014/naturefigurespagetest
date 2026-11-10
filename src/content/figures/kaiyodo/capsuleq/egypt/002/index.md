@@ -5,9 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/egypt
 figureId: "002"
 themes:
-  - "古代エジプト"
-species: "アンクのアムレット＆スカラベのブローチ"
-speciesGroup: "その他/未分類"
+  - "装飾品"
 maker: "海洋堂"
 figureTopImage: "egypt003.jpg"
 coverImage: "egypt003.jpg"
