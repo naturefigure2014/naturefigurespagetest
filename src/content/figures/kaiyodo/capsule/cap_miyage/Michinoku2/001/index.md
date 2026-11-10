@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "男鹿のなまはげ"
 speciesGroup: "-"
 themes:
-  - "暮らし・祭り"
+  - "祭り"
 price: "400円"
 releaseStart: "2017.05"
 genre:

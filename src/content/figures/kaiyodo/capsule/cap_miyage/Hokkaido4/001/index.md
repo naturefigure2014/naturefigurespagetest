@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "牧場"
 speciesGroup: "-"
 themes:
-  - "産業"
+  - "農業"
 price: "400円"
 releaseStart: "2015.07"
 genre:

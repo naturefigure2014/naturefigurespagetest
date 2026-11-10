@@ -3,8 +3,7 @@ title: "雪まつりの雪像（名古屋城）"
 description: ""
 contentType: figure
 themes:
-  - "建築・史跡"
-  - "祭り・伝統文化"
+  - "祭り"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "002"
 maker: "海洋堂"

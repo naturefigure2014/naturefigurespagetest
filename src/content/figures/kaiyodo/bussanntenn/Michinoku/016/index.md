@@ -3,8 +3,7 @@ title: "秋田小町（秋田県）"
 description: ""
 contentType: figure
 themes:
-  - "祭り・伝統文化"
-  - "人物"
+  - "暮らし"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "016"
 maker: "海洋堂"

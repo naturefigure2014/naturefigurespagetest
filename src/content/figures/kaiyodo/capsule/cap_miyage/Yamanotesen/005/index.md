@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "秋葉原駅「秋葉原電気街」"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "都市の景観"
 price: "400円"
 releaseStart: "2016.02"
 genre:

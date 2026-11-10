@@ -10,7 +10,8 @@ executiveProducer: "-"
 species: "仁徳天皇陵"
 speciesGroup: "-"
 themes:
-  - "歴史資料"
+  - "日本の遺跡"
+  - "史跡"
 price: "400円"
 releaseStart: "2016.01"
 genre:

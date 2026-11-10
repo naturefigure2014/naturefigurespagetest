@@ -3,8 +3,7 @@ title: "ゆでタラバガニ"
 description: ""
 contentType: figure
 themes:
-  - "郷土料理・特産品"
-  - "動物"
+  - "特産品"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "007"
 maker: "海洋堂"

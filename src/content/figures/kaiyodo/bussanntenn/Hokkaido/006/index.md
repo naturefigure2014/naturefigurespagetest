@@ -3,7 +3,7 @@ title: "「味の三平」の味噌ラーメン"
 description: ""
 contentType: figure
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 titleId: kaiyodo/bussanntenn/Hokkaido
 figureId: "006"
 maker: "海洋堂"

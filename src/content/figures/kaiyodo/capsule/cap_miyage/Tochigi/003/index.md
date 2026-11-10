@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "宇都宮餃子（宇都宮みんみん）"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2018.03"
 genre:

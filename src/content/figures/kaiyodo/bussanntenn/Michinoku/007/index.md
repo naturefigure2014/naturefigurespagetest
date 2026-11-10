@@ -3,7 +3,7 @@ title: "喜多方ラーメン（福島県）"
 description: ""
 contentType: figure
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "007"
 maker: "海洋堂"

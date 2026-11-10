@@ -3,7 +3,7 @@ title: "1. 遮光器土偶"
 description: ""
 contentType: figure
 themes:
-  - "歴史資料"
+  - "土偶"
 titleId: kaiyodo/capsule/koukogaku1
 figureId: "001"
 maker: "海洋堂"

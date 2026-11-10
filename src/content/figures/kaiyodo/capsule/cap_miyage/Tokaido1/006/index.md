@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "エヴァンゲリオン"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
+  - "エヴァンゲリオン"
 price: "400円"
 releaseStart: "2016.12"
 genre:

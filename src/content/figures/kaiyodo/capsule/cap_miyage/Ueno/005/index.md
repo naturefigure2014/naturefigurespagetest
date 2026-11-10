@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "上野駅舎と女学生"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "その他建築"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2017.06"
 genre:

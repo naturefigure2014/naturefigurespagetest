@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "草津温泉の湯もみ"
 speciesGroup: "-"
 themes:
-  - "暮らし・祭り"
+  - "暮らし"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2016.08"
 genre:

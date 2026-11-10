@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "伊豆栄うな重（竹）"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2017.06"
 genre:

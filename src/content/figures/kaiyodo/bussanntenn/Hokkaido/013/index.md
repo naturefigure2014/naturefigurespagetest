@@ -3,8 +3,8 @@ title: "流氷とガリンコ号Ⅱ"
 description: ""
 contentType: figure
 themes:
-  - "乗り物"
-  - "自然・風景"
+  - "船舶"
+  - "自然の景観"
 titleId: kaiyodo/bussanntenn/Hokkaido
 figureId: "013"
 maker: "海洋堂"

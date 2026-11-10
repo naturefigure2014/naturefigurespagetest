@@ -10,7 +10,6 @@ executiveProducer: "-"
 species: "真田幸村（戦国BASARA）"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
   - "日本の偉人"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2016.08"

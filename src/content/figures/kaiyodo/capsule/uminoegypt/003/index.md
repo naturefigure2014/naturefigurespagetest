@@ -16,7 +16,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "石像"
 figureTopImage: ""
 coverImage: ""
 topics: []

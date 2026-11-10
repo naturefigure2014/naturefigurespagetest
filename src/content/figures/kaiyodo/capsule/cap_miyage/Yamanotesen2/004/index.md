@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "鶯谷駅 『入谷朝顔市』"
 speciesGroup: "-"
 themes:
-  - "暮らし・祭り"
+  - "祭り"
 price: "400円"
 releaseStart: "2018.06"
 genre:

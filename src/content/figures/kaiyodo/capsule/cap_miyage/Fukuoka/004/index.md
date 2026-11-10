@@ -11,7 +11,7 @@ species: "500 TYPE EVA（エヴァンゲリオン新幹線）"
 speciesGroup: "-"
 themes:
   - "鉄道"
-  - "ポップカルチャー"
+  - "エヴァンゲリオン"
 price: "500円"
 releaseStart: "2019.04"
 genre:

@@ -3,7 +3,7 @@ title: "ササラ電車"
 description: ""
 contentType: figure
 themes:
-  - "乗り物"
+  - "鉄道"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "003"
 maker: "海洋堂"

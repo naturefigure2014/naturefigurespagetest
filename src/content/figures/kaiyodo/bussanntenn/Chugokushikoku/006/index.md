@@ -3,7 +3,7 @@ title: "阿波踊り"
 description: ""
 contentType: figure
 themes:
-  - "祭り・伝統文化"
+  - "祭り"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "006"
 maker: "海洋堂"

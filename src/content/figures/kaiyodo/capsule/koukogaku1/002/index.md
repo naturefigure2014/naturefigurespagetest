@@ -3,7 +3,7 @@ title: "2. 袈裟襷文銅鐸"
 description: ""
 contentType: figure
 themes:
-  - "歴史資料"
+  - "銅鐸"
 titleId: kaiyodo/capsule/koukogaku1
 figureId: "002"
 maker: "海洋堂"

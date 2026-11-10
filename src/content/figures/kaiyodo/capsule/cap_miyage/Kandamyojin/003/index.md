@@ -10,8 +10,8 @@ executiveProducer: "-"
 species: "③熊手"
 speciesGroup: "-"
 themes:
-  - "工芸"
-  - "暮らし・祭り"
+  - "その他暮らし・祭り"
+  - "その他工芸"
 price: "400円"
 releaseStart: "2014.12"
 genre:

@@ -3,7 +3,7 @@ title: "牧場"
 description: ""
 contentType: figure
 themes:
-  - "産業・暮らし"
+  - "農業"
 titleId: kaiyodo/bussanntenn/Hokkaido
 figureId: "012"
 maker: "海洋堂"

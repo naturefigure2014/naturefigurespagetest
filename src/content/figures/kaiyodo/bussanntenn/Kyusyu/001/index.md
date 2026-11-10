@@ -3,7 +3,7 @@ title: "大浦天主堂（長崎県）"
 description: ""
 contentType: figure
 themes:
-  - "建築・史跡"
+  - "寺社仏閣"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "001"
 maker: "海洋堂"

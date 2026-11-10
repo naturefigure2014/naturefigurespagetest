@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "アンコウ"
 speciesGroup: "その他魚類"
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 price: "400円"
 releaseStart: "2016.02"
 genre:

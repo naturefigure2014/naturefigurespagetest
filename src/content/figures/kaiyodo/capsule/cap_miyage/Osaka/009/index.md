@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "551蓬莱の豚まん"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "特産品"
 price: "400円"
 releaseStart: "2016.01"
 genre:

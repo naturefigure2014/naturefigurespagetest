@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "中尊寺金色堂"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "寺社仏閣"
 price: "500円"
 releaseStart: "2019.01"
 genre:

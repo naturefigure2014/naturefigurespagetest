@@ -16,7 +16,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "宇宙船・ロケット"
+  - "スペースシャトル"
 figureTopImage: "space2014_007.jpg"
 coverImage: "space2014_007.jpg"
 topics:

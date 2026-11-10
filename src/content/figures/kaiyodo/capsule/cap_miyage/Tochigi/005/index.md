@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "農業"
 figureTopImage: "tochigi007.jpg"
 coverImage: "tochigi007.jpg"
 topics:

@@ -16,7 +16,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "装飾品"
 figureTopImage: "daiei021.jpg"
 coverImage: "daiei021.jpg"
 topics:

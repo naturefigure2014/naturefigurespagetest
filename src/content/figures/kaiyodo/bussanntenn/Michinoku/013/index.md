@@ -3,8 +3,7 @@ title: "三春駒・八幡馬 (B)（福島県・青森県）"
 description: ""
 contentType: figure
 themes:
-  - "祭り・伝統文化"
-  - "工芸・民芸"
+  - "木工"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "013"
 maker: "海洋堂"

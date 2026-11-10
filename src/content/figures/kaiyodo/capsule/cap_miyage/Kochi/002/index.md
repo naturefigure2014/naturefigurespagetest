@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "高知城"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "日本の城"
 price: "400円"
 releaseStart: "2015.09"
 genre:

@@ -16,7 +16,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "石像"
 figureTopImage: "daiei015.jpg"
 coverImage: "daiei015.jpg"
 topics:

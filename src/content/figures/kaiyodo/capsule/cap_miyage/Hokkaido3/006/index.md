@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "松尾ジンギスカン"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 price: "400円"
 releaseStart: "2014.02"
 genre:

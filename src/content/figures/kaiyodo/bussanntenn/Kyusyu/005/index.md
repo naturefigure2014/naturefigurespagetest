@@ -3,7 +3,7 @@ title: "長崎ちゃんぽん（長崎県）"
 description: ""
 contentType: figure
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "005"
 maker: "海洋堂"

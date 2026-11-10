@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "日本一の芋煮会フェスティバル"
 speciesGroup: "-"
 themes:
-  - "暮らし・祭り"
+  - "祭り"
 price: "400円"
 releaseStart: "2017.05"
 genre:

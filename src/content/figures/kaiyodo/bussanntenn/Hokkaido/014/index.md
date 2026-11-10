@@ -3,7 +3,7 @@ title: "札幌市時計台"
 description: ""
 contentType: figure
 themes:
-  - "建築・史跡"
+  - "史跡"
 titleId: kaiyodo/bussanntenn/Hokkaido
 figureId: "014"
 maker: "海洋堂"

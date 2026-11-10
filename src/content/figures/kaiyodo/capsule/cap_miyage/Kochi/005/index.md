@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "よさこい祭り"
 speciesGroup: "-"
 themes:
-  - "暮らし・祭り"
+  - "祭り"
 price: "400円"
 releaseStart: "2015.09"
 genre:

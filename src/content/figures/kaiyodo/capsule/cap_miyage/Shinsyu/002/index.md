@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "アルクマ"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
+  - "ゆるキャラ"
 price: "400円"
 releaseStart: "2017.08"
 genre:

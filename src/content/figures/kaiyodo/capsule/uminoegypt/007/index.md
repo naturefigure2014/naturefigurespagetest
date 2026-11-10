@@ -16,7 +16,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "装飾品"
 figureTopImage: "uminoegypt001.jpg"
 coverImage: "uminoegypt001.jpg"
 topics:

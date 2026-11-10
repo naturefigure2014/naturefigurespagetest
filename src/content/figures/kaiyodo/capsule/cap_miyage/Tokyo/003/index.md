@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "蕎麦"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 price: "300円"
 releaseStart: "2014.08"
 genre:

@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "仲見世"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "都市の景観"
 price: "500円"
 releaseStart: "2021.02"
 genre:

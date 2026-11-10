@@ -3,8 +3,7 @@ title: "伊達政宗騎馬像（宮城県）"
 description: ""
 contentType: figure
 themes:
-  - "建築・史跡"
-  - "人物"
+  - "日本の偉人"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "014"
 maker: "海洋堂"

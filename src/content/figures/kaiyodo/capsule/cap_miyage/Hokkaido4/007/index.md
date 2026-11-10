@@ -10,8 +10,8 @@ executiveProducer: "-"
 species: "トラクター"
 speciesGroup: "-"
 themes:
-  - "産業"
-  - "その他の乗り物"
+  - "農業"
+  - "その他乗り物"
 price: "400円"
 releaseStart: "2015.07"
 genre:

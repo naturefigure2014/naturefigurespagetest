@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "新宿駅 『歌舞伎町一番街』"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "都市の景観"
 price: "400円"
 releaseStart: "2018.06"
 genre:

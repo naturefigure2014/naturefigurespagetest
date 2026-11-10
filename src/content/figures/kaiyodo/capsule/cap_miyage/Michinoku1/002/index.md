@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "南部鉄器"
 speciesGroup: "-"
 themes:
-  - "工芸"
+  - "金工"
 price: "400円"
 releaseStart: "2016.04"
 genre:

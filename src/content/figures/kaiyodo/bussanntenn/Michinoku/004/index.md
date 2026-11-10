@@ -3,7 +3,7 @@ title: "なまはげ 赤/青 （秋田県）"
 description: ""
 contentType: figure
 themes:
-  - "祭り・伝統文化"
+  - "祭り"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "004"
 maker: "海洋堂"

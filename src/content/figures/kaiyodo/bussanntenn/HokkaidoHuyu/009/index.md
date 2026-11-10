@@ -3,8 +3,7 @@ title: "流氷とゴマフアザラシ"
 description: ""
 contentType: figure
 themes:
-  - "動物"
-  - "自然・風景"
+  - "自然の景観"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "009"
 maker: "海洋堂"

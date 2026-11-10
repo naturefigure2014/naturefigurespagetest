@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "ニワトリ"
 speciesGroup: "キジ・ニワトリ類"
 themes:
-  - "日本画"
+  - "伊藤若冲"
 price: "400円"
 releaseStart: "2015.04"
 genre:

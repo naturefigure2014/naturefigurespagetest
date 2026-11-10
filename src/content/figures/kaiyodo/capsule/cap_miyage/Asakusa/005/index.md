@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "どぜう飯田屋 どぜう鍋"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 price: "500円"
 releaseStart: "2021.02"
 genre:

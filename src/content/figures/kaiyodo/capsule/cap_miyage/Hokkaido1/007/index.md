@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "7. アジャンタのスープカレー"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 price: "300円→400円"
 releaseStart: "2012.01"
 genre:

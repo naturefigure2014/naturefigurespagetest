@@ -16,7 +16,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "ミイラ・棺"
 figureTopImage: "daiei017.jpg"
 coverImage: "daiei017.jpg"
 topics:

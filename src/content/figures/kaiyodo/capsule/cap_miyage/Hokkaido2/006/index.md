@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "[森町] 森のいかめし"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 price: "400円"
 releaseStart: "2013.02"
 genre:

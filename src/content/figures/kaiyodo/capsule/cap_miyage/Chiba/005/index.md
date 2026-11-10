@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "勝浦タンタンメン"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 price: "400円"
 releaseStart: "2016.12"
 genre:

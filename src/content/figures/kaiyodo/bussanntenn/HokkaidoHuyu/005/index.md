@@ -3,7 +3,7 @@ title: "スープカレー"
 description: ""
 contentType: figure
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "005"
 maker: "海洋堂"

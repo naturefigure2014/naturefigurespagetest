@@ -3,7 +3,7 @@ title: "4. 埴輪 犬"
 description: ""
 contentType: figure
 themes:
-  - "歴史資料"
+  - "埴輪"
 titleId: kaiyodo/capsule/koukogaku1
 figureId: "004"
 maker: "海洋堂"

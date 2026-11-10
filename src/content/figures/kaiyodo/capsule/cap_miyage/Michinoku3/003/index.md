@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "横手のかまくら"
 speciesGroup: "-"
 themes:
-  - "暮らし・祭り"
+  - "祭り"
 price: "500円"
 releaseStart: "2019.01"
 genre:

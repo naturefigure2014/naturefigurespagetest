@@ -3,7 +3,7 @@ title: "6. 埴輪 踊る人々（小）"
 description: ""
 contentType: figure
 themes:
-  - "歴史資料"
+  - "埴輪"
 titleId: kaiyodo/capsule/koukogaku1
 figureId: "006"
 maker: "海洋堂"

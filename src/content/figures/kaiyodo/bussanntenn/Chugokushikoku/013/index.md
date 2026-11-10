@@ -3,7 +3,7 @@ title: "讃岐うどん"
 description: ""
 contentType: figure
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "013"
 maker: "海洋堂"

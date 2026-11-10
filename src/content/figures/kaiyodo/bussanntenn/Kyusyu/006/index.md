@@ -3,7 +3,7 @@ title: "もつ鍋（福岡県）"
 description: ""
 contentType: figure
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "006"
 maker: "海洋堂"

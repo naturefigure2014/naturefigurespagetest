@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "[シーズン2シークレット]金のビリケンさん"
 speciesGroup: "-"
 themes:
-  - "暮らし・祭り"
+  - "その他暮らし・祭り"
 price: "400円"
 releaseStart: "2016.01"
 genre:

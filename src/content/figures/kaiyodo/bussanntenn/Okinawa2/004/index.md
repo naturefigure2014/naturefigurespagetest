@@ -3,7 +3,7 @@ title: "★4. ソーキそば"
 description: ""
 contentType: figure
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 titleId: kaiyodo/bussanntenn/Okinawa2
 figureId: "004"
 maker: "海洋堂"

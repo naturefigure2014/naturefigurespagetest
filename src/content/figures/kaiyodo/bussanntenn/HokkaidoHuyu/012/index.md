@@ -3,7 +3,7 @@ title: "雪かき道具"
 description: ""
 contentType: figure
 themes:
-  - "産業・暮らし"
+  - "暮らし"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "012"
 maker: "海洋堂"

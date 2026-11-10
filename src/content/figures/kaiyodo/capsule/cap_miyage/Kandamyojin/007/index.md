@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "⑦巫女さん"
 speciesGroup: "-"
 themes:
-  - "暮らし・祭り"
+  - "その他暮らし・祭り"
 price: "400円"
 releaseStart: "2014.12"
 genre:

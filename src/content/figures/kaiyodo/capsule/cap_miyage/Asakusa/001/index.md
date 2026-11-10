@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "雷門(風雷神門)"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "寺社仏閣"
 price: "500円"
 releaseStart: "2021.02"
 genre:

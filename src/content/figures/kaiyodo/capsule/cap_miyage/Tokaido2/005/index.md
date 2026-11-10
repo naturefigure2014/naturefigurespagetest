@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "茶摘み"
 speciesGroup: "-"
 themes:
-  - "産業"
+  - "農業"
 price: "500円"
 releaseStart: "2019.04"
 genre:

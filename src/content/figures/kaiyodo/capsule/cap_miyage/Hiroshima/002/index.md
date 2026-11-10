@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "もみじ饅頭"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "特産品"
 price: "400円"
 releaseStart: "2018.05"
 genre:

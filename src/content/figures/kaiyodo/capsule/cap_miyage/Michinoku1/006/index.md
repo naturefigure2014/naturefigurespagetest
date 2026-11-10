@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "人間将棋"
 speciesGroup: "-"
 themes:
-  - "暮らし・祭り"
+  - "その他暮らし・祭り"
 price: "400円"
 releaseStart: "2016.04"
 genre:

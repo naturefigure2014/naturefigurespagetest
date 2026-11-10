@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "ムコナくん"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
+  - "ゆるキャラ"
 price: "400円"
 releaseStart: "2016.02"
 genre:

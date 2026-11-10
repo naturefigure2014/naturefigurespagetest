@@ -10,8 +10,8 @@ executiveProducer: "-"
 species: "[長崎] 軍艦島"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
-  - "産業"
+  - "史跡"
+  - "工業"
 price: "500円"
 releaseStart: "2018.04"
 genre:

@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "新垣ちんすこう"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "特産品"
 price: "400円"
 releaseStart: "2015.06"
 genre:

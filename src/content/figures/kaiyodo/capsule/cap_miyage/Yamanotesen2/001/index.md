@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "浜松町駅 『東京タワー』"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "タワー"
 price: "400円"
 releaseStart: "2018.06"
 genre:

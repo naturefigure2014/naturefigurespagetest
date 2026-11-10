@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "秋田小町"
 speciesGroup: "-"
 themes:
-  - "暮らし・祭り"
+  - "暮らし"
 price: "400円"
 releaseStart: "2016.04"
 genre:

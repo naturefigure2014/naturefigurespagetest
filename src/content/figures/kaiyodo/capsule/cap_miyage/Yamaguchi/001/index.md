@@ -10,8 +10,8 @@ executiveProducer: "-"
 species: "荻反射炉"
 speciesGroup: "-"
 themes:
-  - "産業"
-  - "景観・建築"
+  - "史跡"
+  - "工業"
 price: "400円"
 releaseStart: "2017.09"
 genre:

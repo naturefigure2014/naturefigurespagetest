@@ -3,7 +3,7 @@ title: "泡盛とカラカラ"
 description: ""
 contentType: figure
 themes:
-  - "郷土料理・特産品"
+  - "特産品"
 titleId: kaiyodo/bussanntenn/Okinawa
 figureId: "003"
 maker: "海洋堂"

@@ -3,7 +3,7 @@ title: "恐山のイタコ（青森県）"
 description: ""
 contentType: figure
 themes:
-  - "祭り・伝統文化"
+  - "暮らし"
 titleId: kaiyodo/bussanntenn/Michinoku
 figureId: "015"
 maker: "海洋堂"

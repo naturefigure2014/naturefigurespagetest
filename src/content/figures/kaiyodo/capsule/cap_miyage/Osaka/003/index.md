@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "道頓堀"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "都市の景観"
 price: "400円"
 releaseStart: "2016.01"
 genre:

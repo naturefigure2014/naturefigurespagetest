@@ -3,7 +3,7 @@ title: "★10.海人（うみんちゅ）"
 description: ""
 contentType: figure
 themes:
-  - "人物"
+  - "漁業"
 titleId: kaiyodo/bussanntenn/Okinawa2
 figureId: "010"
 maker: "海洋堂"

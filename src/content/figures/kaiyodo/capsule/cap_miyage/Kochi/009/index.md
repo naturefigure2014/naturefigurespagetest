@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "しんじょう君"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
+  - "ゆるキャラ"
 price: "400円"
 releaseStart: "2015.09"
 genre:

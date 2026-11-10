@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "関東・栃木イチゴ"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "特産品"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2018.03"
 genre:

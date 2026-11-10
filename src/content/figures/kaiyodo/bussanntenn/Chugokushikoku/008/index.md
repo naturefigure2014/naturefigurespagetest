@@ -3,7 +3,7 @@ title: "下関のふく提灯"
 description: ""
 contentType: figure
 themes:
-  - "工芸・民芸"
+  - "その他工芸"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "008"
 maker: "海洋堂"

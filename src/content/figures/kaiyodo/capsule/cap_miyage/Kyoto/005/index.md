@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "京都タワー"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "タワー"
 price: "400円"
 releaseStart: "2015.04"
 genre:

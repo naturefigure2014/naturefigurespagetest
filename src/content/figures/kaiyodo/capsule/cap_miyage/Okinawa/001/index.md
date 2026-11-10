@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "守礼門と琉球王朝"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "史跡"
 price: "400円"
 releaseStart: "2015.06"
 genre:

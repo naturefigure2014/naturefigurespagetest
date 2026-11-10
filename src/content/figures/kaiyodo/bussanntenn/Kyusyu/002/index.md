@@ -3,7 +3,8 @@ title: "吉野ヶ里遺跡（佐賀県）"
 description: ""
 contentType: figure
 themes:
-  - "建築・史跡"
+  - "日本の遺跡"
+  - "史跡"
 titleId: kaiyodo/bussanntenn/Kyusyu
 figureId: "002"
 maker: "海洋堂"

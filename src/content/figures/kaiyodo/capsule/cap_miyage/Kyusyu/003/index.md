@@ -10,7 +10,8 @@ executiveProducer: "-"
 species: "[佐賀] 吉野ヶ里遺跡"
 speciesGroup: "-"
 themes:
-  - "歴史資料"
+  - "日本の遺跡"
+  - "史跡"
 price: "500円"
 releaseStart: "2018.04"
 genre:

@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "鹿苑寺 金閣（舎利殿）"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "寺社仏閣"
 price: "400円"
 releaseStart: "2015.04"
 genre:

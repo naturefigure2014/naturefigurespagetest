@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "舞妓"
 speciesGroup: "-"
 themes:
-  - "伝統芸能"
+  - "その他伝統芸能"
 price: "400円"
 releaseStart: "2015.04"
 genre:

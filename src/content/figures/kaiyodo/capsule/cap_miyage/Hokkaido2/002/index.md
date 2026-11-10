@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "[登別] 登別温泉"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "自然の景観"
 price: "400円"
 releaseStart: "2013.02"
 genre:

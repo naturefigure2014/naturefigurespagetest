@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "錦帯橋"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "その他建築"
 price: "400円"
 releaseStart: "2017.09"
 genre:

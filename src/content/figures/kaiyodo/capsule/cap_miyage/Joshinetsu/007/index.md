@@ -10,8 +10,8 @@ executiveProducer: "-"
 species: "ぐんまちゃんとだるま"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
-  - "工芸"
+  - "ゆるキャラ"
+  - "その他工芸"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2016.08"
 genre:

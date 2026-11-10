@@ -3,7 +3,7 @@ title: "鳥取砂丘"
 description: ""
 contentType: figure
 themes:
-  - "自然・風景"
+  - "自然の景観"
 titleId: kaiyodo/bussanntenn/Chugokushikoku
 figureId: "007"
 maker: "海洋堂"

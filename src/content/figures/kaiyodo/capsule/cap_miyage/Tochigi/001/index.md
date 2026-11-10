@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "あしかがフラワーパークの大藤"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "その他景観"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2018.03"
 genre:

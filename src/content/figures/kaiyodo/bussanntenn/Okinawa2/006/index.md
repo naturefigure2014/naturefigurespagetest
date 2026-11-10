@@ -3,7 +3,7 @@ title: "★6. 水牛車"
 description: ""
 contentType: figure
 themes:
-  - "乗り物"
+  - "その他乗り物"
 titleId: kaiyodo/bussanntenn/Okinawa2
 figureId: "006"
 maker: "海洋堂"

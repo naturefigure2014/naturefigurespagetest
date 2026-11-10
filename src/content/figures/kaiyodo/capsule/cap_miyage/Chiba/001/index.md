@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "犬吠埼灯台"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "その他建築"
 price: "400円"
 releaseStart: "2016.12"
 genre:

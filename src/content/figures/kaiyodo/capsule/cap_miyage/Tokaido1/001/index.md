@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "小田原城"
 speciesGroup: "-"
 themes:
-  - "景観・建築"
+  - "日本の城"
 price: "400円"
 releaseStart: "2016.12"
 genre:

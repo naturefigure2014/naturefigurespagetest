@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "利久の牛たん定食"
 speciesGroup: "-"
 themes:
-  - "郷土料理・特産品"
+  - "郷土料理"
 price: "400円"
 releaseStart: "2017.05"
 genre:

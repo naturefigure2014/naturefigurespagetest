@@ -10,7 +10,8 @@ executiveProducer: "-"
 species: "川崎工場群"
 speciesGroup: "-"
 themes:
-  - "産業"
+  - "工業"
+  - "都市の景観"
 price: "400円"
 releaseStart: "2016.12"
 genre:

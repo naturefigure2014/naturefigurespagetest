@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "縄文のビーナス"
 speciesGroup: "-"
 themes:
-  - "歴史資料"
+  - "土偶"
 price: "400円"
 releaseStart: "2017.08"
 genre:
