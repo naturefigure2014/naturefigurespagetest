@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/egypt
 figureId: "007"
 themes:
-  - "古代エジプト"
+  - "ミイラ・棺"
 species: "ネコのミイラ"
 speciesGroup: "食肉類"
 maker: "海洋堂"
