@@ -17,7 +17,7 @@ tags:
   - "-"
 themes:
   - "星"
-  - "探査機・人工衛星"
+  - "探査機"
 figureTopImage: "ouritsu2white006.jpg"
 coverImage: "ouritsu2white006.jpg"
 topics:

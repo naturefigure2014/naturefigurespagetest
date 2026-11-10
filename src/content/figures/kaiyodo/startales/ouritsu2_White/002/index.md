@@ -16,7 +16,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "宇宙船・ロケット"
+  - "ロケット"
 figureTopImage: "ouritsu2white008.jpg"
 coverImage: "ouritsu2white008.jpg"
 topics:
