@@ -3,20 +3,43 @@ import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import FigureCardGrid from "../../components/FigureCardGrid.astro";
 import { getCollection } from "astro:content";
-import { getThemeGroupOf, getThemeGroups } from "../../lib/themes";
+import { resolveFigureImage } from "../../lib/figure-images";
+import { getThemeGroupOf, getThemeGroups, getThemeNodeOf } from "../../lib/themes";
 import { siteUrl } from "../../lib/site-url";
 
 export function getStaticPaths() {
   return getThemeGroups().flatMap((group) =>
-    group.subgroups.map((theme) => ({ params: { theme } }))
+    group.subgroups.flatMap((node) =>
+      [node.name, ...node.children].map((theme) => ({ params: { theme } }))
+    )
   );
 }
 
 const theme = Astro.params.theme ?? "";
 const groupName = getThemeGroupOf(theme)?.name ?? "";
-const figures = (await getCollection("figures")).filter(
-  (item) => item.data.contentType !== "title" && item.data.themes.includes(theme)
+const node = getThemeNodeOf(theme);
+const isParent = node?.name === theme;
+const parent = isParent ? undefined : node?.name;
+const children = isParent ? (node?.children ?? []) : [];
+const allFigures = (await getCollection("figures")).filter(
+  (item) => item.data.contentType !== "title"
 );
+const figuresOf = (name: string) =>
+  allFigures.filter((item) => item.data.themes.includes(name));
+const figures = figuresOf(theme);
+const childItems = children.map((child) => {
+  const first = figuresOf(child)[0];
+  return {
+    name: child,
+    count: figuresOf(child).length,
+    image: first
+      ? resolveFigureImage(
+          first.id,
+          first.data.coverImage ?? first.data.topics.flatMap((topic) => topic.images)[0]
+        )
+      : undefined
+  };
+});
 ---
 
 <BaseLayout title={`${theme} | NATURE FIGURE`}>
@@ -25,6 +48,7 @@ const figures = (await getCollection("figures")).filter(
       <a href={siteUrl("/")}>ホーム</a><span>›</span>
       <a href={siteUrl("/themes/")}>テーマから探す</a><span>›</span>
       <span>{groupName}</span><span>›</span>
+      {parent && (<><a href={siteUrl(`/themes/${encodeURIComponent(parent)}/`)}>{parent}</a><span>›</span></>)}
       {theme}
     </div>
 
@@ -33,10 +57,28 @@ const figures = (await getCollection("figures")).filter(
       <h1>{theme}</h1>
     </section>
 
-    <section class="species-detail-section">
-      <h2>{theme}のフィギュア</h2>
-      <p class="species-detail-count">{figures.length}種類のフィギュア</p>
-      <FigureCardGrid figures={figures} />
-    </section>
+    {children.length > 0 ? (
+      <section class="primates-section primates-list-section">
+        <h2>☷ {theme}一覧</h2>
+        <div class="primate-list">
+          {childItems.map((item) => (
+            <a class="primate-list-item" href={siteUrl(`/themes/${encodeURIComponent(item.name)}/`)}>
+              {item.image ? <img src={item.image} alt="" loading="lazy" /> : <span />}
+              <span>
+                <strong>{item.name}</strong>
+                <small>フィギュア {item.count}種</small>
+              </span>
+              <span class="primate-list-arrow" aria-hidden="true">›</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    ) : (
+      <section class="species-detail-section">
+        <h2>{theme}のフィギュア</h2>
+        <p class="species-detail-count">{figures.length}種類のフィギュア</p>
+        <FigureCardGrid figures={figures} />
+      </section>
+    )}
   </div>
 </BaseLayout>

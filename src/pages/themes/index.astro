@@ -3,7 +3,7 @@ import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { resolveFigureImage } from "../../lib/figure-images";
-import { getThemeGroups } from "../../lib/themes";
+import { getThemeGroups, type ThemeNode } from "../../lib/themes";
 import { siteUrl } from "../../lib/site-url";
 
 const figures = (await getCollection("figures")).filter(
@@ -11,10 +11,12 @@ const figures = (await getCollection("figures")).filter(
 );
 const groupIcons = ["❖", "✧", "➤", "✦"];
 
-const figuresFor = (subgroup: string) =>
-  figures.filter((figure) => figure.data.themes.includes(subgroup));
-const imageFor = (subgroup: string) =>
-  figuresFor(subgroup)
+const figuresFor = (node: ThemeNode) =>
+  figures.filter((figure) =>
+    [node.name, ...node.children].some((name) => figure.data.themes.includes(name))
+  );
+const imageFor = (node: ThemeNode) =>
+  figuresFor(node)
     .map((figure) =>
       resolveFigureImage(
         figure.id,
@@ -51,10 +53,10 @@ const groups = getThemeGroups();
             {group.subgroups.map((subgroup) => {
               const image = imageFor(subgroup);
               return (
-                <a class="species-group-card" href={siteUrl(`/themes/${encodeURIComponent(subgroup)}/`)}>
+                <a class="species-group-card" href={siteUrl(`/themes/${encodeURIComponent(subgroup.name)}/`)}>
                   {image ? <img src={image} alt="" loading="lazy" /> : <span class="species-group-placeholder" aria-hidden="true" />}
                   <span class="species-group-content">
-                    <strong>{subgroup}</strong>
+                    <strong>{subgroup.name}</strong>
                     <span class="species-group-arrow" aria-hidden="true">›</span>
                   </span>
                 </a>
