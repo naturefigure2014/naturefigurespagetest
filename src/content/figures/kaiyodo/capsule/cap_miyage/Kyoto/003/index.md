@@ -7,10 +7,8 @@ figureId: "003"
 maker: "海洋堂"
 sculptor: "村田明玄"
 executiveProducer: "-"
-species: "舞妓"
-speciesGroup: "-"
 themes:
-  - "その他伝統芸能"
+  - "舞妓"
 price: "400円"
 releaseStart: "2015.04"
 genre:
