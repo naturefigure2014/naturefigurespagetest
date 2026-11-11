@@ -6,7 +6,7 @@ titleId: yujin/tannsuigyo1_kai
 figureId: "014"
 maker: "YUJIN"
 sculptor: "KOW"
-species: "アカメ(若魚)"
+species: "アカメ"
 price: "100円"
 releaseStart: "2006.03"
 genre:
