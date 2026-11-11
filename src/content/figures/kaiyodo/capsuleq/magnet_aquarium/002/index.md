@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/magnet_aquarium
 figureId: "002"
-species: "2.マダイ【真鯛】"
+species: "マダイ"
 speciesGroup: "スズキ目の魚類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"

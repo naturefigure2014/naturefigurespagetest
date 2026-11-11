@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/uokore
 figureId: "006"
-species: "(6) 新巻鮭"
+species: "サケ"
 speciesGroup: "サケ・マス類"
 maker: "海洋堂"
 sculptor: "村田明玄"

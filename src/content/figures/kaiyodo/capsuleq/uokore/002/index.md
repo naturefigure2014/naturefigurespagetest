@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/uokore
 figureId: "002"
-species: "(2) たいのひらき"
+species: "マダイ"
 speciesGroup: "スズキ目の魚類"
 maker: "海洋堂"
 sculptor: "田熊勝夫"

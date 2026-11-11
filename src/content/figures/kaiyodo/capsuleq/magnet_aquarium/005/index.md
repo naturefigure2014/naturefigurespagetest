@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/magnet_aquarium
 figureId: "005"
-species: "5.マアジ【真鯵】"
+species: "マアジ"
 speciesGroup: "スズキ目の魚類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"

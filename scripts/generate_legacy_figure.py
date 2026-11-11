@@ -586,7 +586,14 @@ def write_title_page(
     page.write_text("\n".join(line for line in lines if line is not None), encoding="utf-8")
 
 
-def write_figure_page(folder: Path, item: dict, index: int, maker: str, metadata: dict[str, str]):
+def write_figure_page(
+    folder: Path,
+    item: dict,
+    index: int,
+    maker: str,
+    metadata: dict[str, str],
+    species_file: Path,
+):
     figure_folder = folder / f"{index:03d}"
     figure_folder.mkdir(exist_ok=True)
     first_image = Path(item["topics"][0]["images"][0]).name if item["topics"] else ""
@@ -620,7 +627,20 @@ def write_figure_page(folder: Path, item: dict, index: int, maker: str, metadata
     lines.extend(["---", ""])
     page = figure_folder / "index.md"
     preserve_existing_fields(lines, page, {"species"})
+    species_line = next((line for line in lines if line.startswith("species:")), None)
+    if species_line is None:
+        raise ValueError(f"Figure page is missing species metadata: {page}")
+    serialized_species = species_line.partition(":")[2].strip()
+    if serialized_species.startswith('"'):
+        species = json.loads(serialized_species)
+    elif serialized_species.startswith("'") and serialized_species.endswith("'"):
+        species = serialized_species[1:-1].replace("''", "'")
+    else:
+        species = serialized_species
     page.write_text("\n".join(lines), encoding="utf-8")
+    normalized_species = species.replace("/", "・")
+    if register_species(normalized_species, species_file):
+        print(f'species.yaml に新規追加しました: "{normalized_species}"')
 
 
 def leading_topic(main: Node) -> dict | None:
@@ -836,13 +856,6 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = (), op
             if entry:
                 item["species"], item["speciesGroup"] = entry
     species_file = Path(__file__).resolve().parents[1] / "src" / "data" / "species.yaml"
-    seen_species: set[str] = set()
-    for species in [metadata.get("species", ""), *(item.get("species", "") for item in items)]:
-        normalized_species = species.replace("/", "・")
-        if normalized_species and normalized_species not in seen_species:
-            seen_species.add(normalized_species)
-            if register_species(normalized_species, species_file):
-                print(f'species.yaml に新規追加しました: "{normalized_species}"')
     resources = extract_resources(main)
     related_posts = extract_related_posts(main)
     metadata.setdefault("releaseStart", release_start(metadata_source) or "")
@@ -879,7 +892,7 @@ def generate(source: Path, content_type: str, extra_sources: list[Path] = (), op
                         shutil.copy2(source_image, target_image)
                         copied_images.add(source_image)
                         moved_image_refs.setdefault(source_image.name, f"{index:03d}/{source_image.name}")
-            write_figure_page(output_folder, item, index, maker, metadata)
+            write_figure_page(output_folder, item, index, maker, metadata, species_file)
         cover = moved_image_refs.get(Path(cover_source).name, cover)
         collection = cover
         write_title_page(output_folder, title, maker, overview, items, cover, collection, metadata, freetags, resources, related_posts)

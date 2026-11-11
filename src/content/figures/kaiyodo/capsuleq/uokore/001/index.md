@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/uokore
 figureId: "001"
-species: "(1) あじのひらき"
+species: "マアジ"
 speciesGroup: "スズキ目の魚類"
 maker: "海洋堂"
 sculptor: "村田明玄"
