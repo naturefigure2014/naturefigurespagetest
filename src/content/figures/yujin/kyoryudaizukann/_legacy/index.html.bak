@@ -1,0 +1,320 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>ユージン　恐竜大図鑑</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>ユージン　恐竜大図鑑</h4>
+		<table style="width: 100%">
+		<tr><td><a href="img/kyoryuzukan043.jpg">
+			<img height="184" src="img/kyoryuzukan043_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan043.jpg" --></a></td><td>
+			<a href="img/kyoryuzukan044.jpg">
+			<img height="184" src="img/kyoryuzukan044_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan044.jpg" --></a></td></tr>
+			<tr>
+				<th colspan="2">ラインナップ<br />
+				</th>
+			</tr>
+			<tr>
+				<td class="waku_left" valign="top" style="width: 387px">
+				アカンソステガA<br />
+				アカンソステガB<br />
+				プテラノドンA<br />
+				プテラノドンB<br />
+				プテラノドンC<br />
+				プテラノドンD<br />
+				ヘンケロテリウム<br />
+				アパトサウルスA<br />
+				アパトサウルスB<br />
+				アパトサウルスC</td>
+								<td class="waku_right" valign="top" style="width: 387px">
+								ディメトロドンA<br />
+								ディメトロドンB<br />
+								ディメトロドンC<br />
+								プラティベロドン<br />
+								ヴェロキラプトルA<br />
+								ヴェロキラプトルB<br />
+								アロサウルスA<br />
+								アロサウルスB<br />
+								アロサウルスC<br />
+								アロサウルスD<br />
+								<span class="font_blue">アロサウルス(ｼｰｸﾚｯﾄｶﾗｰ)</span></td>
+
+			</tr>
+		</table>
+			<p>
+			販売開始時期：2006年3月　価格：200円　公式サイト：<a href="http://www.takaratomy-arts.co.jp/items/item.html?n=Y954924">コチラ</a><br />
+			<a href="../tikyudaishinnka">原色地球大進化図鑑</a>から一部をピックアップし、カラバリだけで構成したシリーズ。<br />
+			卸向け広告は「原色図鑑シリーズ22 原色大恐竜図鑑（仮）」として発表されましたが、結局原色図鑑シリーズからは外されたようです。<br />
+			一部のフィギュアは<a href="../tikyudaishinnka">原色地球大進化図鑑</a>の流用ですが、ジオラマ風の土台が追加されています。<br />
+			相変わらず原型師は不明ですが、価格の割りにとてもよく出来ています。<br />
+			2011年にはタカラトミーアーツから改めて<a href="../../tta/genn_kyoryu">原色大恐竜図鑑</a>が発売されていますが、そちらは完全に新規原型となっています。<br />
+			関連：<a href="../tikyudaishinnka">原色地球大進化図鑑</a>、<a href="../../tta/genn_kyoryu">原色大恐竜図鑑</a><br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		
+			<table style="width: 100%">
+<tr>
+<th colspan="2">アカンソステガA</th><th colspan="2">アカンソステガB</th></tr>
+<tr>
+<td><a href="img/kyoryuzukan024.jpg">
+<img height="138" src="img/kyoryuzukan024_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan024.jpg" --></a></td>
+<td><a href="img/kyoryuzukan025.jpg">
+<img height="138" src="img/kyoryuzukan025_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan025.jpg" --></a></td>
+<td><a href="img/kyoryuzukan026.jpg">
+<img height="138" src="img/kyoryuzukan026_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan026.jpg" --></a></td>
+<td><a href="img/kyoryuzukan027.jpg">
+<img height="138" src="img/kyoryuzukan027_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan027.jpg" --></a></td>
+</tr>
+<tr>
+<th colspan="2">プテラノドンA</th><th colspan="2">プテラノドンB</th></tr>
+<tr>
+<td><a href="img/kyoryuzukan051.jpg">
+<img height="138" src="img/kyoryuzukan051_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan051.jpg" --></a></td>
+<td><a href="img/kyoryuzukan052.jpg">
+<img height="138" src="img/kyoryuzukan052_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan052.jpg" --></a></td>
+<td><a href="img/kyoryuzukan008.jpg">
+<img height="138" src="img/kyoryuzukan008_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan008.jpg" --></a></td>
+<td><a href="img/kyoryuzukan009.jpg">
+<img height="138" src="img/kyoryuzukan009_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan009.jpg" --></a></td>
+</tr>
+<tr>
+<th colspan="2">プテラノドンC</th><th colspan="2">プテラノドンD</th></tr>
+<tr>
+<td><a href="img/kyoryuzukan053.jpg">
+<img height="138" src="img/kyoryuzukan053_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan053.jpg" --></a></td>
+<td><a href="img/kyoryuzukan019.jpg">
+<img height="138" src="img/kyoryuzukan019_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan019.jpg" --></a></td>
+<td><a href="img/kyoryuzukan006.jpg">
+<img height="138" src="img/kyoryuzukan006_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan006.jpg" --></a></td>
+<td><a href="img/kyoryuzukan007.jpg">
+<img height="138" src="img/kyoryuzukan007_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan007.jpg" --></a></td>
+</tr>
+<tr>
+<th colspan="2">ヘンケロテリウム</th><th colspan="2">アパトサウルスA</th></tr>
+<tr>
+<td><a href="img/kyoryuzukan022.jpg">
+<img height="138" src="img/kyoryuzukan022_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan022.jpg" --></a></td>
+<td><a href="img/kyoryuzukan023.jpg">
+<img height="138" src="img/kyoryuzukan023_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan023.jpg" --></a></td>
+<td><a href="img/kyoryuzukan010.jpg">
+<img height="138" src="img/kyoryuzukan010_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan010.jpg" --></a></td>
+<td><a href="img/kyoryuzukan011.jpg">
+<img height="138" src="img/kyoryuzukan011_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan011.jpg" --></a></td>
+</tr>
+<tr>
+<th colspan="2">アパトサウルスB</th><th colspan="2">アパトサウルスC</th></tr>
+<tr>
+<td><a href="img/kyoryuzukan028.jpg">
+<img height="138" src="img/kyoryuzukan028_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan028.jpg" --></a></td>
+<td><a href="img/kyoryuzukan029.jpg">
+<img height="138" src="img/kyoryuzukan029_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan029.jpg" --></a></td>
+<td><a href="img/kyoryuzukan030.jpg">
+<img height="138" src="img/kyoryuzukan030_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan030.jpg" --></a></td>
+<td><a href="img/kyoryuzukan031.jpg">
+<img height="138" src="img/kyoryuzukan031_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan031.jpg" --></a></td>
+</tr>
+<tr>
+<th colspan="2">ディメトロドンA</th><th colspan="2">ディメトロドンB</th></tr>
+<tr>
+<td><a href="img/kyoryuzukan012.jpg">
+<img height="138" src="img/kyoryuzukan012_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan012.jpg" --></a></td>
+<td><a href="img/kyoryuzukan013.jpg">
+<img height="138" src="img/kyoryuzukan013_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan013.jpg" --></a></td>
+<td><a href="img/kyoryuzukan047.jpg">
+<img height="138" src="img/kyoryuzukan047_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan047.jpg" --></a></td>
+<td><a href="img/kyoryuzukan048.jpg">
+<img height="138" src="img/kyoryuzukan048_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan048.jpg" --></a></td>
+</tr>
+<tr>
+<th colspan="2">ディメトロドンC</th><th colspan="2">プラティベロドン</th></tr>
+<tr>
+<td><a href="img/kyoryuzukan049.jpg">
+<img height="138" src="img/kyoryuzukan049_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan049.jpg" --></a></td>
+<td><a href="img/kyoryuzukan050.jpg">
+<img height="138" src="img/kyoryuzukan050_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan050.jpg" --></a></td>
+<td><a href="img/kyoryuzukan045.jpg">
+<img height="138" src="img/kyoryuzukan045_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan045.jpg" --></a></td>
+<td><a href="img/kyoryuzukan046.jpg">
+<img height="138" src="img/kyoryuzukan046_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan046.jpg" --></a></td>
+</tr>
+<tr>
+<th colspan="2">ヴェロキラプトルA</th><th colspan="2">ヴェロキラプトルB</th></tr>
+<tr>
+<td><a href="img/kyoryuzukan032.jpg">
+<img height="138" src="img/kyoryuzukan032_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan032.jpg" --></a></td>
+<td><a href="img/kyoryuzukan033.jpg">
+<img height="138" src="img/kyoryuzukan033_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan033.jpg" --></a></td>
+<td><a href="img/kyoryuzukan034.jpg">
+<img height="138" src="img/kyoryuzukan034_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan034.jpg" --></a></td>
+<td><a href="img/kyoryuzukan035.jpg">
+<img height="138" src="img/kyoryuzukan035_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan035.jpg" --></a></td>
+</tr>
+<tr>
+<th colspan="2">アロサウルスA</th><th colspan="2">アロサウルスB</th></tr>
+<tr>
+<td><a href="img/kyoryuzukan017.jpg">
+<img height="138" src="img/kyoryuzukan017_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan017.jpg" --></a></td>
+<td><a href="img/kyoryuzukan016.jpg">
+<img height="138" src="img/kyoryuzukan016_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan016.jpg" --></a></td>
+<td><a href="img/kyoryuzukan015.jpg">
+<img height="138" src="img/kyoryuzukan015_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan015.jpg" --></a></td>
+<td><a href="img/kyoryuzukan014.jpg">
+<img height="138" src="img/kyoryuzukan014_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan014.jpg" --></a></td>
+</tr>
+<tr>
+<th colspan="2">アロサウルスC</th><th colspan="2">アロサウルスD</th></tr>
+<tr>
+<td><a href="img/kyoryuzukan001.jpg">
+<img height="138" src="img/kyoryuzukan001_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan001.jpg" --></a></td>
+<td><a href="img/kyoryuzukan018.jpg">
+<img height="138" src="img/kyoryuzukan018_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan018.jpg" --></a></td>
+<td><a href="img/kyoryuzukan020.jpg">
+<img height="138" src="img/kyoryuzukan020_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan020.jpg" --></a></td>
+<td><a href="img/kyoryuzukan021.jpg">
+<img height="138" src="img/kyoryuzukan021_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan021.jpg" --></a></td>
+</tr>
+
+
+			</table>
+<table style="width: 100%">
+<tr><th colspan="2"><span class="font_blue">アロサウルス(ｼｰｸﾚｯﾄｶﾗｰ)</span></th></tr>
+<tr><td><a href="img/kyoryuzukan003.jpg">
+	<img height="283" src="img/kyoryuzukan003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan003.jpg" --></a></td><td>
+	<a href="img/kyoryuzukan002.jpg">
+	<img height="283" src="img/kyoryuzukan002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan002.jpg" --></a></td></tr>
+<tr><td class="comment" colspan="2">シークレットはアロサウルスA～Dのカラバリ。もちろんステゴサウルスの土台付き。</td></tr>
+<tr><td class="comment" colspan="2">&nbsp;</td></tr>
+<tr><td class="comment" colspan="2">&nbsp;</td></tr>
+<tr><th colspan="2">アカンソステガ</th></tr>
+<tr><td><a href="img/kyoryuzukan039.jpg">
+	<img height="283" src="img/kyoryuzukan039_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan039.jpg" --></a></td>
+	<td class="comment">
+	デボン紀後期に生息。アカントステガとも。<br />
+	四肢は見られるが、完全に陸生適応しておらず水中に生息。<br />
+	<br />
+	フィギュアの土台も水中をイメージ。Bタイプはオオサンショウウオのようなカラー。</td></tr>
+<tr><th colspan="2">プテラノドン</th></tr>
+<tr><td><a href="img/kyoryuzukan037.jpg">
+	<img height="283" src="img/kyoryuzukan037_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan037.jpg" --></a></td>
+	<td class="comment">
+	4タイプいますが、微妙に色被ってませんかね。<br />
+	土台は海面を小さくすることで飛行中を表現。</td></tr>
+<tr><th colspan="2">アパトサウルス</th></tr>
+<tr><td><a href="img/kyoryuzukan036.jpg">
+	<img height="283" src="img/kyoryuzukan036_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan036.jpg" --></a></td>
+	<td class="comment">
+	とにかくデカイ。木を近くに配置して大きさを表現。</td></tr>
+<tr><th colspan="2">ディメトロドン</th></tr>
+<tr><td><a href="img/kyoryuzukan038.jpg">
+	<img height="283" src="img/kyoryuzukan038_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan038.jpg" --></a></td>
+	<td class="comment">
+	ウロコや歯が非常に細かい。</td></tr>
+<tr><th colspan="2">ヴェロキラプトル</th></tr>
+<tr><td><a href="img/kyoryuzukan042.jpg">
+	<img height="283" src="img/kyoryuzukan042_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan042.jpg" --></a></td>
+	<td class="comment">
+	羽毛復元されたラプトル。バックに配置された木で疾走感を表現。</td></tr>
+<tr><th colspan="2">アロサウルス</th></tr>
+<tr><td><a href="img/kyoryuzukan041.jpg">
+	<img height="283" src="img/kyoryuzukan041_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan041.jpg" --></a></td>
+	<td class="comment">
+	全５タイプのカラーリング。土台はステゴサウルスの死骸で表現され、非常に手が込んでいます。</td></tr>
+<tr><th colspan="2">ヘンケロテリウム＆プラティペロドン</th></tr>
+<tr><td><a href="img/kyoryuzukan040.jpg">
+	<img height="283" src="img/kyoryuzukan040_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/yujin/kyoryudaizukann/img/kyoryuzukan040.jpg" --></a></td>
+	<td class="comment">
+	ヘンケロテリウムはジュラ紀に生息した哺乳類の祖先、プラティペロドンは中新世後期に生息したゾウの祖先。<br />
+	<br />
+	恐竜の方がカラバリが多いのはうれしいですね。</td></tr>
+<tr><th colspan="2">解説書</th></tr>
+<tr><td colspan="2">
+	<img height="354" src="img/kyoryudaizukanbook.jpg" width="756" /></td></tr>
+<tr><td class="comment" colspan="2">原色図鑑シリーズと同じ仕様の解説書。</td></tr>
+
+</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

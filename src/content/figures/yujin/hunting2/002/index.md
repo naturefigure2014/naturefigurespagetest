@@ -1,0 +1,19 @@
+---
+title: "オリックス"
+description: ""
+contentType: figure
+titleId: yujin/hunting2
+figureId: "002"
+maker: "タカラトミーアーツ 公式サイト： コチラ"
+sculptor: "EXPO"
+species: "オリックス"
+price: "300円"
+releaseStart: "2009.11"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: ""
+coverImage: ""
+topics: []
+---

@@ -329,6 +329,8 @@ def append_metadata(lines: list[str], metadata: dict[str, str], fields: tuple[st
     for field in fields:
         if field == "salesPeriod" and not metadata.get(field):
             continue
+        if field == "executiveProducer" and metadata.get(field, "") in {"", "-"} and metadata.get("maker") != "海洋堂":
+            continue
         if field in {"genre", "tags"}:
             lines.append(f"{field}:")
             value = metadata.get(field, "")
@@ -399,10 +401,27 @@ def extract_items(main: Node):
     rows = direct_rows(main)
     items = []
     current = None
+    column_items = []
     in_related_posts = False
     for row in rows:
         headings = list(row.descendants("th"))
         if headings:
+            column_items = []
+            labels = [normalize_text(heading.text()) for heading in headings]
+            if len(headings) > 1 and all(labels) and all(
+                label not in resource_headings and label != "関連投稿" and not resource_key_for_heading(label)
+                for label in labels
+            ):
+                column = 0
+                for heading_node, label in zip(headings, labels):
+                    span = heading_node.attrs.get("colspan", "1")
+                    width = max(1, int(span)) if span.isdigit() else 1
+                    item = {"name": re.sub(r"^\d+\.\s*", "", label), "label": label, "topics": []}
+                    items.append(item)
+                    column_items.append((column, column + width, item))
+                    column += width
+                current = None
+                continue
             label = normalize_text(headings[0].text())
             heading = re.sub(r"^\d+\.\s*", "", label)
             in_related_posts = heading == "関連投稿"
@@ -417,6 +436,35 @@ def extract_items(main: Node):
                 continue
             current = {"name": heading, "label": label, "topics": []}
             items.append(current)
+            continue
+        if column_items:
+            cells = list(row.descendants("td"))
+            column = 0
+            grouped_cells = [[] for _ in column_items]
+            for cell in cells:
+                span = cell.attrs.get("colspan", "1")
+                width = max(1, int(span)) if span.isdigit() else 1
+                for index, (start, end, _) in enumerate(column_items):
+                    if start <= column and column + width <= end:
+                        grouped_cells[index].append(cell)
+                        break
+                column += width
+            for (_, _, item), group in zip(column_items, grouped_cells):
+                images = [image for cell in group for image in node_images(cell)]
+                text = normalize_text(" ".join(visible_without_images(cell) for cell in group))
+                if "sculptor" not in item:
+                    sculptor = extract_sculptor("".join(cell.inner_html() for cell in group))
+                    if sculptor:
+                        item["sculptor"] = sculptor
+                if images:
+                    item["topics"].append(make_topic(images, item.pop("pending_comment", "")))
+                elif text:
+                    if item["topics"]:
+                        previous = item["topics"][-1]
+                        previous["comment"] = f"{previous['comment']}\n{text}" if previous["comment"] else text
+                    else:
+                        pending = item.get("pending_comment", "")
+                        item["pending_comment"] = f"{pending}\n{text}" if pending else text
             continue
         if current is None:
             continue

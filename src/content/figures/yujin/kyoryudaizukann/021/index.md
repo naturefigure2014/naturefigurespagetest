@@ -1,0 +1,25 @@
+---
+title: "アロサウルス(ｼｰｸﾚｯﾄｶﾗｰ)"
+description: ""
+contentType: figure
+titleId: yujin/kyoryudaizukann
+figureId: "021"
+maker: "タカラトミー"
+sculptor: "-"
+species: "アロサウルス(ｼｰｸﾚｯﾄｶﾗｰ)"
+price: "200円 公式サイト： コチラ"
+releaseStart: "2006.03"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: "kyoryuzukan003.jpg"
+coverImage: "kyoryuzukan003.jpg"
+topics:
+  - title: ""
+    images:
+      - "kyoryuzukan003.jpg"
+      - "kyoryuzukan002.jpg"
+    comment: |
+      シークレットはアロサウルスA～Dのカラバリ。もちろんステゴサウルスの土台付き。
+---
