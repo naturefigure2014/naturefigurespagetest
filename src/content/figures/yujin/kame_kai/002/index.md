@@ -6,7 +6,7 @@ titleId: yujin/kame_kai
 figureId: "002"
 maker: "YUJIN"
 sculptor: "KOW"
-species: "ゼニガメ"
+species: "クサガメ"
 price: "100円"
 releaseStart: "2004.03"
 genre:
