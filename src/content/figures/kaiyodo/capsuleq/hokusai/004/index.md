@@ -1,11 +1,13 @@
 ---
-title: "4.お岩さん"
+title: "お岩さん"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/hokusai
 figureId: "004"
-species: "4.お岩さん"
-speciesGroup: "その他/未分類"
+species: "お岩さん"
+speciesGroup: "妖怪"
+themes:
+  - "葛飾北斎"
 maker: "海洋堂"
 figureTopImage: "hokusai010.jpg"
 coverImage: "hokusai010.jpg"

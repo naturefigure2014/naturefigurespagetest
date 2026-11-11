@@ -1,11 +1,11 @@
 ---
-title: "1.神奈川沖浪裏"
+title: "神奈川沖浪裏"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/hokusai
 figureId: "001"
-species: "1.神奈川沖浪裏"
-speciesGroup: "その他/未分類"
+themes:
+  - "葛飾北斎"
 maker: "海洋堂"
 figureTopImage: "hokusai001.jpg"
 coverImage: "hokusai001.jpg"

@@ -13,6 +13,10 @@ figureIds:
   - kaiyodo/capsule/uminoegypt/005
   - kaiyodo/capsule/uminoegypt/006
   - kaiyodo/capsule/uminoegypt/007
+  - kaiyodo/capsule/uminoegypt/008
+  - kaiyodo/capsule/uminoegypt/009
+  - kaiyodo/capsule/uminoegypt/010
+  - kaiyodo/capsule/uminoegypt/011
 executiveProducer: "-"
 seriesName: "-"
 releaseStart: "-"

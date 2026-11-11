@@ -1,11 +1,12 @@
 ---
-title: "5.雪中虎図"
+title: "雪中虎図"
 description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/hokusai
 figureId: "005"
-species: "5.雪中虎図"
-speciesGroup: "その他/未分類"
+species: "トラ"
+themes:
+  - "葛飾北斎"
 maker: "海洋堂"
 figureTopImage: "hokusai006.jpg"
 coverImage: "hokusai006.jpg"

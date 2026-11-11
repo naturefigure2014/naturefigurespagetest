@@ -6,6 +6,8 @@ titleId: kaiyodo/capsuleq/hokusai
 figureId: "002"
 species: "カッパ"
 speciesGroup: "妖怪"
+themes:
+  - "葛飾北斎"
 maker: "海洋堂"
 figureTopImage: "hokusai003.jpg"
 coverImage: "hokusai003.jpg"

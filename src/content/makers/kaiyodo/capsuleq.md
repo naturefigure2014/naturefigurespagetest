@@ -107,6 +107,9 @@ seriesSections:
       - kaiyodo/capsuleq/hokusai
       - kaiyodo/capsule/miniQ/gakibonkei
       - kaiyodo/capsule/miniQ/sengokukacchu
+      - kaiyodo/capsule/SouvenirOfNippon/kumadori
+      - kaiyodo/capsule/SouvenirOfNippon/matsumotokoshiro
+      - kaiyodo/capsule/SouvenirOfNippon/Tradition
   - name: キャラクターのタイトル
     format: ガチャ
     titleIds:

@@ -1,16 +1,14 @@
 ---
-title: ""
+title: "#10 カエサリオン像の頭部（スノードーム）"
 description: ""
 contentType: figure
-titleId: kaiyodo/capsule/SouvenirOfNippon/temp
+titleId: kaiyodo/capsule/uminoegypt
 figureId: "010"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
-species: "-"
-speciesGroup: "-"
-price: "300円 造形総指揮：松村しのぶ"
-releaseStart: "2020.01"
+price: "300円"
+releaseStart: "-"
 genre:
   - "-"
 tags:
