@@ -6,7 +6,7 @@ titleId: yujin/kame_kai
 figureId: "018"
 maker: "YUJIN"
 sculptor: "KOW"
-species: "アオウミガメ(飼育固体)"
+species: "アオウミガメ"
 price: "100円"
 releaseStart: "2004.03"
 genre:
