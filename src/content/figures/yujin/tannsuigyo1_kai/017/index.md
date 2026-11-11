@@ -6,7 +6,7 @@ titleId: yujin/tannsuigyo1_kai
 figureId: "017"
 maker: "YUJIN"
 sculptor: "KOW"
-species: "アジアアロワナ（過背金龍）"
+species: "アジアアロワナ"
 price: "100円"
 releaseStart: "2006.03"
 genre:
