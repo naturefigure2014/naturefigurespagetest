@@ -7,8 +7,8 @@ figureId: "008"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
-species: "08.トロートン社製赤道儀天体望遠鏡"
-speciesGroup: "-"
+themes: 
+  - "道具"
 price: "300円 監修：国立科学博物館"
 releaseStart: "2007.04"
 genre:
