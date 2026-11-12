@@ -3,7 +3,14 @@ import tempfile
 import unittest
 from unittest.mock import patch
 
-from generate_legacy_figure import DocumentParser, append_metadata, extract_items, find_by_id, write_figure_page
+from generate_legacy_figure import (
+    DocumentParser,
+    append_metadata,
+    extract_items,
+    find_by_id,
+    write_figure_page,
+    write_single_figure_page,
+)
 
 
 class AppendMetadataTest(unittest.TestCase):
@@ -80,6 +87,39 @@ class WriteFigurePageTest(unittest.TestCase):
             self.assertIn('species: "保存済み種"', page)
             self.assertIn('      - "保存済み種"', species_data)
             self.assertNotIn('"別の種"', species_data)
+
+
+class WriteSingleFigurePageTest(unittest.TestCase):
+    def generate_page(self, root: Path, create_image: bool) -> str:
+        folder = root / "figures" / "series"
+        image_dir = folder / "img"
+        image_dir.mkdir(parents=True)
+        if create_image:
+            (image_dir / "figure.jpg").write_bytes(b"image")
+
+        document = DocumentParser()
+        document.feed(
+            '<div id="collection_page_main"><table><tr><td><img src="figure.jpg"></td></tr></table></div>'
+        )
+        main = find_by_id(document.root, "collection_page_main")
+        with patch("generate_legacy_figure.figure_content_id", return_value="yujin/series"):
+            write_single_figure_page(
+                folder, "フィギュア", "YUJIN", "", [], {"species": "設定済み種"},
+                [], "", main, {}, "",
+            )
+        return (folder / "index.md").read_text(encoding="utf-8")
+
+    def test_emits_empty_species_when_referenced_image_file_is_missing(self):
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            page = self.generate_page(Path(temporary_directory), create_image=False)
+
+        self.assertIn('species: ""', page)
+
+    def test_keeps_species_when_figure_image_file_exists(self):
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            page = self.generate_page(Path(temporary_directory), create_image=True)
+
+        self.assertIn('species: "設定済み種"', page)
 
 
 if __name__ == "__main__":

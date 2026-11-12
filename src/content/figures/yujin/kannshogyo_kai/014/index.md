@@ -6,7 +6,7 @@ titleId: yujin/kannshogyo_kai
 figureId: "014"
 maker: "タカラトミー"
 sculptor: "KOW 公式サイト： コチラ"
-species: "エドアカネ"
+species: ""
 price: "-"
 releaseStart: "2007.07"
 genre:

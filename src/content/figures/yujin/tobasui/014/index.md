@@ -6,7 +6,7 @@ titleId: yujin/tobasui
 figureId: "014"
 maker: "ユージン"
 sculptor: "KOW"
-species: "メガネモチノウオ"
+species: ""
 price: "100円"
 releaseStart: "-"
 genre:

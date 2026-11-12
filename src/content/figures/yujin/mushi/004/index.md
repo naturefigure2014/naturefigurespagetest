@@ -6,7 +6,7 @@ titleId: yujin/mushi
 figureId: "004"
 maker: "ユージン"
 sculptor: "-"
-species: "ジャイアントアリ"
+species: ""
 price: "200円"
 releaseStart: "2004.06"
 genre:

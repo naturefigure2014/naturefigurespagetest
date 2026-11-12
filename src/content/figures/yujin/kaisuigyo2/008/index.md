@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo2
 figureId: "008"
 maker: "ユージン"
 sculptor: "KOW"
-species: "イシダイ"
+species: ""
 price: "100円"
 releaseStart: "2005.01"
 genre:

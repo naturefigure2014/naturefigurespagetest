@@ -6,7 +6,7 @@ titleId: yujin/hunting2
 figureId: "007"
 maker: "タカラトミーアーツ 公式サイト： コチラ"
 sculptor: "EXPO"
-species: "ホワイトオリックス"
+species: ""
 price: "300円"
 releaseStart: "2009.11"
 genre:

@@ -6,7 +6,7 @@ titleId: yujin/kame_kai
 figureId: "008"
 maker: "YUJIN"
 sculptor: "KOW"
-species: "マタマタ"
+species: ""
 price: "100円"
 releaseStart: "2004.03"
 genre:

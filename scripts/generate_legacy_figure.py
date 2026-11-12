@@ -325,7 +325,12 @@ def append_freetags(lines: list[str], freetags: list[dict[str, str]]):
     )
 
 
-def append_metadata(lines: list[str], metadata: dict[str, str], fields: tuple[str, ...]):
+def append_metadata(
+    lines: list[str],
+    metadata: dict[str, str],
+    fields: tuple[str, ...],
+    empty_fields: frozenset[str] = frozenset(),
+):
     for field in fields:
         if field == "salesPeriod" and not metadata.get(field):
             continue
@@ -340,7 +345,9 @@ def append_metadata(lines: list[str], metadata: dict[str, str], fields: tuple[st
                 for part in (parts or ["-"])
             )
         else:
-            value = metadata.get(field) or "-"
+            value = metadata.get(field, "")
+            if not value and field not in empty_fields:
+                value = "-"
             if field == "species":
                 value = value.replace("/", "・")
             lines.append(yaml_field(field, value))
@@ -708,6 +715,17 @@ def write_single_figure_page(
     resources: dict[str, dict[str, str]],
     related_posts: str,
 ):
+    topics = sequential_topics(main)
+    if not topics:
+        topics = [make_topic(node_images(main), overview) | {"title": "全体"}]
+    has_figure_image = any(
+        (folder / "img" / Path(image).name).is_file()
+        for topic in topics
+        for image in topic["images"]
+    )
+    figure_metadata = metadata.copy()
+    if not has_figure_image:
+        figure_metadata["species"] = ""
     lines = [
         "---",
         f"title: {quoted(title)}",
@@ -715,10 +733,15 @@ def write_single_figure_page(
         "contentType: figure",
         f"maker: {quoted(maker or '-')}",
     ]
-    append_metadata(lines, metadata, (
-        "sculptor", "executiveProducer", "seriesName", "species",
-        "price", "releaseStart", "salesPeriod", "genre", "tags",
-    ))
+    append_metadata(
+        lines,
+        figure_metadata,
+        (
+            "sculptor", "executiveProducer", "seriesName", "species",
+            "price", "releaseStart", "salesPeriod", "genre", "tags",
+        ),
+        empty_fields=frozenset({"species"}) if not has_figure_image else frozenset(),
+    )
     append_freetags(lines, freetags)
     lines.extend([f"figureTopImage: {quoted(cover)}", f"coverImage: {quoted(cover)}"])
     package = resources.get("package")
@@ -732,9 +755,6 @@ def write_single_figure_page(
         if package["description"]:
             lines.extend(["    description: |", f"      {package['description']}"])
 
-    topics = sequential_topics(main)
-    if not topics:
-        topics = [make_topic(node_images(main), overview) | {"title": "全体"}]
     lines.extend(yaml_topics([
         {**topic, "images": [f"img/{Path(image).name}" for image in topic["images"]]}
         for topic in topics

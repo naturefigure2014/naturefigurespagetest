@@ -6,7 +6,7 @@ titleId: yujin/tobasui
 figureId: "007"
 maker: "ユージン"
 sculptor: "KOW"
-species: "ナンヨウハギ"
+species: ""
 price: "100円"
 releaseStart: "-"
 genre:

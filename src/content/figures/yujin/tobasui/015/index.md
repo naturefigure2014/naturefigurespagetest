@@ -6,7 +6,7 @@ titleId: yujin/tobasui
 figureId: "015"
 maker: "ユージン"
 sculptor: "KOW"
-species: "ニセゴイシウツボ＆ホンソメワケベラ"
+species: ""
 price: "100円"
 releaseStart: "-"
 genre:

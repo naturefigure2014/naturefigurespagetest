@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "014"
 maker: "-"
 sculptor: "KOW"
-species: "14 ユカタハタ"
+species: ""
 price: "100円"
 releaseStart: "2005.03"
 genre:

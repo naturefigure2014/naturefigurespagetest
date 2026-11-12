@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "015"
 maker: "-"
 sculptor: "KOW"
-species: "15 マツカサウオ"
+species: ""
 price: "100円"
 releaseStart: "2005.03"
 genre:

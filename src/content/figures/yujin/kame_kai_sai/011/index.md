@@ -6,7 +6,7 @@ titleId: yujin/kame_kai_sai
 figureId: "011"
 maker: "タカラトミー"
 sculptor: "-"
-species: "ガラパゴスゾウガメ"
+species: ""
 price: "200円"
 releaseStart: "2013.10"
 genre:

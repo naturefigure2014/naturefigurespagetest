@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "007"
 maker: "-"
 sculptor: "KOW"
-species: "07 タツノオトシゴ"
+species: ""
 price: "100円"
 releaseStart: "2005.03"
 genre:

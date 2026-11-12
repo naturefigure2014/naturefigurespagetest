@@ -6,7 +6,7 @@ titleId: yujin/kannshogyo_kai
 figureId: "009"
 maker: "タカラトミー"
 sculptor: "KOW 公式サイト： コチラ"
-species: "シュブンキン"
+species: ""
 price: "-"
 releaseStart: "2007.07"
 genre:

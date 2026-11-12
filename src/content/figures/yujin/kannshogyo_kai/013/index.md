@@ -6,7 +6,7 @@ titleId: yujin/kannshogyo_kai
 figureId: "013"
 maker: "タカラトミー"
 sculptor: "KOW 公式サイト： コチラ"
-species: "キョウニシキ"
+species: ""
 price: "-"
 releaseStart: "2007.07"
 genre:

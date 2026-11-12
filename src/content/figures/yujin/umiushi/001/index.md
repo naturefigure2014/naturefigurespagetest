@@ -6,7 +6,7 @@ titleId: yujin/umiushi
 figureId: "001"
 maker: "ユージン"
 sculptor: "-"
-species: "アオウミウシ"
+species: ""
 price: "200円"
 releaseStart: "2009.03"
 genre:

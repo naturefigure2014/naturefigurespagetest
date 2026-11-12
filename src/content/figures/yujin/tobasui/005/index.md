@@ -6,7 +6,7 @@ titleId: yujin/tobasui
 figureId: "005"
 maker: "ユージン"
 sculptor: "KOW"
-species: "スナメリ(子)"
+species: ""
 price: "100円"
 releaseStart: "-"
 genre:
