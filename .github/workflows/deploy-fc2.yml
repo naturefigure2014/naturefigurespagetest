@@ -7,6 +7,10 @@ on:
         description: "Preview changes without uploading"
         type: boolean
         default: true
+      connection_test_only:
+        description: "Test FTP data connections without building or uploading"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -16,7 +20,33 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  connection-check:
+    if: inputs.connection_test_only
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test FTP directory listing
+        env:
+          FTP_SERVER: ${{ secrets.FC2_FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FC2_FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FC2_FTP_PASSWORD }}
+        run: |
+          test -n "$FTP_SERVER" && test -n "$FTP_USERNAME" && test -n "$FTP_PASSWORD" || {
+            echo "::error::FC2 FTP secrets must be configured."
+            exit 1
+          }
+          status=0
+          echo "Testing FTP directory listing with EPSV/PASV negotiation..."
+          curl --silent --show-error --fail --connect-timeout 20 --max-time 60 \
+            --user "$FTP_USERNAME:$FTP_PASSWORD" --list-only \
+            "ftp://$FTP_SERVER/test/" --output /dev/null || status=1
+          echo "Testing FTP directory listing with PASV only..."
+          curl --silent --show-error --fail --connect-timeout 20 --max-time 60 \
+            --disable-epsv --user "$FTP_USERNAME:$FTP_PASSWORD" --list-only \
+            "ftp://$FTP_SERVER/test/" --output /dev/null || status=1
+          exit "$status"
+
   deploy:
+    if: ${{ !inputs.connection_test_only }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
