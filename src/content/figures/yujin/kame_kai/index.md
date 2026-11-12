@@ -35,8 +35,6 @@ tags:
 freetag:
   - label: "監修"
     value: "豊平両生爬虫類研究所"
-  - label: "原色図鑑シリーズ7として発売。全18種。原色図鑑シリーズではすでにカメ図鑑を発売していましたが、そちらはもともと存在した原型にユージンが塗装を施して発売されたものでした。今回はKOW氏によって新規造り下ろしの“新改訂版”。後にタカラトミーアーツからは 立体カプセル百科事典"
-    value: "原色爬虫類カメ目図鑑 としてシークレットを除外した全15種(200円)で発売。"
 coverImage: "img/genn_kame_kai014.jpg"
 collectionImage: "img/genn_kame_kai014.jpg"
 resources:

@@ -6,7 +6,7 @@ titleId: yujin/kame_kai_sai
 figureId: "002"
 maker: "タカラトミー"
 sculptor: "-"
-species: "ゼニガメ"
+species: "クサガメ"
 price: "200円"
 releaseStart: "2013.10"
 genre:
