@@ -6,7 +6,7 @@ titleId: yujin/tobasui
 figureId: "003"
 maker: "ユージン"
 sculptor: "KOW"
-species: "ジュゴン"
+species: ""
 price: "100円"
 releaseStart: "-"
 genre:
