@@ -1,0 +1,57 @@
+name: Deploy test site to FC2
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Preview changes without uploading"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: fc2-test
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Astro site for FC2
+        run: npm run build
+        env:
+          DEPLOY_TARGET: fc2
+
+      - name: Check FC2 free plan file size limit
+        run: |
+          oversized=$(find dist -type f -size +5000000c -print)
+          if [ -n "$oversized" ]; then
+            echo "Files exceeding 5 MB cannot be uploaded to the FC2 free plan:"
+            printf '%s\n' "$oversized"
+            exit 1
+          fi
+
+      - name: Deploy to FC2 test directory
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server: ${{ secrets.FC2_FTP_SERVER }}
+          username: ${{ secrets.FC2_FTP_USERNAME }}
+          password: ${{ secrets.FC2_FTP_PASSWORD }}
+          protocol: ftp
+          local-dir: ./dist/
+          server-dir: ./test/
+          dry-run: ${{ inputs.dry_run }}

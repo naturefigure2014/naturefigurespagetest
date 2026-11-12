@@ -5,9 +5,6 @@ const {
   title = "NATURE FIGURE | ネイチャーフィギュアのページ",
   description = "ネイチャーフィギュアのページ"
 } = Astro.props;
-const pathname = Astro.url.pathname.replace(/^\/naturefigurespagetest/, "") || "/";
-const isActive = (section: string) =>
-  pathname === section || pathname.startsWith(`${section}/`);
 ---
 <!doctype html>
 <html lang="ja">
@@ -44,8 +41,11 @@ const isActive = (section: string) =>
 </html>
 
 <script>
-  const basePath = "/naturefigurespagetest";
-  const currentPath = window.location.pathname.replace(basePath, "") || "/";
+  const basePath = import.meta.env.BASE_URL.replace(/\/$/, "");
+  const pathname = window.location.pathname;
+  const currentPath = pathname === basePath || pathname.startsWith(`${basePath}/`)
+    ? pathname.slice(basePath.length) || "/"
+    : pathname;
   document.querySelectorAll<HTMLAnchorElement>("[data-nav-section]").forEach((link) => {
     const section = link.dataset.navSection ?? "";
     if (currentPath === section || currentPath.startsWith(`${section}/`)) {
