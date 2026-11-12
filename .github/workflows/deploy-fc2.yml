@@ -36,17 +36,22 @@ jobs:
         env:
           DEPLOY_TARGET: fc2
 
-      - name: Check FC2 free plan file size limit
+      - name: Report deployment size and check file size limit
         run: |
-          oversized=$(find dist -type f -size +5000000c -print)
+          total=$(du -sb dist | cut -f1)
+          echo "Deployment size: $total bytes (existing FC2 files also count towards the quota)."
+          if [ "$total" -gt 10000000000 ]; then
+            echo "::warning::Deployment exceeds 10 GB, the FC2 paid plan's total storage quota."
+          fi
+          oversized=$(find dist -type f -size +1000000000c -print)
           if [ -n "$oversized" ]; then
-            echo "Files exceeding 5 MB cannot be uploaded to the FC2 free plan:"
+            echo "Files exceeding 1 GB cannot be uploaded to the FC2 paid plan:"
             printf '%s\n' "$oversized"
             exit 1
           fi
 
       - name: Deploy to FC2 test directory
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        uses: SamKirkland/FTP-Deploy-Action@a51268f67f6605236975928ae28b0f7e9971d50a # v4.3.6
         with:
           server: ${{ secrets.FC2_FTP_SERVER }}
           username: ${{ secrets.FC2_FTP_USERNAME }}
