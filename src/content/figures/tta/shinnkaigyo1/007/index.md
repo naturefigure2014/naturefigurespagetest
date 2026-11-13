@@ -6,7 +6,7 @@ titleId: tta/shinnkaigyo1
 figureId: "007"
 maker: "-"
 sculptor: "-"
-species: "ニュウドウカジカ(標本)"
+species: "ニュウドウカジカ"
 price: "200円 公式ページ： コチラ"
 releaseStart: "2010.10"
 genre:

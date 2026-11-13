@@ -6,7 +6,7 @@ titleId: tta/genn_kyoryu
 figureId: "002"
 maker: "タカラトミーアーツ 公式サイト： コチラ"
 sculptor: "-"
-species: "ティラノサウルス(骨格座りポーズ)"
+species: "ティラノサウルス"
 price: "300円"
 releaseStart: "2011.08"
 genre:

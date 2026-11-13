@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/yudokukikenn
 figureId: "005"
-species: "デスストーカー（オブトサソリ）"
+species: "デスストーカー"
 speciesGroup: "サソリ類"
 maker: "海洋堂"
 figureTopImage: "yudoku027.jpg"

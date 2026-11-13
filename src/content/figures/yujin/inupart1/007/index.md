@@ -6,7 +6,7 @@ titleId: yujin/inupart1
 figureId: "007"
 maker: "ユージン"
 sculptor: "-"
-species: "セント・バーナード(ラフ)"
+species: "セント・バーナード"
 price: "200円"
 releaseStart: "-"
 genre:

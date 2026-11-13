@@ -6,7 +6,7 @@ titleId: yujin/hunting2
 figureId: "008"
 maker: "ユージン"
 sculptor: "EXPO"
-species: "オリックス(頭骨)"
+species: "オリックス"
 price: "300円"
 releaseStart: "2009.11"
 genre:

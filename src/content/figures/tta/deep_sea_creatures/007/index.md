@@ -6,7 +6,7 @@ titleId: tta/deep_sea_creatures
 figureId: "007"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "ハダカカメガイ(捕食)"
+species: "ハダカカメガイ"
 price: "200円"
 releaseStart: "2015.08"
 genre:

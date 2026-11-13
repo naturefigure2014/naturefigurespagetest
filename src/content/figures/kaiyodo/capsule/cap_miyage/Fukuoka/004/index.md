@@ -7,7 +7,7 @@ figureId: "004"
 maker: "海洋堂"
 sculptor: "市原俊成（500系） 寺岡邦明（車両基地）"
 executiveProducer: "-"
-species: "500 TYPE EVA（エヴァンゲリオン新幹線）"
+species: "500 TYPE EVA"
 speciesGroup: "-"
 themes:
   - "鉄道"

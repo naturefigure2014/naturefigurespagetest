@@ -7,7 +7,7 @@ figureId: "007"
 maker: "海洋堂"
 sculptor: "BOME"
 executiveProducer: "-"
-species: "初音ミク(with 雪ミク2014ver.)"
+species: "初音ミク"
 speciesGroup: "-"
 themes:
   - "ポップカルチャー"

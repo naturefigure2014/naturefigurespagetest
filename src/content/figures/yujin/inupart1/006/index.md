@@ -6,7 +6,7 @@ titleId: yujin/inupart1
 figureId: "006"
 maker: "ユージン"
 sculptor: "-"
-species: "ミニチュア・ダックスフンド(ロング)"
+species: "ミニチュア・ダックスフンド"
 price: "200円"
 releaseStart: "-"
 genre:

@@ -6,7 +6,7 @@ titleId: tta/genn_tako_ika
 figureId: "004"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "マダコ(ツボ)"
+species: "マダコ"
 price: "3００円"
 releaseStart: "2009.07"
 genre:

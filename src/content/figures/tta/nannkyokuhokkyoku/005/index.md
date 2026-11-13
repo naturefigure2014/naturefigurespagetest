@@ -6,7 +6,7 @@ titleId: tta/nannkyokuhokkyoku
 figureId: "005"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "アデリーペンギン（データロガー付)"
+species: "アデリーペンギン"
 price: "300円"
 releaseStart: "2012.09"
 genre:

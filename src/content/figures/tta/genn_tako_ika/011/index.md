@@ -6,7 +6,7 @@ titleId: tta/genn_tako_ika
 figureId: "011"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "ハナイカ(色違い)"
+species: "ハナイカ"
 price: "3００円"
 releaseStart: "2009.07"
 genre:

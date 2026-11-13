@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/chinnzyu2
 figureId: "002"
-species: "コアリクイ(黒ベスト)"
+species: "コアリクイ"
 speciesGroup: "その他哺乳類"
 maker: "海洋堂"
 figureTopImage: "chinnzyu2_001.jpg"

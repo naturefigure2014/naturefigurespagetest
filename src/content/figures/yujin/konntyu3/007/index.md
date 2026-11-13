@@ -6,7 +6,7 @@ titleId: yujin/konntyu3
 figureId: "007"
 maker: "ユージン"
 sculptor: "木村和未"
-species: "オニヤンマ(ヤゴ)"
+species: "オニヤンマ"
 price: "200円"
 releaseStart: "2007.02"
 genre:

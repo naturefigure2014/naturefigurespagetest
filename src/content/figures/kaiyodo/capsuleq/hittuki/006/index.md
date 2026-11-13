@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/hittuki
 figureId: "006"
-species: "クロゴキブリ(幼虫)"
+species: "クロゴキブリ"
 speciesGroup: "その他昆虫"
 maker: "海洋堂"
 figureTopImage: "hittuki005.jpg"

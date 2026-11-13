@@ -6,7 +6,7 @@ titleId: tta/Chokyodaiika
 figureId: "005"
 maker: "タカラトミーアーツ 公式サイト： コチラ"
 sculptor: "-"
-species: "マッコウクジラ（ヘッドモデル）"
+species: "マッコウクジラ"
 price: "300円"
 releaseStart: "2013.07"
 genre:

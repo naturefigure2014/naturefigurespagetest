@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/hukurou2
 figureId: "005"
-species: "フクロウ（ヒナ）"
+species: "フクロウ"
 speciesGroup: "猛禽類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

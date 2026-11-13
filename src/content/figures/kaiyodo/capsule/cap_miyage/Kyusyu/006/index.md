@@ -7,7 +7,7 @@ figureId: "006"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "[大分] おんせん県（シンフロ）"
+species: "[大分] おんせん県"
 speciesGroup: "-"
 themes:
   - "ポップカルチャー"

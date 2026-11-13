@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/kabukimen
 figureId: "002"
-species: "矢の根（やのね）"
+species: "矢の根"
 speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "kabuki003.jpg"

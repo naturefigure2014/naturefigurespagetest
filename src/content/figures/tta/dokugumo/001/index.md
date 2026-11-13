@@ -6,7 +6,7 @@ titleId: tta/dokugumo
 figureId: "001"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "ブラックウィドウ（クロゴケグモ）"
+species: "ブラックウィドウ"
 price: "200円"
 releaseStart: "2010.07"
 genre:

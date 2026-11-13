@@ -7,7 +7,7 @@ figureId: "003"
 maker: "海洋堂"
 sculptor: "海野彼方"
 executiveProducer: "-"
-species: "シークレット：南部鉄器（カラー）"
+species: "シークレット：南部鉄器"
 speciesGroup: "-"
 themes:
   - "金工"

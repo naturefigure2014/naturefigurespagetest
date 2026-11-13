@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/wakeatte
 figureId: "006"
-species: "メガテリウム（特別展限定カラー）"
+species: "メガテリウム"
 speciesGroup: "その他/未分類"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

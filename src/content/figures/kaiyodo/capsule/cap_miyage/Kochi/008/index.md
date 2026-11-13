@@ -7,7 +7,7 @@ figureId: "008"
 maker: "海洋堂"
 sculptor: "香川雅彦"
 executiveProducer: "-"
-species: "カツオにゃんこ（通常カラー）"
+species: "カツオにゃんこ"
 speciesGroup: "-"
 themes:
   - "ゆるキャラ"

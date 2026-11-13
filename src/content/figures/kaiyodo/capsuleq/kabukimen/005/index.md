@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/kabukimen
 figureId: "005"
-species: "助六（すけろく）"
+species: "助六"
 speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "kabuki001.jpg"

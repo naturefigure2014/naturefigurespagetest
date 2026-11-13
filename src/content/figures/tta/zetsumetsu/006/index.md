@@ -6,7 +6,7 @@ titleId: tta/zetsumetsu
 figureId: "006"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "オレンジヒキガエル(メス)"
+species: "オレンジヒキガエル"
 price: "200円"
 releaseStart: "2016.11"
 genre:

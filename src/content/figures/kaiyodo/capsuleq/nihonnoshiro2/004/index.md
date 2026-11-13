@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/nihonnoshiro2
 figureId: "004"
-species: "本丸（姫路城）"
+species: "本丸"
 speciesGroup: "その他/未分類"
 maker: "海洋堂"
 sculptor: "マツオカステン"

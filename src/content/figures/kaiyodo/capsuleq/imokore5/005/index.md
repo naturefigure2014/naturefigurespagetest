@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/imokore5
 figureId: "005"
-species: "オオゴマダラ金色の蛹（さなぎ）"
+species: "オオゴマダラ金色の蛹"
 speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"

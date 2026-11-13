@@ -7,7 +7,7 @@ figureId: "002"
 maker: "海洋堂"
 sculptor: "OZAWA"
 executiveProducer: "-"
-species: "真田幸村（戦国BASARA）"
+species: "真田幸村"
 speciesGroup: "-"
 themes:
   - "日本の偉人"

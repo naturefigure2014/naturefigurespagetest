@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/kabukimen
 figureId: "003"
-species: "鏡獅子（かがみじし）"
+species: "鏡獅子"
 speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "kabuki007.jpg"

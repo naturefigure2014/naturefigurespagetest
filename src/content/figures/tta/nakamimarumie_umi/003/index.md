@@ -6,7 +6,7 @@ titleId: tta/nakamimarumie_umi
 figureId: "003"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "鮭（さけ）"
+species: "鮭"
 price: "300円 公式サイト： コチラ"
 releaseStart: "2021.03"
 genre:

@@ -6,7 +6,7 @@ titleId: yujin/konntyu1_kai
 figureId: "004"
 maker: "ユージン"
 sculptor: "KOW"
-species: "△オニヤンマ(雄)"
+species: "△オニヤンマ"
 price: "200円"
 releaseStart: "2006.07"
 genre:

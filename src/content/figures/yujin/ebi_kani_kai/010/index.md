@@ -6,7 +6,7 @@ titleId: yujin/ebi_kani_kai
 figureId: "010"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "アメリカザリガニ(白)"
+species: "アメリカザリガニ"
 price: "3００円"
 releaseStart: "2009.12"
 genre:

@@ -6,7 +6,7 @@ titleId: yujin/jintaikaibo2
 figureId: "010"
 maker: "ユージン"
 sculptor: "-"
-species: "解説書（原色完全版）"
+species: "解説書"
 price: "200円 製作協力：株式会社京都科学、株式会社ニッシン"
 releaseStart: "2005.12"
 genre:

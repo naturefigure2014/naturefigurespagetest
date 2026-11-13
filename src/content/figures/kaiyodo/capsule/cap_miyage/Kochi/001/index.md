@@ -7,7 +7,7 @@ figureId: "001"
 maker: "海洋堂"
 sculptor: "香川雅彦"
 executiveProducer: "-"
-species: "坂本龍馬像（通常カラー）"
+species: "坂本龍馬像"
 speciesGroup: "-"
 themes:
   - "日本の偉人"

@@ -7,7 +7,7 @@ figureId: "009"
 maker: "海洋堂"
 sculptor: "やすらひろちか"
 executiveProducer: "-"
-species: "慈照寺 銀閣（観音殿）"
+species: "慈照寺 銀閣"
 speciesGroup: "-"
 themes:
   - "寺社仏閣"

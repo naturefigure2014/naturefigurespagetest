@@ -7,7 +7,7 @@ figureId: "005"
 maker: "海洋堂"
 sculptor: "榎木ともひで"
 executiveProducer: "-"
-species: "キャラクター・ボーカル・シリーズ「初音ミク」 （with 雪ミク2013ver.）"
+species: "キャラクター・ボーカル・シリーズ「初音ミク」"
 speciesGroup: "-"
 themes:
   - "ポップカルチャー"

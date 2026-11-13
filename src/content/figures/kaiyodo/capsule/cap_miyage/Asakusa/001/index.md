@@ -7,7 +7,7 @@ figureId: "001"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "雷門(風雷神門)"
+species: "雷門"
 speciesGroup: "-"
 themes:
   - "寺社仏閣"

@@ -7,7 +7,7 @@ figureId: "001"
 maker: "海洋堂"
 sculptor: "香川雅彦"
 executiveProducer: "-"
-species: "山笠（舁き手）"
+species: "山笠"
 speciesGroup: "-"
 themes:
   - "祭り"

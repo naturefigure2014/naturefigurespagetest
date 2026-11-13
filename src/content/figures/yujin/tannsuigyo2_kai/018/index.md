@@ -6,7 +6,7 @@ titleId: yujin/tannsuigyo2_kai
 figureId: "018"
 maker: "ユージン"
 sculptor: "KOW"
-species: "サケ(仔魚)"
+species: "サケ"
 price: "100円"
 releaseStart: "2005.10"
 genre:

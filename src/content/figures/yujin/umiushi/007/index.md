@@ -6,7 +6,7 @@ titleId: yujin/umiushi
 figureId: "007"
 maker: "ユージン"
 sculptor: "-"
-species: "ミズタマウミウシ（橙）"
+species: "ミズタマウミウシ"
 price: "200円"
 releaseStart: "2009.03"
 genre:

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/imokore5
 figureId: "001"
-species: "アゲハ（ナミアゲハ）"
+species: "アゲハ"
 speciesGroup: "チョウ・ガ類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"

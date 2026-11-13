@@ -6,7 +6,7 @@ titleId: yujin/konntyu1_kai
 figureId: "010"
 maker: "ユージン"
 sculptor: "KOW"
-species: "ニイニイゼミ(赤色型)"
+species: "ニイニイゼミ"
 price: "200円"
 releaseStart: "2006.07"
 genre:

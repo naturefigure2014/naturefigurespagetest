@@ -7,7 +7,7 @@ figureId: "007"
 maker: "海洋堂"
 sculptor: "KATAYAMA×REN"
 executiveProducer: "-"
-species: "GLAY TERU(Vo)"
+species: "GLAY TERU"
 speciesGroup: "-"
 themes:
   - "ポップカルチャー"

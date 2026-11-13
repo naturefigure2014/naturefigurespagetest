@@ -6,7 +6,7 @@ titleId: tta/dokugumo
 figureId: "005"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "タランチュラ（タランチュラコモリグモ）"
+species: "タランチュラ"
 price: "200円"
 releaseStart: "2010.07"
 genre:

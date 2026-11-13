@@ -7,7 +7,7 @@ figureId: "007"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "伊豆栄うな重（竹）"
+species: "伊豆栄うな重"
 speciesGroup: "-"
 themes:
   - "郷土料理"

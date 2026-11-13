@@ -6,7 +6,7 @@ titleId: yujin/konntyu4
 figureId: "007"
 maker: "ユージン"
 sculptor: "木村和未"
-species: "オオゴマダラ(さなぎ)"
+species: "オオゴマダラ"
 price: "200円"
 releaseStart: "2007.08"
 genre:

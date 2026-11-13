@@ -7,7 +7,7 @@ figureId: "008"
 maker: "海洋堂"
 sculptor: "平野英之"
 executiveProducer: "-"
-species: "鹿苑寺 金閣（舎利殿）"
+species: "鹿苑寺 金閣"
 speciesGroup: "-"
 themes:
   - "寺社仏閣"

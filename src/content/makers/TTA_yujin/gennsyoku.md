@@ -51,6 +51,35 @@ seriesSections:
       - yujin/tikyudaishinnka
       - yujin/tobasui
       - yujin/umiushi
+      - tta/amazon
+      - tta/Chokyodaiika
+      - tta/deep_sea_creatures
+      - tta/dokugumo
+      - tta/gairai
+      - tta/genn_gitai
+      - tta/genn_kaiseihonyurui
+      - tta/genn_kumamushi
+      - tta/genn_kyoryu
+      - tta/genn_kyoryu_2012
+      - tta/genn_nihonnotonbo
+      - tta/genn_tako_ika
+      - tta/JWFKdskfig
+      - tta/JWFKstdfig
+      - tta/katatsumuri_namekuji
+      - tta/konnchugannmenn
+      - tta/kurobedamu
+      - tta/mannmaubigdino
+      - tta/mizubenonakama
+      - tta/nakamimarumie
+      - tta/nakamimarumie_hone
+      - tta/nakamimarumie_umi
+      - tta/nannkyokuhokkyoku
+      - tta/same
+      - tta/sasori
+      - tta/shinnkaigyo1
+      - tta/shinnkaigyo2
+      - tta/zetsumetsu
+      
 
 
 ---

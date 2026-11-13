@@ -6,7 +6,7 @@ titleId: yujin/konntyu1_kai
 figureId: "017"
 maker: "ユージン"
 sculptor: "KOW"
-species: "マイマイカブリ(カタツムリ捕食)"
+species: "マイマイカブリ"
 price: "200円"
 releaseStart: "2006.07"
 genre:

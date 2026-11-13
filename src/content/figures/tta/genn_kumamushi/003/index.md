@@ -6,7 +6,7 @@ titleId: tta/genn_kumamushi
 figureId: "003"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "クマムシ（透明茶褐色・通常版）"
+species: "クマムシ"
 price: "400円"
 releaseStart: "2023.05"
 genre:

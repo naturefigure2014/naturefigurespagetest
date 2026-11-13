@@ -6,7 +6,7 @@ titleId: kaiyodo/capsuleq/egypt
 figureId: "001"
 themes:
   - "石像"
-species: "トトメス三世像（頭部）"
+species: "トトメス三世像"
 speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: "egypt018.jpg"

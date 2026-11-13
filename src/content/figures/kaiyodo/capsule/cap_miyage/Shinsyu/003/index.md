@@ -7,7 +7,7 @@ figureId: "003"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "戸隠そばと七味唐からし（ノーマルカラー）"
+species: "戸隠そばと七味唐からし"
 speciesGroup: "-"
 themes:
   - "郷土料理"
