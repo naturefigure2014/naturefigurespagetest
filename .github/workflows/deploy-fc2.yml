@@ -15,6 +15,10 @@ on:
         description: "Upload and verify small files using active and passive FTP"
         type: boolean
         default: false
+      action_upload_test:
+        description: "Test a small upload using the production FTP action"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -25,7 +29,7 @@ concurrency:
 
 jobs:
   connection-check:
-    if: ${{ inputs.connection_test_only && !inputs.active_upload_test }}
+    if: ${{ inputs.connection_test_only && !inputs.active_upload_test && !inputs.action_upload_test }}
     runs-on: ubuntu-latest
     steps:
       - name: Test FTP directory listing
@@ -50,7 +54,7 @@ jobs:
           exit "$status"
 
   active-upload-check:
-    if: inputs.active_upload_test
+    if: ${{ inputs.active_upload_test && !inputs.action_upload_test }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -79,7 +83,7 @@ jobs:
           echo "Active FTP upload and verification succeeded: test/$filename"
 
   passive-upload-check:
-    if: inputs.active_upload_test
+    if: ${{ inputs.active_upload_test && !inputs.action_upload_test }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -107,8 +111,35 @@ jobs:
           cmp "$RUNNER_TEMP/ftp-test.txt" "$RUNNER_TEMP/ftp-test-download.txt"
           echo "Passive FTP upload and verification succeeded: test/$filename"
 
+  action-upload-check:
+    if: inputs.action_upload_test
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Prepare test file
+        run: |
+          mkdir -p ftp-action-test/_astro
+          printf 'GitHub Actions FTP action test: %s\n' "$GITHUB_RUN_ID" > ftp-action-test/_astro/check.txt
+      - name: Upload using production FTP action
+        uses: SamKirkland/FTP-Deploy-Action@a51268f67f6605236975928ae28b0f7e9971d50a # v4.3.6
+        with:
+          server: ${{ secrets.FC2_FTP_SERVER }}
+          username: ${{ secrets.FC2_FTP_USERNAME }}
+          password: ${{ secrets.FC2_FTP_PASSWORD }}
+          protocol: ftp
+          local-dir: ./ftp-action-test/
+          server-dir: ./test/ftp-action-diagnostic-${{ github.run_id }}-${{ github.run_attempt }}/
+          dry-run: false
+          log-level: verbose
+      - name: Verify test file over HTTP
+        run: |
+          curl --silent --show-error --fail --max-time 30 \
+            "https://ninjaaquarium.web.fc2.com/test/ftp-action-diagnostic-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}/_astro/check.txt" \
+            --output "$RUNNER_TEMP/ftp-action-check.txt"
+          cmp ftp-action-test/_astro/check.txt "$RUNNER_TEMP/ftp-action-check.txt"
+
   deploy:
-    if: ${{ !inputs.connection_test_only && !inputs.active_upload_test }}
+    if: ${{ !inputs.connection_test_only && !inputs.active_upload_test && !inputs.action_upload_test }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
