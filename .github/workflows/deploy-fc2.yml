@@ -187,33 +187,35 @@ jobs:
             exit 1
           }
           status=0
-          for mode in control-ip server-ip; do
-            filename="github-pasv-${mode}-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}.txt"
-            printf 'PASV address test %s %s\n' "$mode" "$GITHUB_RUN_ID" > "$RUNNER_TEMP/ftp-pasv-test.txt"
+          for endpoint in 104.244.99.48 104.244.99.135; do
+           for mode in control-ip server-ip; do
+            filename="github-pasv-${endpoint}-${mode}-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}.txt"
+            printf 'PASV address test %s %s %s\n' "$endpoint" "$mode" "$GITHUB_RUN_ID" > "$RUNNER_TEMP/ftp-pasv-test.txt"
             url="ftp://$FTP_SERVER/test/$filename"
             if [ "$mode" = control-ip ]; then
               address_option=--ftp-skip-pasv-ip
             else
               address_option=--no-ftp-skip-pasv-ip
             fi
-            echo "Testing $mode..."
+            echo "Testing $endpoint with $mode..."
             if curl --silent --show-error --fail --connect-timeout 15 --max-time 45 \
-              --disable-epsv "$address_option" --user "$FTP_USERNAME:$FTP_PASSWORD" \
+              --resolve "${FTP_SERVER}:21:${endpoint}" --disable-epsv "$address_option" --user "$FTP_USERNAME:$FTP_PASSWORD" \
               --upload-file "$RUNNER_TEMP/ftp-pasv-test.txt" "$url" \
               --write-out 'Control connection IP: %{remote_ip}\n'; then
               if curl --silent --show-error --fail --connect-timeout 15 --max-time 45 \
-                --disable-epsv "$address_option" --user "$FTP_USERNAME:$FTP_PASSWORD" \
+                --resolve "${FTP_SERVER}:21:${endpoint}" --disable-epsv "$address_option" --user "$FTP_USERNAME:$FTP_PASSWORD" \
                 "$url" --output "$RUNNER_TEMP/ftp-pasv-readback.txt" &&
                 cmp "$RUNNER_TEMP/ftp-pasv-test.txt" "$RUNNER_TEMP/ftp-pasv-readback.txt"; then
-                echo "$mode upload and readback succeeded: test/$filename"
+                echo "$endpoint $mode upload and readback succeeded: test/$filename"
               else
-                echo "::error::$mode readback failed."
+                echo "::error::$endpoint $mode readback failed."
                 status=1
               fi
             else
-              echo "::error::$mode upload failed."
+              echo "::error::$endpoint $mode upload failed."
               status=1
             fi
+           done
           done
           exit "$status"
 
