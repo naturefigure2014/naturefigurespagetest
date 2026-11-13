@@ -3,7 +3,7 @@ import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import FigureCardGrid from "../../components/FigureCardGrid.astro";
 import { getCollection } from "astro:content";
-import { getSpeciesEntries } from "../../lib/species";
+import { getSpeciesEntries, UNCLASSIFIED_GROUP } from "../../lib/species";
 import { siteUrl } from "../../lib/site-url";
 /*
 export async function getStaticPaths() {
@@ -39,7 +39,9 @@ export async function getStaticPaths() {
     ...new Set(
       allEntries
         .filter((item) => item.data.contentType !== "title")
-        .flatMap((item) => getSpeciesEntries(item.data).map((entry) => entry.species))
+        .flatMap((item) => getSpeciesEntries(item.data)
+          .filter((entry) => entry.speciesGroup !== UNCLASSIFIED_GROUP)
+          .map((entry) => entry.species))
     )
   ];
 
