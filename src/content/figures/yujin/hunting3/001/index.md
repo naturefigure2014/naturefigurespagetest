@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/hunting3
 figureId: "001"
-maker: "タカラトミーアーツ 公式サイト： ハンティングトロフィーⅢ 、 アニマルヘッドコレクション"
+maker: "ユージン"
 sculptor: "-"
 species: "ライオン"
 price: "300円"

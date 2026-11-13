@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/tannsuigyo2_kai
 figureId: "016"
-maker: "YUJIN"
+maker: "ユージン"
 sculptor: "KOW"
 species: "ヌマガレイ"
 price: "100円"

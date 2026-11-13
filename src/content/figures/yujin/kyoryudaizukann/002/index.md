@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kyoryudaizukann
 figureId: "002"
-maker: "タカラトミー"
+maker: "ユージン"
 sculptor: "-"
 species: "アカンソステガB"
 price: "200円 公式サイト： コチラ"

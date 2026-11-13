@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kaeru_kai
 figureId: "004"
-maker: "ユージン 公式サイト： コチラ"
+maker: "ユージン"
 sculptor: "KOW"
 species: "ニホンアカガエル"
 price: "200円"

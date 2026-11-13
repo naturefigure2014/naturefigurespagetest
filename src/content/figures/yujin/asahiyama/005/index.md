@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/asahiyama
 figureId: "005"
-maker: "-"
+maker: "ユージン"
 sculptor: "KOW"
 species: "オラウータン(子：モモ)"
 price: "300円"

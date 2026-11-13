@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kame_kai_sai
 figureId: "001"
-maker: "タカラトミー"
+maker: "ユージン"
 sculptor: "-"
 species: "ミドリガメ"
 price: "200円"

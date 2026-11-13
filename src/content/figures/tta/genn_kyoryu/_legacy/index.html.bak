@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>原色大恐竜図鑑</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>立体カプセル百科事典　原色大恐竜図鑑</h4>
+		<table style="width: 100%">
+			<tr>
+				<td style="width: 189px" valign="top">
+				<img height="256" src="img/kyoryu025.jpg" width="760" /></td>
+			</tr>
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2011年8月　価格：300円　発売元：タカラトミーアーツ　公式サイト：<a href="http://www.takaratomy-arts.co.jp/items/item.html?n=Y992117">コチラ</a><br />
+			監修：国立科学博物館　原型監修・解説文：真鍋　真(国立科学博物館)<br />
+			かつてユージンから発売された「<a href="../../yujin/kyoryudaizukann">恐竜大図鑑</a>」は当初「原色大恐竜図鑑」としてリリースされる予定でしたが、結局リリース時には原色図鑑シリーズからは外されました。<br />
+			そんなわけで本作では原色図鑑シリーズ初の恐竜シリーズ。<br />
+			すべてネームプレートと台座付き。何を持ってして「原色」としているのかは謎。<br />
+			<br />
+			■恐竜博<br />
+			本作は2011年7月に科博で開催された「恐竜博2011」で先行販売され、限定品としてアンキオルニスが混入していました。<br />
+			また、翌年に幕張で開催された「恐竜王国2012」では「<a href="../genn_kyoryu_2012">原色恐竜大図鑑</a>」（「大」の場所が違う）が限定発売されました。<br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/kyoryu007_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/kyoryu008_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/kyoryu019_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/kyoryu004_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/kyoryu002_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td>
+			<a href="#6">
+<img src="img/kyoryu021_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/kyoryu011_small.jpg" width="146" /></a></td><td>
+			&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">ティラノサウルス</th></tr>
+			<tr><td><a href="img/kyoryu007.jpg">
+<img height="283" src="img/kyoryu007_small.jpg" width="378" /></a><a href="img/kyoryu001.jpg"><img height="283" src="img/kyoryu001_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				羽毛を部分的に生やした復元。<br />
+				カプセルフィギュアとしては当時最速だったんじゃないでしょうか?<br />
+				がっしりした体つきから重量感が伝わってきます。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">ティラノサウルス(骨格座りポーズ)</th></tr>
+			<tr><td><a href="img/kyoryu008.jpg">
+				<img height="283" src="img/kyoryu008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu008.jpg" --></a><a href="img/kyoryu009.jpg"><img height="283" src="img/kyoryu009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu009.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyoryu010.jpg">
+				<img height="283" src="img/kyoryu010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu010.jpg" --></a></td></tr>
+			<tr><td class="comment">いまや科博の目玉展示の一つでもある、しゃがんだティラノ、「バッキー」。<br />
+				もともとは「恐竜博2011」で初お披露目され、そのまま常設展示になりました。<br />
+				<br />
+				そんなわけでこのティラノは恐竜博に合わせてラインナップされたと言って良いでしょう。<br />
+				口も開閉します。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">トリケラトプス</th></tr>
+			<tr><td><a href="img/kyoryu017.jpg">
+				<img height="283" src="img/kyoryu017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu017.jpg" --></a><a href="img/kyoryu020.jpg"><img height="283" src="img/kyoryu020_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu020.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyoryu018.jpg">
+				<img height="283" src="img/kyoryu018_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu018.jpg" --></a><a href="img/kyoryu019.jpg"><img height="283" src="img/kyoryu019_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu019.jpg" --></a></td></tr>
+			<tr><td class="comment">咆哮ポーズ。<br />
+				ツノの質感がいいですね。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">ステゴサウルス</th></tr>
+			<tr><td><a href="img/kyoryu004.jpg">
+<img height="283" src="img/kyoryu004_small.jpg" width="378" /></a><a href="img/kyoryu005.jpg"><img height="283" src="img/kyoryu005_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">のどを守るための細かい骨の鎧も表現されています。<br />
+				塗装は「ザ・ステゴサウルス」な塗装。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">アロサウルス</th></tr>
+			<tr><td><a href="img/kyoryu002.jpg">
+<img height="283" src="img/kyoryu002_small.jpg" width="378" /></a><a href="img/kyoryu003.jpg"><img height="283" src="img/kyoryu003_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">
+				アロサウルスの特徴である目の上の突起が赤く塗装されて強調されています。<br />
+				ティラノサウルスとは対照的にスマートな体のつくり。<br />
+				羽毛が生えていた可能性があるが、今回はあえてウロコ復元をしたとのこと。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">スピノサウルス＆マウソニア</th></tr>
+			<tr><td><a href="img/kyoryu021.jpg">
+				<img height="283" src="img/kyoryu021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu021.jpg" --></a><a href="img/kyoryu022.jpg"><img height="283" src="img/kyoryu022_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu022.jpg" --></a></td></tr>
+			<tr><td class="comment">スピノサウルスは捕食シーンでラインナップ。
+			<br />
+			ご存じの通り、スピノサウルスの復元はこの後に見直されることとなります。</td></tr>
+			<tr><td><a href="img/kyoryu023.jpg">
+				<img height="283" src="img/kyoryu023_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu023.jpg" --></a><a href="img/kyoryu024.jpg"><img height="283" src="img/kyoryu024_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu024.jpg" --></a></td></tr>
+			<tr><td class="comment">咥えているのはシーラカンス類のマウソニア。<br />
+				フィギュア化されることは少ないので、なかなか貴重。<br />
+				<br />
+				スピノサウルスとの対比で分かるとおり、最大3.8メートルに達する大きなシーラカンス。
+			</td></tr>
+			<!--
+			-->
+			<tr><th id="7"><span class="font_blue">ティラノサウルス(骨格座りポーズ)茶色</span></th></tr>
+			<tr><td><a href="img/kyoryu011.jpg">
+				<img height="283" src="img/kyoryu011_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu011.jpg" --></a><a href="img/kyoryu012.jpg"><img height="283" src="img/kyoryu012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu012.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyoryu013.jpg">
+				<img height="283" src="img/kyoryu013_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu013.jpg" --></a><a href="img/kyoryu014.jpg"><img height="283" src="img/kyoryu014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu014.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyoryu015.jpg">
+				<img height="283" src="img/kyoryu015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/genn_kyoryu/img/kyoryu015.jpg" --></a></td></tr>
+			<tr><td class="comment">シークレットは化石カラー。<br />
+				<br />
+				現在は科博で常設展示されているバッキー、やはりコチラの色のほうがおなじみ。</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">アンキオルニス</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">未入手<br />
+				<br />
+				※恐竜博2011限定</td></tr>
+			<!--
+			-->
+			<tr><th id="9">解説書</th></tr>
+			<tr><td>
+<img height="188" src="img/kyoryubook.jpg" width="756" /></td></tr>
+			<tr><td>
+				<img height="193" src="img/kyoryubook2.jpg" width="760" /></td></tr>
+			<tr><td class="comment">恐竜博版はアンキオルニスもいます。</td></tr>
+			<!--
+			-->			
+			<tr><th id="10">ラインナップ</th></tr>
+			<tr><td class="comment">ティラノサウルス<br />
+				ティラノサウルス(骨格座りポーズ)<br />
+				トリケラトプス<br />
+				ステゴサウルス<br />
+				アロサウルス<br />
+				スピノサウルス＆マウソニア<br />
+				ティラノサウルス(骨格座りポーズ)茶色<br />
+				アンキオルニス（恐竜博2011限定）</td></tr>
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+						
+			</table>
+		
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

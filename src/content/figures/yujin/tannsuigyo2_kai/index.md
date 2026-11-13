@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/tannsuigyo2_kai
 kind: series
-maker: "YUJIN"
+maker: "ユージン"
 figureIds:
   - yujin/tannsuigyo2_kai/001
   - yujin/tannsuigyo2_kai/002

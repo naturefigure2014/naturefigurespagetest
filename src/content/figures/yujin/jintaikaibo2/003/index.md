@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/jintaikaibo2
 figureId: "003"
-maker: "-"
+maker: "ユージン"
 sculptor: "鈴木貴雄"
 species: "目の構造模型（特大型）"
 price: "200円 製作協力：株式会社京都科学、株式会社ニッシン"

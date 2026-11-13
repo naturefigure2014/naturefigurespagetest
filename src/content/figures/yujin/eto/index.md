@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/eto
 kind: series
-maker: "-"
+maker: "ユージン"
 figureIds:
   - yujin/eto/001
   - yujin/eto/002

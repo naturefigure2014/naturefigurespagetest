@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/tannsuigyo1_kai
 figureId: "002"
-maker: "YUJIN"
+maker: "ユージン"
 sculptor: "KOW"
 species: "ニッコウイワナ"
 price: "100円"

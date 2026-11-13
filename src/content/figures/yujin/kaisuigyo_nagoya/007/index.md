@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kaisuigyo_nagoya
 figureId: "007"
-maker: "-"
+maker: "ユージン"
 sculptor: "KOW"
 species: ""
 price: "100円"

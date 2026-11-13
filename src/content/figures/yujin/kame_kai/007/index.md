@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kame_kai
 figureId: "007"
-maker: "YUJIN"
+maker: "ユージン"
 sculptor: "KOW"
 species: "ヒラリーカエルガメ"
 price: "100円"

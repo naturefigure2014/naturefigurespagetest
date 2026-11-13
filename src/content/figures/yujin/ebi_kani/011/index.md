@@ -6,7 +6,7 @@ titleId: yujin/ebi_kani
 figureId: "011"
 maker: "ユージン"
 sculptor: "-"
-species: "アメリカザリガニ(脱皮直後)"
+species: "アメリカザリガニ"
 price: "２００円"
 releaseStart: "2005.09"
 genre:

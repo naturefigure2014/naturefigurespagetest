@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/jintaikaibo2
 figureId: "004"
-maker: "-"
+maker: "ユージン"
 sculptor: "小野哲也"
 species: "胃模型"
 price: "200円 製作協力：株式会社京都科学、株式会社ニッシン"

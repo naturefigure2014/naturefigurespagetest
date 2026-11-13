@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kannshogyo_kai
 figureId: "009"
-maker: "タカラトミー"
+maker: "ユージン"
 sculptor: "KOW 公式サイト： コチラ"
 species: ""
 price: "-"

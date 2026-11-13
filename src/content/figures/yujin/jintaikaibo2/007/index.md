@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/jintaikaibo2
 figureId: "007"
-maker: "-"
+maker: "ユージン"
 sculptor: "松石 翠"
 species: "歯列発育順模型"
 price: "200円 製作協力：株式会社京都科学、株式会社ニッシン"

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kaisuigyo_nagoya
 figureId: "008"
-maker: "-"
+maker: "ユージン"
 sculptor: "KOW"
 species: "08 シロギス"
 price: "100円"

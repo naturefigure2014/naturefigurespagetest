@@ -85,6 +85,11 @@ def quoted(value: str) -> str:
     return json.dumps(value, ensure_ascii=False)
 
 
+def normalize_species(value: str) -> str:
+    value = re.sub(r"\([^()]*\)|（[^（）]*）", "", value)
+    return normalize_text(value)
+
+
 def image_path(src: str) -> str:
     src = src.split("?", 1)[0].replace("\\", "/")
     return src.lstrip("./")
@@ -349,7 +354,7 @@ def append_metadata(
             if not value and field not in empty_fields:
                 value = "-"
             if field == "species":
-                value = value.replace("/", "・")
+                value = normalize_species(value).replace("/", "・")
             lines.append(yaml_field(field, value))
 
 
@@ -799,7 +804,7 @@ def item_key(item: dict) -> str:
 
 
 def register_species(species: str, species_file: Path) -> bool:
-    species = species.replace("/", "・")
+    species = normalize_species(species).replace("/", "・")
     if not species or species == "-":
         return False
 

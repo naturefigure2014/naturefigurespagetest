@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/kaeru_kai
 kind: series
-maker: "ユージン 公式サイト： コチラ"
+maker: "ユージン"
 figureIds:
   - yujin/kaeru_kai/001
   - yujin/kaeru_kai/002

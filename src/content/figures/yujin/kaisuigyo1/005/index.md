@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kaisuigyo1
 figureId: "005"
-maker: "ユージン 監修：豊平両生爬虫類研究所"
+maker: "ユージン"
 sculptor: "-"
 species: "キイロハギ"
 price: "100円"

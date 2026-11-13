@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kaisuigyo_nagoya
 figureId: "013"
-maker: "-"
+maker: "ユージン"
 sculptor: "KOW"
 species: "13 マダイ"
 price: "100円"

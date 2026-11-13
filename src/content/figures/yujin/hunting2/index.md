@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/hunting2
 kind: series
-maker: "タカラトミーアーツ 公式サイト： コチラ"
+maker: "ユージン"
 figureIds:
   - yujin/hunting2/001
   - yujin/hunting2/002

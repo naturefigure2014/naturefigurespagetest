@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/tannsuigyo1
 figureId: "015"
-maker: "YUJIN"
+maker: "ユージン"
 sculptor: "KOW"
 species: "アジアアロワナ"
 price: "100円"

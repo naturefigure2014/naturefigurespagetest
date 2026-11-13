@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/konntyu1_kai
 figureId: "010"
-maker: "ユージン 監修：豊平両生爬虫類研究所 企画総指揮：佐藤純也"
+maker: "ユージン"
 sculptor: "KOW"
 species: "ニイニイゼミ(赤色型)"
 price: "200円"

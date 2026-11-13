@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/konntyu3
 figureId: "007"
-maker: "-"
+maker: "ユージン"
 sculptor: "木村和未"
 species: "オニヤンマ(ヤゴ)"
 price: "200円"

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/jintaikaibo1
 figureId: "006"
-maker: "-"
+maker: "ユージン"
 sculptor: "-"
 species: "耳の構造模型"
 price: "200円 製作協力：株式会社京都科学"

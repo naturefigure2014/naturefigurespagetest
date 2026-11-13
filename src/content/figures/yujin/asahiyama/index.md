@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/asahiyama
 kind: series
-maker: "-"
+maker: "ユージン"
 figureIds:
   - yujin/asahiyama/001
   - yujin/asahiyama/002

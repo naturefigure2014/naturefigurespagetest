@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/kannshogyo_kai
 kind: series
-maker: "タカラトミー"
+maker: "ユージン"
 figureIds:
   - yujin/kannshogyo_kai/001
   - yujin/kannshogyo_kai/002

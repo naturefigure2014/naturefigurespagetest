@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/asahiyama
 figureId: "002"
-maker: "-"
+maker: "ユージン"
 sculptor: "KOW"
 species: "ゴマフアザラシ"
 price: "300円"

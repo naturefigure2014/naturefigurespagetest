@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/eto
 figureId: "002"
-maker: "-"
+maker: "ユージン"
 sculptor: "-"
 species: "牛（黒毛和種）"
 price: "百園 監修：奥山秀輝 協力：宮島町立宮島水族館"

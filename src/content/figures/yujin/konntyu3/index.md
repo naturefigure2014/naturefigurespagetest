@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/konntyu3
 kind: series
-maker: "-"
+maker: "ユージン"
 figureIds:
   - yujin/konntyu3/001
   - yujin/konntyu3/002

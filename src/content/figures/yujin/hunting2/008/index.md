@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/hunting2
 figureId: "008"
-maker: "タカラトミーアーツ 公式サイト： コチラ"
+maker: "ユージン"
 sculptor: "EXPO"
 species: "オリックス(頭骨)"
 price: "300円"

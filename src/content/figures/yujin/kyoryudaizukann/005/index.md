@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kyoryudaizukann
 figureId: "005"
-maker: "タカラトミー"
+maker: "ユージン"
 sculptor: "-"
 species: "プテラノドンC"
 price: "200円 公式サイト： コチラ"

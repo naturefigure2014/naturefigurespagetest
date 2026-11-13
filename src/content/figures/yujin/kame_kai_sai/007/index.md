@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kame_kai_sai
 figureId: "007"
-maker: "タカラトミー"
+maker: "ユージン"
 sculptor: "-"
 species: "ヒラリーカエルガメ"
 price: "200円"

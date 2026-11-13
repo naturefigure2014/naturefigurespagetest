@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/jintaikaibo3
 figureId: "004"
-maker: "-"
+maker: "ユージン"
 sculptor: "？？？"
 species: "腸解剖模型"
 price: "300円 製作協力：株式会社京都科学"

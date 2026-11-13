@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/konntyu4
 figureId: "004"
-maker: "タカラトミー"
+maker: "ユージン"
 sculptor: "木村和未"
 species: "モンキアゲハ"
 price: "200円"

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/asahiyama
 figureId: "001"
-maker: "-"
+maker: "ユージン"
 sculptor: "KOW"
 species: "ホッキョクグマ"
 price: "300円"

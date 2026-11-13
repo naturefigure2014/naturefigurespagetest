@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kaisuigyo_nagoya
 figureId: "012"
-maker: "-"
+maker: "ユージン"
 sculptor: "KOW"
 species: "12 ブリ"
 price: "100円"

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/jintaikaibo1
 figureId: "011"
-maker: "-"
+maker: "ユージン"
 sculptor: "-"
 species: "解説書（原色完全版）"
 price: "200円 製作協力：株式会社京都科学"

@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/kaisuigyo1
 kind: series
-maker: "ユージン 監修：豊平両生爬虫類研究所"
+maker: "ユージン"
 figureIds:
   - yujin/kaisuigyo1/001
   - yujin/kaisuigyo1/002

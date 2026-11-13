@@ -1,0 +1,226 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>絶滅動物</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>タカラトミーアーツ<br />
+		不思議生物大百科　悠久の喪失者　絶滅動物</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="283" src="img/zetsumetsu017.jpg" width="760" /></td>
+			</tr>
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2016年11月　価格：200円　発売元：タカラトミーアーツ<br />
+			「不思議生物大百科」シリーズ、一年ぶりの新作。<br />
+			今回は「絶滅動物」をテーマにしたラインナップで、相変わらず200円で展開。台座には生息した地域や絶滅が確認された年が印刷されています。<br />
+			このご時勢でこの価格で販売できるのはやはり大企業だからなのでしょうか。これからも末永く続いて欲しいシリーズです。<br />
+			<br />
+			と、本ページを最初に作成した時には思っていましたが、案の定「不思議生物大百科」シリーズ最後の弾となりました。<br />
+			この後、タカラトミーアーツのネイチャーフィギュアは可動フィギュアの「あそべる生物フィギュアシリーズ」へと移行していきます。<br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/zetsumetsu005_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/zetsumetsu007_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/zetsumetsu009_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/zetsumetsu010_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/zetsumetsu002_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/zetsumetsu013_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td><td>&nbsp;</td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+		
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">ドードー</th></tr>
+			<tr><td><a href="img/zetsumetsu005.jpg">
+<img height="283" src="img/zetsumetsu005_small.jpg" width="378" /></a><a href="img/zetsumetsu006.jpg"><img height="283" src="img/zetsumetsu006_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">生息地：モーリシャス島(マダガスカル沖)　絶滅：1681年<br />
+<br />
+シチメンチョウよりも大きいがダチョウよりずっと小さい、飛ぶことの出来ない鳥。人間による捕食や人間が持ち込んだ天敵により絶滅。本物の剥製も残っておらず、断片的なものしか見ることが出来ない。<br />
+<br />
+200円ながら良くできています。骨格は海洋堂の<a href="../../kaiyodo_syokugann/reddataanimals">ﾚｯﾄﾞﾃﾞｰﾀｱﾆﾏﾙｽﾞ</a>にラインナップされましたが、生体は本サイト初。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">フクロオオカミ</th></tr>
+			<tr><td><a href="img/zetsumetsu007.jpg">
+<img height="283" src="img/zetsumetsu007_small.jpg" width="378" /></a><a href="img/zetsumetsu008.jpg"><img height="283" src="img/zetsumetsu008_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">生息地：タスマニア島(オーストラリア)　絶滅：1936年<br />
+<br />
+名前のとおり有袋類でありながら、オオカミのような特徴を持つが、遺伝的に近縁ではない。大陸から独立したオーストラリア大陸の哺乳類には元々有袋類しかおらず、そのうちのある種が鋭い歯や強靭な顎を獲得した。一方、オーストラリア大陸以外でも別の哺乳類の種が同じように進化した。このように遺伝的につながりは無くとも似通った姿に進化することを収斂(しゅうれん)進化といい、フクロオオカミは代表例。<br />
+大航海時代にヨーロッパからの移民たちは害獣として虐殺し、絶滅。<br />
+<br />
+顎が弱そう?と思いましたが、画像検索で同じような姿の写真がたくさん出てくるのでこれで合っているのでしょう。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">ステラーカイギュウ</th></tr>
+			<tr><td><a href="img/zetsumetsu009.jpg">
+<img height="283" src="img/zetsumetsu009_small.jpg" width="378" /></a><a href="img/zetsumetsu001.jpg"><img height="283" src="img/zetsumetsu001_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">生息地：ベーリング海　絶滅：1768年<br />
+<br />
+体長が7メートルを超えるジュゴンの仲間。1741年にロシア帝国の探検隊がアラスカ探検をした帰り、嵐に合い遭難。このときステラーカイギュウを食べることで生き延びた探検隊の生き残りの話は瞬く間に広まり、ハンターたちによって絶滅させられました。発見から30年と経たずに姿を消した、悲しい動物。<br />
+<br />
+ツルっとした他社のジュゴンのフィギュアに対し、こちらはダルっとした皮膚のシワがリアルです。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">トキ</th></tr>
+			<tr><td><a href="img/zetsumetsu010.jpg">
+				<img height="283" src="img/zetsumetsu010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/zetsumetsu/img/zetsumetsu010.jpg" --></a><a href="img/zetsumetsu011.jpg"><img height="283" src="img/zetsumetsu011_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/zetsumetsu/img/zetsumetsu011.jpg" --></a></td></tr>
+			<tr><td class="comment">生息地：中国・日本 絶滅：2003年（日本/野生絶滅）<br />
+				<br />
+				ご存知のとおり、日本の野生個体は2003年に絶滅判定されており、現在は新潟・佐渡島で再導入が進められています。</td></tr>
+			<tr><td><a href="img/zetsumetsu012.jpg">
+				<img height="283" src="img/zetsumetsu012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/zetsumetsu/img/zetsumetsu012.jpg" --></a></td></tr>
+			<tr><td class="comment">各社からトキフィギュアはリリースされていますが、珍しく抱卵ポーズ。<br />
+				薄暗い白い卵を塗装で表現しています。<br />
+				トキの腹も卵型に凹がありますね。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">オレンジヒキガエル(オス)</th></tr>
+			<tr><td><a href="img/zetsumetsu002.jpg">
+<img height="283" src="img/zetsumetsu002_small.jpg" width="378" /></a><a href="img/zetsumetsu003.jpg"><img height="283" src="img/zetsumetsu003_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">生息地：コスタリカ　絶滅：1989年<br />
+<br />
+標高1500メートルほどの限られた地域に生息していた美しいカエル。絶滅した原因ははっきりしていないが、干ばつや感染症が原因と考えられている。事実上絶滅状態だが、もしかしたら生存しているかもしれない。<br />
+<br />
+分割も無くよくできています。塗装はさっと簡単に終わらせてある感がありますが、このような個体もいたでしょう。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6"><span class="font_blue">オレンジヒキガエル(メス)</span></th></tr>
+			<tr><td><a href="img/zetsumetsu013.jpg">
+				<img height="283" src="img/zetsumetsu013_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/zetsumetsu/img/zetsumetsu013.jpg" --></a><a href="img/zetsumetsu014.jpg"><img height="283" src="img/zetsumetsu014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/zetsumetsu/img/zetsumetsu014.jpg" --></a></td></tr>
+			<tr><td><a href="img/zetsumetsu015.jpg">
+				<img height="283" src="img/zetsumetsu015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/tta/zetsumetsu/img/zetsumetsu015.jpg" --></a></td></tr>
+			<tr><td class="comment">シークレットは黄色いメス。<br />
+				</td></tr>
+			<!--
+			-->
+			<tr><th id="7">解説書</th></tr>
+			<tr><td><img height="105" src="img/zetsumetsubook.jpg" width="756" /></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">ディスプレイポップ</th></tr>
+			<tr><td><a href="img/zetsumetsuDP.jpg">
+<img height="283" src="img/zetsumetsuDP_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<tr><th id="9">ラインナップ</th></tr>
+			<tr><td class="comment">ドードー<br />
+				フクロオオカミ<br />
+				ステラーカイギュウ<br />
+				トキ<br />
+				オレンジヒキガエル(オス)<br />
+				オレンジヒキガエル(メス)</td></tr>
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->		
+			</table>
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

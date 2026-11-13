@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kyoryudaizukann
 figureId: "028"
-maker: "タカラトミー"
+maker: "ユージン"
 sculptor: "-"
 species: "ヘンケロテリウム＆プラティペロドン"
 price: "200円 公式サイト： コチラ"

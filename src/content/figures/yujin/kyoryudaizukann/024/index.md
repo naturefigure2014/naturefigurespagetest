@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kyoryudaizukann
 figureId: "024"
-maker: "タカラトミー"
+maker: "ユージン"
 sculptor: "-"
 species: "アパトサウルス"
 price: "200円 公式サイト： コチラ"

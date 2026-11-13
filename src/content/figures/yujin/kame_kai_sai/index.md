@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/kame_kai_sai
 kind: series
-maker: "タカラトミー"
+maker: "ユージン"
 figureIds:
   - yujin/kame_kai_sai/001
   - yujin/kame_kai_sai/002

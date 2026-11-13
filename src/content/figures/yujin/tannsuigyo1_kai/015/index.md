@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/tannsuigyo1_kai
 figureId: "015"
-maker: "YUJIN"
+maker: "ユージン"
 sculptor: "KOW"
 species: "サクラマス"
 price: "100円"

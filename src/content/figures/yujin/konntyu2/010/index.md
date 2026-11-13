@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/konntyu2
 figureId: "010"
-maker: "-"
+maker: "ユージン"
 sculptor: "木村和未"
 species: "ショウジョウトンボ"
 price: "200円"

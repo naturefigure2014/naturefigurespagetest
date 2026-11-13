@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/tannsuigyo1
 figureId: "003"
-maker: "YUJIN"
+maker: "ユージン"
 sculptor: "KOW"
 species: "ヤマメ"
 price: "100円"

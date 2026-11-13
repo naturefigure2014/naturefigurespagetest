@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/tannsuigyo2
 figureId: "011"
-maker: "YUJIN"
+maker: "ユージン"
 sculptor: "KOW"
 species: "ブルーギル"
 price: "100円"

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/hunting2
 figureId: "001"
-maker: "タカラトミーアーツ 公式サイト： コチラ"
+maker: "ユージン"
 sculptor: "EXPO"
 species: "アミメキリン"
 price: "300円"

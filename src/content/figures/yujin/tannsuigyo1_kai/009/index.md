@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/tannsuigyo1_kai
 figureId: "009"
-maker: "YUJIN"
+maker: "ユージン"
 sculptor: "KOW"
 species: "タイリクバラタナゴ"
 price: "100円"

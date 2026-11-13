@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/asahiyama
 figureId: "003"
-maker: "-"
+maker: "ユージン"
 sculptor: "KOW"
 species: "ジェンツーペンギン"
 price: "300円"

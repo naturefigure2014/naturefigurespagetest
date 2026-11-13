@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/jintaikaibo2
 figureId: "005"
-maker: "-"
+maker: "ユージン"
 sculptor: "宮田将寛"
 species: "骨盤付き正規妊娠"
 price: "200円 製作協力：株式会社京都科学、株式会社ニッシン"

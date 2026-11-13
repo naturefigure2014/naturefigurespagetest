@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/konntyu3
 figureId: "003"
-maker: "-"
+maker: "ユージン"
 sculptor: "木村和未"
 species: "ミカドアゲハ"
 price: "200円"

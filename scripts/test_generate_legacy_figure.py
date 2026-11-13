@@ -26,6 +26,13 @@ class AppendMetadataTest(unittest.TestCase):
                 append_metadata(lines, {"maker": maker, "executiveProducer": producer}, ("executiveProducer",))
                 self.assertEqual(lines, expected)
 
+    def test_species_parenthetical_notes_are_removed(self):
+        for species in ("アメリカザリガニ(脱皮直後)", "アメリカザリガニ（白）"):
+            with self.subTest(species=species):
+                lines = []
+                append_metadata(lines, {"species": species}, ("species",))
+                self.assertEqual(lines, ['species: "アメリカザリガニ"'])
+
 
 class ExtractItemsTest(unittest.TestCase):
     def test_parallel_and_single_column_figures(self):
@@ -67,6 +74,54 @@ class WriteFigurePageTest(unittest.TestCase):
             species_data = species_file.read_text(encoding="utf-8")
             self.assertIn('species: "シャコ"', page)
             self.assertIn('      - "シャコ"', species_data)
+
+    def test_registers_species_without_parenthetical_note(self):
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            folder = root / "figures" / "series"
+            folder.mkdir(parents=True)
+            species_file = root / "species.yaml"
+            species_file.write_text("groups:\n  その他の動物:\n    species:\n", encoding="utf-8")
+
+            with patch("generate_legacy_figure.figure_content_id", return_value="tta/series"):
+                write_figure_page(
+                    folder,
+                    {"name": "アメリカザリガニ(脱皮直後)", "topics": []},
+                    1,
+                    "TTA",
+                    {},
+                    species_file,
+                )
+
+            page = (folder / "001" / "index.md").read_text(encoding="utf-8")
+            species_data = species_file.read_text(encoding="utf-8")
+            self.assertIn('species: "アメリカザリガニ"', page)
+            self.assertIn('      - "アメリカザリガニ"', species_data)
+            self.assertNotIn("脱皮直後", species_data)
+
+    def test_does_not_duplicate_species_when_base_name_exists(self):
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            folder = root / "figures" / "series"
+            folder.mkdir(parents=True)
+            species_file = root / "species.yaml"
+            species_file.write_text(
+                'groups:\n  その他の動物:\n    species:\n      - "アメリカザリガニ"\n',
+                encoding="utf-8",
+            )
+
+            with patch("generate_legacy_figure.figure_content_id", return_value="tta/series"):
+                write_figure_page(
+                    folder,
+                    {"name": "アメリカザリガニ(白)", "topics": []},
+                    1,
+                    "TTA",
+                    {},
+                    species_file,
+                )
+
+            species_data = species_file.read_text(encoding="utf-8")
+            self.assertEqual(species_data.count('"アメリカザリガニ"'), 1)
 
     def test_registers_species_preserved_in_existing_page(self):
         with tempfile.TemporaryDirectory() as temporary_directory:

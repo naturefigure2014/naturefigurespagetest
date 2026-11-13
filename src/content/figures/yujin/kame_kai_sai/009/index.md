@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kame_kai_sai
 figureId: "009"
-maker: "タカラトミー"
+maker: "ユージン"
 sculptor: "-"
 species: "インドホシガメ"
 price: "200円"

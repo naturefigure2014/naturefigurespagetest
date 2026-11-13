@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/jintaikaibo2
 figureId: "008"
-maker: "-"
+maker: "ユージン"
 sculptor: "宮田将寛"
 species: "SECRET 頭蓋骨 分割模型"
 price: "200円 製作協力：株式会社京都科学、株式会社ニッシン"

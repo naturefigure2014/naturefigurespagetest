@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/tannsuigyo2_kai
 figureId: "015"
-maker: "YUJIN"
+maker: "ユージン"
 sculptor: "KOW"
 species: "クサフグ"
 price: "100円"

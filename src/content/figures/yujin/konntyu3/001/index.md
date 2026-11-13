@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/konntyu3
 figureId: "001"
-maker: "-"
+maker: "ユージン"
 sculptor: "木村和未"
 species: "タガメ"
 price: "200円"

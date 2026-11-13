@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/kyoryudaizukann
 kind: series
-maker: "タカラトミー"
+maker: "ユージン"
 figureIds:
   - yujin/kyoryudaizukann/001
   - yujin/kyoryudaizukann/002

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kyoryudaizukann
 figureId: "026"
-maker: "タカラトミー"
+maker: "ユージン"
 sculptor: "-"
 species: "ヴェロキラプトル"
 price: "200円 公式サイト： コチラ"

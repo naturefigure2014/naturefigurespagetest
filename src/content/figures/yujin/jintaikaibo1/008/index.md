@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/jintaikaibo1
 figureId: "008"
-maker: "-"
+maker: "ユージン"
 sculptor: "-"
 species: "皮膚断面ブロック"
 price: "200円 製作協力：株式会社京都科学"

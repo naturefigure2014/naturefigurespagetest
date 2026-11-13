@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/kaisuigyo_nagoya
 kind: series
-maker: "-"
+maker: "ユージン"
 figureIds:
   - yujin/kaisuigyo_nagoya/001
   - yujin/kaisuigyo_nagoya/002

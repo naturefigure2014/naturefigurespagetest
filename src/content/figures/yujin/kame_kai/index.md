@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/kame_kai
 kind: series
-maker: "YUJIN"
+maker: "ユージン"
 figureIds:
   - yujin/kame_kai/001
   - yujin/kame_kai/002

@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/jintaikaibo2
 figureId: "001"
-maker: "-"
+maker: "ユージン"
 sculptor: "木本 諒"
 species: "人体骨格模型"
 price: "200円 製作協力：株式会社京都科学、株式会社ニッシン"

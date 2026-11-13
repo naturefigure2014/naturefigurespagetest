@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kaisuigyo_nagoya
 figureId: "017"
-maker: "-"
+maker: "ユージン"
 sculptor: "KOW"
 species: "17 ニセゴイシウツボ"
 price: "100円"

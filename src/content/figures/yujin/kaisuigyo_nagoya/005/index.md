@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kaisuigyo_nagoya
 figureId: "005"
-maker: "-"
+maker: "ユージン"
 sculptor: "KOW"
 species: "05 ロイヤルグラマ"
 price: "100円"

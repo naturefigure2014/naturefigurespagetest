@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/jintaikaibo2
 kind: series
-maker: "-"
+maker: "ユージン"
 figureIds:
   - yujin/jintaikaibo2/001
   - yujin/jintaikaibo2/002

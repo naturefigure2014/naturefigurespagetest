@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/konntyu_kabunushi
 kind: series
-maker: "-"
+maker: "ユージン"
 figureIds: []
 seriesName: "-"
 releaseStart: "-"

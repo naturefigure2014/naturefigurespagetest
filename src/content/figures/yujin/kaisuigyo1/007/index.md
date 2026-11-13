@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kaisuigyo1
 figureId: "007"
-maker: "ユージン 監修：豊平両生爬虫類研究所"
+maker: "ユージン"
 sculptor: "-"
 species: "ハタタテハゼ"
 price: "100円"

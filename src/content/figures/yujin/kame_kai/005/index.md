@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/kame_kai
 figureId: "005"
-maker: "YUJIN"
+maker: "ユージン"
 sculptor: "KOW"
 species: "スッポン"
 price: "100円"

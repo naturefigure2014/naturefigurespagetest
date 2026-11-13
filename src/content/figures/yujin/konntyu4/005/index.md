@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/konntyu4
 figureId: "005"
-maker: "タカラトミー"
+maker: "ユージン"
 sculptor: "木村和未"
 species: "ミドリシジミ"
 price: "200円"

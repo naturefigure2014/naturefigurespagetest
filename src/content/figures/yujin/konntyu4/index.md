@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/konntyu4
 kind: series
-maker: "タカラトミー"
+maker: "ユージン"
 figureIds:
   - yujin/konntyu4/001
   - yujin/konntyu4/002

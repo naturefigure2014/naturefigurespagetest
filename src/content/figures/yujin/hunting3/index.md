@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/hunting3
 kind: series
-maker: "タカラトミーアーツ 公式サイト： ハンティングトロフィーⅢ 、 アニマルヘッドコレクション"
+maker: "ユージン"
 figureIds:
   - yujin/hunting3/001
   - yujin/hunting3/002

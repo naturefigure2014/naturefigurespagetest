@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: yujin/konntyu4
 figureId: "007"
-maker: "タカラトミー"
+maker: "ユージン"
 sculptor: "木村和未"
 species: "オオゴマダラ(さなぎ)"
 price: "200円"

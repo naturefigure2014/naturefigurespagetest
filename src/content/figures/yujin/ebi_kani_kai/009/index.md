@@ -6,7 +6,7 @@ titleId: yujin/ebi_kani_kai
 figureId: "009"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "ルリマダラシオマネキ(メス)"
+species: "ルリマダラシオマネキ"
 price: "3００円"
 releaseStart: "2009.12"
 genre:

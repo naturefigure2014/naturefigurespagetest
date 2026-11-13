@@ -4,7 +4,7 @@ description: ""
 contentType: title
 titleId: yujin/konntyu1_kai
 kind: series
-maker: "ユージン 監修：豊平両生爬虫類研究所 企画総指揮：佐藤純也"
+maker: "ユージン"
 figureIds:
   - yujin/konntyu1_kai/001
   - yujin/konntyu1_kai/002
