@@ -19,6 +19,10 @@ on:
         description: "Test a small upload using the production FTP action"
         type: boolean
         default: false
+      pasv_address_test:
+        description: "Compare passive FTP data connection address handling"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -29,7 +33,7 @@ concurrency:
 
 jobs:
   connection-check:
-    if: ${{ inputs.connection_test_only && !inputs.active_upload_test && !inputs.action_upload_test }}
+    if: ${{ inputs.connection_test_only && !inputs.active_upload_test && !inputs.action_upload_test && !inputs.pasv_address_test }}
     runs-on: ubuntu-latest
     steps:
       - name: Test FTP directory listing
@@ -54,7 +58,7 @@ jobs:
           exit "$status"
 
   active-upload-check:
-    if: ${{ inputs.active_upload_test && !inputs.action_upload_test }}
+    if: ${{ inputs.active_upload_test && !inputs.action_upload_test && !inputs.pasv_address_test }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -83,7 +87,7 @@ jobs:
           echo "Active FTP upload and verification succeeded: test/$filename"
 
   passive-upload-check:
-    if: ${{ inputs.active_upload_test && !inputs.action_upload_test }}
+    if: ${{ inputs.active_upload_test && !inputs.action_upload_test && !inputs.pasv_address_test }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -112,7 +116,7 @@ jobs:
           echo "Passive FTP upload and verification succeeded: test/$filename"
 
   action-upload-check:
-    if: inputs.action_upload_test
+    if: ${{ inputs.action_upload_test && !inputs.pasv_address_test }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -139,7 +143,7 @@ jobs:
           cmp ftp-action-test/_astro/check.txt "$RUNNER_TEMP/ftp-action-check.txt"
 
   root-upload-check:
-    if: inputs.action_upload_test
+    if: ${{ inputs.action_upload_test && !inputs.pasv_address_test }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -167,8 +171,54 @@ jobs:
             --output "$RUNNER_TEMP/ftp-root-check.txt"
           cmp "ftp-root-test/_astro/$filename" "$RUNNER_TEMP/ftp-root-check.txt"
 
+  pasv-address-check:
+    if: inputs.pasv_address_test
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Compare PASV connection address handling
+        env:
+          FTP_SERVER: ${{ secrets.FC2_FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FC2_FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FC2_FTP_PASSWORD }}
+        run: |
+          test -n "$FTP_SERVER" && test -n "$FTP_USERNAME" && test -n "$FTP_PASSWORD" || {
+            echo "::error::FC2 FTP secrets must be configured."
+            exit 1
+          }
+          status=0
+          for mode in control-ip server-ip; do
+            filename="github-pasv-${mode}-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}.txt"
+            printf 'PASV address test %s %s\n' "$mode" "$GITHUB_RUN_ID" > "$RUNNER_TEMP/ftp-pasv-test.txt"
+            url="ftp://$FTP_SERVER/test/$filename"
+            if [ "$mode" = control-ip ]; then
+              address_option=--ftp-skip-pasv-ip
+            else
+              address_option=--no-ftp-skip-pasv-ip
+            fi
+            echo "Testing $mode..."
+            if curl --silent --show-error --fail --connect-timeout 15 --max-time 45 \
+              --disable-epsv "$address_option" --user "$FTP_USERNAME:$FTP_PASSWORD" \
+              --upload-file "$RUNNER_TEMP/ftp-pasv-test.txt" "$url" \
+              --write-out 'Control connection IP: %{remote_ip}\n'; then
+              if curl --silent --show-error --fail --connect-timeout 15 --max-time 45 \
+                --disable-epsv "$address_option" --user "$FTP_USERNAME:$FTP_PASSWORD" \
+                "$url" --output "$RUNNER_TEMP/ftp-pasv-readback.txt" &&
+                cmp "$RUNNER_TEMP/ftp-pasv-test.txt" "$RUNNER_TEMP/ftp-pasv-readback.txt"; then
+                echo "$mode upload and readback succeeded: test/$filename"
+              else
+                echo "::error::$mode readback failed."
+                status=1
+              fi
+            else
+              echo "::error::$mode upload failed."
+              status=1
+            fi
+          done
+          exit "$status"
+
   deploy:
-    if: ${{ !inputs.connection_test_only && !inputs.active_upload_test && !inputs.action_upload_test }}
+    if: ${{ !inputs.connection_test_only && !inputs.active_upload_test && !inputs.action_upload_test && !inputs.pasv_address_test }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
