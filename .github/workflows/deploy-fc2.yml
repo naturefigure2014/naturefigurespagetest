@@ -12,7 +12,7 @@ on:
         type: boolean
         default: false
       active_upload_test:
-        description: "Upload and verify a small file using active FTP"
+        description: "Upload and verify small files using active and passive FTP"
         type: boolean
         default: false
 
@@ -77,6 +77,35 @@ jobs:
             "$url" --output "$RUNNER_TEMP/ftp-test-download.txt"
           cmp "$RUNNER_TEMP/ftp-test.txt" "$RUNNER_TEMP/ftp-test-download.txt"
           echo "Active FTP upload and verification succeeded: test/$filename"
+
+  passive-upload-check:
+    if: inputs.active_upload_test
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Upload and verify a small file using passive FTP
+        env:
+          FTP_SERVER: ${{ secrets.FC2_FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FC2_FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FC2_FTP_PASSWORD }}
+        run: |
+          test -n "$FTP_SERVER" && test -n "$FTP_USERNAME" && test -n "$FTP_PASSWORD" || {
+            echo "::error::FC2 passive FTP secrets must be configured."
+            exit 1
+          }
+          filename="github-passive-ftp-test-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}.txt"
+          printf 'GitHub Actions passive FTP test: %s\n' "$GITHUB_RUN_ID" > "$RUNNER_TEMP/ftp-test.txt"
+          url="ftp://$FTP_SERVER/test/$filename"
+          echo "Uploading test/$filename using passive FTP..."
+          curl --silent --show-error --fail --connect-timeout 20 --max-time 90 \
+            --disable-epsv --user "$FTP_USERNAME:$FTP_PASSWORD" \
+            --upload-file "$RUNNER_TEMP/ftp-test.txt" "$url"
+          echo "Downloading the file to verify its contents..."
+          curl --silent --show-error --fail --connect-timeout 20 --max-time 90 \
+            --disable-epsv --user "$FTP_USERNAME:$FTP_PASSWORD" \
+            "$url" --output "$RUNNER_TEMP/ftp-test-download.txt"
+          cmp "$RUNNER_TEMP/ftp-test.txt" "$RUNNER_TEMP/ftp-test-download.txt"
+          echo "Passive FTP upload and verification succeeded: test/$filename"
 
   deploy:
     if: ${{ !inputs.connection_test_only && !inputs.active_upload_test }}
