@@ -11,6 +11,10 @@ on:
         description: "Test FTP data connections without building or uploading"
         type: boolean
         default: false
+      active_upload_test:
+        description: "Upload and verify a small file using active FTP"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -21,7 +25,7 @@ concurrency:
 
 jobs:
   connection-check:
-    if: inputs.connection_test_only
+    if: ${{ inputs.connection_test_only && !inputs.active_upload_test }}
     runs-on: ubuntu-latest
     steps:
       - name: Test FTP directory listing
@@ -45,8 +49,37 @@ jobs:
             "ftp://$FTP_SERVER/test/" --output /dev/null || status=1
           exit "$status"
 
+  active-upload-check:
+    if: inputs.active_upload_test
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Upload and verify a small file using active FTP
+        env:
+          FTP_SERVER: ${{ secrets.FC2_FTP_SERVER_ACTIVE }}
+          FTP_USERNAME: ${{ secrets.FC2_FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FC2_FTP_PASSWORD }}
+        run: |
+          test -n "$FTP_SERVER" && test -n "$FTP_USERNAME" && test -n "$FTP_PASSWORD" || {
+            echo "::error::FC2 active FTP secrets must be configured."
+            exit 1
+          }
+          filename="github-active-ftp-test-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}.txt"
+          printf 'GitHub Actions active FTP test: %s\n' "$GITHUB_RUN_ID" > "$RUNNER_TEMP/ftp-test.txt"
+          url="ftp://$FTP_SERVER/test/$filename"
+          echo "Uploading test/$filename using active FTP..."
+          curl --silent --show-error --fail --connect-timeout 20 --max-time 90 \
+            --ftp-port - --user "$FTP_USERNAME:$FTP_PASSWORD" \
+            --upload-file "$RUNNER_TEMP/ftp-test.txt" "$url"
+          echo "Downloading the file to verify its contents..."
+          curl --silent --show-error --fail --connect-timeout 20 --max-time 90 \
+            --ftp-port - --user "$FTP_USERNAME:$FTP_PASSWORD" \
+            "$url" --output "$RUNNER_TEMP/ftp-test-download.txt"
+          cmp "$RUNNER_TEMP/ftp-test.txt" "$RUNNER_TEMP/ftp-test-download.txt"
+          echo "Active FTP upload and verification succeeded: test/$filename"
+
   deploy:
-    if: ${{ !inputs.connection_test_only }}
+    if: ${{ !inputs.connection_test_only && !inputs.active_upload_test }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
