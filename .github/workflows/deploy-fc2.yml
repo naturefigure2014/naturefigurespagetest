@@ -138,6 +138,35 @@ jobs:
             --output "$RUNNER_TEMP/ftp-action-check.txt"
           cmp ftp-action-test/_astro/check.txt "$RUNNER_TEMP/ftp-action-check.txt"
 
+  root-upload-check:
+    if: inputs.action_upload_test
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Prepare isolated test file
+        run: |
+          mkdir -p ftp-root-test/_astro
+          printf 'GitHub Actions root FTP test: %s\n' "$GITHUB_RUN_ID" > "ftp-root-test/_astro/ftp-root-check-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}.txt"
+      - name: Upload to actual deployment directory
+        uses: SamKirkland/FTP-Deploy-Action@a51268f67f6605236975928ae28b0f7e9971d50a # v4.3.6
+        with:
+          server: ${{ secrets.FC2_FTP_SERVER }}
+          username: ${{ secrets.FC2_FTP_USERNAME }}
+          password: ${{ secrets.FC2_FTP_PASSWORD }}
+          protocol: ftp
+          local-dir: ./ftp-root-test/
+          server-dir: ./test/
+          state-name: .ftp-root-diagnostic-${{ github.run_id }}-${{ github.run_attempt }}.json
+          dry-run: false
+          log-level: verbose
+      - name: Verify test file over HTTP
+        run: |
+          filename="ftp-root-check-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}.txt"
+          curl --silent --show-error --fail --max-time 30 \
+            "https://ninjaaquarium.web.fc2.com/test/_astro/$filename" \
+            --output "$RUNNER_TEMP/ftp-root-check.txt"
+          cmp "ftp-root-test/_astro/$filename" "$RUNNER_TEMP/ftp-root-check.txt"
+
   deploy:
     if: ${{ !inputs.connection_test_only && !inputs.active_upload_test && !inputs.action_upload_test }}
     runs-on: ubuntu-latest
