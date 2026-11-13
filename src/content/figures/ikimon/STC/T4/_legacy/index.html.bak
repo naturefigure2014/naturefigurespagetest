@@ -1,0 +1,221 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>T4ファージ</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>いきもん　サイエンステクニカラー<br />
+		T4ファージ マスコット＆ボールチェーン<br />
+			</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="347" src="img/T4_007.jpg" width="756" /></td>
+			</tr>
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2021年12月　販売元：いきもん　価格：300円<br />
+			原型制作：真鍋正一　企画総指揮：佐藤純也<br />
+			公式サイト：<a href="https://naturetechnicolour.com/stc_phage/" target="_blank">コチラ</a><br />
+			ウイルスと聞くと悪いものを想像してしまう今日この頃ですが、悪いウイルスばかりではない。<br />
+			ウイルスのひとつである、「バクテリオファージ」は「バクテリアを食べる」を意味し、特にカッコいいのが本作のT4ファージ。<br />
+			本作のテーマである「善玉菌を作り出せ！！」は悪玉菌をファージに退治させようという意味ですね。<br />
+			真鍋さんはフリーランスの原型師さんで、Yujin時代の佐藤さんが企画した「こどもの辞典大百科〜トレーシー島大図解〜」（サンダーバード）の原型を担当していました。<br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		
+		<!-- ↓ラインナップ一覧サムネ↓  
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/XXX_001_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/XXX_002_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/XXX_026_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/XXX_028_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/XXX_030_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/XXX_032_small.jpg" width="146" /></a></td><td><a href="#7">
+<img src="img/XXX_034_small.jpg" width="146" /></a></td><td><a href="#8">
+<img src="img/XXX_036_small.jpg" width="146" /></a></td><td><a href="#9">
+<img src="img/XXX_038_small.jpg" width="146" /></a></td><td><a href="#10">
+<img src="img/XXX_040_small.jpg" width="146" /></a></td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->		
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">T4ファージ クリア</th></tr>
+			<tr><td><a href="img/T4_001.jpg">
+				<img height="283" src="img/T4_001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/ntc/STC/T4/img/T4_001.jpg" --></a><a href="img/T4_002.jpg"><img height="283" src="img/T4_002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/ntc/STC/T4/img/T4_002.jpg" --></a></td></tr>
+			<tr><td class="comment">頭部？の表面が細かく造形されています。<br />
+				DNAが透けて見えており、なかなか手が込んでいますね。<br />
+				クリアカラーも単なる透明ではなく、ちょっとパールっぽい。</td></tr>
+			<tr><td><a href="img/T4_003.jpg">
+				<img height="283" src="img/T4_003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/ntc/STC/T4/img/T4_003.jpg" --></a></td></tr>
+			<tr><td class="comment">サイエンステクニカラーとしては久しぶりのフィギュア。<br />
+				無機的なデザインながら、３D造形は使用していないそうです。</td></tr>
+			<!--
+						
+			<tr><th id="2">T4ファージ クリアブルー</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			
+			<tr><th id="3">T4ファージ クリアピンク</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+						
+			<tr><th id="4">T4ファージ クリアグリーン</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			
+			<tr><th id="5">T4ファージと大腸菌 ピンク</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+					
+			<tr><th id="6">&nbsp;</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<tr><th id="7">T4ファージと大腸菌 イエロー</th></tr>
+			<tr><td><a href="img/T4_004.jpg">
+				<img height="283" src="img/T4_004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/ntc/STC/T4/img/T4_004.jpg" --></a><a href="img/T4_005.jpg"><img height="283" src="img/T4_005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/ntc/STC/T4/img/T4_005.jpg" --></a></td></tr>
+			<tr><td><a href="img/T4_006.jpg">
+				<img height="283" src="img/T4_006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/ntc/STC/T4/img/T4_006.jpg" --></a></td></tr>
+			<tr><td class="comment">T4ファージは別名「腸内細菌ウイルス」とも呼ばれ、大腸菌に感染します。<br />
+				フィギュアは細菌にDNAを注入するシーン。<br />
+				クリアパーツを上手く活かしたフィギュアとなっています。<br />
+				細菌内の赤い丸は細菌のDNAのようです。</td></tr>
+			<!--
+						
+			<tr><th id="8">&nbsp;</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->	
+			<tr><th id="9">パンフレット</th></tr>
+			<tr><td><img height="213" src="img/T4book.jpg" width="756" /></td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			<tr><th id="10">ディスプレイポップ</th></tr>
+			<tr><td><a href="img/T4_DP.jpg">
+				<img height="336" src="img/T4_DP_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/ntc/STC/T4/img/T4_DP.jpg" --></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<tr><th id="11">&nbsp;</th></tr>
+			<tr><td><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">“<a href="https://twitter.com/NTC_kitanclub?ref_src=twsrc%5Etfw">@NTC_kitanclub</a>: 大きなファージ模型が。ビーズファージは売り切れの様子。残念！ <a href="http://t.co/M7qvlnadRT">pic.twitter.com/M7qvlnadRT</a>”宣言します！ファージはいずれ商品化します！！！(今しこたま酔ってます)</p>&mdash; 佐藤純也 (@indiana1974) <a href="https://twitter.com/indiana1974/status/467904657377869824?ref_src=twsrc%5Etfw">May 18, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </td></tr>
+			<tr><td><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">『いきもん』のT4ファージの原型を担当いたしました！<br>12月20日発売予定です。<br>よろしくお願いいたします。(^^) <a href="https://t.co/8M7MC0GIfp">pic.twitter.com/8M7MC0GIfp</a></p>&mdash; 真鍋正一 (@yamasenko) <a href="https://twitter.com/yamasenko/status/1470609032360914944?ref_src=twsrc%5Etfw">December 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> &nbsp;</td></tr>
+			<tr><td><blockquote class="twitter-tweet"><p lang="ja" dir="ltr">信じられないかもしれませんが、この原型全て手作業で作られたものなのです。3D造形一切なし。 <a href="https://t.co/VxrhWdNa8X">pic.twitter.com/VxrhWdNa8X</a></p>&mdash; 佐藤純也 (@indiana1974) <a href="https://twitter.com/indiana1974/status/1436221752779034625?ref_src=twsrc%5Etfw">September 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> &nbsp;</td></tr>
+			<tr><td><blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">真鍋さんに作ってもらった過去作が出てきたのでみんな見て！このヤバさ伝わるでしょうか！このサイズ！造形力と精度！！※アンテナ見つかりませんでした。恐ろしいことに当時300円商品だったと思いまふ... 企画のワイも相当イカれてたといわざるを得ない...。真鍋さんのサンダーバード贅沢すぎる！ <a href="https://t.co/KuWQSwCvim">pic.twitter.com/KuWQSwCvim</a></p>&mdash; 佐藤純也 (@indiana1974) <a href="https://twitter.com/indiana1974/status/1472916576395743232?ref_src=twsrc%5Etfw">December 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> &nbsp;</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+						
+			<tr><th id="12">&nbsp;</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<!--
+			-->			
+			<!--
+			-->
+			<!--
+			-->			
+						
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

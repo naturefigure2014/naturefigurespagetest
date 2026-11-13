@@ -1,0 +1,420 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>海遊館ミュージアム</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>奇譚クラブ　ネイチャーテクニカラー 海遊館ミュージアム</h4>
+		<table width="100%">
+			<tr>
+				<td valign="top">
+				<!-- Documents/My Web Sites/mysite/img/ntc/ntc122.jpg" --></a>
+				<a href="img/kaiyukan025.jpg">
+				<img height="283" src="img/kaiyukan025_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan025.jpg" --></a></td>
+			</tr>
+			<tr>
+				<td class="collection_page_lineup" valign="top">
+				<span class="font_small">01.
+				オオサンショウウオ<br />
+				02.
+				コツメカワウソ<br />
+				03.
+				ラッコ<br />
+				04.
+				ゴマフアザラシ<br />
+				05.
+				オウサマペンギン、ジェンツーペンギン<br />
+				06.
+				カマイルカ<br />
+				07.
+				ジンベエザメ<br />
+				08.
+				オニイトマキエイ<br />
+				09.
+				メガネモチノウオ<br />
+				10.
+				アカウミガメ<br />
+				11.
+				アオウミガメ<br />
+				12.
+				タカアシガニ </span> </td>
+			</tr>
+		</table>
+			<p>
+			■概要<br />
+			販売開始：2009年8月　価格：300円　<br />
+			監修：海遊館　原型製作：KOW　企画総指揮：佐藤純也<br />
+			販売元：海遊館　発売元：株式会社藤二誠　企画：奇譚クラブ<br />
+			大阪の海遊館限定のシリーズ。もともと<a href="../../etc/kaiyukan_syohan/index.html">台座なし２００円で販売していたもの</a>にラインナップを追加し、台座をつけて３００円で販売したもの。<br />
+			海遊館は長方形の建物の真ん中をフロアぶち抜きで大水槽を作り、世界地図を基準にその周りに地域別の水槽を配置しています。ジンベエザメ、オニイトマキエイ、メガネモチノウオを組み合わせることで大水槽を再現でき、同様にアカウミガメとアオウミガメを組み合わせることもできます。<br />
+			<br />
+			■アソート<br />
+			オークションの相場と回した感触から、どうやらオオサンショウウオ、ジンベエザメ、タカアシガニがレア枠らしい。<br />
+			<br />
+			別の旅行で２回行って合計２０回くらい回すもコンプできず、オークションやトレードを駆使し、2年がかりでコンプしました。 <br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+			<table style="width: 100%">
+<tr>
+<th colspan="2">01.
+				オオサンショウウオ</th><th colspan="2">02.
+				コツメカワウソ</th></tr>
+<tr>
+<td><a href="img/kaiyukan019.jpg">
+<img height="138" src="img/kaiyukan019_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan019.jpg" --></a></td>
+<td><a href="img/kaiyukan020.jpg">
+<img height="138" src="img/kaiyukan020_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan020.jpg" --></a></td>
+<td><a href="img/kaiyukan039.jpg">
+<img height="138" src="img/kaiyukan039_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan039.jpg" --></a></td>
+<td><a href="img/kaiyukan040.jpg">
+<img height="138" src="img/kaiyukan040_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan040.jpg" --></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<th colspan="2">03.
+				ラッコ</th><th colspan="2">04.
+				ゴマフアザラシ</th></tr>
+<tr>
+<td><a href="img/kaiyukan043.jpg">
+<img height="138" src="img/kaiyukan043_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan043.jpg" --></a></td>
+<td><a href="img/kaiyukan044.jpg">
+<img height="138" src="img/kaiyukan044_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan044.jpg" --></a></td>
+<td><a href="img/kaiyukan045.jpg">
+<img height="138" src="img/kaiyukan045_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan045.jpg" --></a></td>
+<td><a href="img/kaiyukan046.jpg">
+<img height="138" src="img/kaiyukan046_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan046.jpg" --></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<th colspan="2">05.
+				オウサマペンギン、ジェンツーペンギン</th><th colspan="2">06.
+				カマイルカ</th></tr>
+<tr>
+<td><a href="img/kaiyukan041.jpg">
+<img height="138" src="img/kaiyukan041_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan041.jpg" --></a></td>
+<td><a href="img/kaiyukan042.jpg">
+<img height="138" src="img/kaiyukan042_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan042.jpg" --></a></td>
+<td><a href="img/kaiyukan047.jpg">
+<img height="138" src="img/kaiyukan047_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan047.jpg" --></a></td>
+<td><a href="img/kaiyukan048.jpg">
+<img height="138" src="img/kaiyukan048_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan048.jpg" --></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<th colspan="2">07.
+				ジンベエザメ</th><th colspan="2">08.
+				オニイトマキエイ</th></tr>
+<tr>
+<td><a href="img/kaiyukan006.jpg">
+<img height="138" src="img/kaiyukan006_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan006.jpg" --></a></td>
+<td><a href="img/kaiyukan007.jpg">
+<img height="138" src="img/kaiyukan007_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan007.jpg" --></a></td>
+<td><a href="img/kaiyukan003.jpg">
+<img height="138" src="img/kaiyukan003_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan003.jpg" --></a></td>
+<td><a href="img/kaiyukan004.jpg">
+<img height="138" src="img/kaiyukan004_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan004.jpg" --></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<th colspan="2">09.
+				メガネモチノウオ</th><th colspan="2">10.
+				アカウミガメ</th></tr>
+<tr>
+<td><a href="img/kaiyukan049.jpg">
+<img height="138" src="img/kaiyukan049_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan049.jpg" --></a></td>
+<td><a href="img/kaiyukan050.jpg">
+<img height="138" src="img/kaiyukan050_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan050.jpg" --></a></td>
+<td><a href="img/kaiyukan009.jpg">
+<img height="138" src="img/kaiyukan009_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan009.jpg" --></a></td>
+<td><a href="img/kaiyukan010.jpg">
+<img height="138" src="img/kaiyukan010_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan010.jpg" --></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<th colspan="2">11.
+				アオウミガメ</th><th colspan="2">12.
+				タカアシガニ</th></tr>
+<tr>
+<td><a href="img/kaiyukan016.jpg">
+<img height="138" src="img/kaiyukan016_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan016.jpg" --></a></td>
+<td><a href="img/kaiyukan017.jpg">
+<img height="138" src="img/kaiyukan017_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan017.jpg" --></a></td>
+<td><a href="img/kaiyukan012.jpg">
+<img height="138" src="img/kaiyukan012_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan012.jpg" --></a></td>
+<td><a href="img/kaiyukan013.jpg">
+<img height="138" src="img/kaiyukan013_small.jpg" width="185" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan013.jpg" --></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+</table>
+		
+			<table style="width: 100%">
+			<tr><th colspan="2">解説書</th></tr>
+<tr><td colspan="2"><a href="img/kaiyukanndaizabook.jpg">
+	<img height="371" src="img/kaiyukanndaizabook_small.jpg" width="756" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukanndaizabook.jpg" --></a></td></tr>
+						<tr>
+<th colspan="2">カプセル</th>
+</tr>
+<tr>
+<td><a href="img/capsule006.jpg">
+<img height="283" src="img/capsule006_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/capsule006.jpg" --></a></td>
+<td><a href="img/capsule005.jpg">
+<img height="283" src="img/capsule005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/capsule005.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">シリーズ初のブラインドカプセルに帯。</td>
+</tr>
+
+						<tr>
+<th colspan="2">太平洋大水槽</th>
+</tr>
+<tr>
+<td><a href="img/kaiyukan026.jpg">
+<img height="504" src="img/kaiyukan026_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan026.jpg" --></a></td>
+<td><a href="img/kaiyukan027.jpg">
+<img height="504" src="img/kaiyukan027_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan027.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">大水槽を再現することができます。</td>
+</tr>
+			<tr>
+<th colspan="2">クック海峡</th>
+</tr>
+<tr>
+<td><a href="img/kaiyukan028.jpg">
+<img height="283" src="img/kaiyukan028_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan028.jpg" --></a></td>
+<td><a href="img/kaiyukan029.jpg">
+<img height="283" src="img/kaiyukan029_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan029.jpg" --></a></td>
+</tr>
+<tr>
+<td colspan="2" class="comment">こちらも合体できます。<a href="../nihonn_kame/index.html">海洋Iと日本のカメ</a>でも同じことが出来ます。</td>
+</tr>
+
+<tr>
+<td>↓↓　いろいろ比較。　↓↓</td>
+<td>&nbsp;</td>
+</tr>
+
+			<tr>
+<th colspan="2">01.
+				オオサンショウウオ</th>
+</tr>
+<tr>
+<td><a href="img/kaiyukan030.jpg">
+<img height="283" src="img/kaiyukan030_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan030.jpg" --></a></td>
+<td class="comment" valign="top"><a href="../../etc/kaiyukan_syohan/index.html">
+初版</a>と比較。今回のほうが模様の赤みが増しています。</td>
+</tr>
+<tr>
+<th colspan="2">04.
+				ゴマフアザラシ</th>
+</tr>
+<tr>
+<td><a href="img/kaiyukan031.jpg">
+<img height="283" src="img/kaiyukan031_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan031.jpg" --></a></td>
+<td class="comment" valign="top"><a href="../../etc/kaiyukan_syohan/index.html">
+初版</a>と比較。ちょっとだけ色が濃くなりましたがほぼ変化なし。</td>
+</tr>
+<tr>
+<th colspan="2">05.
+				オウサマペンギン、ジェンツーペンギン</th>
+</tr>
+<tr>
+<td><a href="img/kaiyukan032.jpg">
+<img height="283" src="img/kaiyukan032_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan032.jpg" --></a></td>
+<td class="comment" valign="top"><a href="../../etc/kaiyukan_syohan/index.html">
+初版</a>と比較。変化なし。</td>
+</tr>
+<tr>
+<th colspan="2">07.
+				ジンベエザメ</th>
+</tr>
+<tr>
+<td><a href="img/kaiyukan033.jpg">
+<img height="283" src="img/kaiyukan033_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan033.jpg" --></a></td>
+<td><a href="img/kaiyukan008.jpg">
+<img height="283" src="img/kaiyukan008_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan008.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" valign="top"><a href="../../etc/kaiyukan_syohan/index.html">
+初版</a>と比較。変化なし。</td>
+<td class="comment" valign="top"><a href="../kaiyo1/index.html">海洋I</a>と比較。体色がかなり違います。ちなみに発売順は海遊館(初版)→海洋I→海遊館(300円)です。</td>
+</tr>
+<tr>
+<th colspan="2">08.
+				オニイトマキエイ</th>
+</tr>
+<tr>
+<td><a href="img/kaiyukan034.jpg">
+<img height="283" src="img/kaiyukan034_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan034.jpg" --></a></td>
+<td><a href="img/kaiyukan005.jpg">
+<img height="283" src="img/kaiyukan005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan005.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment"><a href="../../etc/kaiyukan_syohan/index.html">初版</a>と比較。変化なし。</td>
+<td class="comment"><a href="../kaiyo1/index.html">海洋I</a>と比較。大きさはまったく違います。</td>
+</tr>
+<tr>
+<th colspan="2">09.
+				メガネモチノウオ</th>
+</tr>
+<tr>
+<td class="comment"><a href="../kaiyo1/index.html">海洋I</a>と比較。こちらもサイズ、原型が違っています。</td>
+<td><a href="img/kaiyukan002.jpg">
+<img height="283" src="img/kaiyukan002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan002.jpg" --></a></td>
+</tr>
+
+<tr>
+<th colspan="2">10.
+				アカウミガメ</th>
+</tr>
+<tr>
+<td class="comment"><a href="../kaiyo1/index.html">海洋I</a>と比較。甲羅や土台のカラーが違います。フジツボもありません。</td>
+<td><a href="img/kaiyukan011.jpg">
+<img height="283" src="img/kaiyukan011_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan011.jpg" --></a></td>
+</tr>
+
+<tr>
+<th colspan="2">11.
+				アオウミガメ</th>
+</tr>
+<tr>
+<td class="comment"><a href="../kaiyo1/index.html">海洋I</a>と比較。こちらも甲羅と土台がかなり違います。</td>
+<td><a href="img/kaiyukan018.jpg">
+<img height="283" src="img/kaiyukan018_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan018.jpg" --></a></td>
+</tr>
+
+<tr>
+<th colspan="2">12.
+				タカアシガニ</th>
+</tr>
+<tr>
+<td><a href="img/kaiyukan035.jpg">
+<img height="283" src="img/kaiyukan035_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan035.jpg" --></a></td>
+<td class="comment"><a href="../../etc/kaiyukan_syohan/index.html">初版</a>との比較。変化なし。</td>
+</tr>
+<tr>
+<td><a href="img/kaiyukan015.jpg">
+<img height="283" src="img/kaiyukan015_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan015.jpg" --></a></td>
+<td><a href="img/kaiyukan014.jpg">
+<img height="283" src="img/kaiyukan014_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/ntc/daiza/kaiyukann/img/kaiyukan014.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2"><a href="../../../yujin/ebi_kani_kai/index.html">原色図鑑</a>と比較。こちらは白っぽい。</td>
+</tr>
+
+						</table>
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

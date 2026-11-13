@@ -1,0 +1,19 @@
+---
+title: "ハダカデバネズミ"
+description: ""
+contentType: figure
+titleId: ikimon/daiza/ougon
+figureId: "016"
+maker: "いきもん"
+sculptor: "KOW"
+species: "-"
+price: "400円"
+releaseStart: "2015.12"
+genre:
+  - "-"
+tags:
+  - "-"
+figureTopImage: ""
+coverImage: ""
+topics: []
+---

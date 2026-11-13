@@ -1,0 +1,238 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>サバンナ特装版</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+			<img height="69" src="img/sabanna_header.png" width="760" /><br/>
+<table width="100%">
+			<tr>
+				<td valign="top">
+				<img height="232" src="img/sabanna_tokusou045.jpg" width="760" /></td>
+			</tr>
+			</table>			<p>
+			【いきもん　ネイチャーテクニカラー　サバンナ　特装版】<br />
+			<span class="font_Bold">■概要</span><br />
+			販売開始：2019年3月　販売元：いきもん　価格：500円<br />
+			監修：豊平両生爬虫類研究所　企画総指揮：佐藤純也<br />
+			原型製作：KOW<br />
+			2016年の「<a href="../seiryu_tokuso">日本の清流 特装版</a>」以来、久々の台座シリーズの新作は<a href="../sabanna">「サバンナ」</a>の特装版。<br />
+			「清流」の特装版と同じ仕様で、ラインナップは厳選され、台座裏に布が追加され、解説書の情報量はアップしています。<br />
+			<span class="font_Bold">■会場限定・・・？</span><br />
+			科博の特別展「<a href="../../../blog/blog20190615.html">大哺乳類展２</a>」会場で突然発売されました。<br />
+			いきもん公式からは「限定販売」とされていましたが、解説書等にはその記載はなく、やはり後に一般販売されました。<br />
+			<span class="font_Bold">■ついに500円</span><br />
+			ついにNTCも500円に突入。<br />
+			これを皮切りに、NTCのフラグシップシリーズが定期的に発売されるようになることを願いましょう。<br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/sabanna_tokusou025_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/sabanna_tokusou035_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/sabanna_tokusou033_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/sabanna_tokusou029_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/sabanna_tokusou039_small.jpg" width="146" /></a></td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+		
+			<table style="width: 100%">
+			<!--
+			-->			
+			<tr><th id="1">01. ライオン&nbsp;</th></tr>
+			<tr><td><a href="img/sabanna_tokusou025.jpg">
+				<img height="283" src="img/sabanna_tokusou025_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou025.jpg" --></a><a href="img/sabanna_tokusou026.jpg"><img height="283" src="img/sabanna_tokusou026_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou026.jpg" --></a></td></tr>
+			<tr><td class="comment">カプセルカラーは紫。<br />
+				王者の風格は再販でも健在。</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><td class="comment">初版（右）と比較。<br />
+				目立った違いは無し。</td></tr>
+			<tr><td><a href="img/sabanna_tokusou027.jpg">
+				<img height="283" src="img/sabanna_tokusou027_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou027.jpg" --></a><a href="img/sabanna_tokusou028.jpg"><img height="283" src="img/sabanna_tokusou028_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou028.jpg" --></a></td></tr>
+			<tr><td></td></tr>
+			<!--
+			-->
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><th id="2">02. アフリカゾウ&nbsp;</th></tr>
+			<tr><td><a href="img/sabanna_tokusou035.jpg">
+				<img height="283" src="img/sabanna_tokusou035_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou035.jpg" --></a><a href="img/sabanna_tokusou036.jpg"><img height="283" src="img/sabanna_tokusou036_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou036.jpg" --></a></td></tr>
+			<tr><td class="comment">カプセルカラーは赤。</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><td class="comment">初版（右）と比較。</td></tr>
+			<tr><td><a href="img/sabanna_tokusou037.jpg">
+				<img height="283" src="img/sabanna_tokusou037_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou037.jpg" --></a><a href="img/sabanna_tokusou038.jpg"><img height="283" src="img/sabanna_tokusou038_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou038.jpg" --></a></td></tr>
+			<tr><td class="comment">鼻パーツは初版ではバラされて入っていましたが、今回は接着されていたため、やや目立たなくなりました。</td></tr>
+			<!--
+			-->			
+			<tr><th id="3">03. オグロヌー&nbsp;</th></tr>
+			<tr><td><a href="img/sabanna_tokusou033.jpg">
+				<img height="283" src="img/sabanna_tokusou033_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou033.jpg" --></a><a href="img/sabanna_tokusou034.jpg"><img height="283" src="img/sabanna_tokusou034_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou034.jpg" --></a></td></tr>
+			<tr><td class="comment">カプセルカラーは薄茶。</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><td class="comment">初版（右）と比較。<br />
+				目立った違いは無し。</td></tr>
+			<tr><td><a href="img/sabanna_tokusou046.jpg">
+				<img height="283" src="img/sabanna_tokusou046_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou046.jpg" --></a><a href="img/sabanna_tokusou047.jpg"><img height="283" src="img/sabanna_tokusou047_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou047.jpg" --></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<tr><th id="4">04. インパラ&nbsp;</th></tr>
+			<tr><td><a href="img/sabanna_tokusou029.jpg">
+				<img height="283" src="img/sabanna_tokusou029_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou029.jpg" --></a><a href="img/sabanna_tokusou030.jpg"><img height="283" src="img/sabanna_tokusou030_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou030.jpg" --></a></td></tr>
+			<tr><td class="comment">カプセルカラーは黄。</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><td class="comment">初版（右）と比較。<br />
+				若干体色が薄くなったような・・・？</td></tr>
+			<tr><td><a href="img/sabanna_tokusou031.jpg">
+				<img height="283" src="img/sabanna_tokusou031_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou031.jpg" --></a><a href="img/sabanna_tokusou032.jpg"><img height="283" src="img/sabanna_tokusou032_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou032.jpg" --></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->			
+			<tr><th id="5">05. ハダカデバネズミ&nbsp;</th></tr>
+			<tr><td><a href="img/sabanna_tokusou039.jpg">
+				<img height="283" src="img/sabanna_tokusou039_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou039.jpg" --></a><a href="img/sabanna_tokusou040.jpg"><img height="283" src="img/sabanna_tokusou040_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou040.jpg" --></a></td></tr>
+			<tr><td class="comment">カプセルカラーは青。<br />
+				初版ではシークレットだったハダカデバネズミが、ノーマルラインナップに格下げされ、手に入れやすくなりました。<br />
+				<br />
+				特別展ではコイツにフィーチャーしたコーナーもあったので、ラインナップにふさわしい。</td></tr>
+			<tr><td><a href="img/sabanna_tokusou043.jpg">
+				<img height="283" src="img/sabanna_tokusou043_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou043.jpg" --></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><td class="comment">初版（右）と比較。<br />
+				紫が濃くなったように見えます。</td></tr>
+			<tr><td><a href="img/sabanna_tokusou041.jpg">
+				<img height="283" src="img/sabanna_tokusou041_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou041.jpg" --></a><a href="img/sabanna_tokusou042.jpg"><img height="283" src="img/sabanna_tokusou042_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou042.jpg" --></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<tr><th id="6">台座</th></tr>
+			<tr><td>
+					<a href="img/sabanna_tokusou044.jpg"><img height="283" src="img/sabanna_tokusou044_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/daiza/sabanna_tokuso/img/sabanna_tokusou044.jpg" --></a><a href="img/sabanna_tokusou021.jpg"><img height="276" src="img/sabanna_tokusou021_small.jpg" width="378" /></a></td></tr>
+			<tr><td class="comment">印刷は「清流特装版」と同じですが、何かが隠してあります。<br />
+				剥がしてみると奇譚クラブのとき（小笠原・南極の初版）に作られたものと同じ印刷が隠されていました。</td></tr>
+			<!--
+			-->			
+			<tr><th id="7">解説書</th></tr>
+			<tr><td>
+					<img height="378" src="img/sabanna_tokusou023.jpg" width="378" /><img height="380" src="img/sabanna_tokusou024.jpg" width="378" /></td></tr>
+			<!--
+			-->
+			<tr><td class="comment">小笠原、南極、清流に続く大判解説書。<br />
+					解説書の動物の名前の色は、動物の種類によって違っています。<br />
+				<br />
+					「小笠原」以降は哺乳類はピンク色で、今回はすべてピンク。<br />
+				「大哺乳類展２」にふさわしいランナップなわけですな。</td></tr>
+			<tr><th id="8">ディスプレイポップ</th></tr>
+			<tr><td>
+					<a href="img/sabanna_tokusou022.jpg">
+					<img height="283" src="img/sabanna_tokusou022_small.jpg" width="378" /></a></td></tr>
+			<!--
+			-->			
+			<tr><td class="comment">
+					NTCマークが緑一色になったように、タイトルも緑に。</td></tr>
+			<tr><th id="9">関連投稿</th></tr>
+			<tr><td>
+			<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">【限定】本日より上野・国立科学博物館で開催の「大哺乳類展2 <a href="https://twitter.com/mammals2_2019?ref_src=twsrc%5Etfw">@mammals2_2019</a>」にて『サバンナ特装版』を限定発売！人気5種が特装版で大復活！なんと以前シークレットだったあいつがノーマルに！解説書も充実の内容に改訂！この機会をお見逃しなく！<br>全5種 500円 カプセルトイ<a href="https://t.co/lrvEapaenH">https://t.co/lrvEapaenH</a> <a href="https://t.co/9VodGQ90Hm">pic.twitter.com/9VodGQ90Hm</a></p>&mdash; ネイチャーテクニカラー いきもん公式 (@NTC_ikimon) <a href="https://twitter.com/NTC_ikimon/status/1108658812385259521?ref_src=twsrc%5Etfw">2019年3月21日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+			</td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			
+			<tr><th id="10">&nbsp;</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+						
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

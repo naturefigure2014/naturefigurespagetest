@@ -1,0 +1,232 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>海遊館ミュージアム</title>
+<meta name="twitter:card" content="summary_large_image" /> <!--①-->
+<meta name="twitter:site" content="@aquarium_ninja" /> <!--②-->
+<meta property="og:url" content="https://ninjaaquarium.web.fc2.com/ntc/etc/kaiyukan_syohan/" /> <!--③-->
+<meta property="og:title" content="奇譚クラブ　海遊館ミュージアム(初版)" /> <!--④-->
+<meta property="og:description" content="フィギュアのレビューページ" /> <!--⑤-->
+<meta property="og:image" content="https://ninjaaquarium.web.fc2.com/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan036.jpg" /> <!--⑥-->
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>奇譚クラブ　海遊館ミュージアム(初版)</h4>
+		<table width="100%">
+			<tr>
+				<td>
+				 <img height="379" src="img/kaiyukan_syohan036.jpg" width="760" /></td>
+			</tr>
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2007年9月　価格：200円<br />
+			発売元：株式会社藤二誠　企画：奇譚クラブ<br />
+			企画総指揮：佐藤純也　原型製作：KOW<br />
+			ネイチャーテクニカラーシリーズが発足する前、佐藤編集長が奇譚クラブに移籍して間もないころに（？）発売されました。<br />
+			直前にユージンからリリースされた<a href="../../../yujin/asahiyama">原色旭山動物園立体図鑑１</a>と同じくヴィネット調になっており、原色図鑑シリーズと違い透明な支柱は使用していません。
+			このスタイルは<a href="../../daiza/kaiyo1">ネイチャーテクニカラー台座シリーズ</a>へと継承されてゆきます。<br />
+			<br />
+			■復刻<br />
+			2009年にネイチャーテクニカラー台座シリーズとして、ラインナップを増やして復刻しました。<a href="../../daiza/kaiyukann">コチラ</a>。</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/kaiyukan_syohan019_small.jpg" width="146" /></a></td><td>
+			<img src="../../../img/black_dummy.png" width="146" /></td><td><a href="#3">
+<img src="img/kaiyukan_syohan028_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/kaiyukan_syohan025_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/kaiyukan_syohan017_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#6">
+<img src="img/kaiyukan_syohan030_small.jpg" width="146" /></a></td><td>
+			<img src="../../../img/black_dummy.png" width="146" /></td><td><a href="#8">
+<img src="img/kaiyukan_syohan032_small.jpg" width="146" /></a></td><td>&nbsp;</td><td>
+			&nbsp;</td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->		
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">オオサンショウウオ</th></tr>
+			<tr><td><a href="img/kaiyukan_syohan019.jpg">
+				<img height="283" src="img/kaiyukan_syohan019_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan019.jpg" --></a><a href="img/kaiyukan_syohan020.jpg"><img height="283" src="img/kaiyukan_syohan020_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan020.jpg" --></a></td></tr>
+			<tr><td><a href="img/kaiyukan_syohan021.jpg">
+				<img height="283" src="img/kaiyukan_syohan021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan021.jpg" --></a><a href="img/kaiyukan_syohan022.jpg"><img height="283" src="img/kaiyukan_syohan022_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan022.jpg" --></a></td></tr>
+			<tr><td class="comment">海のイメージが強い海遊館ですが、順路の最初は日本の森。<br />
+				オオサンショウウオが来場客を迎えます。<br />
+				フィギュアは腹を浮かせ、岩との接点が少なくすることで水中を表現していますね。</td></tr>
+			<tr><td><a href="img/kaiyukan_syohan023.jpg">
+				<img height="283" src="img/kaiyukan_syohan023_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan023.jpg" --></a><a href="img/kaiyukan_syohan024.jpg"><img height="283" src="img/kaiyukan_syohan024_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan024.jpg" --></a></td></tr>
+			<tr><td class="comment">身体をS字にくねらせています。<br />
+				塗装もなかなかキマっているのではないでしょうか。</td></tr>
+			<!--
+			-->			
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><th id="2">ラッコ</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">未入手</td></tr>
+			<!--
+			-->
+			<tr><th id="3">ゴマフアザラシ</th></tr>
+			<tr><td><a href="img/kaiyukan_syohan028.jpg">
+				<img height="283" src="img/kaiyukan_syohan028_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan028.jpg" --></a><a href="img/kaiyukan_syohan029.jpg"><img height="283" src="img/kaiyukan_syohan029_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan029.jpg" --></a></td></tr>
+			<tr><td class="comment">同時期にリリースされた海洋堂のゴマフアザラシが遊泳だった一方、こちらは寝そべり。<br />
+				身体のグラデーション塗装に加え、斑点は2色。かなり工数がかかっていそうです。</td></tr>
+			<!--
+			-->			
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><th id="4">オウサマペンギン、ジェンツーペンギン</th></tr>
+			<tr><td><a href="img/kaiyukan_syohan025.jpg">
+				<img height="283" src="img/kaiyukan_syohan025_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan025.jpg" --></a><a href="img/kaiyukan_syohan026.jpg"><img height="283" src="img/kaiyukan_syohan026_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan026.jpg" --></a></td></tr>
+			<tr><td><a href="img/kaiyukan_syohan027.jpg">
+				<img height="283" src="img/kaiyukan_syohan027_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan027.jpg" --></a></td></tr>
+			<tr><td class="comment">黄色い脚のペンギンはジェンツーペンギンくらい、というのは有名な話。<br />
+				２種類のペンギンが一度に楽しめるフィギュア。</td></tr>
+			<!--
+			-->
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><th id="5">ジンベエザメ</th></tr>
+			<tr><td><a href="img/kaiyukan_syohan016.jpg">
+				<img height="283" src="img/kaiyukan_syohan016_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan016.jpg" --></a><a href="img/kaiyukan_syohan017.jpg"><img height="283" src="img/kaiyukan_syohan017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan017.jpg" --></a></td></tr>
+			<tr><td><a href="img/kaiyukan_syohan018.jpg">
+				<img height="283" src="img/kaiyukan_syohan018_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan018.jpg" --></a></td></tr>
+			<tr><td class="comment">海遊館の目玉展示のジンベエザメ。<br />
+				実際の体色はこれほど青くはなさそうですが、おそらく水中を表現するために青めにしているのでしょう。<br />
+				単純な透明支柱とはせず、泳ぎによって生じた水しぶきを支柱としています。</td></tr>
+			<!--
+			-->			
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><th id="6">オニイトマキエイ</th></tr>
+			<tr><td><a href="img/kaiyukan_syohan030.jpg">
+				<img height="283" src="img/kaiyukan_syohan030_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan030.jpg" --></a><a href="img/kaiyukan_syohan031.jpg"><img height="283" src="img/kaiyukan_syohan031_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan031.jpg" --></a></td></tr>
+			<tr><td class="comment">水族館の魅力の一つが展示水槽。<br />
+				その水槽窓ごとフィギュア化することで「海遊館ミュージアム」のタイトルにふさわしい一品となっています。</td></tr>
+			<!--
+			-->
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><th id="7">アオウミガメ</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment">未入手</td></tr>
+			<!--
+			-->			
+			<tr><th id="8">タカアシガニ</th></tr>
+			<tr><td><a href="img/kaiyukan_syohan032.jpg">
+				<img height="283" src="img/kaiyukan_syohan032_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan032.jpg" --></a><a href="img/kaiyukan_syohan033.jpg"><img height="283" src="img/kaiyukan_syohan033_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan033.jpg" --></a></td></tr>
+			<tr><td><a href="img/kaiyukan_syohan034.jpg">
+				<img height="283" src="img/kaiyukan_syohan034_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan034.jpg" --></a><a href="img/kaiyukan_syohan035.jpg"><img height="283" src="img/kaiyukan_syohan035_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/ntc/etc/kaiyukan_syohan/img/kaiyukan_syohan035.jpg" --></a></td></tr>
+			<tr><td class="comment">やはりどんなフィギュアシリーズでもタカアシガニのインパクトは強い。<br />
+				原色図鑑によって培われた分割技術が活きています。<br />
+				赤い体色がラインナップに彩りを加える。</td></tr>
+			<!--
+			-->
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><th id="9">解説書</th></tr>
+			<tr><td><a href="img/kaiyukannbook.jpg">
+	<img height="356" src="img/kaiyukannbook_small.jpg" width="756" /></a></td></tr>
+			<tr><td class="comment">サイズは原色図鑑のそれと同じ。</td></tr>
+			<!--
+			-->			
+			<tr><td class="comment">&nbsp;</td></tr>
+			<tr><th id="10">ラインナップ</th></tr>
+			<tr><td class="comment">オオサンショウウオ<br />
+				ラッコ<font color="red">(未入手)</font><br />
+				ゴマフアザラシ<br />
+				オウサマペンギン、ジェンツーペンギン <br />
+				ジンベエザメ<br />
+				オニイトマキエイ<br />
+				アオウミガメ<font color="red">(未入手)</font><br />
+				タカアシガニ</td></tr>
+			<!--
+			-->
+		
+						
+			</table>
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
