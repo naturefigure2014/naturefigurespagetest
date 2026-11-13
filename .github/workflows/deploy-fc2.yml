@@ -23,6 +23,10 @@ on:
         description: "Compare passive FTP data connection address handling"
         type: boolean
         default: false
+      lftp_test:
+        description: "Test a small FTP directory synchronization"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -33,7 +37,7 @@ concurrency:
 
 jobs:
   connection-check:
-    if: ${{ inputs.connection_test_only && !inputs.active_upload_test && !inputs.action_upload_test && !inputs.pasv_address_test }}
+    if: ${{ inputs.connection_test_only && !inputs.active_upload_test && !inputs.action_upload_test && !inputs.pasv_address_test && !inputs.lftp_test }}
     runs-on: ubuntu-latest
     steps:
       - name: Test FTP directory listing
@@ -58,7 +62,7 @@ jobs:
           exit "$status"
 
   active-upload-check:
-    if: ${{ inputs.active_upload_test && !inputs.action_upload_test && !inputs.pasv_address_test }}
+    if: ${{ inputs.active_upload_test && !inputs.action_upload_test && !inputs.pasv_address_test && !inputs.lftp_test }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -87,7 +91,7 @@ jobs:
           echo "Active FTP upload and verification succeeded: test/$filename"
 
   passive-upload-check:
-    if: ${{ inputs.active_upload_test && !inputs.action_upload_test && !inputs.pasv_address_test }}
+    if: ${{ inputs.active_upload_test && !inputs.action_upload_test && !inputs.pasv_address_test && !inputs.lftp_test }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -116,7 +120,7 @@ jobs:
           echo "Passive FTP upload and verification succeeded: test/$filename"
 
   action-upload-check:
-    if: ${{ inputs.action_upload_test && !inputs.pasv_address_test }}
+    if: ${{ inputs.action_upload_test && !inputs.pasv_address_test && !inputs.lftp_test }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -143,7 +147,7 @@ jobs:
           cmp ftp-action-test/_astro/check.txt "$RUNNER_TEMP/ftp-action-check.txt"
 
   root-upload-check:
-    if: ${{ inputs.action_upload_test && !inputs.pasv_address_test }}
+    if: ${{ inputs.action_upload_test && !inputs.pasv_address_test && !inputs.lftp_test }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -172,7 +176,7 @@ jobs:
           cmp "ftp-root-test/_astro/$filename" "$RUNNER_TEMP/ftp-root-check.txt"
 
   pasv-address-check:
-    if: inputs.pasv_address_test
+    if: ${{ inputs.pasv_address_test && !inputs.lftp_test }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -219,8 +223,44 @@ jobs:
           done
           exit "$status"
 
+  lftp-check:
+    if: inputs.lftp_test
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Install lftp
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq lftp
+      - name: Test upload and update with lftp
+        env:
+          FTP_USERNAME: ${{ secrets.FC2_FTP_USERNAME }}
+          LFTP_PASSWORD: ${{ secrets.FC2_FTP_PASSWORD }}
+        run: |
+          test -n "$FTP_USERNAME" && test -n "$LFTP_PASSWORD" || {
+            echo "::error::FC2 FTP secrets must be configured."
+            exit 1
+          }
+          dir="ftp-lftp-diagnostic-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          mkdir -p "$RUNNER_TEMP/lftp-source/_astro" "$RUNNER_TEMP/lftp-source/nested"
+          printf 'Initial upload %s\n' "$GITHUB_RUN_ID" > "$RUNNER_TEMP/lftp-source/_astro/check.txt"
+          printf 'Nested file %s\n' "$GITHUB_RUN_ID" > "$RUNNER_TEMP/lftp-source/nested/check.txt"
+          command="set cmd:fail-exit yes; set ftp:ssl-allow no; set ftp:passive-mode yes; set ftp:use-epsv no; set ftp:trust-pasv-address yes; set net:timeout 20; set net:max-retries 2; mirror --reverse --verbose \"$RUNNER_TEMP/lftp-source\" \"/test/$dir\"; bye"
+          echo "Uploading nested files through observed control endpoint 104.244.99.135..."
+          lftp --env-password -u "$FTP_USERNAME" -e "$command" "ftp://104.244.99.135"
+          printf 'Updated upload with changed content %s\n' "$GITHUB_RUN_ID" > "$RUNNER_TEMP/lftp-source/_astro/check.txt"
+          echo "Uploading an updated file..."
+          lftp --env-password -u "$FTP_USERNAME" -e "$command" "ftp://104.244.99.135"
+          for file in _astro/check.txt nested/check.txt; do
+            echo "Verifying $file over HTTP..."
+            curl --silent --show-error --fail --max-time 30 \
+              "https://ninjaaquarium.web.fc2.com/test/$dir/$file" --output "$RUNNER_TEMP/lftp-readback.txt"
+            cmp "$RUNNER_TEMP/lftp-source/$file" "$RUNNER_TEMP/lftp-readback.txt"
+          done
+          echo "lftp upload, update and HTTP verification succeeded: test/$dir/"
+
   deploy:
-    if: ${{ !inputs.connection_test_only && !inputs.active_upload_test && !inputs.action_upload_test && !inputs.pasv_address_test }}
+    if: ${{ !inputs.connection_test_only && !inputs.active_upload_test && !inputs.action_upload_test && !inputs.pasv_address_test && !inputs.lftp_test }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
