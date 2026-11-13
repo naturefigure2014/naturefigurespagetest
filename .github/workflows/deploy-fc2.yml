@@ -245,7 +245,7 @@ jobs:
           mkdir -p "$RUNNER_TEMP/lftp-source/_astro" "$RUNNER_TEMP/lftp-source/nested"
           printf 'Initial upload %s\n' "$GITHUB_RUN_ID" > "$RUNNER_TEMP/lftp-source/_astro/check.txt"
           printf 'Nested file %s\n' "$GITHUB_RUN_ID" > "$RUNNER_TEMP/lftp-source/nested/check.txt"
-          command="set cmd:fail-exit yes; set ftp:ssl-allow no; set ftp:passive-mode yes; set ftp:use-epsv no; set ftp:trust-pasv-address yes; set net:timeout 20; set net:max-retries 2; mirror --reverse --verbose \"$RUNNER_TEMP/lftp-source\" \"/test/$dir\"; bye"
+          command="set cmd:fail-exit yes; set ftp:ssl-allow no; set ftp:passive-mode yes; set ftp:prefer-epsv no; set ftp:trust-pasv-address yes; set net:timeout 20; set net:max-retries 2; mirror --reverse --verbose \"$RUNNER_TEMP/lftp-source\" \"/test/$dir\"; bye"
           echo "Uploading nested files through observed control endpoint 104.244.99.135..."
           lftp --env-password -u "$FTP_USERNAME" -e "$command" "ftp://104.244.99.135"
           printf 'Updated upload with changed content %s\n' "$GITHUB_RUN_ID" > "$RUNNER_TEMP/lftp-source/_astro/check.txt"
