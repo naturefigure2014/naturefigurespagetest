@@ -41,7 +41,9 @@ GitHub Pagesへの公開とは別に、GitHub ActionsからFC2の
 6. ビルド成果物は `fc2-site-dist` というGitHub Actions artifactとして7日間保存します。
    デプロイが失敗した場合は同じ実行の **Re-run jobs → Re-run failed jobs** を選びます。
    成功したbuild jobは再実行されず、保存済み成果物をdeploy jobで再利用します。
-   **Re-run all jobs** を選ぶとビルドからやり直します。
+   **Re-run all jobs** を選ぶとビルドからやり直します。ワークフローを修正して
+   再実行する場合は、`artifact_run_id` に失敗した実行のIDを指定すると、
+   その実行の成果物を使ってビルドを省略できます（成果物の保存期間は7日間です）。
 
 FTP接続を調査する場合は、ワークフロー実行時に `Test FTP data connections
 without building or uploading` を有効にすると、ビルドやアップロードを行わずに

@@ -11,8 +11,13 @@ on:
         description: "Test FTP data connections without building or uploading"
         type: boolean
         default: false
+      artifact_run_id:
+        description: "Reuse fc2-site-dist from a previous run instead of rebuilding"
+        type: string
+        default: ""
 
 permissions:
+  actions: read
   contents: read
 
 concurrency:
@@ -46,7 +51,7 @@ jobs:
           exit "$status"
 
   build:
-    if: ${{ !inputs.connection_test_only }}
+    if: ${{ !inputs.connection_test_only && inputs.artifact_run_id == '' }}
     runs-on: ubuntu-latest
     timeout-minutes: 90
     steps:
@@ -91,16 +96,27 @@ jobs:
           compression-level: 0
 
   deploy:
-    if: ${{ !inputs.connection_test_only }}
+    if: ${{ always() && !inputs.connection_test_only && (needs.build.result == 'success' || inputs.artifact_run_id != '') }}
     needs: build
     runs-on: ubuntu-latest
     timeout-minutes: 360
     steps:
       - name: Download FC2 build artifact
+        if: ${{ inputs.artifact_run_id == '' }}
         uses: actions/download-artifact@v4
         with:
           name: fc2-site-dist
           path: ./dist/
+
+      - name: Download FC2 build artifact from previous run
+        if: ${{ inputs.artifact_run_id != '' }}
+        uses: actions/download-artifact@v4
+        with:
+          name: fc2-site-dist
+          path: ./dist/
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          run-id: ${{ inputs.artifact_run_id }}
 
       - name: Install lftp
         run: |
@@ -118,7 +134,7 @@ jobs:
             echo "::error::FC2 FTP secrets must be configured."
             exit 1
           }
-          mirror_options="--reverse --verbose"
+          mirror_options="--reverse --verbose --no-perms"
           if [ "$DRY_RUN" = true ]; then
             mirror_options="$mirror_options --dry-run"
           fi
