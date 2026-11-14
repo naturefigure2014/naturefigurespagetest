@@ -4,6 +4,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "postbuild": "node scripts/normalize-fc2-paths.mjs",
     "preview": "astro preview"
   },
   "dependencies": {

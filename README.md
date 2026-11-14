@@ -44,6 +44,8 @@ GitHub Pagesへの公開とは別に、GitHub ActionsからFC2の
    **Re-run all jobs** を選ぶとビルドからやり直します。ワークフローを修正して
    再実行する場合は、`artifact_run_id` に失敗した実行のIDを指定すると、
    その実行の成果物を使ってビルドを省略できます（成果物の保存期間は7日間です）。
+   FC2向けビルドでは、日本語などASCII以外の出力パス要素をASCII名に変換し、
+   生成されたHTML/CSS内のリンクも変換後の名前に合わせます。GitHub Pages向けのURLは変わりません。
 
 FTP接続を調査する場合は、ワークフロー実行時に `Test FTP data connections
 without building or uploading` を有効にすると、ビルドやアップロードを行わずに
