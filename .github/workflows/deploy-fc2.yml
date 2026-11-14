@@ -45,9 +45,10 @@ jobs:
             "ftp://$FTP_SERVER/test/" --output /dev/null || status=1
           exit "$status"
 
-  deploy:
+  build:
     if: ${{ !inputs.connection_test_only }}
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -80,13 +81,56 @@ jobs:
             exit 1
           fi
 
-      - name: Deploy to FC2 test directory
-        uses: SamKirkland/FTP-Deploy-Action@a51268f67f6605236975928ae28b0f7e9971d50a # v4.3.6
+      - name: Save FC2 build artifact
+        uses: actions/upload-artifact@v4
         with:
-          server: ${{ secrets.FC2_FTP_SERVER }}
-          username: ${{ secrets.FC2_FTP_USERNAME }}
-          password: ${{ secrets.FC2_FTP_PASSWORD }}
-          protocol: ftp
-          local-dir: ./dist/
-          server-dir: ./test/
-          dry-run: ${{ inputs.dry_run }}
+          name: fc2-site-dist
+          path: ./dist/
+          if-no-files-found: error
+          retention-days: 7
+          compression-level: 0
+
+  deploy:
+    if: ${{ !inputs.connection_test_only }}
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Download FC2 build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: fc2-site-dist
+          path: ./dist/
+
+      - name: Install lftp
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq lftp
+
+      - name: Deploy to FC2 test directory
+        env:
+          FTP_SERVER: ${{ secrets.FC2_FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FC2_FTP_USERNAME }}
+          LFTP_PASSWORD: ${{ secrets.FC2_FTP_PASSWORD }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          test -n "$FTP_SERVER" && test -n "$FTP_USERNAME" && test -n "$LFTP_PASSWORD" || {
+            echo "::error::FC2 FTP secrets must be configured."
+            exit 1
+          }
+          mirror_options="--reverse --verbose"
+          if [ "$DRY_RUN" = true ]; then
+            mirror_options="$mirror_options --dry-run"
+          fi
+          lftp --env-password -u "$FTP_USERNAME" \
+            -e "set cmd:fail-exit yes; set ftp:ssl-allow no; set ftp:passive-mode yes; set ftp:prefer-epsv no; set ftp:ignore-pasv-address no; set ftp:fix-pasv-address no; set net:timeout 20; set net:max-retries 3; mirror $mirror_options ./dist/ /test/; bye" \
+            "ftp://$FTP_SERVER"
+
+      - name: Verify published homepage
+        if: ${{ !inputs.dry_run }}
+        run: |
+          curl --silent --show-error --fail --max-time 60 \
+            --header 'Cache-Control: no-cache' \
+            "https://ninjaaquarium.web.fc2.com/test/?run=${GITHUB_RUN_ID}" \
+            --output "$RUNNER_TEMP/fc2-homepage.html"
+          cmp dist/index.html "$RUNNER_TEMP/fc2-homepage.html"
