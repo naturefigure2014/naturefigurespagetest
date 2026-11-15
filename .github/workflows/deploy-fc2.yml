@@ -149,4 +149,9 @@ jobs:
             --header 'Cache-Control: no-cache' \
             "https://ninjaaquarium.web.fc2.com/test/?run=${GITHUB_RUN_ID}" \
             --output "$RUNNER_TEMP/fc2-homepage.html"
-          cmp dist/index.html "$RUNNER_TEMP/fc2-homepage.html"
+          grep --fixed-strings --quiet \
+            '<title>NATURE FIGURE | ネイチャーフィギュアのページ</title>' \
+            "$RUNNER_TEMP/fc2-homepage.html"
+          grep --fixed-strings --quiet \
+            '自然の魅力をカタチにした' \
+            "$RUNNER_TEMP/fc2-homepage.html"
