@@ -6,7 +6,8 @@ titleId: ikimon/ATC/chugokuocho
 figureId: "004"
 maker: "キタンクラブ"
 sculptor: "菱山 聡"
-species: "-"
+themes:
+  - "中国の歴史"
 price: "400円"
 releaseStart: "-"
 genre:

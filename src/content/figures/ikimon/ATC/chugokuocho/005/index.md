@@ -6,7 +6,8 @@ titleId: ikimon/ATC/chugokuocho
 figureId: "005"
 maker: "キタンクラブ"
 sculptor: "松田モデル"
-species: "-"
+themes:
+  - "中国の歴史"
 price: "400円"
 releaseStart: "-"
 genre:

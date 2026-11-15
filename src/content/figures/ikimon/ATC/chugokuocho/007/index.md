@@ -6,7 +6,8 @@ titleId: ikimon/ATC/chugokuocho
 figureId: "007"
 maker: "キタンクラブ"
 sculptor: "松田モデル 菱山 聡"
-species: "-"
+themes:
+  - "中国の歴史"
 price: "400円"
 releaseStart: "-"
 genre:

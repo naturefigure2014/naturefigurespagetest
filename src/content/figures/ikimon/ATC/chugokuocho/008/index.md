@@ -6,7 +6,8 @@ titleId: ikimon/ATC/chugokuocho
 figureId: "008"
 maker: "キタンクラブ"
 sculptor: "現代美術二等兵 吉敷麻里亜"
-species: "-"
+themes:
+  - "中国の歴史"
 price: "400円"
 releaseStart: "-"
 genre:
