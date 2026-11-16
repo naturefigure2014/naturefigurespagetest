@@ -1,6 +1,9 @@
 name: Deploy test site to FC2
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
     inputs:
       dry_run:
@@ -55,7 +58,7 @@ jobs:
           exit "$status"
 
   build:
-    if: ${{ !inputs.connection_test_only && inputs.artifact_run_id == '' }}
+    if: ${{ github.event_name == 'push' || (!inputs.connection_test_only && inputs.artifact_run_id == '') }}
     runs-on: ubuntu-latest
     timeout-minutes: 90
     steps:
@@ -100,7 +103,7 @@ jobs:
           compression-level: 0
 
   deploy:
-    if: ${{ always() && !inputs.connection_test_only && (needs.build.result == 'success' || inputs.artifact_run_id != '') }}
+    if: ${{ always() && (github.event_name == 'push' || !inputs.connection_test_only) && (needs.build.result == 'success' || (github.event_name == 'workflow_dispatch' && inputs.artifact_run_id != '')) }}
     needs: build
     runs-on: ubuntu-latest
     timeout-minutes: 360
@@ -109,14 +112,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Download FC2 build artifact
-        if: ${{ inputs.artifact_run_id == '' }}
+        if: ${{ github.event_name == 'push' || inputs.artifact_run_id == '' }}
         uses: actions/download-artifact@v4
         with:
           name: fc2-site-dist
           path: ./dist/
 
       - name: Download FC2 build artifact from previous run
-        if: ${{ inputs.artifact_run_id != '' }}
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.artifact_run_id != '' }}
         uses: actions/download-artifact@v4
         with:
           name: fc2-site-dist
@@ -135,12 +138,12 @@ jobs:
           FTP_SERVER: ${{ secrets.FC2_FTP_SERVER }}
           FTP_USERNAME: ${{ secrets.FC2_FTP_USERNAME }}
           LFTP_PASSWORD: ${{ secrets.FC2_FTP_PASSWORD }}
-          DRY_RUN: ${{ inputs.dry_run }}
-          FORCE_FULL: ${{ inputs.force_full }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+          FORCE_FULL: ${{ github.event_name == 'workflow_dispatch' && inputs.force_full }}
         run: node scripts/fc2-incremental-deploy.mjs
 
       - name: Verify published homepage
-        if: ${{ !inputs.dry_run }}
+        if: ${{ github.event_name == 'push' || !inputs.dry_run }}
         run: |
           curl --silent --show-error --fail --max-time 60 \
             --header 'Cache-Control: no-cache' \

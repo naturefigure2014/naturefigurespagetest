@@ -23,7 +23,8 @@ npm run build
 ## FC2テストサイトへの公開
 
 GitHub Pagesへの公開とは別に、GitHub ActionsからFC2の
-`https://ninjaaquarium.web.fc2.com/test/` に手動で公開します。
+`https://ninjaaquarium.web.fc2.com/test/` に公開します。
+`main` へのpush後に自動でビルド・公開し、手動実行もできます。
 
 1. FC2の管理画面「FTP設定」でFTP接続ロックを解除し、FTPホスト名、
    ユーザー名、FTPパスワードを確認します。FC2 IDのパスワードとは異なります。
@@ -33,11 +34,11 @@ GitHub Pagesへの公開とは別に、GitHub ActionsからFC2の
 3. GitHubリポジトリの **Settings → Secrets and variables → Actions** で、
    `FC2_FTP_SERVER`、`FC2_FTP_USERNAME`、`FC2_FTP_PASSWORD` を
    repository secretsとして登録します。パスワードをソースやログに書かないでください。
-4. このワークフローとサイトの変更をGitHubに反映します。**Actions → Deploy test
-   site to FC2 → Run workflow** から、まず `Preview changes without uploading`
-   を有効にして実行し、ログで変更対象を確認します。
-5. 問題がなければ同じ画面でプレビューを無効にして実行し、公開URLの画像とリンクを
-   確認します。以後の更新も手動で実行します。
+4. このワークフローを `main` に反映すると自動公開が始まります。以後も `main` に
+   pushすると、自動でビルドして実際に転送します。FTP接続ロックが有効な場合は失敗します。
+5. 手動実行する場合は **Actions → Deploy test site to FC2 → Run workflow** から、
+   `Preview changes without uploading` を有効にして変更対象を確認できます。
+   実際に転送するにはプレビューを無効にします。公開後は画像とリンクも確認してください。
 6. ビルド成果物は `fc2-site-dist` というGitHub Actions artifactとして7日間保存します。
    デプロイが失敗した場合は同じ実行の **Re-run jobs → Re-run failed jobs** を選びます。
    成功したbuild jobは再実行されず、保存済み成果物をdeploy jobで再利用します。
@@ -55,6 +56,8 @@ GitHub Pagesへの公開とは別に、GitHub ActionsからFC2の
 公開されます。FTPソフトなどで手動変更・削除したファイルは自動検出できないため、
 その場合や状態に不安がある場合は `Transfer all files` を有効にして復旧してください。
 転送元から削除された古いファイルは自動削除されません。
+FC2へのデプロイは同時に1実行だけです。実行中に新しい自動・手動実行が複数追加されると、
+待機中の古い実行は新しい実行に置き換わります。実行中の転送は中断されません。
 
 FTP接続を調査する場合は、ワークフロー実行時に `Test FTP data connections
 without building or uploading` を有効にすると、ビルドやアップロードを行わずに
