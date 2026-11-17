@@ -15,7 +15,6 @@ groups:
       - "ヒガシローランドゴリラ"
       - "ボルネオオランウータン"
       - "エリマキキツネザル"
-      - "オラウータン"
   食肉類:
     imageFigureId: ikimon/daiza/kaiyukann/002
     icon: "♣"

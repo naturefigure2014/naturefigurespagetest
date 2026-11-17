@@ -77,12 +77,22 @@ function ftp(commands, capture = false) {
     "set net:timeout 20; set net:max-retries 3;";
   const result = spawnSync("lftp", ["--env-password", "-u", FTP_USERNAME, "-e",
     `${setup} ${commands}; bye`, `ftp://${FTP_SERVER}`], {
-    encoding: "utf8", stdio: capture ? ["ignore", "pipe", "inherit"] : "inherit",
+    encoding: "utf8", stdio: capture ? ["ignore", "pipe", "pipe"] : "inherit",
     maxBuffer: 8 * 1024 * 1024
   });
   if (result.error) throw result.error;
-  if (result.status !== 0) throw new Error(`lftp failed with exit status ${result.status ?? result.signal}`);
+  if (result.status !== 0) {
+    const error = new Error(`lftp failed with exit status ${result.status ?? result.signal}${result.stderr ? `: ${result.stderr.trim()}` : ""}`);
+    error.stderr = result.stderr;
+    throw error;
+  }
+  if (result.stderr) process.stderr.write(result.stderr);
   return result.stdout ?? "";
+}
+
+function isMissingStateError(error) {
+  return error && typeof error.stderr === "string" &&
+    /\b550\b[^\r\n]*\b(?:no such file|file not found)\b/i.test(error.stderr);
 }
 
 async function writeAndVerifyState(localPath, text, ftpClient) {
@@ -101,23 +111,29 @@ export async function deploy({ root, dryRun = false, forceFull = false, ftpClien
   try {
     const manifest = await buildManifest(root);
     const statePath = path.join(temp, stateName);
-    const entries = ftpClient("cls -1 /test/", true).split(/\r?\n/).map((line) => line.trim());
     let previous = null;
-    if (entries.includes(stateName)) {
-      ftpClient(`get /test/${stateName} -o ${quote(statePath)}`);
-      const stateText = await readFile(statePath, "utf8");
-      try {
-        previous = parseState(stateText);
-      } catch (error) {
-        console.warn(`Cannot trust FC2 deployment state: ${error.message}; transferring all files.`);
-      }
-      if (!previous) console.warn("Previous FC2 deployment was incomplete; transferring all files.");
-    } else {
-      console.log("No previous FC2 deployment state found; transferring all files.");
-    }
     if (forceFull) {
       console.log("Full deployment requested; transferring all files.");
-      previous = null;
+    } else {
+      let stateExists = true;
+      try {
+        ftpClient(`get /test/${stateName} -o ${quote(statePath)}`, true);
+      } catch (error) {
+        if (!isMissingStateError(error)) {
+          throw new Error(`Cannot retrieve FC2 deployment state; deployment stopped: ${error.message}`);
+        }
+        stateExists = false;
+        console.log("No previous FC2 deployment state found; transferring all files.");
+      }
+      if (stateExists) {
+        const stateText = await readFile(statePath, "utf8");
+        try {
+          previous = parseState(stateText);
+          if (!previous) console.warn("Previous FC2 deployment was incomplete; transferring all files.");
+        } catch (error) {
+          console.warn(`Cannot trust FC2 deployment state: ${error.message}; transferring all files.`);
+        }
+      }
     }
     const changed = changedFiles(manifest, previous);
     console.log(`Files: ${Object.keys(manifest.files).length}; to transfer: ${changed.length}; unchanged: ${Object.keys(manifest.files).length - changed.length}.`);

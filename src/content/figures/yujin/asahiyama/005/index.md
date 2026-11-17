@@ -6,7 +6,7 @@ titleId: yujin/asahiyama
 figureId: "005"
 maker: "ユージン"
 sculptor: "KOW"
-species: "オラウータン"
+species: "オランウータン"
 price: "300円"
 releaseStart: "2007.06"
 genre:

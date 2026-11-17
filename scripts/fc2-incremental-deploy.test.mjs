@@ -30,9 +30,10 @@ test("deploy handles unchanged files, failed transfers, dry runs, and full recov
   await writeFile(path.join(root, "sub", "image.jpg"), "image");
   let mirrors = 0;
   let failMirror = false;
+  let stateError = null;
+  let stateReads = 0;
   let transferred = [];
-  function fakeFtp(command) {
-    if (command === "cls -1 /test/") return readdirSync(remote).join("\n");
+  function fakeFtp(command, capture = false) {
     const put = /^put "([^"]+)" -o \/test\/fc2-deploy-state\.json$/.exec(command);
     if (put) {
       cpSync(put[1], path.join(remote, "fc2-deploy-state.json"));
@@ -40,6 +41,13 @@ test("deploy handles unchanged files, failed transfers, dry runs, and full recov
     }
     const get = /^get \/test\/fc2-deploy-state\.json -o "([^"]+)"$/.exec(command);
     if (get) {
+      if (capture) stateReads++;
+      if (capture && stateError) throw stateError;
+      if (!existsSync(path.join(remote, "fc2-deploy-state.json"))) {
+        const error = new Error("FTP state file not found");
+        error.stderr = "get: Access failed: 550 No such file";
+        throw error;
+      }
       cpSync(path.join(remote, "fc2-deploy-state.json"), get[1]);
       return "";
     }
@@ -67,6 +75,7 @@ test("deploy handles unchanged files, failed transfers, dry runs, and full recov
 
   await deploy(options);
   assert.equal(mirrors, 1);
+  assert.equal(stateReads, 1);
   assert.deepEqual(transferred.sort(), ["index.html", "sub/image.jpg"]);
   assert.equal(parseState(readFileSync(path.join(remote, "fc2-deploy-state.json"), "utf8")).complete, true);
 
@@ -93,7 +102,23 @@ test("deploy handles unchanged files, failed transfers, dry runs, and full recov
   writeFileSync(path.join(remote, "fc2-deploy-state.json"), "{");
   await deploy(options);
   assert.deepEqual(transferred.sort(), ["index.html", "sub/image.jpg"]);
+  const readsBeforeFailure = stateReads;
+  stateError = new Error("Permission denied");
+  stateError.stderr = "get: Access failed: 550 Permission denied";
+  const stateBeforeFailure = readFileSync(path.join(remote, "fc2-deploy-state.json"), "utf8");
+  const mirrorsBeforeFailure = mirrors;
+  await assert.rejects(deploy(options), /Cannot retrieve FC2 deployment state; deployment stopped/);
+  assert.equal(stateReads, readsBeforeFailure + 1);
+  assert.equal(mirrors, mirrorsBeforeFailure);
+  assert.equal(readFileSync(path.join(remote, "fc2-deploy-state.json"), "utf8"), stateBeforeFailure);
+  stateError = new Error("Connection timed out");
+  stateError.stderr = "get: Connection timed out";
+  await assert.rejects(deploy(options), /Cannot retrieve FC2 deployment state; deployment stopped/);
+  assert.equal(mirrors, mirrorsBeforeFailure);
+  const mirrorsBeforeFull = mirrors;
   await deploy({ ...options, forceFull: true });
+  assert.equal(stateReads, readsBeforeFailure + 2);
+  assert.equal(mirrors, mirrorsBeforeFull + 1);
   assert.deepEqual(transferred.sort(), ["index.html", "sub/image.jpg"]);
   assert.ok(existsSync(path.join(remote, "fc2-deploy-state.json")));
 });
