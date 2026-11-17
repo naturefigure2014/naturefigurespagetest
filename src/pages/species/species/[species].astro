@@ -1,0 +1,65 @@
+---
+import "../../../styles/global.css";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import FigureCardGrid from "../../../components/FigureCardGrid.astro";
+import { getCollection } from "astro:content";
+import { getSpeciesEntries, UNCLASSIFIED_GROUP } from "../../../lib/species";
+import { siteUrl } from "../../../lib/site-url";
+
+const allEntries = await getCollection("figures");
+const figures = allEntries.filter(
+  (item) => item.data.contentType !== "title" && getSpeciesEntries(item.data).length > 0
+);
+
+export async function getStaticPaths() {
+  const entries = await getCollection("figures");
+  const species = [
+    ...new Set(
+      entries
+        .filter((item) => item.data.contentType !== "title")
+        .flatMap((item) => getSpeciesEntries(item.data)
+          .filter((entry) => entry.speciesGroup !== UNCLASSIFIED_GROUP)
+          .map((entry) => entry.species))
+    )
+  ];
+  return species.map((name) => ({ params: { species: name } }));
+}
+
+const rawSpecies = Astro.params.species;
+if (!rawSpecies) throw new Error("Missing species name");
+const speciesName = rawSpecies;
+const speciesFigures = figures.filter((figure) =>
+  getSpeciesEntries(figure.data).some((entry) => entry.species === speciesName)
+);
+const speciesGroups = Array.from(new Set(speciesFigures.flatMap((figure) =>
+  getSpeciesEntries(figure.data)
+    .filter((entry) => entry.species === speciesName)
+    .map((entry) => entry.speciesGroup)
+)));
+const speciesGroup = speciesGroups.join("・") || UNCLASSIFIED_GROUP;
+const speciesGroupBreadcrumb = speciesGroups
+  .map((group) => group.split("/").filter(Boolean).join(" › "))
+  .join("・");
+---
+
+<BaseLayout title={`${speciesName} | NATURE FIGURE`}>
+  <div class="species-detail-page">
+    <div class="breadcrumb">
+      <a href={siteUrl("/")}>ホーム</a><span>›</span>
+      <a href={siteUrl("/species/")}>生きものから探す</a><span>›</span>
+      <span>{speciesGroupBreadcrumb}</span><span>›</span>
+      {speciesName}
+    </div>
+
+    <section class="species-detail-hero">
+      <p class="eyebrow">{speciesGroup}</p>
+      <h1>{speciesName}</h1>
+    </section>
+
+    <section class="species-detail-section">
+      <h2>{speciesName}のフィギュア</h2>
+      <p class="species-detail-count">{speciesFigures.length}種類のフィギュア</p>
+      <FigureCardGrid figures={speciesFigures} />
+    </section>
+  </div>
+</BaseLayout>

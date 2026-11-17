@@ -1,5 +1,7 @@
 groups:
   霊長類:
+    imageFigureId: ikimon/nature_of_japan/noj1/003
+    icon: "●"
     species:
       - "オランウータン"
       - "キンシコウ"
@@ -15,6 +17,8 @@ groups:
       - "エリマキキツネザル"
       - "オラウータン"
   食肉類:
+    imageFigureId: ikimon/daiza/kaiyukann/002
+    icon: "♣"
     species:
       - "アゴヒゲアザラシ"
       - "アザラシ"
@@ -129,6 +133,8 @@ groups:
       - "ヒョウアザラシ"
       - "イタチ"
   齧歯・兎類:
+    imageFigureId: ikimon/daiza/sabanna/010
+    icon: "◆"
     species:
       - "アカネズミ"
       - "アマミノクロウサギ"
@@ -174,6 +180,8 @@ groups:
       - "日本の動物2ブリスター"
       - "日本白色種"
   偶蹄類:
+    imageFigureId: ikimon/daiza/ougon/009
+    icon: "◈"
     species:
       - "アミメキリン"
       - "アルパカ"
@@ -218,6 +226,8 @@ groups:
       - "肉牛"
       - "乳牛"
   奇蹄類:
+    imageFigureId: ikimon/daiza/sabanna/006
+    icon: "◇"
     species:
       - "ウマ"
       - "グラントシマウマ"
@@ -232,11 +242,15 @@ groups:
       - "イエウマ"
       - "グレービーシマウマ"
   ゾウ類:
+    imageFigureId: ikimon/daiza/sabanna/002
+    icon: "◉"
     species:
       - "アジアゾウ"
       - "アフリカゾウ"
       - "インドゾウ"
   クジラ・イルカ類:
+    imageFigureId: ikimon/daiza/kaiyo1/001
+    icon: "◒"
     species:
       - "イシイルカ"
       - "イッカク"
@@ -272,11 +286,15 @@ groups:
       - "ミナミハンドウイルカ"
       - "ハンドウイルカ"
   コウモリ類:
+    imageFigureId: ikimon/daiza/ogasawara/005
+    icon: "▽"
     species:
       - "ウサギコウモリ"
       - "ダイトウオオコウモリ"
       - "オガサワラオオコウモリ"
   有袋類:
+    imageFigureId: ikimon/NTC400/Australia/001
+    icon: "♧"
     species:
       - "アカカンガルー"
       - "コアラ"
@@ -285,6 +303,8 @@ groups:
       - "タスマニアデビル"
       - "ヒメウォンバット"
   その他哺乳類:
+    imageFigureId: ikimon/NTC400/Australia/005
+    icon: "◌"
     species:
       - "アズマモグラ"
       - "アブラコウモリ"
@@ -304,6 +324,8 @@ groups:
       - "ミナミコアリクイ"
       - "アフリカマナティー"
   小鳥・身近な鳥:
+    imageFigureId: kaiyodo/animatales/anima_jap10/005
+    icon: "●"
     species:
       - "ウグイス"
       - "オオヨシキリ"
@@ -317,11 +339,15 @@ groups:
       - "モズ"
       - "ルリビタキ"
   カラス・ハト類:
+    imageFigureId: kaiyodo/animatales/anima_jap3/081
+    icon: "◆"
     species:
       - "キジバト"
       - "ホシガラス"
       - "ルリカケス"
   オウム・インコ類:
+    imageFigureId: kaiyodo/animatales/anima_jap6/158
+    icon: "◇"
     species:
       - "イエリクロボタンインコ"
       - "オカメインコ"
@@ -337,6 +363,8 @@ groups:
       - "ワカケホンセイインコ"
       - "コンゴウインコ"
   猛禽類:
+    imageFigureId: kaiyodo/animatales/anima_jap10/006
+    icon: "▲"
     species:
       - "アオバズク"
       - "アナホリフクロウ"
@@ -360,6 +388,8 @@ groups:
       - "メンフクロウ"
       - "ワシミミズク"
   キジ・ニワトリ類:
+    imageFigureId: kaiyodo/animatales/anima_jap3/077
+    icon: "♠"
     species:
       - "うずら尾"
       - "キジ"
@@ -374,6 +404,8 @@ groups:
       - "にわとり"
       - "【ライチョウ】"
   水鳥:
+    imageFigureId: ikimon/nature_of_japan/noj1/006
+    icon: "◈"
     species:
       - "シナガチョウ"
       - "オオハクチョウ"
@@ -398,6 +430,8 @@ groups:
       - "マガン"
       - "ミコアイサ"
   海鳥:
+    imageFigureId: ikimon/daiza/nannkyoku/007
+    icon: "▽"
     species:
       - "アホウドリ"
       - "ウミネコ"
@@ -405,6 +439,8 @@ groups:
       - "コアホウドリ"
       - "オオトウゾクカモメ"
   ペンギン類:
+    imageFigureId: ikimon/daiza/kaiyukann/005
+    icon: "♟"
     species:
       - "アデリーペンギン"
       - "イワトビペンギン"
@@ -425,10 +461,14 @@ groups:
       - "マカロニペンギン"
       - "コウテイペンギンの親子"
   その他:
+    imageFigureId: tta/deep_sea_creatures/003
+    icon: "◌"
     species:
       - "ホヤ"
       - "オオグチボヤ"
   その他鳥類:
+    imageFigureId: ikimon/daiza/ogasawara/007
+    icon: "◌"
     species:
       - "アオゲラ"
       - "アオバト"
@@ -471,6 +511,8 @@ groups:
       - "オニオオハシ"
       - "ダチョウ"
   ヘビ類:
+    imageFigureId: ikimon/nature_of_japan/noj1/007
+    icon: "〰"
     species:
       - "アオダイショウ"
       - "アカマタ"
@@ -484,6 +526,8 @@ groups:
       - "ヒャン"
       - "オオアナコンダ"
   トカゲ類:
+    imageFigureId: ikimon/mono/tokage_yamori/001
+    icon: "◆"
     species:
       - "アゴヒゲトカゲ"
       - "アオカナヘビ"
@@ -518,6 +562,8 @@ groups:
       - "ヨナグニキノボリトカゲ"
       - "ホオグロヤモリ"
   カメ類:
+    imageFigureId: ikimon/daiza/kaiyo1/006
+    icon: "◉"
     species:
       - "アオウミガメ"
       - "アカアシガメ"
@@ -559,6 +605,8 @@ groups:
       - "アカミミガメ"
       - "ニホンスッポン"
   ワニ類:
+    imageFigureId: kaiyodo/animatales/chocoq_amazing/012
+    icon: "♢"
     species:
       - "インドガビアル"
       - "ナイルワニ"
@@ -566,6 +614,8 @@ groups:
       - "ヨウスコウアリゲーター"
       - "ヨウスコウワニ"
   カエル類:
+    imageFigureId: ikimon/daiza/kaeru/001
+    icon: "●"
     species:
       - "アメフクラガエル"
       - "アカメアマガエル"
@@ -622,6 +672,8 @@ groups:
       - "エゾアカガエル"
       - "オキナワイシカワガエル"
   イモリ・サンショウウオ類:
+    imageFigureId: ikimon/daiza/kaiyukann/001
+    icon: "〰"
     species:
       - "アカハライモリ"
       - "アホロートル"
@@ -636,6 +688,8 @@ groups:
       - "ホライモリ"
       - "ウーパールーパー"
   古代魚類:
+    imageFigureId: ikimon/mono/shinkaiseibutsu1/002
+    icon: "◉"
     species:
       - "アジアアロワナ"
       - "アリゲーターガー"
@@ -646,6 +700,8 @@ groups:
       - "ラティメリア"
       - "サカバンバスピス"
   サメ・エイ類:
+    imageFigureId: ikimon/daiza/kaiyo1/003
+    icon: "〰"
     species:
       - "アオザメ"
       - "アカシュモクザメ"
@@ -680,6 +736,8 @@ groups:
       - "レモンザメ"
       - "ニタリ"
   ウナギ・ナマズ類:
+    imageFigureId: ikimon/MOVE/chinanago/001
+    icon: "◆"
     species:
       - "アカザ"
       - "イワトコナマズ"
@@ -710,6 +768,8 @@ groups:
       - "テーラーズガーデンイール"
       - "ゼブラアナゴ"
   コイ・フナ類:
+    imageFigureId: ikimon/daiza/seiryu/006
+    icon: "◇"
     species:
       - "ウグイ"
       - "オイカワ"
@@ -742,6 +802,8 @@ groups:
       - "リュウキン"
       - "ワキン"
   スズキ目の魚類:
+    imageFigureId: ikimon/daiza/kaiyo1/005
+    icon: "▲"
     species:
       - "アカアマダイ"
       - "アカメ"
@@ -822,11 +884,15 @@ groups:
       - "ロイヤルグラマ"
       - "タイ"
   カレイ・ヒラメ類:
+    imageFigureId: kaiyodo/aqualand/093
+    icon: "◈"
     species:
       - "ヒラメ"
       - "マガレイ"
       - "ヌマガレイ"
   フグ・カワハギ類:
+    imageFigureId: kaiyodo/animatales/anima_jap4/113
+    icon: "♢"
     species:
       - "クサフグ"
       - "コンゴウフグ"
@@ -842,6 +908,8 @@ groups:
       - "ウマズラハギ"
       - "ふぐ"
   マグロ・カツオ類:
+    imageFigureId: kaiyodo/aqualand/033
+    icon: "✦"
     species:
       - "カツオ"
       - "キハダマグロ"
@@ -851,6 +919,8 @@ groups:
       - "メバチマグロ"
       - "マグロ"
   サケ・マス類:
+    imageFigureId: ikimon/daiza/seiryu/002
+    icon: "✦"
     species:
       - "アマゴ"
       - "イトウ"
@@ -867,6 +937,8 @@ groups:
       - "ヤマメ"
       - "鮭"
   その他魚類:
+    imageFigureId: ikimon/daiza/seiryu/001
+    icon: "◌"
     species:
       - "アカナマダ"
       - "アゴヌケホシエソ"
@@ -934,6 +1006,8 @@ groups:
       - "リーフィーシードラゴン"
       - "アカマンボウ"
   カブトムシ・クワガタ類:
+    imageFigureId: ikimon/nature_of_japan/noj2/003
+    icon: "♣"
     species:
       - "オオクワガタ"
       - "オキナワカブト"
@@ -950,6 +1024,8 @@ groups:
       - "ヒラタクワガタ"
       - "ヘラクレスオオカブトムシ"
   その他の甲虫類:
+    imageFigureId: ikimon/mono/hotaru/001
+    icon: "◆"
     species:
       - "エツボシケシキスイ"
       - "カナブン"
@@ -977,6 +1053,8 @@ groups:
       - "ナナホシテントウ"
       - "ヘイケボタル"
   チョウ・ガ類:
+    imageFigureId: kaiyodo/animatales/anima_jap1/006
+    icon: "◇"
     species:
       - "アオバセセリ"
       - "アゲハ"
@@ -1012,12 +1090,16 @@ groups:
       - "モンキアゲハ"
       - "カイコ"
   カマキリ・ナナフシ類:
+    imageFigureId: tta/genn_gitai/001
+    icon: "✦"
     species:
       - "コノハカマキリ"
       - "ヒシムネカレハカマキリ"
       - "ハナカマキリ"
       - "オオコノハムシ"
   ハチ・アリ類:
+    imageFigureId: kaiyodo/animatales/anima_jap7/191
+    icon: "▲"
     species:
       - "アラメジガバチ"
       - "アルゼンチンアリ"
@@ -1026,6 +1108,8 @@ groups:
       - "ジャイアントアリ"
       - "セイヨウミツバチ"
   トンボ類:
+    imageFigureId: kaiyodo/animatales/anima_jap3/088
+    icon: "◈"
     species:
       - "オオルリボシヤンマ"
       - "オニヤンマ"
@@ -1042,6 +1126,8 @@ groups:
       - "アキアカネ"
       - "ギンヤンマ"
   その他昆虫:
+    imageFigureId: kaiyodo/animatales/anima_jap10/014
+    icon: "◌"
     species:
       - "アブラゼミ"
       - "アカスジキンカメムシ"
@@ -1072,6 +1158,8 @@ groups:
       - "ハタケノウマオイ"
       - "ミンミンゼミ"
   エビ類:
+    imageFigureId: ikimon/daiza/tobasui3/005
+    icon: "〰"
     species:
       - "アメリカザリガニ"
       - "エビ"
@@ -1085,6 +1173,8 @@ groups:
       - "スジエビ"
       - "ニシキエビ"
   カニ類:
+    imageFigureId: ikimon/daiza/kaiyukann/014
+    icon: "◆"
     species:
       - "アカテガニ"
       - "アサヒガニ"
@@ -1102,6 +1192,8 @@ groups:
       - "ガザミ"
       - "ジャノメガザミ"
   ヤドカリ・ロブスター類:
+    imageFigureId: ikimon/daiza/ogasawara/004
+    icon: "♢"
     species:
       - "アカイセエビ"
       - "アメリカンロブスター"
@@ -1115,12 +1207,16 @@ groups:
       - "ホンヤドカリ"
       - "ムラサキオカヤドカリ"
   ダンゴムシ・ワラジムシ類:
+    imageFigureId: ikimon/mono/gusoku/001
+    icon: "◉"
     species:
       - "オオグソクムシ"
       - "オカダンゴムシ"
       - "ダイオウグソクムシ"
       - "フチゾリネッタイコシビロダンゴムシ"
   その他甲殻類:
+    imageFigureId: ikimon/mono/fujitsubo/001
+    icon: "◌"
     species:
       - "ホウネンエビ"
       - "ノロ"
@@ -1137,9 +1233,13 @@ groups:
       - "アカフジツボ"
       - "カメフジツボ"
   その他節足動物:
+    imageFigureId: kaiyodo/animatales/anima_jap2/037
+    icon: "◌"
     species:
       - "カブトガニ"
   クモ類:
+    imageFigureId: kaiyodo/animatales/anima_japII/012
+    icon: "●"
     species:
       - "メキシカンレッドニータランチュラ"
       - "テナガカニムシ"
@@ -1156,11 +1256,15 @@ groups:
       - "セアカゴケグモ"
       - "ブラックウィドウ"
   ムカデ・ヤスデ類:
+    imageFigureId: kaiyodo/capsuleq/yudokukikenn/003
+    icon: "〰"
     species:
       - "アカズムカデ"
       - "インディアンタイガーセンチピード"
       - "トビズムカデ"
   サソリ類:
+    imageFigureId: kaiyodo/capsuleq/yudokukikenn/005
+    icon: "◆"
     species:
       - "ダイオウサソリ"
       - "デスストーカー"
@@ -1173,6 +1277,8 @@ groups:
       - "オブトサソリ"
       - "サウスアフリカンジャイアントファットテールスコーピオン"
   イカ類:
+    imageFigureId: ikimon/daiza/daiouika/001
+    icon: "▽"
     species:
       - "アオリイカ"
       - "ケンサキイカ"
@@ -1194,6 +1300,8 @@ groups:
       - "ダイオウイカA"
       - "ダイオウホウズキイカ"
   タコ類:
+    imageFigureId: ikimon/mono/shinkaiseibutsu1/004
+    icon: "✦"
     species:
       - "イイダコ"
       - "コウモリダコ"
@@ -1207,6 +1315,8 @@ groups:
       - "オオクラゲダコ"
       - "ヒカリジュウモンジダコ"
   カタツムリ・ナメクジ類:
+    imageFigureId: ikimon/mono/umibenoikimono/001
+    icon: "〰"
     species:
       - "カタマイマイ"
       - "クチベニマイマイ"
@@ -1233,18 +1343,24 @@ groups:
       - "アオミノウミウシ"
       - "ゾウゲイロウミウシ"
   巻貝類:
+    imageFigureId: ikimon/mono/shinkaiseibutsu1/007
+    icon: "◉"
     species:
       - "アオミオカタニシ"
       - "オキナエビスガイ"
       - "ウロコフネタマガイ"
       - "ハダカカメガイ"
   その他軟体動物:
+    imageFigureId: ikimon/nature_of_japan/noj1/011
+    icon: "◌"
     species:
       - "オウムガイ"
       - "クリオネ"
       - "ハマグリ"
       - "マガキ"
   その他/未分類:
+    imageFigureId: kaiyodo/animatales/chocoegg_hansoku/002
+    icon: "●"
     species:
       - "1.神奈川沖浪裏"
       - "3.北斎自画像"
@@ -1357,6 +1473,8 @@ groups:
       - "侍大将"
       - "足軽"
   その他の動物:
+    imageFigureId: ikimon/mono/kyokuhi/001
+    icon: "◌"
     species:
       - "ブラックシーネットル"
       - "インドネシアンシーネットル"
@@ -1408,6 +1526,7 @@ groups:
       - "ユビエダハマサンゴ"
       - "未知の古細菌"
   獣脚類:
+    imageFigureId: ikimon/daiza/koseibutsu/003
     species:
       - "アクロカントサウルス"
       - "アロサウルス"
@@ -1455,6 +1574,7 @@ groups:
       - "INDORAPTOR"
       - "BLUE"
   竜脚類:
+    imageFigureId: kaiyodo/capsule/GiantDinosaurs/001
     species:
       - "アパトサウルス"
       - "カマラサウルス"
@@ -1473,6 +1593,7 @@ groups:
       - "アパトサウルスB"
       - "アパトサウルスC"
   鳥脚類:
+    imageFigureId: kaiyodo/capsule/kyoryuhaku2016/003
     species:
       - "イグアノドン"
       - "カムイサウルス"
@@ -1482,6 +1603,7 @@ groups:
       - "ランベオサウルス"
       - "フクイサウルス"
   角竜類:
+    imageFigureId: ikimon/daiza/koseibutsu/005
     species:
       - "アンキケラトプス"
       - "カスモサウルス"
@@ -1494,6 +1616,7 @@ groups:
       - "シノケラトプス・ズケンゲンシス"
       - "トリケラトプス・ホリドゥス"
   装盾類:
+    imageFigureId: kaiyodo/capsule/kyoryuhaku2023/001
     species:
       - "アンキロサウルス"
       - "サイカニア"
@@ -1504,9 +1627,11 @@ groups:
       - "ボレアロペルタ"
       - "ステゴサウルス・ステノプス"
   堅頭竜類:
+    imageFigureId: kaiyodo/dinoland/skull_mini_model/004
     species:
       - "パキケファロサウルス"
   翼竜類:
+    imageFigureId: kaiyodo/capsuleq/kyoryuhakkutsuki/7_cuttingedge/005
     species:
       - "アンハングェラ"
       - "ケツァルコアトルス"
@@ -1518,6 +1643,7 @@ groups:
       - "プテラノドンC"
       - "プテラノドンD"
   古代の海生爬虫類:
+    imageFigureId: ikimon/daiza/koseibutsu/007
     species:
       - "アーケロン"
       - "イクチオサウルス"
@@ -1533,6 +1659,7 @@ groups:
       - "リオプレウロドン"
       - "MOSASAURUS"
   その他古生物:
+    imageFigureId: kaiyodo/capsule/kokuritsu_capsule/003
     species:
       - "アンドリューサルクス"
       - "エリオプス"
@@ -1567,6 +1694,7 @@ groups:
       - "ディメトロドンB"
       - "ディメトロドンC"
   古代の哺乳類:
+    imageFigureId: kaiyodo/capsule/seimeishinnka/005
     species:
       - "アウストラロピテクス"
       - "アルシノイテリウム"
@@ -1586,6 +1714,7 @@ groups:
       - "ヘンケロテリウム＆プラティペロドン"
       - "旧人"
   古代の魚類:
+    imageFigureId: kaiyodo/capsule/seimeishinnka/002
     species:
       - "アクセルロディクティス"
       - "クセナカンサス"
@@ -1594,6 +1723,7 @@ groups:
       - "ボスリオレピス"
       - "ユーステノプテロン"
   古代の両生類:
+    imageFigureId: kaiyodo/capsule/seimeishinnka/003
     species:
       - "アカントステガ"
       - "イクチオステガ"
@@ -1602,6 +1732,7 @@ groups:
       - "アカンソステガA"
       - "アカンソステガB"
   古代の節足動物:
+    imageFigureId: kaiyodo/capsule/seimeishinnka/001
     species:
       - "アノマロカリス"
       - "オパビニア"
@@ -1611,12 +1742,14 @@ groups:
       - "ユーリプテルス"
       - "三葉虫"
   UMA:
+    imageFigureId: kaiyodo/animatales/anima_jap10/021
     species:
       - "チュパカブラ"
       - "ネッシー"
       - "イエティ"
       - "ツチノコ"
   幻獣:
+    imageFigureId: kaiyodo/capsule/dragonfigure/001
     species:
       - "スフィンクス"
       - "ドラゴン"
@@ -1626,16 +1759,19 @@ groups:
       - "白虎"
       - "龍"
   妖怪:
+    imageFigureId: kaiyodo/animatales/anima_japEX/007
     species:
       - "カッパ"
       - "シークレット 人魚"
       - "猫又"
       - "鬼"
   キャラクター:
+    imageFigureId: kaiyodo/animatales/chocoq_amazing/022
     species:
       - "銀の匙"
       - "ハッピー"
   分類未設定:
+    imageFigureId: kaiyodo/aquatales/enosui/hukkoku/009
     species:
       - "[シーズン2シークレット]金のビリケンさん"
       - "[愛知万博限定] 雲を見上げるモリゾーとキッコロ"
@@ -2003,3 +2139,257 @@ groups:
       - "零式艦上戦闘機"
       - "鯰隈"
       - "鶯谷駅 『入谷朝顔市』"
+
+  その他爬虫類:
+    imageFigureId: ikimon/nature_of_japan/noj1/007
+    icon: "◌"
+    species: []
+  その他両生類:
+    imageFigureId: kaiyodo/aquatales/kyoto/001
+    icon: "◌"
+    species: []
+  バッタ・コオロギ類:
+    imageFigureId: ikimon/nature_of_japan/noj2/003
+    icon: "♠"
+    species: []
+  その他の大型甲殻類:
+    imageFigureId: ikimon/daiza/tobasui3/005
+    icon: "✦"
+    species: []
+  二枚貝類:
+    imageFigureId: ikimon/mono/umibenoikimono/001
+    icon: "◇"
+    species: []
+  古生物/古代の爬虫類:
+    imageFigureId: ikimon/daiza/koseibutsu/007
+    species: []
+
+
+# Taxonomy category keys define pages; group references point to the groups mapping.
+taxonomy:
+  動物:
+    id: animal
+    icon: ●
+    englishTitle: ANIMAL
+    description: 現在生きている生き物を、分類から探すことができます。
+    categories:
+      哺乳類:
+        icon: ♘
+        groups:
+          - 霊長類
+          - 食肉類
+          - 齧歯・兎類
+          - 偶蹄類
+          - 奇蹄類
+          - ゾウ類
+          - クジラ・イルカ類
+          - コウモリ類
+          - 有袋類
+          - その他哺乳類
+        groupLabels:
+          その他哺乳類: その他
+        imageFigureId: kaiyodo/MegaSofubiAdvance/MSA-007AfricanElephant
+      鳥類:
+        icon: ♠
+        groups:
+          - 小鳥・身近な鳥
+          - カラス・ハト類
+          - オウム・インコ類
+          - 猛禽類
+          - キジ・ニワトリ類
+          - 水鳥
+          - 海鳥
+          - ペンギン類
+          - その他鳥類
+        groupLabels:
+          その他鳥類: その他
+        imageFigureId: kaiyodo/capsule/asahiyama/asahiyama5/005
+      爬虫類:
+        icon: ♢
+        groups:
+          - ヘビ類
+          - トカゲ類
+          - カメ類
+          - ワニ類
+          - その他爬虫類
+        groupLabels:
+          その他爬虫類: その他
+        imageFigureId: ikimon/nature_of_japan/noj1/007
+      両生類:
+        icon: 〰
+        groups:
+          - カエル類
+          - イモリ・サンショウウオ類
+          - その他両生類
+        groupLabels:
+          その他両生類: その他
+        imageFigureId: kaiyodo/aquatales/kyoto/001
+      魚類:
+        icon: ◈
+        groups:
+          - 古代魚類
+          - サメ・エイ類
+          - ウナギ・ナマズ類
+          - コイ・フナ類
+          - スズキ目の魚類
+          - カレイ・ヒラメ類
+          - フグ・カワハギ類
+          - マグロ・カツオ類
+          - サケ・マス類
+          - その他魚類
+        groupLabels:
+          その他魚類: その他
+        imageFigureId: kaiyodo/poly_aquatales1/002
+      昆虫:
+        icon: ♣
+        groups:
+          - カブトムシ・クワガタ類
+          - その他の甲虫類
+          - チョウ・ガ類
+          - ハチ・アリ類
+          - バッタ・コオロギ類
+          - カマキリ・ナナフシ類
+          - トンボ類
+          - その他
+          - その他昆虫
+        groupLabels:
+          その他昆虫: その他
+        imageFigureId: ikimon/nature_of_japan/noj2/003
+      甲殻類:
+        icon: ◆
+        groups:
+          - エビ類
+          - カニ類
+          - ヤドカリ・ロブスター類
+          - ダンゴムシ・ワラジムシ類
+          - その他の大型甲殻類
+          - その他甲殻類
+        imageFigureId: ikimon/daiza/tobasui3/005
+      その他節足動物:
+        icon: ◉
+        groups:
+          - クモ類
+          - ムカデ・ヤスデ類
+          - サソリ類
+          - その他節足動物
+        groupLabels:
+          その他節足動物: その他
+        imageFigureId: kaiyodo/animatales/anima_japII/012
+      軟体動物:
+        icon: ◌
+        groups:
+          - カタツムリ・ナメクジ類
+          - 巻貝類
+          - 二枚貝類
+          - イカ類
+          - タコ類
+          - その他軟体動物
+        groupLabels:
+          その他軟体動物: その他
+        imageFigureId: ikimon/mono/umibenoikimono/001
+      その他:
+        icon: ◌
+        groups:
+          - その他/未分類
+          - その他の動物
+        groupLabels:
+          その他/未分類: 分類未設定
+        imageFigureId: kaiyodo/animatales/chocoegg_hansoku/002
+    imageFigureId: kaiyodo/MegaSofubiAdvance/MSA-007AfricanElephant
+  古生物 - 恐竜とその仲間:
+    id: paleontology-dinosaurs
+    icon: ✦
+    englishTitle: PALEONTOLOGY / DINOSAURS & RELATIVES
+    description: 恐竜とその仲間を、分類から探すことができます。
+    categories:
+      獣脚類:
+        groups:
+          - 獣脚類
+        imageFigureId: ikimon/daiza/koseibutsu/003
+      竜脚類:
+        groups:
+          - 竜脚類
+        imageFigureId: kaiyodo/capsule/GiantDinosaurs/001
+      鳥脚類:
+        groups:
+          - 鳥脚類
+        imageFigureId: kaiyodo/capsule/kyoryuhaku2016/003
+      角竜類:
+        groups:
+          - 角竜類
+        imageFigureId: ikimon/daiza/koseibutsu/005
+      装盾類:
+        groups:
+          - 装盾類
+        imageFigureId: kaiyodo/capsule/kyoryuhaku2023/001
+      堅頭竜類:
+        groups:
+          - 堅頭竜類
+        imageFigureId: kaiyodo/dinoland/skull_mini_model/004
+      翼竜類:
+        groups:
+          - 翼竜類
+        imageFigureId: kaiyodo/capsuleq/kyoryuhakkutsuki/7_cuttingedge/005
+      古代の海生爬虫類:
+        groups:
+          - 古代の海生爬虫類
+        imageFigureId: ikimon/daiza/koseibutsu/007
+    imageFigureId: ikimon/daiza/koseibutsu/003
+  古生物 - その他:
+    id: paleontology-other
+    icon: ◉
+    englishTitle: OTHER PALEONTOLOGY
+    description: 恐竜以外の絶滅した生き物を探すことができます。
+    categories:
+      古代の哺乳類:
+        groups:
+          - 古代の哺乳類
+        imageFigureId: kaiyodo/capsule/seimeishinnka/005
+      古代の魚類:
+        groups:
+          - 古代の魚類
+        imageFigureId: kaiyodo/capsule/seimeishinnka/002
+      古代の両生類:
+        groups:
+          - 古代の両生類
+        imageFigureId: kaiyodo/capsule/seimeishinnka/003
+      古代の爬虫類:
+        groups:
+          - 古生物/古代の爬虫類
+        groupLabels:
+          古生物/古代の爬虫類: 古代の爬虫類
+        imageFigureId: ikimon/daiza/koseibutsu/007
+      古代の節足動物:
+        groups:
+          - 古代の節足動物
+        imageFigureId: kaiyodo/capsule/seimeishinnka/001
+      その他の古生物:
+        groups:
+          - その他古生物
+        groupLabels:
+          その他古生物: その他の古生物
+        imageFigureId: kaiyodo/capsule/kokuritsu_capsule/003
+    imageFigureId: kaiyodo/capsule/seimeishinnka/005
+  幻獣・伝承:
+    id: mythical
+    icon: ♞
+    englishTitle: MYTHICAL & LEGENDARY
+    description: 伝承や神話、都市伝説に登場する生き物を探すことができます。
+    categories:
+      UMA:
+        groups:
+          - UMA
+        imageFigureId: kaiyodo/animatales/anima_jap10/021
+      妖怪:
+        groups:
+          - 妖怪
+        imageFigureId: kaiyodo/animatales/anima_japEX/007
+      幻獣:
+        groups:
+          - 幻獣
+        imageFigureId: kaiyodo/capsule/dragonfigure/001
+      キャラクター:
+        groups:
+          - キャラクター
+        imageFigureId: kaiyodo/animatales/chocoq_amazing/022
+    imageFigureId: kaiyodo/animatales/anima_jap10/021

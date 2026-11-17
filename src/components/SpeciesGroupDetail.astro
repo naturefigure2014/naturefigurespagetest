@@ -8,35 +8,40 @@ import { siteUrl } from "../lib/site-url";
 
 interface Props {
   title: string;
-  group: string;
+  groups: string[];
+  species?: string[];
   icon: string;
   description: string;
 }
 
-const { title, group, icon, description } = Astro.props;
-const groupPrefixes = group === "哺乳類" ? ["哺乳類", "霊長類"] : [group];
+const { title, groups, species = [], icon, description } = Astro.props;
+const groupPrefixes = groups;
 const belongsToGroup = (speciesGroup: string) =>
   groupPrefixes.some((prefix) =>
     speciesGroup === prefix ||
     speciesGroup.startsWith(`${prefix}/`) ||
     speciesGroup.endsWith(`/${prefix}`)
   );
+const belongsToPage = (entry: { species: string; speciesGroup: string }) =>
+  species.includes(entry.species) || belongsToGroup(entry.speciesGroup);
 const figures = (await getCollection("figures")).filter(
   (item) =>
     item.data.contentType !== "title" &&
-    getSpeciesEntries(item.data).some((entry) => belongsToGroup(entry.speciesGroup))
+    getSpeciesEntries(item.data).some(belongsToPage)
 );
 const imageFor = (figure: (typeof figures)[number]) =>
-  resolveFigureImage(
-    figure.id,
-    figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
-  );
-const speciesHref = (species: string) => siteUrl(`/species/${encodeURIComponent(species)}/`);
+  [
+    figure.data.coverImage,
+    ...figure.data.topics.flatMap((topic) => topic.images)
+  ]
+    .map((image) => resolveFigureImage(figure.id, image))
+    .find((resolvedImage) => resolvedImage !== undefined);
+const speciesHref = (species: string) => siteUrl(`/species/species/${encodeURIComponent(species)}/`);
 type SpeciesCardEntry = { figure: (typeof figures)[number]; species: string };
 const speciesCards = new Map<string, SpeciesCardEntry>();
 for (const figure of figures) {
   for (const entry of getSpeciesEntries(figure.data)) {
-    if (belongsToGroup(entry.speciesGroup)) {
+    if (belongsToPage(entry)) {
       speciesCards.set(entry.species, { figure, species: entry.species });
     }
   }
@@ -48,7 +53,7 @@ const sortedSpeciesEntries = [...speciesEntries].sort((a, b) =>
 const countForSpecies = (species: string) =>
   figures.filter((figure) =>
     getSpeciesEntries(figure.data).some(
-      (entry) => entry.species === species && belongsToGroup(entry.speciesGroup)
+      (entry) => entry.species === species && belongsToPage(entry)
     )
   ).length;
 const featured = speciesEntries.slice(0, 3);

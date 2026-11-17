@@ -1,0 +1,87 @@
+---
+import "../../styles/global.css";
+import SpeciesGroupDetail from "../../components/SpeciesGroupDetail.astro";
+import SpeciesSubgroupGrid from "../../components/SpeciesSubgroupGrid.astro";
+import {
+  getSpeciesGroups,
+  getSpeciesTaxonomy,
+  getSpeciesTaxonomyPathSegment
+} from "../../lib/species";
+
+const taxonomy = getSpeciesTaxonomy();
+const speciesGroups = getSpeciesGroups();
+
+export async function getStaticPaths() {
+  const paths = [];
+  for (const [rootName, root] of Object.entries(taxonomy)) {
+    for (const [categoryName, category] of Object.entries(root.categories ?? {})) {
+      const categoryPath = [rootName, categoryName];
+      paths.push({ params: { path: categoryPath.join("/") } });
+      if ((category.groups ?? []).length > 1) {
+        for (const group of category.groups ?? []) {
+          paths.push({
+            params: {
+              path: [...categoryPath, getSpeciesTaxonomyPathSegment(group)].join("/")
+            }
+          });
+        }
+      }
+    }
+  }
+  return paths;
+}
+
+const rawPath = Astro.params.path;
+if (!rawPath) throw new Error("Missing species taxonomy path");
+const path = Array.isArray(rawPath) ? rawPath : rawPath.split("/");
+if (path.length < 2 || path.length > 3) {
+  throw new Error(`Unknown species taxonomy path "${path.join("/")}"`);
+}
+const rootName = path[0];
+const categoryName = path[1];
+const groupSegment = path[2];
+if (!rootName || !categoryName) throw new Error("Species taxonomy path is incomplete");
+const root = taxonomy[rootName];
+const category = root?.categories?.[categoryName];
+if (!root || !category) throw new Error(`Unknown species taxonomy path "${path.join("/")}"`);
+
+const isGroupPage = path.length === 3;
+const groupNames = category.groups ?? [];
+const groupName = groupNames.find(
+  (name) => getSpeciesTaxonomyPathSegment(name) === groupSegment
+);
+if (isGroupPage && !groupName) {
+  throw new Error(`Unknown species group "${groupSegment}" in "${path.join("/")}"`);
+}
+if (!isGroupPage && groupNames.length === 0) {
+  throw new Error(`Taxonomy category "${path.join("/")}" has no species groups`);
+}
+
+const selectedGroup = groupName ?? "";
+const primaryGroup = groupNames[0] ?? "";
+const displayGroup = isGroupPage
+  ? category.groupLabels?.[selectedGroup] ?? selectedGroup
+  : category.groupLabels?.[primaryGroup] ?? primaryGroup;
+---
+
+{groupNames.length > 1 && !isGroupPage ? (
+  <SpeciesSubgroupGrid
+    title={categoryName}
+    icon={category.icon ?? root.icon ?? "●"}
+    groups={groupNames.map((group) => ({
+      href: `/species/${encodeURIComponent(getSpeciesTaxonomyPathSegment(rootName))}/${encodeURIComponent(getSpeciesTaxonomyPathSegment(categoryName))}/${encodeURIComponent(getSpeciesTaxonomyPathSegment(group))}/`,
+      name: category.groupLabels?.[group] ?? group,
+      speciesGroups: [group],
+      imageFigureId: speciesGroups[group]?.imageFigureId,
+      icon: speciesGroups[group]?.icon ?? "◌"
+    }))}
+  />
+) : (
+  <SpeciesGroupDetail
+    title={displayGroup}
+    groups={isGroupPage ? [selectedGroup] : groupNames}
+    species={isGroupPage ? [] : category.species}
+    icon={category.icon ?? root.icon ?? "●"}
+    description={`${displayGroup}のフィギュアを、生き物の種類から探せます。`}
+  />
+)}

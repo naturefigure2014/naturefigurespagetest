@@ -7,11 +7,12 @@ import { getSpeciesEntries } from "../lib/species";
 import { siteUrl } from "../lib/site-url";
 
 interface Subgroup {
-  id?: string;
+  href: string;
   name: string;
   species?: string[];
   speciesGroups?: string[];
-  icon: string;
+  imageFigureId?: string;
+  icon?: string;
 }
 
 interface Props {
@@ -36,12 +37,19 @@ const figuresForGroup = (group: Subgroup) =>
   });
 
 const groupImage = (group: Subgroup) => {
-  const figure = figuresForGroup(group)[0];
-  return figure
-    ? resolveFigureImage(
-        figure.id,
-        figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
+  const selectedFigure = group.imageFigureId
+    ? figures.find((figure) =>
+        figure.id.replace(/\/index(?:\.md)?$/, "") === group.imageFigureId
       )
+    : undefined;
+  const figure = selectedFigure ?? figuresForGroup(group)[0];
+  return figure
+    ? [
+        figure.data.coverImage,
+        ...figure.data.topics.flatMap((topic) => topic.images)
+      ]
+        .map((ref) => resolveFigureImage(figure.id, ref))
+        .find((image) => image !== undefined)
     : undefined;
 };
 
@@ -67,7 +75,7 @@ const groupCount = (group: Subgroup) =>
       {groups.map((group) => {
         const image = groupImage(group);
         return (
-          <a class="mammal-group-card" href={siteUrl(group.id ? `/species/${group.id}/` : "/figures/")}>
+          <a class="mammal-group-card" href={siteUrl(group.href)}>
             <div class="mammal-group-media">
               {image ? <img src={image} alt="" loading="lazy" /> : <span>{group.icon}</span>}
             </div>
