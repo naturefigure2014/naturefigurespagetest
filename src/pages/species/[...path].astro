@@ -12,6 +12,7 @@ const taxonomy = getSpeciesTaxonomy();
 const speciesGroups = getSpeciesGroups();
 
 export async function getStaticPaths() {
+  const taxonomy = getSpeciesTaxonomy();
   const paths = [];
   for (const [rootName, root] of Object.entries(taxonomy)) {
     for (const [categoryName, category] of Object.entries(root.categories ?? {})) {
