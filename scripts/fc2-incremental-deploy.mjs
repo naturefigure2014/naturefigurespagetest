@@ -89,6 +89,7 @@ async function writeAndVerifyState(localPath, text, ftpClient) {
   await writeFile(localPath, text, "utf8");
   ftpClient(`put ${quote(localPath)} -o /test/${stateName}`);
   const downloaded = `${localPath}.download`;
+  await rm(downloaded, { force: true });
   ftpClient(`get /test/${stateName} -o ${quote(downloaded)}`);
   if (await readFile(downloaded, "utf8") !== text) {
     throw new Error("FC2 deployment state did not match after uploading.");
