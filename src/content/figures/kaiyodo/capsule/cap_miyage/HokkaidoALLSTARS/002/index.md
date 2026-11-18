@@ -7,7 +7,7 @@ figureId: "002"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "クラーク像"
+species: ""
 speciesGroup: "-"
 themes:
   - "景観・建築"

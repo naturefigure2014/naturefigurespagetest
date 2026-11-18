@@ -7,7 +7,7 @@ figureId: "008"
 maker: "海洋堂"
 sculptor: "マツオカステン"
 executiveProducer: "-"
-species: "リゾートしらかみ「橅」編成"
+species: ""
 speciesGroup: "-"
 themes:
   - "鉄道"

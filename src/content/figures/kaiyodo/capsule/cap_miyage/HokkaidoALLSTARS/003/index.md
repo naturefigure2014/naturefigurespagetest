@@ -7,7 +7,7 @@ figureId: "003"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
-species: "さっぽろテレビ塔"
+species: ""
 speciesGroup: "-"
 themes:
   - "タワー"

@@ -7,7 +7,7 @@ figureId: "001"
 maker: "海洋堂"
 sculptor: "渡辺結樹"
 executiveProducer: "-"
-species: "東京駅「丸の内駅舎」"
+species: ""
 speciesGroup: "-"
 themes:
   - "その他建築"

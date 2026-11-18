@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/kahaku_official
 figureId: "012"
-species: "零式艦上戦闘機"
+species: ""
 speciesGroup: ""
 maker: "海洋堂"
 figureTopImage: ""

@@ -6,7 +6,7 @@ titleId: tta/sasori
 figureId: "001"
 maker: "-"
 sculptor: "-"
-species: "ダイオウサソリ"
+species: ""
 price: "200円"
 releaseStart: "2011.05"
 genre:

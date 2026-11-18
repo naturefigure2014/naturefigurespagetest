@@ -7,7 +7,7 @@ figureId: "008"
 maker: "海洋堂"
 sculptor: "村田明玄"
 executiveProducer: "-"
-species: "襟裳岬灯台"
+species: ""
 speciesGroup: "-"
 themes:
   - "その他建築"

@@ -7,7 +7,7 @@ figureId: "004"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
-species: "砕氷船おーろら"
+species: ""
 speciesGroup: "-"
 themes:
   - "船舶"

@@ -8,7 +8,7 @@ sculptor: "松村しのぶ"
 seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
-species: "アザラシ"
+species: ""
 speciesGroup: 食肉類
 price: "800円"
 releaseStart: "-"

@@ -8,7 +8,7 @@ sculptor: "中澤博之"
 seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
-species: ブラックバス
+species: ""
 speciesGroup: スズキ目の魚類
 price: "1800円"
 releaseStart: "-"

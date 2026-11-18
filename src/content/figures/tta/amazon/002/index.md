@@ -6,7 +6,7 @@ titleId: tta/amazon
 figureId: "002"
 maker: "タカラトミー"
 sculptor: "-"
-species: "カピバラ"
+species: ""
 price: "300円"
 releaseStart: "2015.05"
 genre:

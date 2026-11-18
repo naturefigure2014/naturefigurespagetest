@@ -5,7 +5,7 @@ contentType: figure
 maker: "-"
 sculptor: "清水ゆう子"
 seriesName: "-"
-species: "ニホンカナヘビ"
+species: ""
 price: "3,000円"
 releaseStart: "2017.03"
 genre:

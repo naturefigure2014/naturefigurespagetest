@@ -5,7 +5,7 @@ contentType: figure
 maker: "-"
 sculptor: "古田悟郎"
 seriesName: "-"
-species: "ディプロカウルス"
+species: ""
 price: "5,000円"
 releaseStart: "2024.07"
 genre:

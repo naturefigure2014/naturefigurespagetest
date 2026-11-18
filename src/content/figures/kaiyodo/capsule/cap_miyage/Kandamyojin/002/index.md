@@ -7,7 +7,7 @@ figureId: "002"
 maker: "海洋堂"
 sculptor: "村田明玄"
 executiveProducer: "-"
-species: "②金のだいこく様"
+species: ""
 speciesGroup: "-"
 themes:
   - "その他暮らし・祭り"

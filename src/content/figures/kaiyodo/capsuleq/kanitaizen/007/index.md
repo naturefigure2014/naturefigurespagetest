@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/kanitaizen
 figureId: "007"
-species: "アカテガニ"
+species: ""
 speciesGroup: "カニ類"
 maker: "海洋堂"
 sculptor: "寺岡邦明"

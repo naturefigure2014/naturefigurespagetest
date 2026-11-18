@@ -5,7 +5,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "清水ゆう子"
 seriesName: "清水ゆう子 オリジナルフィギュア"
-species: "トゲオアガマ"
+species: ""
 price: "3,000円"
 releaseStart: "2018.12"
 genre:

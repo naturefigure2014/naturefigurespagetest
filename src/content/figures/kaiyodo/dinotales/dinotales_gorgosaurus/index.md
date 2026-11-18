@@ -6,7 +6,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "ゴルゴサウルス"
+species: ""
 speciesGroup: "獣脚類"
 price: "15,540円"
 releaseStart: "-"

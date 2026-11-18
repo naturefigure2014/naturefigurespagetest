@@ -3,7 +3,7 @@ title: "100mm恐竜シリーズ バロサウルス"
 description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
-species: "バロサウルス"
+species: ""
 speciesGroup: "竜脚類"
 contentType: figure
 maker: "海洋堂"

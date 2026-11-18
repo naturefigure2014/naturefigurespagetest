@@ -7,7 +7,7 @@ figureId: "008"
 maker: "海洋堂"
 sculptor: "KATAYAMA×REN"
 executiveProducer: "-"
-species: "GLAY TAKURO"
+species: ""
 speciesGroup: "-"
 themes:
   - "ポップカルチャー"

@@ -7,7 +7,7 @@ figureId: "003"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "お好み焼きとオタフクソース"
+species: ""
 speciesGroup: "-"
 themes:
   - "郷土料理"

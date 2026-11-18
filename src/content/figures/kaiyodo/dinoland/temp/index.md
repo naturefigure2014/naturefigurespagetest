@@ -3,7 +3,7 @@ title: "DINOLAND 1/35ティラノサウルス"
 description: ""
 titleId: kaiyodo/dinoland
 figureId: "temp"
-species: "ティラノサウルス"
+species: ""
 speciesGroup: "獣脚類"
 contentType: figure
 maker: "海洋堂"

@@ -5,7 +5,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "古田悟郎"
 seriesName: "-"
-species: "オオアタマガメ"
+species: ""
 price: "4,000円"
 releaseStart: "2018.12"
 genre:

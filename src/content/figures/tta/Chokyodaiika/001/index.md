@@ -6,7 +6,7 @@ titleId: tta/Chokyodaiika
 figureId: "001"
 maker: "タカラトミーアーツ 公式サイト： コチラ"
 sculptor: "-"
-species: "ダイオウイカA"
+species: ""
 price: "300円"
 releaseStart: "2013.07"
 genre:

@@ -5,7 +5,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "清水ゆう子"
 seriesName: "清水ゆう子 オリジナルフィギュア"
-species: "イボイモリ"
+species: ""
 price: ""
 releaseStart: "2017"
 genre:

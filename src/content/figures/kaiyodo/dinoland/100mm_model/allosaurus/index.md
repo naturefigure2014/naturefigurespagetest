@@ -3,7 +3,7 @@ title: "100mm恐竜シリーズ アロサウルス"
 description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
-species: "アロサウルス"
+species: ""
 speciesGroup: "獣脚類"
 contentType: figure
 maker: "海洋堂"

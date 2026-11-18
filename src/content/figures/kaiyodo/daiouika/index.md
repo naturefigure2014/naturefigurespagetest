@@ -7,7 +7,7 @@ figureTopImage: img/daiouika002.jpg
 maker: "海洋堂"
 sculptor: 菅谷　中
 executiveProducer: 松村しのぶ
-species: ダイオウイカ
+species: ""
 speciesGroup: "イカ類"
 coverImage: "img/daiouika002.jpg"
 resources:

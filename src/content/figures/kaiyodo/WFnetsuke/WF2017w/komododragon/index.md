@@ -7,7 +7,7 @@ titleId: kaiyodo/WFnetsuke/WF2017w
 sculptor: "古田悟郎"
 executiveProducer: "-"
 seriesName: "-"
-species: "コモドオオトカゲ"
+species: ""
 speciesGroup: "トカゲ類"
 price: "3,000円"
 releaseStart: "-"

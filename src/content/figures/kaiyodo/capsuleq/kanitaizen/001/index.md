@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/kanitaizen
 figureId: "001"
-species: "タイワンガザミ"
+species: ""
 speciesGroup: "カニ類"
 maker: "海洋堂"
 sculptor: "山本聖士"

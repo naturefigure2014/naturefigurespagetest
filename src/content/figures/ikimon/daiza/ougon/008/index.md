@@ -6,7 +6,7 @@ titleId: ikimon/daiza/ougon
 figureId: "008"
 maker: "いきもん"
 sculptor: "KOW"
-species: "-"
+species: ""
 price: "400円"
 releaseStart: "2015.12"
 genre:

@@ -5,7 +5,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "吉良かずや"
 seriesName: "-"
-species: "-"
+species: ""
 price: "300円"
 releaseStart: "2020.01"
 genre:

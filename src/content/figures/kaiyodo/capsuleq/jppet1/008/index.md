@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/jppet1
 figureId: "008"
-species: "ウサギ"
+species: ""
 speciesGroup: "齧歯・兎類"
 maker: "海洋堂"
 figureTopImage: ""

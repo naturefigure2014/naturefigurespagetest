@@ -3,7 +3,7 @@ title: "100mm恐竜シリーズ モササウルス"
 description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
-species: "モササウルス"
+species: ""
 speciesGroup: "古代の海生爬虫類"
 contentType: figure
 maker: "海洋堂"

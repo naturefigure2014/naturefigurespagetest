@@ -7,7 +7,7 @@ figureId: "010"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "[シーズン2シークレット]金のビリケンさん"
+species: ""
 speciesGroup: "-"
 themes:
   - "その他暮らし・祭り"

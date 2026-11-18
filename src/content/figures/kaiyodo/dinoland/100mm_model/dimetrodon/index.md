@@ -3,7 +3,7 @@ title: "100mm恐竜シリーズ ディメトロドン"
 description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
-species: "ディメトロドン"
+species: ""
 speciesGroup: "その他古生物"
 contentType: figure
 maker: "海洋堂"

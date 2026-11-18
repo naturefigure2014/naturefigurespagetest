@@ -7,7 +7,7 @@ figureId: "009"
 maker: "海洋堂"
 sculptor: "KATAYAMA×REN"
 executiveProducer: "-"
-species: "GLAY HISASHI"
+species: ""
 speciesGroup: "-"
 themes:
   - "ポップカルチャー"

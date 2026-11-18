@@ -6,7 +6,7 @@ titleId: tta/nannkyokuhokkyoku
 figureId: "002"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "タテゴトアザラシ"
+species: ""
 price: "300円"
 releaseStart: "2012.09"
 genre:

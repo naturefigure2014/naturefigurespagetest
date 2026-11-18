@@ -7,7 +7,7 @@ figureId: "009"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "551蓬莱の豚まん"
+species: ""
 speciesGroup: "-"
 themes:
   - "特産品"

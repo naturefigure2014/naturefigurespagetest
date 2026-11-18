@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/nohmask2
 figureId: "004"
-species: "痩女【やせおんな】"
+species: ""
 speciesGroup: "その他/未分類"
 maker: "海洋堂"
 figureTopImage: ""

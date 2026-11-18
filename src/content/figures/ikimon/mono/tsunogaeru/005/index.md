@@ -6,7 +6,7 @@ titleId: ikimon/mono/tsunogaeru
 figureId: "005"
 maker: "奇譚クラブ 企画総指揮：佐藤純也"
 sculptor: "-"
-species: "-"
+species: ""
 price: "200円"
 releaseStart: "2013.12"
 genre:

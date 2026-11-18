@@ -5,7 +5,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "吉良かずや"
 seriesName: "-"
-species: "オオミズナギドリ"
+species: ""
 price: "-"
 releaseStart: "-"
 genre:

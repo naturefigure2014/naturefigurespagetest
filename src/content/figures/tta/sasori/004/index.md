@@ -6,7 +6,7 @@ titleId: tta/sasori
 figureId: "004"
 maker: "-"
 sculptor: "-"
-species: "イエローファットテールスコーピオン"
+species: ""
 price: "200円"
 releaseStart: "2011.05"
 genre:

@@ -8,7 +8,7 @@ sculptor: "松村しのぶ"
 seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
-species: "シャチ"
+species: ""
 speciesGroup: クジラ・イルカ類
 price: "800円"
 releaseStart: "-"

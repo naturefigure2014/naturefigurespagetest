@@ -6,7 +6,7 @@ titleId: tta/gairai
 figureId: "004"
 maker: "-"
 sculptor: "-"
-species: "シロアゴガエル"
+species: ""
 price: "200円"
 releaseStart: "2010.09"
 genre:

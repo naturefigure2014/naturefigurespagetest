@@ -8,7 +8,7 @@ sculptor: "木下隆志"
 seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
-species: シャチ
+species: ""
 speciesGroup: クジラ・イルカ類
 price: "-"
 releaseStart: "-"

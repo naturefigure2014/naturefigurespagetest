@@ -5,7 +5,7 @@ contentType: figure
 maker: "-"
 sculptor: "清水ゆう子"
 seriesName: "ぶりくら×海洋堂コラボフィギュア"
-species: "ムカシトカゲ"
+species: ""
 price: "33,000円"
 releaseStart: "2019.09"
 genre:

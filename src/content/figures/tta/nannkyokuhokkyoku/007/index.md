@@ -6,7 +6,7 @@ titleId: tta/nannkyokuhokkyoku
 figureId: "007"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "観測用無人航空機"
+species: ""
 price: "300円"
 releaseStart: "2012.09"
 genre:

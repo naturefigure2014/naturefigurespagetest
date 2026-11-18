@@ -6,7 +6,7 @@ titleId: ikimon/mono/hotaru
 figureId: "003"
 maker: "キタンクラブ 公式サイト： コチラ"
 sculptor: "クラフト・キリコ 企画総指揮：佐藤純也"
-species: "-"
+species: ""
 price: "200円"
 releaseStart: "2010.06"
 genre:

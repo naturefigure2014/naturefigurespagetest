@@ -5,7 +5,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "吉良かずや"
 seriesName: "-"
-species: "スピノサウルス"
+species: ""
 price: "-"
 releaseStart: "2025.10"
 genre:

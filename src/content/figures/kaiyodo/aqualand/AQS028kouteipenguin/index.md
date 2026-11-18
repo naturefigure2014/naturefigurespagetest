@@ -8,7 +8,7 @@ sculptor: "松村しのぶ"
 seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
-species: コウテイペンギン
+species: ""
 speciesGroup: ペンギン類
 price: "2,500円（再販）"
 releaseStart: "2011.07"

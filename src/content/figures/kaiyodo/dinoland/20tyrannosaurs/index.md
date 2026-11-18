@@ -3,7 +3,7 @@ title: "1/20ティラノサウルス Aタイプ"
 description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
-species: "ティラノサウルス"
+species: ""
 speciesGroup: "獣脚類"
 contentType: figure
 figureTopImage: img/tyranno024.jpg

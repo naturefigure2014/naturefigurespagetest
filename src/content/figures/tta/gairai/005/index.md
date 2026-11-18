@@ -6,7 +6,7 @@ titleId: tta/gairai
 figureId: "005"
 maker: "-"
 sculptor: "-"
-species: "セイヨウタンポポ"
+species: ""
 price: "200円"
 releaseStart: "2010.09"
 genre:

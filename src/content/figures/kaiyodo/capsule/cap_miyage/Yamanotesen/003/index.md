@@ -7,7 +7,7 @@ figureId: "003"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "上野あんみつ「みはし」"
+species: ""
 speciesGroup: "-"
 themes:
   - "郷土料理"
