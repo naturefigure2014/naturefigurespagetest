@@ -107,8 +107,8 @@ const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], tit
           <button class="maker-detail-menu" type="button" aria-controls="maker-detail-sidebar" aria-expanded="false">☰ メーカー一覧</button>
           <aside class="maker-detail-sidebar" id="maker-detail-sidebar">
             <div class="maker-detail-sidebar-heading">メーカーから探す</div>
-            {["海洋堂", "ユージン", "タカラトミーアーツ", "いきもん", "バンダイ", "スタジオソータ", "エポック社", "その他"].map((name) => (
-              <a class:list={{ "is-current": name === entry.data.maker }} href={name === "海洋堂" ? siteUrl("/makers/kaiyodo/") : "#"}>{name}</a>
+            {["海洋堂", "ユージン・タカラトミーアーツ", "いきもん", "バンダイ", "スタジオソータ", "エポック社", "その他"].map((name) => (
+              <a class:list={{ "is-current": name === entry.data.maker }} href={name === "海洋堂" ? siteUrl("/makers/kaiyodo/") : name === "ユージン・タカラトミーアーツ" ? siteUrl("/makers/TTA_yujin/") : "#"}>{name}</a>
             ))}
           </aside>
         </div>
@@ -116,7 +116,7 @@ const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], tit
           <div>
             {entry.data.maker !== "海洋堂" && <p class="eyebrow">{entry.data.english ?? "MAKER"}</p>}
             <h1>{entry.data.maker}</h1>
-            <p>海洋堂のフィギュアを、シリーズやジャンルから探せます。</p>
+            <p>{entry.data.pageDescription ?? `${entry.data.maker}のフィギュアを、シリーズやジャンルから探せます。`}</p>
           </div>
           {imageFor(entry.data.heroSourceId, entry.data.heroImage) && <img src={imageFor(entry.data.heroSourceId, entry.data.heroImage)} alt="" />}
         </section>

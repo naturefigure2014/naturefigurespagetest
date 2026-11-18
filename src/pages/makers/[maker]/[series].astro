@@ -10,10 +10,15 @@ import { siteUrl } from "../../../lib/site-url";
 export async function getStaticPaths() {
   const makerPages = await getCollection("makers");
   const seriesPages = makerPages.filter((entry) => entry.data.seriesPageSlug);
-  return seriesPages.map((entry) => ({
-    params: { series: entry.data.seriesPageSlug },
-    props: { entry }
-  }));
+  return seriesPages.map((entry) => {
+    const pathSegments = entry.id.split("/");
+    const maker = pathSegments.at(-2) ?? pathSegments.at(-1);
+    if (!maker) throw new Error(`Missing maker path for series page: ${entry.id}`);
+    return {
+      params: { maker, series: entry.data.seriesPageSlug },
+      props: { entry }
+    };
+  });
 }
 
 const { entry: page } = Astro.props;
@@ -86,7 +91,7 @@ const heroImage = page.data.heroSourceId
       <div class="breadcrumb">
         <a href={siteUrl("/")}>ホーム</a> /
         <a href={siteUrl("/makers/")}>メーカー・タイトルから探す</a> /
-        <a href={siteUrl("/makers/kaiyodo/")}>{page.data.maker}</a> /
+        <a href={siteUrl(page.id.startsWith("kaiyodo/") ? "/makers/kaiyodo/" : "/makers/")}>{page.data.maker}</a> /
         {page.data.pageTitle}
       </div>
 

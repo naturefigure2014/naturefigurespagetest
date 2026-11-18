@@ -19,26 +19,26 @@ const seriesNamesOf = (entry?: (typeof figures)[number]) => {
 };
 
 type Pickup = { title: string; id?: string; href?: string; imageSourceId?: string; image?: string | number };
-type Maker = { name: string; english: string; pickups: Pickup[] };
+type Maker = { name: string; english: string; href?: string; pickups: Pickup[] };
 
 const makers: Maker[] = [
-  { name: "海洋堂", english: "KAIYODO", pickups: [
+  { name: "海洋堂", english: "KAIYODO", href: "/makers/kaiyodo/", pickups: [
     { title: "水生生物モデルコレクションAQUALAND", href: "/makers/kaiyodo/aqualand/", imageSourceId: "kaiyodo/aqualand", image: "img/aqualand_header.png" },
     { title: "日本の動物コレクション1", id: "kaiyodo/animatales/anima_jap1" },
     { title: "DINOLAND", id: "kaiyodo/dinoland", href: "/makers/kaiyodo/dinoland/" },
     { title: "カプセルQミュージアム", id: "kaiyodo/capsuleq", href: "/makers/kaiyodo/capsuleq/" , imageSourceId: "kaiyodo/animatales/anima_japI", image: "img/japIall.jpg" }
   ] },
-  { name: "ユージン", english: "YUJIN", pickups: [
-    { title: "原色日本昆虫図鑑1", href: "/makers/kaiyodo/gennsyoku/" }, { title: "原色淡水魚図鑑1" },
-    { title: "原色両生類図鑑" }, { title: "原色日本の鳥類図鑑" }
+  { name: "ユージン・タカラトミーアーツ", english: "YUJIN / TAKARA TOMY A.R.T.S", href: "/makers/TTA_yujin/", pickups: [
+    { title: "原色淡水魚図鑑I", id: "yujin/tannsuigyo1" },
+    { title: "原色日本昆虫図鑑I", id: "yujin/konntyu1" },
+    { title: "立体カプセル百科事典 ハンティング・トロフィー", id: "yujin/hunting1" },
+    { title: "不思議生物大百科 深淵の居住者 深海生物", id: "tta/deep_sea_creatures" }
   ] },
-  { name: "タカラトミーアーツ", english: "TAKARA TOMY A.R.T.S", pickups: [
-    { title: "いきもの大図鑑" }, { title: "すみっコぐらし フィギュア" },
-    { title: "どうぶつフィギュアコレクション" }
-  ] },
-  { name: "いきもん", english: "IKIMON", pickups: [
-    { title: "ネイチャーテクニカラー 日本のカエル" }, { title: "ネイチャーテクニカラー 海洋1" },
-    { title: "サイエンステクニカラー ドイツ箱" }, { title: "ネイチャーテクニカラー 昆虫" }
+  { name: "いきもん", english: "IKIMON", href: "/makers/ikimon/ikimon/", pickups: [
+    { title: "ネイチャーテクニカラー 日本のカエル", id: "ikimon/daiza/kaeru", href: "/makers/ikimon/ikimon/" },
+    { title: "ネイチャーテクニカラー 海洋1", id: "ikimon/daiza/kaiyo1" },
+    { title: "サイエンステクニカラー ドイツ箱", id: "ikimon/STC/specimenbox4" },
+    { title: "ネイチャーテクニカラー 日本のカメ", id: "ikimon/daiza/nihonn_kame" }
   ] },
   { name: "バンダイ", english: "BANDAI", pickups: [
     { title: "いきものかくれんぼ" }, { title: "ガシャポン 生きものコレクション" },
@@ -74,7 +74,7 @@ const makers: Maker[] = [
         <section class="maker-directory-section">
           <header class="maker-directory-heading">
             <div><h2>{maker.name}</h2><p>{maker.english}</p></div>
-            <a href={siteUrl(maker.name === "海洋堂" ? "/makers/kaiyodo/" : "/titles/")}>このメーカーのタイトル一覧を見る <span>→</span></a>
+            <a href={siteUrl(maker.href ?? "/titles/")}>このメーカーのタイトル一覧を見る <span>→</span></a>
           </header>
           <div class="maker-pickup-grid">
             {maker.pickups.map((pickup) => {
