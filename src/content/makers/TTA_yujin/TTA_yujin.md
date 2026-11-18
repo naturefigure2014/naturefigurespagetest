@@ -1,6 +1,12 @@
 ---
 maker: ユージン・タカラトミーアーツ
+pageTitle: ユージン・タカラトミーアーツ
+pageEnglish: YUJIN / TAKARA TOMY A.R.T.S
+seriesPageSlug: TTA_yujin
+titleSeries: ユージン・タカラトミーアーツ
 english: YUJIN / TAKARA TOMY A.R.T.S
+heroSourceId: yujin/kame_kai
+heroImage: coverImage
 pageDescription: ガチャガチャの老舗Yujinは、ノンキャラクター商品として「原色図鑑シリーズ」を展開していました。Yujinがタカラトミーに吸収された後、シリーズに携わった人々は別会社へ移りましたが、リアル系の生き物フィギュアは細々と続いています。
 seriesDescription: ユージンからタカラトミーアーツへと続く、原色図鑑シリーズや立体カプセル百科事典などのフィギュアを紹介します。
 seriesSections:
@@ -84,3 +90,5 @@ seriesSections:
       - tta/mannmaubigdino
       - tta/mizubenonakama
 ---
+
+ガチャガチャの老舗Yujinは、ノンキャラクター商品として「原色図鑑シリーズ」を展開していました。Yujinがタカラトミーに吸収された後、シリーズに携わった人々は別会社へ移りましたが、リアル系の生き物フィギュアは細々と続いています。

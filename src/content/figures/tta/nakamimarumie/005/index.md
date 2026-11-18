@@ -6,7 +6,7 @@ titleId: tta/nakamimarumie
 figureId: "005"
 maker: "ユージン・タカラトミー"
 sculptor: "-"
-species: "ひつじ"
+species: ""
 price: "200円"
 releaseStart: "2006.06"
 genre:

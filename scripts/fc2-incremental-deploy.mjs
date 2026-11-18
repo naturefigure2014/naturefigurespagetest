@@ -1,4 +1,4 @@
-import { createHash } from "node:crypto";
+import { createHash, randomBytes } from "node:crypto";
 import { createReadStream } from "node:fs";
 import { copyFile, link, mkdir, mkdtemp, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
@@ -7,6 +7,7 @@ import { spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 
 const stateName = "fc2-deploy-state.json";
+const stateVersion = 2;
 const safePath = /^(?:[A-Za-z0-9._-]+\/)*[A-Za-z0-9._-]+$/;
 const hashPattern = /^[a-f0-9]{64}$/;
 
@@ -35,7 +36,7 @@ export async function buildManifest(root) {
   await visit(root);
   if (Object.hasOwn(files, stateName)) throw new Error(`Reserved deployment filename: ${stateName}`);
   if (Object.keys(files).length === 0) throw new Error("Build artifact contains no files.");
-  return { version: 1, complete: true, files };
+  return { version: stateVersion, complete: true, files };
 }
 
 export function parseState(text) {
@@ -45,10 +46,17 @@ export function parseState(text) {
   } catch (error) {
     throw new Error(`Invalid FC2 deployment state JSON: ${error.message}`);
   }
-  if (!state || state.version !== 1 || typeof state.complete !== "boolean") {
+  if (!state || ![1, stateVersion].includes(state.version) || typeof state.complete !== "boolean") {
     throw new Error("Unsupported FC2 deployment state.");
   }
-  if (!state.complete) return null;
+  if (state.version === 1) {
+    console.warn("Previous FC2 deployment state predates the destination fix; transferring all files.");
+    return null;
+  }
+  if (!state.complete) {
+    console.warn("Previous FC2 deployment was incomplete; transferring all files.");
+    return null;
+  }
   if (!state.files || typeof state.files !== "object" || Array.isArray(state.files)) {
     throw new Error("Invalid FC2 deployment state file list.");
   }
@@ -129,7 +137,6 @@ export async function deploy({ root, dryRun = false, forceFull = false, ftpClien
         const stateText = await readFile(statePath, "utf8");
         try {
           previous = parseState(stateText);
-          if (!previous) console.warn("Previous FC2 deployment was incomplete; transferring all files.");
         } catch (error) {
           console.warn(`Cannot trust FC2 deployment state: ${error.message}; transferring all files.`);
         }
@@ -159,8 +166,18 @@ export async function deploy({ root, dryRun = false, forceFull = false, ftpClien
         await copyFile(source, destination);
       }
     }
-    await writeAndVerifyState(statePath, JSON.stringify({ version: 1, complete: false }), ftpClient);
-    ftpClient(`mirror --reverse --verbose --no-perms --transfer-all ${quote(stage)} /test/`);
+    const probeName = `fc2-deploy-probe-${randomBytes(16).toString("hex")}.txt`;
+    if (Object.hasOwn(manifest.files, probeName)) throw new Error(`Reserved deployment filename: ${probeName}`);
+    const probeText = randomBytes(32).toString("hex");
+    await writeFile(path.join(stage, probeName), probeText, "utf8");
+    await writeAndVerifyState(statePath, JSON.stringify({ version: stateVersion, complete: false }), ftpClient);
+    ftpClient(`mirror --reverse --verbose --no-perms --transfer-all ${quote(stage)} /test`);
+    const downloadedProbe = path.join(temp, "probe.download");
+    ftpClient(`get /test/${probeName} -o ${quote(downloadedProbe)}`);
+    if (await readFile(downloadedProbe, "utf8") !== probeText) {
+      throw new Error("FC2 deployment destination probe did not match.");
+    }
+    ftpClient(`rm /test/${probeName}`);
     await writeAndVerifyState(statePath, JSON.stringify(manifest), ftpClient);
     console.log("FC2 deployment state saved and verified.");
   } finally {

@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { cpSync, existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
+import { cpSync, existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs";
 import { mkdtemp, mkdir, rm, writeFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import path from "node:path";
@@ -16,7 +16,9 @@ test("hash comparison detects same-size changes and validates state", async (t) 
   assert.deepEqual(changedFiles(after, before), ["page.html"]);
   assert.deepEqual(changedFiles(after, parseState(JSON.stringify(after))), []);
   assert.equal(parseState('{"version":1,"complete":false}'), null);
-  assert.throws(() => parseState('{"version":1,"complete":true,"files":{"../page":"bad"}}'));
+  assert.equal(parseState(JSON.stringify({ ...after, version: 1 })), null);
+  assert.equal(parseState('{"version":2,"complete":false}'), null);
+  assert.throws(() => parseState('{"version":2,"complete":true,"files":{"../page":"bad"}}'));
 });
 
 test("deploy handles unchanged files, failed transfers, dry runs, and full recovery", async (t) => {
@@ -30,6 +32,8 @@ test("deploy handles unchanged files, failed transfers, dry runs, and full recov
   await writeFile(path.join(root, "sub", "image.jpg"), "image");
   let mirrors = 0;
   let failMirror = false;
+  let wrongDestination = false;
+  let corruptProbe = false;
   let stateError = null;
   let stateReads = 0;
   let transferred = [];
@@ -51,19 +55,33 @@ test("deploy handles unchanged files, failed transfers, dry runs, and full recov
       cpSync(path.join(remote, "fc2-deploy-state.json"), get[1]);
       return "";
     }
-    const mirror = /^mirror --reverse --verbose --no-perms --transfer-all "([^"]+)" \/test\/$/.exec(command);
+    const probeGet = /^get \/test\/(fc2-deploy-probe-[a-f0-9]+\.txt) -o "([^"]+)"$/.exec(command);
+    if (probeGet) {
+      cpSync(path.join(remote, probeGet[1]), probeGet[2]);
+      if (corruptProbe) writeFileSync(probeGet[2], "unexpected content");
+      return "";
+    }
+    const probeRemove = /^rm \/test\/(fc2-deploy-probe-[a-f0-9]+\.txt)$/.exec(command);
+    if (probeRemove) {
+      rmSync(path.join(remote, probeRemove[1]));
+      return "";
+    }
+    const mirror = /^mirror --reverse --verbose --no-perms --transfer-all "([^"]+)" (\/test\/?)$/.exec(command);
     if (!mirror) throw new Error(`Unexpected FTP command: ${command}`);
     mirrors++;
     transferred = [];
+    const targetRoot = mirror[2].endsWith("/") || wrongDestination
+      ? path.join(remote, path.basename(mirror[1]))
+      : remote;
     function copyFiles(source, relative = "") {
       for (const entry of readdirSync(source, { withFileTypes: true })) {
         const name = relative ? `${relative}/${entry.name}` : entry.name;
         if (entry.isDirectory()) copyFiles(path.join(source, entry.name), name);
         else {
-          const target = path.join(remote, ...name.split("/"));
+          const target = path.join(targetRoot, ...name.split("/"));
           mkdirSync(path.dirname(target), { recursive: true });
           cpSync(path.join(source, entry.name), target);
-          transferred.push(name);
+          if (!name.startsWith("fc2-deploy-probe-")) transferred.push(name);
         }
       }
     }
@@ -78,6 +96,8 @@ test("deploy handles unchanged files, failed transfers, dry runs, and full recov
   assert.equal(stateReads, 1);
   assert.deepEqual(transferred.sort(), ["index.html", "sub/image.jpg"]);
   assert.equal(parseState(readFileSync(path.join(remote, "fc2-deploy-state.json"), "utf8")).complete, true);
+  assert.equal(existsSync(path.join(remote, "stage")), false);
+  assert.equal(readdirSync(remote).some((name) => name.startsWith("fc2-deploy-probe-")), false);
 
   await deploy(options);
   assert.equal(mirrors, 1);
@@ -98,6 +118,35 @@ test("deploy handles unchanged files, failed transfers, dry runs, and full recov
   await deploy(options);
   assert.deepEqual(transferred.sort(), ["index.html", "sub/image.jpg"]);
   assert.equal(readFileSync(path.join(remote, "index.html"), "utf8"), "other");
+
+  const legacyState = await buildManifest(root);
+  legacyState.version = 1;
+  writeFileSync(path.join(remote, "fc2-deploy-state.json"), JSON.stringify(legacyState));
+  await deploy({ ...options, dryRun: true });
+  assert.equal(JSON.parse(readFileSync(path.join(remote, "fc2-deploy-state.json"), "utf8")).version, 1);
+  await deploy(options);
+  assert.deepEqual(transferred.sort(), ["index.html", "sub/image.jpg"]);
+  assert.equal(JSON.parse(readFileSync(path.join(remote, "fc2-deploy-state.json"), "utf8")).version, 2);
+  const mirrorsAfterMigration = mirrors;
+  await deploy(options);
+  assert.equal(mirrors, mirrorsAfterMigration);
+
+  await writeFile(path.join(root, "index.html"), "wrong destination");
+  wrongDestination = true;
+  await assert.rejects(deploy(options), /ENOENT/);
+  assert.equal(parseState(readFileSync(path.join(remote, "fc2-deploy-state.json"), "utf8")), null);
+  wrongDestination = false;
+  await deploy(options);
+  assert.deepEqual(transferred.sort(), ["index.html", "sub/image.jpg"]);
+  assert.equal(readFileSync(path.join(remote, "index.html"), "utf8"), "wrong destination");
+
+  await writeFile(path.join(root, "index.html"), "probe mismatch");
+  corruptProbe = true;
+  await assert.rejects(deploy(options), /destination probe did not match/);
+  assert.equal(parseState(readFileSync(path.join(remote, "fc2-deploy-state.json"), "utf8")), null);
+  corruptProbe = false;
+  await deploy(options);
+  assert.deepEqual(transferred.sort(), ["index.html", "sub/image.jpg"]);
 
   writeFileSync(path.join(remote, "fc2-deploy-state.json"), "{");
   await deploy(options);

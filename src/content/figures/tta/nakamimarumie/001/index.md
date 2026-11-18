@@ -6,7 +6,7 @@ titleId: tta/nakamimarumie
 figureId: "001"
 maker: "ユージン・タカラトミー"
 sculptor: "-"
-species: "乳牛"
+species: ""
 price: "200円"
 releaseStart: "2006.06"
 genre:
