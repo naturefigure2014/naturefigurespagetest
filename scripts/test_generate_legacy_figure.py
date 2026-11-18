@@ -59,11 +59,18 @@ class ExtractItemsTest(unittest.TestCase):
 
 
 class WriteFigurePageTest(unittest.TestCase):
+    @staticmethod
+    def create_figure_image(folder: Path):
+        figure_folder = folder / "001"
+        figure_folder.mkdir(parents=True, exist_ok=True)
+        (figure_folder / "figure.jpg").write_bytes(b"image")
+
     def test_registers_species_emitted_from_item_name(self):
         with tempfile.TemporaryDirectory() as temporary_directory:
             root = Path(temporary_directory)
             folder = root / "figures" / "series"
             folder.mkdir(parents=True)
+            self.create_figure_image(folder)
             species_file = root / "species.yaml"
             species_file.write_text("groups:\n  その他の動物:\n    species:\n", encoding="utf-8")
 
@@ -80,6 +87,7 @@ class WriteFigurePageTest(unittest.TestCase):
             root = Path(temporary_directory)
             folder = root / "figures" / "series"
             folder.mkdir(parents=True)
+            self.create_figure_image(folder)
             species_file = root / "species.yaml"
             species_file.write_text("groups:\n  その他の動物:\n    species:\n", encoding="utf-8")
 
@@ -104,6 +112,7 @@ class WriteFigurePageTest(unittest.TestCase):
             root = Path(temporary_directory)
             folder = root / "figures" / "series"
             folder.mkdir(parents=True)
+            self.create_figure_image(folder)
             species_file = root / "species.yaml"
             species_file.write_text(
                 'groups:\n  その他の動物:\n    species:\n      - "アメリカザリガニ"\n',
@@ -129,6 +138,7 @@ class WriteFigurePageTest(unittest.TestCase):
             folder = root / "figures" / "series"
             figure_folder = folder / "001"
             figure_folder.mkdir(parents=True)
+            (figure_folder / "figure.jpg").write_bytes(b"image")
             page_path = figure_folder / "index.md"
             page_path.write_text('---\nspecies: "保存済み種"\n---\n', encoding="utf-8")
             species_file = root / "species.yaml"
@@ -141,6 +151,26 @@ class WriteFigurePageTest(unittest.TestCase):
             species_data = species_file.read_text(encoding="utf-8")
             self.assertIn('species: "保存済み種"', page)
             self.assertIn('      - "保存済み種"', species_data)
+            self.assertNotIn('"別の種"', species_data)
+
+    def test_emits_empty_species_when_no_jpg_file_exists(self):
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            folder = root / "figures" / "series"
+            figure_folder = folder / "001"
+            figure_folder.mkdir(parents=True)
+            page_path = figure_folder / "index.md"
+            page_path.write_text('---\nspecies: "保存済み種"\n---\n', encoding="utf-8")
+            species_file = root / "species.yaml"
+            species_file.write_text("groups:\n  その他の動物:\n    species:\n", encoding="utf-8")
+
+            with patch("generate_legacy_figure.figure_content_id", return_value="yujin/series"):
+                write_figure_page(folder, {"name": "別の種", "topics": []}, 1, "YUJIN", {}, species_file)
+
+            page = page_path.read_text(encoding="utf-8")
+            species_data = species_file.read_text(encoding="utf-8")
+            self.assertIn('species: ""', page)
+            self.assertNotIn('"保存済み種"', page)
             self.assertNotIn('"別の種"', species_data)
 
 

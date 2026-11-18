@@ -608,6 +608,10 @@ def write_figure_page(
 ):
     figure_folder = folder / f"{index:03d}"
     figure_folder.mkdir(exist_ok=True)
+    has_figure_image = any(
+        path.is_file() and path.suffix.lower() == ".jpg"
+        for path in figure_folder.iterdir()
+    )
     first_image = Path(item["topics"][0]["images"][0]).name if item["topics"] else ""
     title_id = figure_content_id(folder)
     lines = [
@@ -621,12 +625,13 @@ def write_figure_page(
     ]
     figure_metadata = {**metadata, **({"sculptor": item["sculptor"]} if item.get("sculptor") else {})}
     figure_metadata.update({key: item[key] for key in ("species", "speciesGroup") if item.get(key)})
-    figure_metadata.update({key: item[key] for key in ("species", "speciesGroup") if item.get(key)})
     figure_metadata.setdefault("species", item["name"])
+    if not has_figure_image:
+        figure_metadata["species"] = ""
     append_metadata(lines, figure_metadata, (
         "sculptor", "executiveProducer", "species",
         "price", "releaseStart", "salesPeriod", "genre", "tags",
-    ))
+    ), empty_fields=frozenset({"species"}) if not has_figure_image else frozenset())
     lines.extend([
         f"figureTopImage: {quoted(first_image)}",
         f"coverImage: {quoted(first_image)}",
@@ -638,7 +643,8 @@ def write_figure_page(
     lines.extend(yaml_topics(local_topics))
     lines.extend(["---", ""])
     page = figure_folder / "index.md"
-    preserve_existing_fields(lines, page, {"species"})
+    if has_figure_image:
+        preserve_existing_fields(lines, page, {"species"})
     species_line = next((line for line in lines if line.startswith("species:")), None)
     if species_line is None:
         raise ValueError(f"Figure page is missing species metadata: {page}")
@@ -814,7 +820,7 @@ def register_species(species: str, species_file: Path) -> bool:
     if re.search(rf"(?m)^[ \t]*-[ \t]+{re.escape(quoted_species)}[ \t]*\r?$", content):
         return False
 
-    group = re.search(r"(?m)^  その他の動物:\r?\n    species:\r?\n", content)
+    group = re.search(r"(?m)^  その他の動物:\r?\n(?:(?:    (?!species:).*)?\r?\n)*    species:\r?\n", content)
     if group is None:
         raise ValueError(f'Could not find "その他の動物" species group in {species_file}')
 

@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>画像貼り付け用</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../../index.html">HOME</a></li>
+		<li><a href="../../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../../production.html">塗装・改造</a></li>
+		<li><a href="../../../blog/index.html">ブログ</a></li>
+	<li><a href="../../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_main">
+		<table style="width: 100%">	
+<tr><td><a href="img/kyoryu01_001.jpg"><img height="283" src="img/kyoryu01_001_small.jpg" width="378" /></a><a href="img/kyoryu01_002.jpg"><img height="283" src="img/kyoryu01_002_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_003.jpg"><img height="283" src="img/kyoryu01_003_small.jpg" width="378" /></a><a href="img/kyoryu01_004.jpg"><img height="283" src="img/kyoryu01_004_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_005.jpg"><img height="283" src="img/kyoryu01_005_small.jpg" width="378" /></a><a href="img/kyoryu01_006.jpg"><img height="283" src="img/kyoryu01_006_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_007.jpg"><img height="283" src="img/kyoryu01_007_small.jpg" width="378" /></a><a href="img/kyoryu01_008.jpg"><img height="283" src="img/kyoryu01_008_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_009.jpg"><img height="283" src="img/kyoryu01_009_small.jpg" width="378" /></a><a href="img/kyoryu01_010.jpg"><img height="283" src="img/kyoryu01_010_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_011.jpg"><img height="283" src="img/kyoryu01_011_small.jpg" width="378" /></a><a href="img/kyoryu01_012.jpg"><img height="283" src="img/kyoryu01_012_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_013.jpg"><img height="283" src="img/kyoryu01_013_small.jpg" width="378" /></a><a href="img/kyoryu01_014.jpg"><img height="283" src="img/kyoryu01_014_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_015.jpg"><img height="283" src="img/kyoryu01_015_small.jpg" width="378" /></a><a href="img/kyoryu01_016.jpg"><img height="283" src="img/kyoryu01_016_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_017.jpg"><img height="283" src="img/kyoryu01_017_small.jpg" width="378" /></a><a href="img/kyoryu01_018.jpg"><img height="283" src="img/kyoryu01_018_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_019.jpg"><img height="283" src="img/kyoryu01_019_small.jpg" width="378" /></a><a href="img/kyoryu01_020.jpg"><img height="283" src="img/kyoryu01_020_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_021.jpg"><img height="283" src="img/kyoryu01_021_small.jpg" width="378" /></a><a href="img/kyoryu01_022.jpg"><img height="283" src="img/kyoryu01_022_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_023.jpg"><img height="283" src="img/kyoryu01_023_small.jpg" width="378" /></a><a href="img/kyoryu01_024.jpg"><img height="283" src="img/kyoryu01_024_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_025.jpg"><img height="283" src="img/kyoryu01_025_small.jpg" width="378" /></a><a href="img/kyoryu01_026.jpg"><img height="283" src="img/kyoryu01_026_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_027.jpg"><img height="283" src="img/kyoryu01_027_small.jpg" width="378" /></a><a href="img/kyoryu01_028.jpg"><img height="283" src="img/kyoryu01_028_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_029.jpg"><img height="283" src="img/kyoryu01_029_small.jpg" width="378" /></a><a href="img/kyoryu01_030.jpg"><img height="283" src="img/kyoryu01_030_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_031.jpg"><img height="283" src="img/kyoryu01_031_small.jpg" width="378" /></a><a href="img/kyoryu01_032.jpg"><img height="283" src="img/kyoryu01_032_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_033.jpg"><img height="283" src="img/kyoryu01_033_small.jpg" width="378" /></a><a href="img/kyoryu01_034.jpg"><img height="283" src="img/kyoryu01_034_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_035.jpg"><img height="283" src="img/kyoryu01_035_small.jpg" width="378" /></a><a href="img/kyoryu01_036.jpg"><img height="283" src="img/kyoryu01_036_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_037.jpg"><img height="283" src="img/kyoryu01_037_small.jpg" width="378" /></a><a href="img/kyoryu01_038.jpg"><img height="283" src="img/kyoryu01_038_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_039.jpg"><img height="283" src="img/kyoryu01_039_small.jpg" width="378" /></a><a href="img/kyoryu01_040.jpg"><img height="283" src="img/kyoryu01_040_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_041.jpg"><img height="283" src="img/kyoryu01_041_small.jpg" width="378" /></a><a href="img/kyoryu01_042.jpg"><img height="283" src="img/kyoryu01_042_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_043.jpg"><img height="283" src="img/kyoryu01_043_small.jpg" width="378" /></a><a href="img/kyoryu01_044.jpg"><img height="283" src="img/kyoryu01_044_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_045.jpg"><img height="283" src="img/kyoryu01_045_small.jpg" width="378" /></a><a href="img/kyoryu01_046.jpg"><img height="283" src="img/kyoryu01_046_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_047.jpg"><img height="283" src="img/kyoryu01_047_small.jpg" width="378" /></a><a href="img/kyoryu01_048.jpg"><img height="283" src="img/kyoryu01_048_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_049.jpg"><img height="283" src="img/kyoryu01_049_small.jpg" width="378" /></a><a href="img/kyoryu01_050.jpg"><img height="283" src="img/kyoryu01_050_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_051.jpg"><img height="283" src="img/kyoryu01_051_small.jpg" width="378" /></a><a href="img/kyoryu01_052.jpg"><img height="283" src="img/kyoryu01_052_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_053.jpg"><img height="283" src="img/kyoryu01_053_small.jpg" width="378" /></a><a href="img/kyoryu01_054.jpg"><img height="283" src="img/kyoryu01_054_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_055.jpg"><img height="283" src="img/kyoryu01_055_small.jpg" width="378" /></a><a href="img/kyoryu01_056.jpg"><img height="283" src="img/kyoryu01_056_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_057.jpg"><img height="283" src="img/kyoryu01_057_small.jpg" width="378" /></a><a href="img/kyoryu01_058.jpg"><img height="283" src="img/kyoryu01_058_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_059.jpg"><img height="283" src="img/kyoryu01_059_small.jpg" width="378" /></a><a href="img/kyoryu01_060.jpg"><img height="283" src="img/kyoryu01_060_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_061.jpg"><img height="283" src="img/kyoryu01_061_small.jpg" width="378" /></a><a href="img/kyoryu01_062.jpg"><img height="283" src="img/kyoryu01_062_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_063.jpg"><img height="283" src="img/kyoryu01_063_small.jpg" width="378" /></a><a href="img/kyoryu01_064.jpg"><img height="283" src="img/kyoryu01_064_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_065.jpg"><img height="283" src="img/kyoryu01_065_small.jpg" width="378" /></a><a href="img/kyoryu01_066.jpg"><img height="283" src="img/kyoryu01_066_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_067.jpg"><img height="283" src="img/kyoryu01_067_small.jpg" width="378" /></a><a href="img/kyoryu01_068.jpg"><img height="283" src="img/kyoryu01_068_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_069.jpg"><img height="283" src="img/kyoryu01_069_small.jpg" width="378" /></a><a href="img/kyoryu01_070.jpg"><img height="283" src="img/kyoryu01_070_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_071.jpg"><img height="283" src="img/kyoryu01_071_small.jpg" width="378" /></a><a href="img/kyoryu01_072.jpg"><img height="283" src="img/kyoryu01_072_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_073.jpg"><img height="283" src="img/kyoryu01_073_small.jpg" width="378" /></a><a href="img/kyoryu01_074.jpg"><img height="283" src="img/kyoryu01_074_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_075.jpg"><img height="283" src="img/kyoryu01_075_small.jpg" width="378" /></a><a href="img/kyoryu01_076.jpg"><img height="283" src="img/kyoryu01_076_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_077.jpg"><img height="283" src="img/kyoryu01_077_small.jpg" width="378" /></a><a href="img/kyoryu01_078.jpg"><img height="283" src="img/kyoryu01_078_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_079.jpg"><img height="283" src="img/kyoryu01_079_small.jpg" width="378" /></a><a href="img/kyoryu01_080.jpg"><img height="283" src="img/kyoryu01_080_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_081.jpg"><img height="283" src="img/kyoryu01_081_small.jpg" width="378" /></a><a href="img/kyoryu01_082.jpg"><img height="283" src="img/kyoryu01_082_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_083.jpg"><img height="283" src="img/kyoryu01_083_small.jpg" width="378" /></a><a href="img/kyoryu01_084.jpg"><img height="283" src="img/kyoryu01_084_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_085.jpg"><img height="283" src="img/kyoryu01_085_small.jpg" width="378" /></a><a href="img/kyoryu01_086.jpg"><img height="283" src="img/kyoryu01_086_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_087.jpg"><img height="283" src="img/kyoryu01_087_small.jpg" width="378" /></a><a href="img/kyoryu01_088.jpg"><img height="283" src="img/kyoryu01_088_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_089.jpg"><img height="283" src="img/kyoryu01_089_small.jpg" width="378" /></a><a href="img/kyoryu01_090.jpg"><img height="283" src="img/kyoryu01_090_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_091.jpg"><img height="283" src="img/kyoryu01_091_small.jpg" width="378" /></a><a href="img/kyoryu01_092.jpg"><img height="283" src="img/kyoryu01_092_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_093.jpg"><img height="283" src="img/kyoryu01_093_small.jpg" width="378" /></a><a href="img/kyoryu01_094.jpg"><img height="283" src="img/kyoryu01_094_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_095.jpg"><img height="283" src="img/kyoryu01_095_small.jpg" width="378" /></a><a href="img/kyoryu01_096.jpg"><img height="283" src="img/kyoryu01_096_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_097.jpg"><img height="283" src="img/kyoryu01_097_small.jpg" width="378" /></a><a href="img/kyoryu01_098.jpg"><img height="283" src="img/kyoryu01_098_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_099.jpg"><img height="283" src="img/kyoryu01_099_small.jpg" width="378" /></a><a href="img/kyoryu01_100.jpg"><img height="283" src="img/kyoryu01_100_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/kyoryu01_101.jpg"><img height="283" src="img/kyoryu01_101_small.jpg" width="378" /></a><a href="img/kyoryu01_102.jpg"><img height="283" src="img/kyoryu01_102_small.jpg" width="378" /></a></td></tr><!-- INSERTION POINT -->
+		</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
