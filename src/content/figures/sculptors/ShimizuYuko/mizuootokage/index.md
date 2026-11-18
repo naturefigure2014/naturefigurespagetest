@@ -5,7 +5,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "清水ゆう子"
 seriesName: "清水ゆう子 オリジナル根付"
-species: ""
+species: "ミズオオトカゲ"
 price: "2,000円（墨入れ版）"
 releaseStart: "2018.09"
 genre:

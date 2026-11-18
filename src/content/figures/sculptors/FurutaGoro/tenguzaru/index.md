@@ -5,7 +5,7 @@ contentType: figure
 maker: "-"
 sculptor: "古田悟郎"
 seriesName: "-"
-species: ""
+species: "テングザル"
 price: "3,000円"
 releaseStart: "2018.09"
 genre:

@@ -8,7 +8,7 @@ sculptor: "松村しのぶ"
 seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
-species: ""
+species: メガネモチノウオ
 speciesGroup: スズキ目の魚類
 price: "-"
 releaseStart: "-"

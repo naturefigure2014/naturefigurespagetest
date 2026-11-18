@@ -5,7 +5,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "古田悟郎"
 seriesName: "ぶりくら25周年記念 限定オリジナル根付"
-species: ""
+species: "リュウキュウヤマガメ"
 price: "3,000円"
 releaseStart: "2025.10"
 genre:

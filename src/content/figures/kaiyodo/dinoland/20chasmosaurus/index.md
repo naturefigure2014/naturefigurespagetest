@@ -4,7 +4,7 @@ description: ""
 maker: "海洋堂"
 titleId: kaiyodo/dinoland
 figureId: ""
-species: ""
+species: "カスモサウルス"
 speciesGroup: "角竜類"
 contentType: figure
 sculptor: "松村しのぶ"

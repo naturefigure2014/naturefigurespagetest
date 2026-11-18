@@ -7,7 +7,7 @@ titleId: kaiyodo/WFnetsuke/WF2017w
 sculptor: "吉良かずや"
 executiveProducer: "-"
 seriesName: ""
-species: ""
+species: "ニホンカワウソ"
 speciesGroup: "食肉類"
 price: "3,000円"
 releaseStart: "-"

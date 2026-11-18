@@ -3,7 +3,7 @@ title: "100mm恐竜シリーズ トリケラトプス"
 description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
-species: ""
+species: "トリケラトプス"
 speciesGroup: "角竜類"
 contentType: figure
 maker: "海洋堂"

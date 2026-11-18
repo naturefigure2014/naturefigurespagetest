@@ -5,7 +5,7 @@ contentType: figure
 maker: "-"
 sculptor: "吉良かずや"
 seriesName: "-"
-species: ""
+species: "マハゼ"
 price: "は考え中"
 releaseStart: "2025.10"
 genre:

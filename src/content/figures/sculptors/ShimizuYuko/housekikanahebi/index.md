@@ -5,7 +5,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "清水ゆう子"
 seriesName: "-"
-species: ""
+species: "ホウセキカナヘビ"
 price: "8,000円"
 releaseStart: "2020.11"
 genre:

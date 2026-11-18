@@ -3,7 +3,7 @@ title: "100mm恐竜シリーズ ティラノサウルス"
 description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
-species: ""
+species: "ティラノサウルス"
 speciesGroup: "獣脚類"
 contentType: figure
 maker: "海洋堂"

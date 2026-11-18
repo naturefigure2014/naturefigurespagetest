@@ -9,7 +9,7 @@ sculptor: "松村しのぶ"
 seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
-species: ""
+species: アカメアマガエル
 speciesGroup: カエル類
 price: "2,500円"
 releaseStart: "-"

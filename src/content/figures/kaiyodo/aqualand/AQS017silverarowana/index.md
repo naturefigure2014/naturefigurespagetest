@@ -8,7 +8,7 @@ sculptor: "木下隆志"
 seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
-species: ""
+species: シルバーアロワナ
 speciesGroup: 古代魚類
 price: "-"
 releaseStart: "-"

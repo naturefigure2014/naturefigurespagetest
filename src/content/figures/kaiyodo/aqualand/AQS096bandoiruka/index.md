@@ -8,7 +8,7 @@ sculptor: "古田悟郎"
 seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
-species: ""
+species: バンドウイルカ
 speciesGroup: クジラ・イルカ類
 price: "-"
 releaseStart: "-"

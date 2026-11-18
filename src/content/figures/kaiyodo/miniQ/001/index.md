@@ -6,7 +6,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 seriesName: "-"
-species: ""
+species: "-"
 price: "1500円 公式サイト： コチラ"
 releaseStart: "-"
 genre:

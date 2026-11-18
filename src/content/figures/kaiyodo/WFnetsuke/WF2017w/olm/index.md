@@ -7,7 +7,7 @@ titleId: kaiyodo/WFnetsuke/WF2017w
 sculptor: "古田悟郎"
 executiveProducer: "-"
 seriesName: "-"
-species: ""
+species: "ホライモリ"
 speciesGroup: "イモリ・サンショウウオ類"
 price: "3,000円"
 releaseStart: "-"

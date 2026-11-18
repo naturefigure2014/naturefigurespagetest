@@ -3,7 +3,7 @@ title: "1/20アンキロサウルス"
 description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
-species: ""
+species: "アンキロサウルス"
 speciesGroup: "装盾類"
 contentType: figure
 maker: "海洋堂"

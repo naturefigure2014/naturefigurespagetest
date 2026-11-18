@@ -6,7 +6,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "村田明玄"
 price: "3,500円"
-species: ""
+species: "ニワトリ"
 speciesGroup: "キジ・ニワトリ類"
 releaseStart: "2013.12"
 figureTopImage: "img/himawari008.jpg"

@@ -3,7 +3,7 @@ title: "100mm恐竜シリーズ ヴェロキラプトル"
 description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
-species: ""
+species: "ヴェロキラプトル"
 speciesGroup: "獣脚類"
 contentType: figure
 maker: "海洋堂"

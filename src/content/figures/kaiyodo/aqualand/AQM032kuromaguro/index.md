@@ -8,7 +8,7 @@ sculptor: "松村しのぶ"
 seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
-species: ""
+species: クロマグロ
 speciesGroup: マグロ・カツオ類
 price: "-"
 releaseStart: "-"

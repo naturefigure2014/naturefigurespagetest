@@ -3,7 +3,7 @@ title: "100mm恐竜シリーズ ステゴサウルス"
 description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
-species: ""
+species: "ステゴサウルス"
 speciesGroup: "装盾類"
 contentType: figure
 maker: "海洋堂"

@@ -8,7 +8,7 @@ sculptor: "茨木一美"
 seriesName: "水生動物モデルコレクション[アクアランド]"
 series:
   - AQUALAND
-species: ""
+species: カモノハシ
 speciesGroup: その他哺乳類
 price: "-"
 releaseStart: "-"

@@ -5,7 +5,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "古田悟郎"
 seriesName: "-"
-species: ""
+species: "オサガメ"
 price: "4,000円"
 releaseStart: "2019.12"
 genre:

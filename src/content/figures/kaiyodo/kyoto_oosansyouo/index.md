@@ -6,7 +6,7 @@ contentType: figure
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 
-species: ""
+species: "オオサンショウウオ"
 speciesGroup: "イモリ・サンショウウオ類"
 price: "1900円"
 releaseStart: "2012.08"

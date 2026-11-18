@@ -3,7 +3,7 @@ title: "カマラサウルス"
 description: ""
 titleId: kaiyodo/dinoland
 figureId: "DIS-10"
-species: ""
+species: "カマラサウルス"
 speciesGroup: "竜脚類"
 contentType: figure
 maker: "海洋堂"
