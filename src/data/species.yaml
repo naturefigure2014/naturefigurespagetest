@@ -479,6 +479,7 @@ groups:
     imageFigureId: ikimon/daiza/ogasawara/007
     icon: "◌"
     species:
+      - "マメハチドリ"
       - "アオゲラ"
       - "アオバト"
       - "アカゲラ"
@@ -539,6 +540,10 @@ groups:
     imageFigureId: ikimon/mono/tokage_yamori/001
     icon: "◆"
     species:
+      - "ジャクソンカメレオン"
+      - "サメハダタマオヤモリ"
+      - "オニタマオヤモリ"
+      - "アルマジロトカゲ"
       - "アゴヒゲトカゲ"
       - "アオカナヘビ"
       - "ウミイグアナ"
@@ -631,6 +636,7 @@ groups:
     imageFigureId: ikimon/daiza/kaeru/001
     icon: "●"
     species:
+      - "ソバージュネコメガエル"
       - "アメフクラガエル"
       - "アカメアマガエル"
       - "アマガエル"
@@ -1078,10 +1084,16 @@ groups:
       - "マンディブラリスフタマタクワガタ"
       - "モーレンカンプオオカブト"
       - "コーカサスオオカブト"
+      - "パラワンオオヒラタクワガタ"
   その他の甲虫類:
     imageFigureId: ikimon/mono/hotaru/001
     icon: "◆"
     species:
+      - "エンシフェルオオニジダイコクコガネ"
+      - "アカガネタマオシコガネ"
+      - "クロガネタマオシコガネ"
+      - "ケンランタマオシコガネ"
+      - "ゴライアスオオツノハナムグリ"
       - "エツボシケシキスイ"
       - "カナブン"
       - "キタカブリ"
@@ -1794,6 +1806,7 @@ groups:
   古代の魚類:
     imageFigureId: kaiyodo/capsule/seimeishinnka/002
     species:
+      - "メガロドン"
       - "アクセルロディクティス"
       - "クセナカンサス"
       - "クラドセラケ"

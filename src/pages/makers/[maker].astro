@@ -108,7 +108,7 @@ const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], tit
           <aside class="maker-detail-sidebar" id="maker-detail-sidebar">
             <div class="maker-detail-sidebar-heading">メーカーから探す</div>
             {["海洋堂", "ユージン・タカラトミーアーツ", "いきもん", "バンダイ", "スタジオソータ", "エポック社", "その他"].map((name) => (
-              <a class:list={{ "is-current": name === entry.data.maker }} href={name === "海洋堂" ? siteUrl("/makers/kaiyodo/") : name === "ユージン・タカラトミーアーツ" ? siteUrl("/makers/TTA_yujin/TTA_yujin/") : name === "いきもん" ? siteUrl("/makers/ikimon/ikimon/") : name === "バンダイ" ? siteUrl("/makers/BANDAI/BANDAI/") : "#"}>{name}</a>
+              <a class:list={{ "is-current": name === entry.data.maker }} href={name === "海洋堂" ? siteUrl("/makers/kaiyodo/") : name === "ユージン・タカラトミーアーツ" ? siteUrl("/makers/TTA_yujin/TTA_yujin/") : name === "いきもん" ? siteUrl("/makers/ikimon/ikimon/") : name === "バンダイ" ? siteUrl("/makers/BANDAI/BANDAI/") : name === "スタジオソータ" ? siteUrl("/makers/SO-TA/SO-TA/") : "#"}>{name}</a>
             ))}
           </aside>
         </div>
