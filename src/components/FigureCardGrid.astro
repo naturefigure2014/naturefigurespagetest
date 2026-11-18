@@ -1,6 +1,7 @@
 ---
 import MakerCardBadges from "./MakerCardBadges.astro";
-import { getCollection, type CollectionEntry } from "astro:content";
+import { type CollectionEntry } from "astro:content";
+import { getSortedCollection as getCollection } from "../lib/content";
 import { resolveFigureImage } from "../lib/figure-images";
 import { makerBadgeClass, makerNames } from "../lib/maker";
 import { siteUrl } from "../lib/site-url";

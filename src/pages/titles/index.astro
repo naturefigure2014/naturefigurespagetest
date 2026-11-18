@@ -2,7 +2,7 @@
 import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Card from "../../components/Card.astro";
-import { getCollection } from "astro:content";
+import { getSortedCollection as getCollection } from "../../lib/content";
 import { siteUrl } from "../../lib/site-url";
 const items = (await getCollection("figures")).filter((item) => item.data.contentType === "title");
 ---

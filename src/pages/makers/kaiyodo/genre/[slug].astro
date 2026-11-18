@@ -2,7 +2,7 @@
 import "../../../../styles/global.css";
 import BaseLayout from "../../../../layouts/BaseLayout.astro";
 import MakerCardBadges from "../../../../components/MakerCardBadges.astro";
-import { getCollection } from "astro:content";
+import { getSortedCollection as getCollection } from "../../../../lib/content";
 import { resolveFigureImage } from "../../../../lib/figure-images";
 import { resolveMakerImage } from "../../../../lib/maker-images";
 import { makerNames } from "../../../../lib/maker";

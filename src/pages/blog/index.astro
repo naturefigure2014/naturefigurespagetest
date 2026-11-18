@@ -1,11 +1,12 @@
 ---
 import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { getCollection } from "astro:content";
+import { getSortedCollection as getCollection } from "../../lib/content";
+import { compareContentId } from "../../lib/content-order.mjs";
 import { siteUrl } from "../../lib/site-url";
 
 const items = (await getCollection("blog"))
-  .sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0));
+  .sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0) || compareContentId(a, b));
 
 const categoryLabels: Record<string, string> = {
   diary: "日記",

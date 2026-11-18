@@ -1,7 +1,9 @@
 ---
 import "../styles/global.css";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { getCollection, render } from "astro:content";
+import { render } from "astro:content";
+import { getSortedCollection as getCollection } from "../lib/content";
+import { compareContentId } from "../lib/content-order.mjs";
 import { resolveFigureImage } from "../lib/figure-images";
 import { formatFigureId } from "../lib/figure-id";
 import { makerBadgeClass, makerNames } from "../lib/maker";
@@ -23,7 +25,7 @@ const lineup = figures
       ? listedFigureIds.has(figureId)
       : normalizeContentId(figure.data.titleId ?? "") === normalizeContentId(entry.id);
   })
-  .sort((a, b) => (a.data.figureId ?? "").localeCompare(b.data.figureId ?? "", undefined, { numeric: true }));
+  .sort((a, b) => (a.data.figureId ?? "").localeCompare(b.data.figureId ?? "", undefined, { numeric: true }) || compareContentId(a, b));
 
 const titleMakers = makerNames(entry.data.maker);
 const hasCustomTitle = Boolean(entry.data.title1 || entry.data.title2);

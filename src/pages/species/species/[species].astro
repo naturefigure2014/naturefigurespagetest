@@ -2,7 +2,7 @@
 import "../../../styles/global.css";
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import FigureCardGrid from "../../../components/FigureCardGrid.astro";
-import { getCollection } from "astro:content";
+import { getSortedCollection as getCollection } from "../../../lib/content";
 import { getSpeciesEntries, UNCLASSIFIED_GROUP } from "../../../lib/species";
 import { siteUrl } from "../../../lib/site-url";
 
