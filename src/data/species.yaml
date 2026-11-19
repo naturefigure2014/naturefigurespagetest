@@ -259,6 +259,7 @@ groups:
     imageFigureId: ikimon/daiza/kaiyo1/001
     icon: "◒"
     species:
+      - "ベルーガ"
       - "イシイルカ"
       - "イッカク"
       - "イロワケイルカ"
@@ -374,6 +375,7 @@ groups:
     imageFigureId: kaiyodo/animatales/anima_jap10/006
     icon: "▲"
     species:
+      - "エジプトハゲワシ"
       - "アオバズク"
       - "アナホリフクロウ"
       - "アフリカオオコノハズク"
@@ -581,6 +583,7 @@ groups:
     imageFigureId: ikimon/daiza/kaiyo1/006
     icon: "◉"
     species:
+      - "クロウミガメ"
       - "アオウミガメ"
       - "アカアシガメ"
       - "アカウミガメ"
@@ -714,6 +717,7 @@ groups:
     imageFigureId: ikimon/mono/shinkaiseibutsu1/002
     icon: "◉"
     species:
+      - "ネオケラトドゥス"
       - "アジアアロワナ"
       - "アリゲーターガー"
       - "シーラカンス"
@@ -728,6 +732,9 @@ groups:
     imageFigureId: ikimon/daiza/kaiyo1/003
     icon: "〰"
     species:
+      - "ウバザメ"
+      - "オオノコギリエイ"
+      - "オオチョウザメ"
       - "アオザメ"
       - "アカシュモクザメ"
       - "イタチザメ"
@@ -1259,6 +1266,7 @@ groups:
     imageFigureId: ikimon/daiza/kaiyukann/014
     icon: "◆"
     species:
+      - "ハクセンシオマネキ"
       - "アカテガニ"
       - "アサヒガニ"
       - "オーストラリアオオガニ"
@@ -1282,6 +1290,7 @@ groups:
     imageFigureId: ikimon/daiza/ogasawara/004
     icon: "♢"
     species:
+      - "オマールエビ"
       - "アカイセエビ"
       - "アメリカンロブスター"
       - "イセエビ"
@@ -1842,6 +1851,10 @@ groups:
   幻獣:
     imageFigureId: kaiyodo/capsule/dragonfigure/001
     species:
+      - "東方の青龍"
+      - "西方の白虎"
+      - "南方の朱雀"
+      - "北方の玄武"
       - "スフィンクス"
       - "ドラゴン"
       - "玄武"

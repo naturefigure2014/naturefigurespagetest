@@ -1,0 +1,192 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>ターリン 青龍と白虎</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>ターリン 青龍と白虎<br />
+			</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="359" src="img/seiryu018.jpg" width="760" /></td>
+			</tr>
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2022年12月　販売元：ターリン　価格：300円<br />
+			公式サイト：<a href="https://tarlin-capsule.jp/product/241" target="_blank">コチラ</a><br />
+			2021年7月にエポック社のカプセルトイ部門は、ターリン・インターナショナルに引き継がれました。<br />
+			本ページはターリン製品の第1号ページとなります。<br />
+			4タイプに対して、漆黒カラーと青銅カラーの2色の計8種。<br />
+			記載はありませんが原型は判治靖郎さん。<br />
+			<br />
+			■「四聖獣」
+			<br />
+			もともと本作は<a href="../shiseiju">2011年に「四聖獣」としてリリースされたもの</a>を流用しています。<br />
+			今回なぜタイトルを「青龍」と「白虎」に絞ったのかは謎です。<br />
+			<br />
+			実はずっと再版をまっていました。<br />
+			やはり僕らベイブレード世代にとって、四聖獣は特別なのだ。
+			</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/seiryu002_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/seiryu005_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/seiryu009_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/seiryu013_small.jpg" width="146" /></a></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+		
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">東方の青龍</th></tr>
+			<tr><td><a href="img/seiryu001.jpg">
+				<img height="283" src="img/seiryu001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu001.jpg" --></a><a href="img/seiryu002.jpg"><img height="283" src="img/seiryu002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu002.jpg" --></a></td></tr>
+			<tr><td><a href="img/seiryu004.jpg">
+				<img height="283" src="img/seiryu004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu004.jpg" --></a><a href="img/seiryu003.jpg"><img height="283" src="img/seiryu003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu003.jpg" --></a></td></tr>
+			<tr><td class="comment">中国の神話である四聖獣には方角が割り当てられており、青龍は東。<br />
+			「青」は本来は緑を指していたようです。<br />
+&nbsp;<br />
+			細長い胴体ですが、うまいこと自立するポーズとなっています。<br />
+			ウロコが丁寧に造型されていますね。<br />
+			胴体の分割は1か所だけはウロコに沿った自然なものになっているのに、他はバッサリ行ってしまっているのが惜しいところ。</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">西方の白虎</th></tr>
+			<tr><td><a href="img/seiryu005.jpg">
+				<img height="283" src="img/seiryu005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu005.jpg" --></a><a href="img/seiryu007.jpg"><img height="283" src="img/seiryu007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu007.jpg" --></a></td></tr>
+			<tr><td><a href="img/seiryu017.jpg">
+				<img height="283" src="img/seiryu017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu017.jpg" --></a><a href="img/seiryu008.jpg"><img height="283" src="img/seiryu008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu008.jpg" --></a></td></tr>
+			<tr><td class="comment">四聖獣のうち、唯一「ホワイトタイガー」として実在する生き物。<br />
+			フィギュアは縞模様を造型で表現しています。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">南方の朱雀</th></tr>
+			<tr><td><a href="img/seiryu009.jpg">
+				<img height="283" src="img/seiryu009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu009.jpg" --></a><a href="img/seiryu010.jpg"><img height="283" src="img/seiryu010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu010.jpg" --></a></td></tr>
+			<tr><td><a href="img/seiryu011.jpg">
+				<img height="283" src="img/seiryu011_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu011.jpg" --></a><a href="img/seiryu012.jpg"><img height="283" src="img/seiryu012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu012.jpg" --></a></td></tr>
+			<tr><td class="comment">同じく中国神話の「鳳凰」とは別物。<br />
+			フィギュアでは尾が3つありますが、本数に決まりはないようです。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">北方の玄武</th></tr>
+			<tr><td><a href="img/seiryu013.jpg">
+				<img height="283" src="img/seiryu013_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu013.jpg" --></a><a href="img/seiryu014.jpg"><img height="283" src="img/seiryu014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu014.jpg" --></a></td></tr>
+			<tr><td><a href="img/seiryu015.jpg">
+				<img height="283" src="img/seiryu015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu015.jpg" --></a><a href="img/seiryu016.jpg"><img height="283" src="img/seiryu016_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryu016.jpg" --></a></td></tr>
+			<tr><td class="comment">本作では亀に蛇が巻き付いた姿。<br />
+				ときには尾が蛇になっている表現がされることもあるようです。<br />
+			原型の判治さんは多くのカメフィギュアを手掛けているので、幻獣とはいえリアリティのある出来栄え。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">ミニパンフ</th></tr>
+			<tr><td><img height="126" src="img/seiryubook.jpg" width="760" /></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">ディスプレイポップ</th></tr>
+			<tr><td><a href="img/seiryuDP.jpg">
+				<img height="283" src="img/seiryuDP_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///C:/My Web Sites/mysite2/epoch/seiryutobyakko/img/seiryuDP.jpg" --></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			
+			<tr><th id="7">&nbsp;</th></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td class="comment"></td></tr>
+			<!--
+			-->			
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
