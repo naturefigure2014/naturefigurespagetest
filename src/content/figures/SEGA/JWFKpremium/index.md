@@ -12,3 +12,4 @@ speciesEntries:
     speciesGroup: "獣脚類"
   - species: "モササウルス"
     speciesGroup: "古代の海生爬虫類"
+---
