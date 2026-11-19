@@ -6,6 +6,11 @@ maker: "-"
 sculptor: "荒木一成"
 seriesName: "-"
 species: "-"
+speciesEntries:
+  - species: "ペンタケラトプス"
+    speciesGroup: "角竜類"
+  - species: "ビスタヒエヴェルソル"
+    speciesGroup: "獣脚類"
 price: "-"
 releaseStart: "-"
 genre:
