@@ -1625,7 +1625,6 @@ groups:
     imageFigureId: ikimon/mono/kyokuhi/001
     icon: "◌"
     species:
-      - "T-レックス"
       - "ブラックシーネットル"
       - "インドネシアンシーネットル"
       - "アトランティックシーネットル"

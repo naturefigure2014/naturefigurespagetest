@@ -242,7 +242,7 @@ def sales_period(text: str) -> str | None:
 
 
 def extract_price(text: str) -> str | None:
-    match = re.search(r"価格\s*[：:：]?\s*([^\s　]+)", text)
+    match = re.search(r"(?:^|[\s　])価格\s*[：:]\s*([^\s　]+)", text)
     if not match:
         return None
     return match.group(1)

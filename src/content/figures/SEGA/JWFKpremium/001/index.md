@@ -6,8 +6,8 @@ titleId: SEGA/JWFKpremium
 figureId: "001"
 maker: "セガ・インタラクティブ"
 sculptor: "-"
-species: "BLUE"
-price: "でそれなりの造形で製品化されてうれしいですね。このクオリティはゲーセンプライズという販売形態が一番いいのかもしれません。"
+species: "ヴェロキラプトル"
+price: "-"
 releaseStart: "2018.07"
 genre:
   - "-"

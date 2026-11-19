@@ -11,7 +11,7 @@ figureIds:
   - SEGA/JWFKpremium/003
 seriesName: "-"
 releaseStart: "2018.07"
-price: "でそれなりの造形で製品化されてうれしいですね。このクオリティはゲーセンプライズという販売形態が一番いいのかもしれません。"
+price: "-"
 species: "-"
 genre:
   - "-"

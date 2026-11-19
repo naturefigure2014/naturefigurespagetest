@@ -6,8 +6,8 @@ titleId: SEGA/JWFKpremium
 figureId: "002"
 maker: "セガ・インタラクティブ"
 sculptor: "-"
-species: "T-レックス"
-price: "でそれなりの造形で製品化されてうれしいですね。このクオリティはゲーセンプライズという販売形態が一番いいのかもしれません。"
+species: "ティラノサウルス"
+price: "-"
 releaseStart: "2018.07"
 genre:
   - "-"
