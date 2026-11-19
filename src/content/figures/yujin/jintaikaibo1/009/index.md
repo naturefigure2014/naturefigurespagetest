@@ -33,4 +33,10 @@ topics:
       頭蓋骨がパカッと開けられる、カラフルなシークレット。
       ■ 完全版
       未入手
+  - title: ""
+    images:
+      - "jintai1_book1.jpg"
+  - title: ""
+    images:
+      - "jintai1_book2.jpg"
 ---

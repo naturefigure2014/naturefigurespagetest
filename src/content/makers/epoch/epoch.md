@@ -34,6 +34,7 @@ seriesSections:
     titleIds:
       - epoch/shiseiju
       - epoch/kyoryuhead
+      - epoch/seiryutobyakko/
 ---
 
 ガチャだけでなく幅広い玩具を販売するメーカーです。「地球生命紀行」は、生き物をテーマにしたシリーズとして長く展開されました。ブランド名がなくなった後も、再販されることがあります。

@@ -1,0 +1,212 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>恐竜図鑑スタンドフィギュア</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>Qualia 恐竜図鑑 スタンドフィギュア<br />
+			</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="222" src="img/kyoryuzukan018.jpg" width="760" /></td>
+			</tr>
+			</table>
+			<p>
+			■概要<br />
+			販売開始：2021年6月　発売元：Qualia　価格：400円　公式サイト：<a href="https://qualia-45.jp/distinations/dino_sf/" target="_blank">コチラ</a><br />
+			海洋生物ガチャや水族館ガチャ界隈で勢いのあるQualiaから恐竜ガチャが登場。<br />
+			原型制作はリアル生物フィギュアに定評のある<a href="../../nonmaker/CSModelDesign">C.SModel 
+			Design</a>のお二人。<br />
+			造形はティラノをツキムラさん、それ以外をタナカさんが担当していますが、ラインナップの選定やポージングはお二人で決めたようです。<br />
+			ギミックやジオラマなぞいらぬ、造形を味わえぃ！、と言わんばかりのシンプルなコンセプトがステキです。<br />
+			今回のラインナップは白亜紀に生きた恐竜達からなっています。続編はきっとジュラ紀なのでしょう。<br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/kyoryuzukan001_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/kyoryuzukan010_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/kyoryuzukan015_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/kyoryuzukan004_small.jpg" width="146" /></a></td><td><a href="#5">
+<img src="img/kyoryuzukan007_small.jpg" width="146" /></a></td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+		
+			<table style="width: 100%">
+			<!--
+			-->
+			<tr><th id="1">ティラノサウルス</th></tr>
+			<tr><td><a href="img/kyoryuzukan001.jpg">
+				<img height="283" src="img/kyoryuzukan001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan001.jpg" --></a><a href="img/kyoryuzukan002.jpg"><img height="283" src="img/kyoryuzukan002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan002.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyoryuzukan003.jpg">
+				<img height="283" src="img/kyoryuzukan003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan003.jpg" --></a></td></tr>
+			<tr><td class="comment">ティラノは勢いのあるポージング。<br />
+				がっしりしたボディはこれぞティラノといった出来栄え。<br />
+				ウロコ表現な点もカッコいい。<br />
+				<br />
+				細かな部分の塗装やパーティングラインの処理、見本の再現度はそこそこといったところ。</td></tr>
+			<tr><td><a href="img/kyoryuzukan022.jpg">
+				<img height="283" src="img/kyoryuzukan022_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan022.jpg" --></a></td></tr>
+			<tr><td class="comment">最近の海洋堂のティラノよりもひとまわり大きめ。<br />
+				ディスプレイポップの「驚きのBIGサイズ！」は（同価格帯の他社製のフィギュアと比較して）BIGサイズ！のようです。<br />
+				</td></tr>
+			<!--
+			-->			
+			<tr><th id="2">トリケラトプス</th></tr>
+			<tr><td><a href="img/kyoryuzukan010.jpg">
+				<img height="283" src="img/kyoryuzukan010_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan010.jpg" --></a><a href="img/kyoryuzukan011.jpg"><img height="283" src="img/kyoryuzukan011_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan011.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyoryuzukan013.jpg">
+				<img height="283" src="img/kyoryuzukan013_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan013.jpg" --></a><a href="img/kyoryuzukan014.jpg"><img height="283" src="img/kyoryuzukan014_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan014.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyoryuzukan012.jpg">
+				<img height="283" src="img/kyoryuzukan012_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan012.jpg" --></a></td></tr>
+			<tr><td class="comment">しゃがんだトリケラ。<br />
+				「スタンド」じゃねーじゃんとは言ってはいけない。<br />
+				<br />
+				細かいウロコやシワも表現されており、それを強調するためか、スミイレのような塗装がされています。<br />
+				すらっとした脚に対してぼてっとした腹に、生き物らしいリアリティを感じます。</td></tr>
+			<!--
+			-->
+			<tr><th id="3">ディノニクス</th></tr>
+			<tr><td><a href="img/kyoryuzukan015.jpg">
+				<img height="283" src="img/kyoryuzukan015_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan015.jpg" --></a><a href="img/kyoryuzukan016.jpg"><img height="283" src="img/kyoryuzukan016_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan016.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyoryuzukan017.jpg">
+				<img height="283" src="img/kyoryuzukan017_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan017.jpg" --></a></td></tr>
+			<tr><td class="comment">歯や羽根、シックルクローなど細かなところまでしっかり表現されており、解像度の高い一品。<br />
+				４００円ガチャでここまで出来るとは驚き。</td></tr>
+			<tr><td><a href="img/kyoryuzukan020.jpg">
+				<img height="283" src="img/kyoryuzukan020_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan020.jpg" --></a><a href="img/kyoryuzukan019.jpg"><img height="283" src="img/kyoryuzukan019_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan019.jpg" --></a></td></tr>
+			<tr><td class="comment">もともと<a href="../../nonmaker/CSModelDesign/index.html#deino">ガレージキット用に作られたもの</a>の縮小版となっています。<br />
+				<br />
+				尻尾の先端の羽根は今回省略されているため、完全版が欲しい人はガレキ版をゲットしよう。</td></tr>
+			<!--
+			-->			
+			<tr><th id="4">ランベオサウルス</th></tr>
+			<tr><td><a href="img/kyoryuzukan005.jpg">
+				<img height="283" src="img/kyoryuzukan005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan005.jpg" --></a><a href="img/kyoryuzukan006.jpg"><img height="283" src="img/kyoryuzukan006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan006.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyoryuzukan004.jpg">
+				<img height="283" src="img/kyoryuzukan004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan004.jpg" --></a></td></tr>
+			<tr><td class="comment">
+				「カムイサウルス」や「ヤマトサウルス」で、近頃ホットな「ハドロサウルス枠」からはランベオサウルスが登場。<br />
+				特徴的な頭の形はフィギュア映えしますね。<br />
+				<br />
+				前脚のヒヅメ表現は<a href="../../nonmaker/CSModelDesign/index.html#sauro">ツキムラさんのサウロロフス</a>でも見られた表現です。</td></tr>
+			<tr><td><a href="img/kyoryuzukan021.jpg">
+				<img height="283" src="img/kyoryuzukan021_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan021.jpg" --></a></td></tr>
+			<tr><td class="comment">
+				手持ちにランベオサウルスのフィギュアってあったか？と思い探してみましたが、骨しかありませんでした。</td></tr>
+			<!--
+			-->
+			<tr><th id="5">カルノタウルス</th></tr>
+			<tr><td><a href="img/kyoryuzukan007.jpg">
+				<img height="283" src="img/kyoryuzukan007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan007.jpg" --></a><a href="img/kyoryuzukan008.jpg"><img height="283" src="img/kyoryuzukan008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan008.jpg" --></a></td></tr>
+			<tr><td><a href="img/kyoryuzukan009.jpg">
+				<img height="283" src="img/kyoryuzukan009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukan009.jpg" --></a></td></tr>
+			<tr><td class="comment">大型獣脚類の２枠目は、敵を蹴りつけるポーズのカルノタウルス。<br />
+				眼の上のツノや極端に短い前脚が特徴的。<br />
+				ティラノサウルスともディノニクスとも違うシルエットで、ラインナップにメリハリが付きますね。</td></tr>
+			<!--
+			-->			
+			<tr><th id="6">ミニブック</th></tr>
+			<tr><td>
+				<img height="152" src="img/kyoryuzukanbook.jpg" width="760" /></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->
+			<tr><th id="7">ディスプレイポップ</th></tr>
+			<tr><td>
+				<a href="img/kyoryuzukanDP.jpg">
+				<img height="283" src="img/kyoryuzukanDP_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/Qualia/kyoryuzukan/img/kyoryuzukanDP.jpg" --></a></td></tr>
+			<tr><td class="comment">&nbsp;</td></tr>
+			<!--
+			-->			
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

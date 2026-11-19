@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>JOIN Collection ウミガメ</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+			<img height="69" src="img/umigame_header.png" width="760" /><br/>
+		<table style="width: 100%">
+			<tr>
+				<td >
+				<img height="245" src="img/umigame014.jpg" width="760" /></td>
+			</tr>
+			<tr>
+				<td class="collection_page_lineup" valign="top">
+				<span class="font_blue_small">【ラインナップ】</span><br />
+				<span class="font_small">アオウミガメ<br />
+				アカウミガメ<br />
+				ヒメウミガメ<br />
+				タイマイ<br />
+				オサガメ<br />
+				子ガメ（アオ、アカ）</span></td>
+			</tr>
+		</table>
+			<p>
+			【Qualia JOIN Collection ウミガメ】<br />
+			販売開始時期：2019年2月　発売元：Qualia　価格：400円<br />
+			台座を合体できる「JOIN Collection」の第2弾。今回はウミガメのみでラインナップをかためてきました。造形はリアル志向で、このご時勢に、出来の良い先駆者の多いこのジャンルに立ち向かう姿勢が素晴らしい。ラインナップ間で相対的なスケール調整をしているのもおもしろいですね。<br />
+			これが発売された後には<a href="../../blog/blog20190403.html">鳥羽水族館とのコラボ</a>も発表され、今最も勢いのあるメーカーかもしれません。<br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		
+			<table style="width: 100%">
+			<tr>
+<th colspan="2">アオウミガメ</th></tr>
+<tr>
+<td><a href="img/umigame001.jpg">
+<img height="283" src="img/umigame001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame001.jpg" --></a></td>
+<td><a href="img/umigame002.jpg">
+<img height="283" src="img/umigame002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame002.jpg" --></a></td>
+</tr>
+<tr>
+<td colspan="2" class="comment">各社で異なるアオウミガメの甲羅模様もチェックポイント。Qualiaもきれいです。</td>
+</tr>
+<tr>
+<th colspan="2">アカウミガメ</th></tr>
+<tr>
+<td><a href="img/umigame009.jpg">
+<img height="283" src="img/umigame009_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame009.jpg" --></a></td>
+<td><a href="img/umigame010.jpg">
+<img height="283" src="img/umigame010_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame010.jpg" --></a></td>
+</tr>
+<tr>
+<td colspan="2" class="comment">甲羅のグラデーションが良いですね。色やツヤ具合は<a href="../../anima/anima_jap3">チョコエッグ</a>に似ています。</td>
+</tr>
+<tr>
+<th colspan="2">ヒメウミガメ</th></tr>
+<tr>
+<td><a href="img/umigame005.jpg">
+<img height="283" src="img/umigame005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame005.jpg" --></a></td>
+<td><a href="img/umigame006.jpg">
+<img height="283" src="img/umigame006_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame006.jpg" --></a></td>
+</tr>
+<tr>
+<td colspan="2" class="comment"><a href="../../yujin/kame_kai">原色図鑑</a>では黒っぽい色でしたが、今回は緑系。</td>
+</tr>
+<tr>
+<th colspan="2">タイマイ</th></tr>
+<tr>
+<td><a href="img/umigame003.jpg">
+<img height="283" src="img/umigame003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame003.jpg" --></a></td>
+<td><a href="img/umigame004.jpg">
+<img height="283" src="img/umigame004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame004.jpg" --></a></td>
+</tr>
+<tr>
+<td colspan="2" class="comment">タイマイらしさが出ていますね。</td>
+</tr>
+<tr>
+<th colspan="2">オサガメ</th></tr>
+<tr>
+<td><a href="img/umigame007.jpg">
+<img height="283" src="img/umigame007_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame007.jpg" --></a></td>
+<td><a href="img/umigame008.jpg">
+<img height="283" src="img/umigame008_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame008.jpg" --></a></td>
+</tr>
+<tr>
+<td colspan="2" class="comment"><a href="../../etc/seimeinokodou">久しぶり</a>のオサガメフィギュア。</td>
+</tr>
+<tr>
+<th colspan="2">子ガメ（アカ、アオ）</th></tr>
+<tr>
+<td><a href="img/umigame011.jpg">
+<img height="283" src="img/umigame011_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame011.jpg" --></a></td>
+<td><a href="img/umigame012.jpg">
+<img height="283" src="img/umigame012_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame012.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment" colspan="2">同一原型でしょうか？文字通りの色のアカウミガメとアオウミガメ。</td>
+</tr>
+
+<tr>
+<th colspan="2">合体</th></tr>
+<tr>
+<td><a href="img/umigame013.jpg">
+<img height="283" src="img/umigame013_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/Qualia/umigame/img/umigame013.jpg" --></a></td>
+<td>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td colspan="2" class="comment">台座は４つまでですが、穴はあまっているので、全種ぶち込むこともできます。</td>
+</tr>
+<tr>
+<th colspan="2">ブックレット</th></tr>
+<tr>
+<td colspan="2"><img height="302" src="img/umigame015.jpg" width="760" /></td>
+</tr>
+
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

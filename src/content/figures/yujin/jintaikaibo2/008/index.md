@@ -39,4 +39,11 @@ topics:
       頭蓋骨を固定させるためのクリアパーツは２種類付属し、このようにパーツの境がわかるディスプレイもできます。
       ■ 完全版
       未入手
+  - title: ""
+    images:
+      - "jintai2_book1.jpg"
+  - title: ""
+    images:
+      - "jintai2_book2.jpg"
+      - "jintai2_book3.jpg"
 ---

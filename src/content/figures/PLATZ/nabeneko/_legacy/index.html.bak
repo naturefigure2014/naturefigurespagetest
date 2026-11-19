@@ -1,0 +1,186 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>PLATZ MONO なべねこ</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>PLATZ MONO なべ・ねこ</h4>
+		<table style="width: 100%">
+			<tr>
+				<td>
+				<img height="244" src="img/nabeneko018.jpg" width="760" /></td>
+			</tr>
+			</table>
+			<p>
+			<span class="font_Bold">■概要</span><br />
+			販売開始：2025年9月　販売元：PLATZ　価格：500円<br />
+			原型制作：竹内しんぜん（SHINZEN造形研究所）<br />
+			公式によるブログ：<a href="https://platz-media.com/blog/2025/08/06/nabeneko/" target="_blank">コチラ</a><br />
+			SHINZENさんの愛らしい猫。<br />
+
+2021年頃にガレージキット「ねんねこ」として販売されたものが元になっています。造形時に塗料皿を活用していたため、このときはお皿の上で眠るシーンでしたが、今回お鍋に変更され「なべ・ねこ」としてリリースされました。<br />
+			<span class="font_Bold">■PLATZ</span><br />
+
+静岡のプラモデルメーカー、PLATZが販売するガチャブランド「MONO」はカプセルトイ、ダイキャストミニカー、アニメ関連商品など、ジャンルを問わず幅広い分野での製品開発を進めているそうです。<br />
+			</p>
+		</div>
+		<div id="collection_page_main">
+		
+		<!-- ↓ラインナップ一覧サムネ↓  -->
+		<table style="width: 100%">
+		<tr>
+		<td><a href="#1">
+<img src="img/nabeneko001_small.jpg" width="146" /></a></td><td><a href="#2">
+<img src="img/nabeneko006_small.jpg" width="146" /></a></td><td><a href="#3">
+<img src="img/nabeneko009_small.jpg" width="146" /></a></td><td><a href="#4">
+<img src="img/nabeneko012_small.jpg" width="146" /></a></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td>
+		</tr>
+		</table>		
+		<!-- ↑ラインナップ一覧サムネ↑  -->
+		
+			<table style="width: 100%">
+			<!-- Start of Group 1 -->
+<tr><th id="1">茶トラ&amp;白猫</th></tr>
+<tr><td><a href="img/nabeneko001.jpg"><img height="283" src="img/nabeneko001_small.jpg" width="378" /></a></td></tr>
+<tr><td class="comment">
+	太極図の構図で眠るネコ。<br />
+	太極図自体には「全てのものには陰と陽がある」的な意味合いですが、今はそんなことは忘て、可愛らしいネコを楽しめばいいじゃない。</td></tr>
+<tr><td class="comment">
+	&nbsp;</td></tr>
+<tr><td class="comment">
+	複雑に絡み合う２匹の脚と尻尾ですが、不自然なく表現されています。</td></tr>
+<tr><td><a href="img/nabeneko003.jpg"><img height="283" src="img/nabeneko003_small.jpg" width="378" /></a><a href="img/nabeneko004.jpg"><img height="283" src="img/nabeneko004_small.jpg" width="378" /></a></td></tr>
+<tr><td><a href="img/nabeneko005.jpg"><img height="283" src="img/nabeneko005_small.jpg" width="378" /></a><a href="img/nabeneko002.jpg"><img height="283" src="img/nabeneko002_small.jpg" width="378" /></a></td></tr>
+<tr><td class="comment"></td></tr>
+<!-- End of Group 1 -->
+<!-- Start of Group 2 -->
+<tr><th id="2">サバトラ&amp;グレー猫</th></tr>
+<tr><td><a href="img/nabeneko006.jpg"><img height="283" src="img/nabeneko006_small.jpg" width="378" /></a><a href="img/nabeneko007.jpg"><img height="283" src="img/nabeneko007_small.jpg" width="378" /></a></td></tr>
+<tr><td class="comment">SHINZENさんの造形が、気軽にガチャで手に入る良い時代になりました。<br />
+	各社、もっと出してほしい。</td></tr>
+<tr><td><a href="img/nabeneko008.jpg"><img height="283" src="img/nabeneko008_small.jpg" width="378" /></a></td></tr>
+<tr><td class="comment"></td></tr>
+<!-- End of Group 2 -->
+<!-- Start of Group 3 -->
+<tr><th id="3">黒ブチ&amp;黒猫</th></tr>
+<tr><td><a href="img/nabeneko009.jpg"><img height="283" src="img/nabeneko009_small.jpg" width="378" /></a><a href="img/nabeneko010.jpg"><img height="283" src="img/nabeneko010_small.jpg" width="378" /></a></td></tr>
+<tr><td class="comment">「ねこ鍋」という文化を知らなかったのですが、Wikipediaにも記載されている程度には一般的な文化なのですね。 </td></tr>
+<tr><td><a href="img/nabeneko011.jpg"><img height="283" src="img/nabeneko011_small.jpg" width="378" /></a></td></tr>
+<tr><td class="comment"></td></tr>
+<!-- End of Group 3 -->
+<!-- Start of Group 4 -->
+<tr><th id="4">三毛&amp;ハチワレ</th></tr>
+<tr><td><a href="img/nabeneko012.jpg"><img height="283" src="img/nabeneko012_small.jpg" width="378" /></a><a href="img/nabeneko013.jpg"><img height="283" src="img/nabeneko013_small.jpg" width="378" /></a></td></tr>
+<tr><td class="comment">実はまったくノーマークで、発売の直前、<a href="#8">「いきもにあ2025」の会場</a>でSHINZENさんのブースに展示してあるのを見て発売を知りました。 </td></tr>
+<tr><td><a href="img/nabeneko014.jpg"><img height="283" src="img/nabeneko014_small.jpg" width="378" /></a></td></tr>
+<tr><td class="comment"></td></tr>
+<!-- End of Group 4 -->
+<!-- Start of Group 5 -->
+<tr><th id="5">全4種</th></tr>
+<tr><td><a href="img/nabeneko015.jpg"><img height="283" src="img/nabeneko015_small.jpg" width="378" /></a></td></tr>
+<tr><td class="comment">本作は全４種で全てのネコが色違い。<br />
+	このタイトルで８タイプのネコが楽しめます。</td></tr>
+<!-- End of Group 5 -->
+<!----><tr><th>ミニパンフ</th></tr><tr><td>
+				<img height="167" src="img/nabenekobook.jpg" width="760" /></td></tr>
+<!-- Start of Group 7 -->
+				<tr><td class="comment">&nbsp;</td></tr>
+<tr><th id="7">ディスプレイポップ</th></tr>
+<tr><td><a href="img/nabeneko016.jpg"><img height="283" src="img/nabeneko016_small.jpg" width="378" /></a></td></tr>
+<tr><td class="comment">日本人はネコがお好き。<br />
+	流通しだしてすぐに見つけましたが、売れ行き好調でした。</td></tr>
+<!-- End of Group 7 -->
+<!-- Start of Group PXL_20251019_012503500.jpg -->
+<tr><th id="8">参考展示</th></tr>
+<tr><td><a href="img/nabeneko017.jpg"><img height="283" src="img/nabeneko017_small.jpg" width="378" /></a></td></tr>
+<tr><td class="comment">発売の直前、<a href="../../blog/blog20251213.html">いきもにあ2025</a>のSHINZENさんのブースに参考展示してありました。</td></tr>
+<!-- End of Group PXL_20251019_012503500.jpg -->
+
+			
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

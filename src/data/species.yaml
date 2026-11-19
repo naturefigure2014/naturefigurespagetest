@@ -3,6 +3,9 @@ groups:
     imageFigureId: ikimon/nature_of_japan/noj1/003
     icon: "●"
     species:
+      - "オオオオハシ"
+      - "リスザル"
+      - "サバンナヒヒ"
       - "オランウータン"
       - "キンシコウ"
       - "ジェフロイクモザル"
@@ -16,10 +19,16 @@ groups:
       - "ボルネオオランウータン"
       - "エリマキキツネザル"
       - "ゴリラ"
+      - "猿"
+      - "猿人"
+      - "原人"
+      - "新人"
   食肉類:
     imageFigureId: ikimon/daiza/kaiyukann/002
     icon: "♣"
     species:
+      - "バク"
+      - "シロクマ"
       - "アゴヒゲアザラシ"
       - "アザラシ"
       - "アシカ"
@@ -259,6 +268,8 @@ groups:
     imageFigureId: ikimon/daiza/kaiyo1/001
     icon: "◒"
     species:
+      - "シナウスイロイルカ"
+      - "マダライルカ"
       - "ベルーガ"
       - "イシイルカ"
       - "イッカク"
@@ -304,6 +315,7 @@ groups:
     imageFigureId: ikimon/NTC400/Australia/001
     icon: "♧"
     species:
+      - "タスマニアンデビル"
       - "アカカンガルー"
       - "コアラ"
       - "フクロモモンガ"
@@ -314,7 +326,12 @@ groups:
     imageFigureId: ikimon/NTC400/Australia/005
     icon: "◌"
     species:
+      - "ミツユビナマケモノ"
+      - "ナマケモノ"
+      - "ココノオビアルマジロ"
+      - "センザンコウ"
       - "アズマモグラ"
+      - "マナティー"
       - "アブラコウモリ"
       - "アメリカマナティー"
       - "オオアリクイ"
@@ -335,6 +352,7 @@ groups:
     imageFigureId: kaiyodo/animatales/anima_jap10/005
     icon: "●"
     species:
+      - "ルリツグミ"
       - "ウグイス"
       - "オオヨシキリ"
       - "オオルリ"
@@ -358,6 +376,8 @@ groups:
     imageFigureId: kaiyodo/animatales/anima_jap6/158
     icon: "◇"
     species:
+      - "ルリコンゴウインコ"
+      - "アカコンゴウインコ"
       - "イエリクロボタンインコ"
       - "オカメインコ"
       - "シロハラインコ"
@@ -375,6 +395,9 @@ groups:
     imageFigureId: kaiyodo/animatales/anima_jap10/006
     icon: "▲"
     species:
+      - "ミサゴ"
+      - "ハクトウワシ"
+      - "コミミズク"
       - "エジプトハゲワシ"
       - "アオバズク"
       - "アナホリフクロウ"
@@ -443,6 +466,8 @@ groups:
     imageFigureId: ikimon/daiza/nannkyoku/007
     icon: "▽"
     species:
+      - "ミツユビカモメ"
+      - "コアジサシ"
       - "アホウドリ"
       - "ウミネコ"
       - "オオウミガラス"
@@ -481,6 +506,9 @@ groups:
     imageFigureId: ikimon/daiza/ogasawara/007
     icon: "◌"
     species:
+      - "ブッポウソウ"
+      - "フクロウオウム"
+      - "ハチドリ"
       - "マメハチドリ"
       - "アオゲラ"
       - "アオバト"
@@ -527,6 +555,7 @@ groups:
     imageFigureId: ikimon/nature_of_japan/noj1/007
     icon: "〰"
     species:
+      - "アナコンダ"
       - "アオダイショウ"
       - "アカマタ"
       - "エラブウミヘビ"
@@ -630,6 +659,7 @@ groups:
     imageFigureId: kaiyodo/animatales/chocoq_amazing/012
     icon: "♢"
     species:
+      - "ワニ"
       - "インドガビアル"
       - "ナイルワニ"
       - "メガネカイマン"
@@ -732,6 +762,8 @@ groups:
     imageFigureId: ikimon/daiza/kaiyo1/003
     icon: "〰"
     species:
+      - "トラザメ"
+      - "タマカイ"
       - "ウバザメ"
       - "オオノコギリエイ"
       - "オオチョウザメ"
@@ -775,6 +807,7 @@ groups:
     imageFigureId: ikimon/MOVE/chinanago/001
     icon: "◆"
     species:
+      - "ロイヤルプレコ"
       - "アカザ"
       - "イワトコナマズ"
       - "ウツボ"
@@ -980,6 +1013,10 @@ groups:
     imageFigureId: ikimon/daiza/seiryu/001
     icon: "◌"
     species:
+      - "ホワイトソックス"
+      - "ピラニア"
+      - "ゴウギョウ"
+      - "ベタ"
       - "アカナマダ"
       - "アゴヌケホシエソ"
       - "アンコウ"
@@ -1056,6 +1093,8 @@ groups:
     imageFigureId: ikimon/nature_of_japan/noj2/003
     icon: "♣"
     species:
+      - "ヘルクレスオオカブト"
+      - "ゾウカブト"
       - "オオクワガタ"
       - "オキナワカブト"
       - "カブトムシ"
@@ -1139,6 +1178,7 @@ groups:
     imageFigureId: kaiyodo/animatales/anima_jap1/006
     icon: "◇"
     species:
+      - "ベレイデスモルフォ"
       - "アオバセセリ"
       - "アゲハ"
       - "アケビコノハ"
@@ -1176,6 +1216,7 @@ groups:
     imageFigureId: tta/genn_gitai/001
     icon: "✦"
     species:
+      - "コノハムシ"
       - "コノハカマキリ"
       - "ヒシムネカレハカマキリ"
       - "ハナカマキリ"
@@ -1188,6 +1229,10 @@ groups:
     imageFigureId: kaiyodo/animatales/anima_jap7/191
     icon: "▲"
     species:
+      - "スズメバチ"
+      - "アシナガバチ"
+      - "アリ"
+      - "ハチ"
       - "アラメジガバチ"
       - "アルゼンチンアリ"
       - "オオスズメバチ"
@@ -1219,6 +1264,7 @@ groups:
     imageFigureId: kaiyodo/animatales/anima_jap10/014
     icon: "◌"
     species:
+      - "ライチカメムシ"
       - "アブラゼミ"
       - "アカスジキンカメムシ"
       - "イエバエ"
@@ -1266,6 +1312,7 @@ groups:
     imageFigureId: ikimon/daiza/kaiyukann/014
     icon: "◆"
     species:
+      - "ホシマンジュウガニ"
       - "ハクセンシオマネキ"
       - "アカテガニ"
       - "アサヒガニ"
@@ -1339,6 +1386,7 @@ groups:
     imageFigureId: kaiyodo/animatales/anima_japII/012
     icon: "●"
     species:
+      - "トゲグモ"
       - "メキシカンレッドニータランチュラ"
       - "テナガカニムシ"
       - "アカイロトリノフンダマシ"
@@ -1364,6 +1412,7 @@ groups:
     imageFigureId: kaiyodo/capsuleq/yudokukikenn/005
     icon: "◆"
     species:
+      - "サソリ"
       - "ダイオウサソリ"
       - "デスストーカー"
       - "ラングドックサソリ"
@@ -1452,6 +1501,7 @@ groups:
     imageFigureId: ikimon/nature_of_japan/noj1/011
     icon: "◌"
     species:
+      - "オオベソオウムガイ"
       - "オウムガイ"
       - "クリオネ"
       - "ハマグリ"
@@ -1625,6 +1675,11 @@ groups:
   獣脚類:
     imageFigureId: ikimon/daiza/koseibutsu/003
     species:
+      - "レドンダサウルス"
+      - "グアンロン"
+      - "インロン"
+      - "ビスタヒエヴェルソル"
+      - "ズケンティラヌス"
       - "アクロカントサウルス"
       - "アロサウルス"
       - "イー"
@@ -1693,6 +1748,8 @@ groups:
   鳥脚類:
     imageFigureId: kaiyodo/capsule/kyoryuhaku2016/003
     species:
+      - "ヒプシロホドン"
+      - "トラコドン"
       - "イグアノドン"
       - "カムイサウルス"
       - "シャントゥンゴサウルス"
@@ -1703,6 +1760,8 @@ groups:
   角竜類:
     imageFigureId: ikimon/daiza/koseibutsu/005
     species:
+      - "ペンタケラトプス"
+      - "シノケラトプス"
       - "アンキケラトプス"
       - "カスモサウルス"
       - "コスモケラトプス"
@@ -1716,6 +1775,7 @@ groups:
   装盾類:
     imageFigureId: kaiyodo/capsule/kyoryuhaku2023/001
     species:
+      - "タルキア"
       - "アンキロサウルス"
       - "サイカニア"
       - "サウロペルタ"
@@ -1731,6 +1791,8 @@ groups:
   翼竜類:
     imageFigureId: kaiyodo/capsuleq/kyoryuhakkutsuki/7_cuttingedge/005
     species:
+      - "ランフォリンクス"
+      - "プテラノドン骨格"
       - "アンハングェラ"
       - "ケツァルコアトルス"
       - "ジャイアントプテラノドン"
@@ -1743,6 +1805,9 @@ groups:
   古代の海生爬虫類:
     imageFigureId: ikimon/daiza/koseibutsu/007
     species:
+      - "ティロザウルス"
+      - "エラスモザウルス"
+      - "ワカヤマソウリュウ"
       - "アーケロン"
       - "イクチオサウルス"
       - "エラスモサウルス"
@@ -1759,6 +1824,9 @@ groups:
   その他古生物:
     imageFigureId: kaiyodo/capsule/kokuritsu_capsule/003
     species:
+      - "プロティベロドン"
+      - "オピストコエリカウティア"
+      - "アメリカカブトガニ"
       - "アンドリューサルクス"
       - "エリオプス"
       - "エリオン"

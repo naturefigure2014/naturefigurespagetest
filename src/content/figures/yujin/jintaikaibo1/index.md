@@ -15,8 +15,6 @@ figureIds:
   - yujin/jintaikaibo1/007
   - yujin/jintaikaibo1/008
   - yujin/jintaikaibo1/009
-  - yujin/jintaikaibo1/010
-  - yujin/jintaikaibo1/011
 seriesName: "-"
 releaseStart: "2004.05"
 price: "200円 製作協力：株式会社京都科学"
