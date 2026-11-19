@@ -16,7 +16,7 @@ tags:
   - "-"
 figureTopImage: ""
 coverImage: ""
-topics: []
+topics:
   - title: ""
     images:
       - "kyoryu1card.jpg"
