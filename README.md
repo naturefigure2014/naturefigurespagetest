@@ -2,6 +2,29 @@
 
 Astroで構築する「ネイチャーフィギュアのページ」の静的サイトです。
 
+## タイトルのラインナップ
+
+通常は `figureIds` にフィギュアのIDを列挙します。見出し別に表示する場合は、
+同じIDを `lineupGroups` にも指定します。グループと各IDは記載順に表示され、
+すべてのフィギュアを重複なくいずれかのグループに含める必要があります。
+
+```yaml
+figureIds:
+  - maker/series/001
+  - maker/series/002
+lineupGroups:
+  - title: "北海道"
+    figureIds:
+      - maker/series/001
+  - title: "東北"
+    figureIds:
+      - maker/series/002
+```
+
+旧HTML生成時に続きのページの順序を指定する場合は、対象フォルダで
+`--continuation hokkaido.html --continuation tohoku.html` のように繰り返し指定します。
+指定しない場合は従来どおり同じフォルダのHTMLを自動検出します。
+
 ## 今回の変更（FIGURE画像）
 - FIGURE詳細ページで、複数画像を含む話題は「画像2/3・説明1/3」のレイアウト。
 - 話題内の画像をクリックすると拡大表示するライトボックスを表示。

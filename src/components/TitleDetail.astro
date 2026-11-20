@@ -8,6 +8,7 @@ import { resolveFigureImage } from "../lib/figure-images";
 import { formatFigureId } from "../lib/figure-id";
 import { makerBadgeClass, makerNames } from "../lib/maker";
 import { siteUrl } from "../lib/site-url";
+import { groupLineup } from "../lib/lineup-groups.mjs";
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
@@ -26,6 +27,7 @@ const lineup = figures
       : normalizeContentId(figure.data.titleId ?? "") === normalizeContentId(entry.id);
   })
   .sort((a, b) => (a.data.figureId ?? "").localeCompare(b.data.figureId ?? "", undefined, { numeric: true }) || compareContentId(a, b));
+const lineupSections = groupLineup(lineup, entry.data.lineupGroups);
 
 const titleMakers = makerNames(entry.data.maker);
 const hasCustomTitle = Boolean(entry.data.title1 || entry.data.title2);
@@ -78,13 +80,14 @@ const resourceSections = [
         </div>
       </section>
 
+      {lineupSections.map(({ title, figures: sectionFigures }) => (
       <section class="title-section title-lineup-section">
         <div class="title-section-header">
           <span class="topic-marker"></span>
-          <h2>ラインナップ</h2>
+          <h2>{title}</h2>
         </div>
         <div class="lineup-grid">
-          {lineup.map((figure) => {
+          {sectionFigures.map((figure) => {
             const image = resolveFigureImage(
               figure.id,
               figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
@@ -101,6 +104,7 @@ const resourceSections = [
           })}
         </div>
       </section>
+      ))}
 
       {resourceSections.map(([heading, sectionKey, resource]) => {
         const resourceImages = resource?.images?.length

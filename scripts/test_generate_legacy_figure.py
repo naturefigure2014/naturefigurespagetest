@@ -1,4 +1,5 @@
 from pathlib import Path
+import sys
 import tempfile
 import unittest
 from unittest.mock import patch
@@ -8,9 +9,39 @@ from generate_legacy_figure import (
     append_metadata,
     extract_items,
     find_by_id,
+    main,
     write_figure_page,
     write_single_figure_page,
 )
+
+
+class ContinuationOrderTest(unittest.TestCase):
+    def test_explicit_continuations_are_passed_in_requested_order(self):
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            source, first, second = [root / name for name in ("source.html", "first.html", "second.html")]
+            for path in (source, first, second):
+                path.touch()
+            with patch.object(sys, "argv", [
+                "generate_legacy_figure.py", str(source),
+                "--continuation", str(second), "--continuation", str(first),
+            ]), patch("generate_legacy_figure.generate") as generate:
+                main()
+            self.assertEqual(generate.call_args.args[2], [second.resolve(), first.resolve()])
+
+    def test_duplicate_continuations_are_rejected(self):
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            source, extra = root / "source.html", root / "extra.html"
+            source.touch()
+            extra.touch()
+            with patch.object(sys, "argv", [
+                "generate_legacy_figure.py", str(source),
+                "--continuation", str(extra), "--continuation", str(extra),
+            ]), patch("generate_legacy_figure.generate") as generate:
+                with self.assertRaises(SystemExit):
+                    main()
+            generate.assert_not_called()
 
 
 class AppendMetadataTest(unittest.TestCase):

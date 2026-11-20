@@ -944,6 +944,8 @@ def main():
     parser.add_argument("--series-name", default="")
     parser.add_argument("--items-from-continuations", action="store_true",
                         help="Build figure items only from the continuation pages, not the index page")
+    parser.add_argument("--continuation", action="append", type=Path,
+                        help="Continuation HTML file in the desired order; repeat for multiple files")
     parser.add_argument("--species-map", type=Path, help="JSON: {\"001\": [species, speciesGroup]}")
     args = parser.parse_args()
     source = args.source.resolve()
@@ -954,7 +956,14 @@ def main():
         archived_source = repository_root / "legacy-html" / source.parent.name / "index.html"
         if archived_source.exists():
             source = archived_source
-    extra_sources = find_continuation_sources(source) if source.exists() else []
+    if args.continuation:
+        extra_sources = [path.resolve() for path in args.continuation]
+        if (len(set(extra_sources)) != len(extra_sources)
+                or any(path == source or path.parent != source.parent or not path.is_file()
+                       or path.suffix.lower() != ".html" for path in extra_sources)):
+            parser.error("--continuation files must be distinct HTML files next to the source")
+    else:
+        extra_sources = find_continuation_sources(source) if source.exists() else []
     generate(source, args.content_type, extra_sources, args)
     if source.name == "index.html" and "legacy-html" not in source.parts:
         legacy_source = source.parent / "_legacy" / "index.html.bak"

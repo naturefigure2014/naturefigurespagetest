@@ -22,6 +22,7 @@ seriesSections:
       - kitanclub/ARTINTHEPOCKET/moriguchi
       - kitanclub/ARTINTHEPOCKET/RBen
       - kitanclub/ARTINTHEPOCKET/moriguchi_shin
+      - kitanclub/gotochi
   - name: TAMA-KYU
     format: ガチャ
     titleIds:

@@ -1,0 +1,417 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>奇譚クラブご当地解剖図鑑</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../../nonmaker/index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>奇譚クラブ あすなろ舎 ご当地図鑑シリーズ<br />
+		ご当地解剖図鑑</h4>
+		<table style="width: 100%">
+		<tr><td><img height="314" src="img/gotochi.jpg" width="760" /></td></tr>
+		</table>
+			<p>
+			■概要<br />
+			販売開始：2007年8月　発売元：あすなろ社　価格：700円<br />
+			企画製造：奇譚クラブ　総監修：佐藤純也<br />
+			奇譚クラブが<a href="../../ntc">ネイチャーテクニカラーシリーズ</a>を発売する1年前、全国のサービスエリアでご当地モノのストラップを販売しました。<br />
+			フィギュア原型はKOWさん、木村和未さん、（株）松田モデルと原色図鑑やNTCでおなじみの方々。<br />
+			「解剖」をテーマに中身が分かるようになっています。<br />
+			<!--また、画像検索する限り、29はパッケージの印刷が間違っているようです。<br />-->
+			<a href="../../blog/blog20190720.html">まれにSAに残っている</a>ので、旅行の際はチェックすると良いでしょう。</p>
+		</div>
+		<div id="collection_page_main">
+		<!--
+		-->
+		<table style="width: 100%">
+<!-- INSERTION POINT -->
+
+
+		<!-- 北海道 -->
+		<tr><td colspan="5" class="comment"><span class="font_yellow_bold">●北海道限定</span><br />
+			No.1 時不知(サケ) / 
+			<a href="hokkaido.html#2">No. 2 鮭児</a> /
+			<a href="hokkaido.html#3">No. 3 ヒグマ</a> /
+			<a href="hokkaido.html#4">No. 4 毛蟹</a> /
+			<a href="hokkaido.html#5">No. 5 十勝乳牛</a> /
+			No. 6 十勝黒豚</td></tr>
+		<tr>
+		<td><a href="hokkaido.html#2"><img src="img/gotochi002_003_small.jpg" width="146" /></a></td><td>
+			<a href="hokkaido.html#3"><img src="img/gotochi003_003_small.jpg" width="146" /></a></td><td>
+			<a href="hokkaido.html#4"><img src="img/gotochi004_003_small.jpg" width="146" /></a></td><td>
+			<a href="hokkaido.html#5"><img src="img/gotochi005_001_small.jpg" width="146" /></a></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td>
+		</tr>
+		<!-- 東北 -->
+		<tr><td colspan="5" class="comment"><span class="font_yellow_bold">●東北限定</span><br />
+				<a href="tohoku.html#7">No. 7 大間マグロ</a> /
+				No. 8 小岩井乳牛 /
+				No. 9 比内地鶏 /
+				No. 10 なまはげ /
+				No. 11 三陸の牡蠣　/ 
+				<a href="tohoku.html#12">No. 12 米沢牛</a> /
+				No. 13 赤ベコ</td></tr>
+		<tr>
+		<td><a href="tohoku.html#7"><img src="img/gotochi007_001_small.jpg" width="146" /></a></td><td>
+			<a href="tohoku.html#12"><img src="img/gotochi012_001_small.jpg" width="146" /></a></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td>
+		</tr>
+	<!--北陸-->
+		<tr><td colspan="5" class="comment">
+				<span class="font_yellow_bold">●北陸限定</span><br />
+				<a href="hokuriku.html#14">No. 14 三面の鮭</a> /
+				<a href="hokuriku.html#15">No. 15 雷鳥(冬毛)</a> /
+				No. 16 雷鳥(夏毛) /
+				No. 17 甘エビ /
+				<a href="hokuriku.html#18">No. 18 越前ガニ　(三国港)</a> /
+				<a href="hokuriku.html#19">No. 19 上高地かっぱ</a> /
+				<a href="hokuriku.html#20">No. 20 富士山</a></td></tr>
+		<tr>
+		<td><a href="hokuriku.html##14">
+<img src="img/gotochi014_001_small.jpg" width="146" /></a></td><td><a href="hokuriku.html##15">
+<img src="img/gotochi015_001_small.jpg" width="146" /></a></td><td><a href="hokuriku.html##18">
+<img src="img/gotochi018_001_small.jpg" width="146" /></a></td><td><a href="hokuriku.html##19">
+<img src="img/gotochi019_001_small.jpg" width="146" /></a></td><td><a href="hokuriku.html##20">
+<img src="img/gotochi020_001_small.jpg" width="146" /></a></td>
+		</tr>
+<!--関東-->	
+		<tr><td colspan="5" class="comment">
+				<span class="font_yellow_bold">●関東限定</span><br />
+				<a href="kanto.html#21">No. 21 東京タワー</a> /
+				No. 22 上野のパンダ / 
+				<a href="kanto.html#23">No. 23 江戸前鰻</a> /
+				No. 24 秋葉原メイド	/ 
+				<a href="kanoto.html#25">No. 25 房総半島伊勢海老</a> /
+				No. 26 三崎港マグロ /
+				No. 27　？ /
+				No. 28 サツマイモ /
+				No. 29 キャベツ / 
+				<a href="kanoto.html#29">No. 30(29) 常陸アンコウ</a> /
+				No. 31 日光ニホンザル / </td></tr>
+		<tr>
+		<td><a href="kanto.html#21">
+			<img src="img/gotochi021_001_small.jpg" width="146" /></a></td><td>
+			<a href="kanto.html#23">
+			<img src="img/gotochi023_001_small.jpg" width="146" /></a></td><td>
+			<a href="kanto.html#25">
+			<img src="img/gotochi025_005_small.jpg" width="146" /></a></td><td>
+			<a href="kanto.html#29">
+			<img src="img/gotochi029_001_small.jpg" width="146" /></a></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td>
+		</tr>
+<!--東海-->	
+		<tr><td colspan="5" class="comment"><span class="font_yellow_bold">●東海限定</span><br />
+			No. 32 焼津港カツオ /
+			No. 33 焼津港マグロ / 
+			<a href="tokai1.html#34">No. 34 富士山</a> /
+			<a href="tokai1.html#35">No. 35 浜松ウナギ</a> /
+			<a href="tokai1.html#35">No. 36 シャチホコ</a> /
+			No. 37 名古屋コーチン / 			
+			<a href="tokai2.html#38">No. 38 黒毛和牛</a> /
+			No. 39 高山サルボボ /
+			No. 40 松坂牛 /
+			<a href="tokai2.html#41">No. 41 伊勢海老</a> /
+			<a href="tokai2.html#42">No. 42 真珠貝</a></td></tr>
+		<tr>
+		<td><a href="tokai1.html#34">
+			<img src="img/gotochi034_001_small.jpg" width="146" /></a></td><td>
+			<a href="tokai1.html#35">
+			<img src="img/gotochi035_001_small.jpg" width="146" /></a></td><td>
+			<a href="tokai1.html#36">
+			<img src="img/gotochi036_001_small.jpg" width="146" /></a></td><td>
+			<a href="tokai2.html#38">
+			<img src="img/gotochi038_001_small.jpg" width="146" /></a></td><td>
+			<a href="tokai2.html#41">
+			<img src="img/gotochi041_001_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="tokai2.html#42">
+			<img src="img/gotochi042_001_small.jpg" width="146" /></a></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td><td>
+			&nbsp;</td><td>
+			&nbsp;</td><td>
+			&nbsp;</td>
+		</tr>
+<!--近畿-->	
+		<tr><td colspan="5" class="comment"><span class="font_yellow_bold">●近畿限定</span><br />
+				No. 43 舞妓 /
+				No. 44 和菓子 / 
+				<a href="kinki.html#45">No. 45 松葉ガニ(間入ガニ)</a> / 
+				No. 46 たこ焼き /
+				No. 47 通天閣 / 
+				<a href="kinki.html#48">No. 48 大仏</a> / 
+				No. 49 近江牛 / 
+				<a href="kinki.html#50">No. 50 明石のタコ</a> /
+				<a href="kinki.html#51">No. 51 神戸牛</a> / 
+				<a href="kinki.html#52">No. 52 松葉ガニ(柴山)</a> / 
+				No. 53 ミンククジラ /
+				No. 54 琵琶湖オオナマズ</td></tr>
+		<tr>
+		<td><a href="kinki.html#45">
+			<img src="img/gotochi045_001_small.jpg" width="146" /></a></td><td>
+			<a href="kinki.html#48">
+			<img src="img/gotochi048_001_small.jpg" width="146" /></a></td><td>
+			<a href="kinki.html#50">
+			<img src="img/gotochi050_001_small.jpg" width="146" /></a></td><td>
+			<a href="kinki.html#51">
+			<img src="img/gotochi051_003_small.jpg" width="146" /></a></td><td>
+			<a href="kinki.html#52">
+			<img src="img/gotochi052_001_small.jpg" width="146" /></a></td>
+		</tr>
+<!--中国地方-->
+		<tr><td colspan="5" class="comment"><span class="font_yellow_bold">●中国地方限定</span><br />
+			No. 55 桃太郎 / No. 56 蒜山ジャージー牛 /
+				No. 57 広島の牡蠣 /
+				<a href="chugokuchiho.html#58">No. 58 松葉ガニ(境港)</a> /
+				No. 59 島根のしじみ / 
+				<a href="chugokuchiho.html#60">No. 60 トラフグ</a></td></tr>
+		<tr>
+		<td><a href="chugokuchiho.html#58"><img src="img/gotochi058_001_small.jpg" width="146" /></a></td><td>
+			<a href="chugokuchiho.html#60"><img src="img/gotochi060_001_small.jpg" width="146" /></a></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td>
+		</tr>
+		<tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td>
+		</tr>
+<!--四国-->
+		<tr><td colspan="5" class="comment"><span class="font_yellow_bold">●四国限定</span><br />
+				<a href="shikoku.html#61">No. 61 お遍路</a> /
+				<a href="shikoku.html#62">No. 62 土佐カツオ</a> /
+				<a href="shikoku.html#63">No. 63 四万十の鰻</a> / 
+				No. 64 オリーブ /
+				No. 65 伊予かん /
+				No. 66 鳴門うず潮</td></tr>
+		<tr>
+		<td><a href="shikoku.html#61">
+			<img src="img/gotochi061_007_small.jpg" width="146" /></a></td><td>
+			<a href="shikoku.html#62">
+			<img src="img/gotochi062_003_small.jpg" width="146" /></a></td><td>
+			<a href="shikoku.html#63">
+			<img src="img/gotochi063_001_small.jpg" width="146" /></a></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td>
+		</tr>
+		<!-- 九州 -->
+		<tr><td colspan="5" class="comment">
+				<span class="font_yellow_bold">●九州限定</span><br />
+				<a href="kyusyu.html#67">No. 67 博多明太子</a> /
+				No. 68 関サバ /
+				No. 69 カステラ /
+				No. 70 ムツゴロウ /
+				No. 71 食用馬 / No. 72 宮崎牛 / 
+				<a href="kyusyu.html#73">No. 73 薩摩黒豚 </a>/ 
+				No. 74 鹿児島枕崎カツオ</td></tr>
+		<tr>
+		<td><a href="kyusyu.html#67"><img src="img/gotochi067_001_small.jpg" width="146" /></a></td><td>
+			<a href="kyusyu.html#73"><img src="img/gotochi073_001_small.jpg" width="146" /></a></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td><td>
+			<img src="../../img/black_dummy.png" width="146" /></td>
+		</tr>
+		<tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
+			&nbsp;</td>
+		</tr>
+		<!-- 沖縄限定 -->
+		<tr><td colspan="5" class="comment">
+				<span class="font_yellow_bold">●沖縄限定</span><br />
+				<a href="okinawa.html#75">No. 75 シーサー</a> /
+				<a href="okinawa.html#76">No. 76 ハブ</a> /
+				<a href="okinawa.html#77">No. 77 ナポレオンフィッシュ</a> 	/
+				No. 78 アグー / 
+				<a href="okinawa.html#79">No. 79 石垣牛</a></td>
+				</tr>
+		<tr>
+		<td><a href="okinawa.html#75"><img src="img/gotochi075_003_small.jpg" width="146" /></a></td><td>
+			<a href="okinawa.html#76"><img src="img/gotochi076_004_small.jpg" width="146" /></a></td><td>
+			<a href="okinawa.html#77"><img src="img/gotochi077_001_small.jpg" width="146" /></a></td><td>
+			<a href="okinawa.html#79"><img src="img/gotochi079_001_small.jpg" width="146" /></a></td><td>
+			&nbsp;</td>
+		</tr>
+
+		</table>		
+		<!--
+		 -->
+
+<table style="width: 100%">
+<tr><th id="lnp">ラインナップ</th></tr>
+<tr><td class="comment">
+				No. 1 北海道限定　時不知<br />
+				<a href="hokkaido.html#2">No. 2 北海道限定　鮭児</a><br />
+				<a href="hokkaido.html#3">No. 3 北海道限定　ヒグマ</a><br />
+				<a href="hokkaido.html#4">No. 4 北海道限定　毛蟹</a><br />
+				<a href="hokkaido.html#5">No. 5 北海道限定　十勝乳牛</a><br />
+				No. 6 北海道限定　十勝黒豚<br />
+				<a href="tohoku.html#7">No. 7 東北限定　大間マグロ</a><br />
+				<a href="hokkaido.html#8">No. 8 東北限定　小岩井乳牛</a><br />
+				No. 9 東北限定　比内地鶏<br />
+				No. 10 東北限定　なまはげ<br />
+				No. 11 東北限定　三陸の牡蠣<br />
+				<a href="tohoku.html#12">No. 12 東北限定　米沢牛</a><br />
+				No. 13 東北限定　赤ベコ<br />
+				<a href="hokuriku.html#14">No. 14 北陸限定　三面の鮭</a><br />
+				<a href="hokuriku.html#15">No. 15 北陸限定　雷鳥(冬毛)</a><br />
+				No. 16 北陸限定　雷鳥(夏毛)<br />
+				No. 17 北陸限定　甘エビ<br />
+				<a href="hokuriku.html#18">No. 18 北陸限定　越前ガニ　(三国港)</a><br />
+				<a href="hokuriku.html#19">No. 19 北陸限定　上高地かっぱ</a><br />
+				<a href="hokuriku.html#20">No. 20 北陸限定　富士山</a><br />
+				<a href="hokuriku.html#21">No. 21 関東限定　東京タワー</a><br />
+				No. 22 関東限定　上野のパンダ<br />
+				<a href="kanto.html#23">No. 23 関東限定　江戸前鰻</a><br />
+				No. 24 関東限定　秋葉原メイド<br />
+				<a href="kanto.html#25">No. 25 関東限定　房総半島伊勢海老</a><br />
+				No. 26 関東限定　三崎港マグロ<br />
+				No. 27　？<br />
+				No. 28 関東限定　サツマイモ<br />
+				No. 29 関東限定　キャベツ<br />
+				<a href="kanto.html#30">No. 30(29) 関東限定　常陸アンコウ</a><br />
+				No. 31 関東限定　日光ニホンザル<br />
+				No. 32 東海限定　焼津港カツオ<br />
+				No. 33 東海限定　焼津港マグロ<br />
+				<a href="tokai1.html#34">No. 34 東海限定　富士山</a><br />
+				<a href="tokai1.html#35">No. 35 東海限定　浜松ウナギ</a><br />
+				<a href="tokai1.html#36">No. 36 東海限定　シャチホコ</a><br />
+				No. 37 東海限定　名古屋コーチン<br />
+				<a href="tokai1.html#38">No. 38 東海限定　黒毛和牛</a><br />
+				No. 39 東海限定　高山サルボボ<br />
+				No. 40 東海限定　松坂牛<br />
+				<a href="tokai2.html#41">No. 41 東海限定　伊勢海老</a><br />
+				<a href="tokai2.html#42">No. 42 東海限定　真珠貝</a><br />
+				No. 43 近畿限定　舞妓<br />
+				No. 44 近畿限定　和菓子　<br />
+				<a href="kinki.html#45">No. 45 近畿限定　松葉ガニ(間入ガニ)</a><br />
+				No. 46 近畿限定　たこ焼き　<br />
+				No. 47 近畿限定　通天閣　<br />
+				<a href="kinki.html#48">No. 48 近畿限定　大仏</a><br />
+				No. 49 近畿限定　近江牛<br />
+				<a href="kinki.html#50">No. 50 近畿限定　明石のタコ</a><br />
+				<a href="kinki.html#51">No. 51 近畿限定　神戸牛</a><br />
+				<a href="kinki.html#52">No. 52 近畿限定　松葉ガニ(柴山)</a><br />
+				No. 53(52) 近畿限定　ミンククジラ<br />
+				No. 54 近畿限定　琵琶湖オオナマズ<br />
+				No. 55 中国地方限定　桃太郎<br />
+				No. 56 中国地方限定　蒜山ジャージー牛<br />
+				No. 57 中国地方限定　広島の牡蠣<br />
+				<a href="chugoku.html#58">No. 58 中国地方限定　松葉ガニ(境港)</a><br />
+				No. 59 中国地方限定　島根のしじみ<br />
+				<a href="chugoku.html#60">No. 60 中国地方限定　トラフグ</a><br />
+				<a href="shikoku.html#61">No. 61 四国限定　お遍路</a><br />
+				<a href="shikoku.html#62">No. 62 四国限定　土佐カツオ</a><br />
+				<a href="shikoku.html#63">No. 63 四国限定　四万十の鰻</a><br />
+				No. 64 四国限定　オリーブ<br />
+				No. 65 四国限定　伊予かん　<br />
+				No. 66 四国限定　鳴門うず潮<br />
+				<a href="kyusyu.html#67">No. 67 九州限定　博多明太子</a><br />
+				No. 68 九州限定　関サバ<br />
+				No. 69 九州限定　カステラ　　<br />
+				No. 70 九州限定　ムツゴロウ<br />
+				No. 71 九州限定　食用馬<br />
+				No. 72 九州限定　宮崎牛<br />
+				<a href="kyusyu.html#73">No. 73 九州限定　薩摩黒豚</a><br />
+				No. 74 九州限定　鹿児島枕崎カツオ<br />
+				<a href="okinawa.html#75">No. 75 沖縄限定　シーサー</a><br />
+				<a href="okinawa.html#76">No. 76 沖縄限定　ハブ</a><br />
+				<a href="okinawa.html#77">No. 77 沖縄限定　ナポレオンフィッシュ</a><br />
+				No. 78 沖縄限定　アグー<br />
+				<a href="okinawa.html#79">No. 79 沖縄限定　石垣牛</a><br />
+				</td></tr>
+<tr><td class="comment"></td></tr>
+<!--
+
+<tr><th></th></tr>
+<tr><td></td></tr>
+<tr><td class="comment"></td></tr>
+<!--
+-->
+
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
