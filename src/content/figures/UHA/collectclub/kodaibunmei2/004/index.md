@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "古代エジプト"
 figureTopImage: "kodaibunmei2_014.jpg"
 coverImage: "kodaibunmei2_014.jpg"
 topics:

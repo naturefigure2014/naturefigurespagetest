@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "中南米の古代文明"
 figureTopImage: "kodai045.jpg"
 coverImage: "kodai045.jpg"
 topics:

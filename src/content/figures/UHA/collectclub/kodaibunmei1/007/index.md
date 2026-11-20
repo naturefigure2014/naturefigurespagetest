@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "古代エジプト"
 figureTopImage: "kodai047.jpg"
 coverImage: "kodai047.jpg"
 topics:

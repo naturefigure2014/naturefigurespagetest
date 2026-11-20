@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "飛行機"
 figureTopImage: "uchu056.jpg"
 coverImage: "uchu056.jpg"
 topics:

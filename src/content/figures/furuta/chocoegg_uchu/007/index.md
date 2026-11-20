@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "探査機"
 figureTopImage: "uchu008.jpg"
 coverImage: "uchu008.jpg"
 topics:

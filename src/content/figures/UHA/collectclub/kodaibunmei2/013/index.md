@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "古代ギリシャ・ローマ"
 figureTopImage: ""
 coverImage: ""
 topics: []

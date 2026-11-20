@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "古代オリエント"
 figureTopImage: ""
 coverImage: ""
 topics: []

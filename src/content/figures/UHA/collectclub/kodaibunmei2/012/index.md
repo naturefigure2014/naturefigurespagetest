@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "古代ギリシャ・ローマ"
 figureTopImage: "kodaibunmei2_019.jpg"
 coverImage: "kodaibunmei2_019.jpg"
 topics:

@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "人工衛星"
 figureTopImage: "uchu054.jpg"
 coverImage: "uchu054.jpg"
 topics:

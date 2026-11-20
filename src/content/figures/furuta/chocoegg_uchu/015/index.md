@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "ロケット"
 figureTopImage: "uchu040.jpg"
 coverImage: "uchu040.jpg"
 topics:

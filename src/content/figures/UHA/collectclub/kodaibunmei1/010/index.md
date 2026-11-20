@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "古代オリエント"
 figureTopImage: "kodai049.jpg"
 coverImage: "kodai049.jpg"
 topics:

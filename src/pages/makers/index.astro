@@ -12,18 +12,12 @@ const titleEntries = new Map(
     .filter((entry) => entry.data.contentType === "title")
     .map((entry) => [normalizeId(entry.id), entry])
 );
-const seriesNamesOf = (entry?: (typeof figures)[number]) => {
-  const value = entry?.data.seriesName;
-  if (!value) return [];
-  return Array.isArray(value) ? value : [value];
-};
-
 type Pickup = { title: string; id?: string; href?: string; imageSourceId?: string; image?: string | number };
 type Maker = { name: string; english: string; href?: string; pickups: Pickup[] };
 
 const makers: Maker[] = [
   { name: "海洋堂", english: "KAIYODO", href: "/makers/kaiyodo/", pickups: [
-    { title: "水生生物モデルコレクションAQUALAND", href: "/makers/kaiyodo/aqualand/", imageSourceId: "kaiyodo/aqualand", image: "img/aqualand_header.png" },
+    { title: "水生生物モデルコレクションAQUALAND", href: "/makers/kaiyodo/aqualand/", imageSourceId: "kaiyodo/aqualand", image: "img/aqualand.jpg" },
     { title: "日本の動物コレクション1", id: "kaiyodo/animatales/anima_jap1" },
     { title: "DINOLAND", id: "kaiyodo/dinoland", href: "/makers/kaiyodo/dinoland/" },
     { title: "カプセルQミュージアム", id: "kaiyodo/capsuleq", href: "/makers/kaiyodo/capsuleq/" , imageSourceId: "kaiyodo/animatales/anima_japI", image: "img/japIall.jpg" }
@@ -87,17 +81,11 @@ const makers: Maker[] = [
                 : entry
                   ? resolveFigureImage(entry.id, entry.data.coverImage)
                   : undefined;
-              const seriesNames = seriesNamesOf(entry);
               const card = (
                 <>
                   {image ? <img src={image} alt="" loading="lazy" /> : <div class="maker-pickup-placeholder">{maker.name}</div>}
                   <span class="maker-pickup-caption">
                     <strong>{entry?.data.title ?? pickup.title}</strong>
-                    {seriesNames.length > 0 && (
-                      <span class="maker-pickup-series">
-                        {seriesNames.map((name) => <small>{name}</small>)}
-                      </span>
-                    )}
                   </span>
                   <span class="maker-pickup-arrow">›</span>
                 </>

@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "中国の歴史"
 figureTopImage: "kodaibunmei3_013.jpg"
 coverImage: "kodaibunmei3_013.jpg"
 topics:

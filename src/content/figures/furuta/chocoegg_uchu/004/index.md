@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "宇宙船"
 figureTopImage: "uchu025.jpg"
 coverImage: "uchu025.jpg"
 topics:

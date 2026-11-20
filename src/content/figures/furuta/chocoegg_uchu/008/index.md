@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "スペースシャトル"
 figureTopImage: "uchu030.jpg"
 coverImage: "uchu030.jpg"
 topics:

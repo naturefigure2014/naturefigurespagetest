@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "宇宙飛行士"
 figureTopImage: "uchu005.jpg"
 coverImage: "uchu005.jpg"
 topics:

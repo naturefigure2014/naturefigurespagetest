@@ -14,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "インダス文明"
 figureTopImage: "kodai007.jpg"
 coverImage: "kodai007.jpg"
 topics:
