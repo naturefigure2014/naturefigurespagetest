@@ -15,7 +15,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "その他古代エジプト"
 figureTopImage: ""
 coverImage: ""
 topics: []

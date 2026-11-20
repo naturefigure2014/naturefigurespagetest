@@ -15,7 +15,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "建造物"
 figureTopImage: "kodaibunmei2_008.jpg"
 coverImage: "kodaibunmei2_008.jpg"
 topics:

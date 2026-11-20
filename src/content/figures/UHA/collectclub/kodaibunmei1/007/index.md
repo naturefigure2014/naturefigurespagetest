@@ -15,7 +15,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "装飾品"
 figureTopImage: "kodai047.jpg"
 coverImage: "kodai047.jpg"
 topics:

@@ -15,7 +15,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "ミイラ・棺"
 figureTopImage: ""
 coverImage: ""
 topics: []

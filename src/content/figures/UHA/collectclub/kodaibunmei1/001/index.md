@@ -15,7 +15,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "建造物"
 figureTopImage: "kodai028.jpg"
 coverImage: "kodai028.jpg"
 topics:

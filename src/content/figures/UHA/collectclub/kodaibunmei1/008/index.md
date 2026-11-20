@@ -15,7 +15,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "石像"
 figureTopImage: "kodai026.jpg"
 coverImage: "kodai026.jpg"
 topics:

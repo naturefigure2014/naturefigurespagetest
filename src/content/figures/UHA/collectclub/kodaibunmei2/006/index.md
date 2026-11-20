@@ -15,7 +15,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "古代エジプト"
+  - "ミイラ・棺"
 figureTopImage: "kodaibunmei2_001.jpg"
 coverImage: "kodaibunmei2_001.jpg"
 topics:
