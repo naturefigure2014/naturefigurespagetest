@@ -629,6 +629,7 @@ body.lightbox-open { overflow: hidden; }
   footer span { padding: 0; }
 
   .maker-directory-hero { margin-left: -20px; margin-right: -20px; padding: 12px 20px 14px; }
+  .maker-directory-heading a { padding: 4px 8px; border: 1px solid #a8cbbb; border-radius: 6px; background: #fff; }
   .maker-directory-link-full { display: none; }
   .maker-directory-link-short { display: inline; }
   .maker-pickup-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
