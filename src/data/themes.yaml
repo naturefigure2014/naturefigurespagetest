@@ -60,6 +60,7 @@ groups:
       - name: インダス文明
       - name: 古代ギリシャ・ローマ
       - name: 中南米の古代文明
+      - name: その他世界の歴史
   日本の文化:
     subgroups:
       - name: 景観・建築

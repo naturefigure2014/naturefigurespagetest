@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
 themes:
-  - "メソアメリカ文明"
+  - "中南米の古代文明"
 price: "５００円"
 releaseStart: "-"
 genre:

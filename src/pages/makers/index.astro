@@ -71,7 +71,7 @@ const makers: Maker[] = [
         <section class="maker-directory-section">
           <header class="maker-directory-heading">
             <div><h2>{maker.name}</h2><p>{maker.english}</p></div>
-            <a href={siteUrl(maker.href ?? "/titles/")}>このメーカーのタイトル一覧を見る <span>→</span></a>
+            <a href={siteUrl(maker.href ?? "/titles/")} aria-label={`${maker.name}のタイトル一覧を見る`}><span class="maker-directory-link-full">このメーカーのタイトル一覧を見る</span><span class="maker-directory-link-short">一覧</span> <span class="maker-directory-link-arrow" aria-hidden="true">→</span></a>
           </header>
           <div class="maker-pickup-grid">
             {maker.pickups.map((pickup) => {

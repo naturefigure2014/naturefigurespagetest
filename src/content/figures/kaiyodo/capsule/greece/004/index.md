@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "東田万偶斎"
 executiveProducer: "-"
 themes:
-  - "古代ギリシャ"
+  - "古代ギリシャ・ローマ"
 price: "400円 公式サイト： コチラ"
 releaseStart: "-"
 genre:

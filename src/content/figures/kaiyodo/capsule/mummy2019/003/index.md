@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
 themes:
-  - "ヨーロッパの歴史・文化"
+  - "その他世界の歴史"
 price: "５００円"
 releaseStart: "-"
 genre:
