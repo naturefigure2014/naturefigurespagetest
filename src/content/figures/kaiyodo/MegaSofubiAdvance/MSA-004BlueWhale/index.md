@@ -2,6 +2,7 @@
 title: "シロナガスクジラ"
 description: ""
 contentType: figure
+date: 2026-11-22
 figureId: "MSA-004"
 maker: "海洋堂"
 sculptor: "松村しのぶ"

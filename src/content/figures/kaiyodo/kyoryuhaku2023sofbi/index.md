@@ -2,6 +2,7 @@
 title: "恐竜博2023 ティラノサウルス・レックス ソフトビニール製塗装済み組立完成モデル"
 description: ""
 contentType: figure
+date: 2026-11-22
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
