@@ -62,10 +62,8 @@ const recentPosts = (await getCollection("blog"))
             item.data.coverImage ?? item.data.topics.flatMap((topic) => topic.images)[0]
           );
           const secondaryTitle =
-            item.data.contentType === "figure"
-              ? (item.data.titleId
-                  ? figureById.get(normalizeId(item.data.titleId))?.data.title
-                  : undefined) ?? "-"
+            item.data.contentType === "figure" && item.data.titleId
+              ? figureById.get(normalizeId(item.data.titleId))?.data.title ?? "-"
               : (Array.isArray(item.data.seriesName)
                   ? item.data.seriesName.join("・")
                   : item.data.seriesName) ?? "-";
