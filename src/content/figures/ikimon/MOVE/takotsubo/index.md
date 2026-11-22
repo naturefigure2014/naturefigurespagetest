@@ -1,5 +1,5 @@
 ---
-title: "ネイチャーテクニカラーMOVE ニューッとタコツボひっぱり根付け"
+title: "ニューッとタコツボひっぱり根付け"
 description: ""
 contentType: title
 date: 2026-11-22
@@ -10,7 +10,7 @@ figureIds:
   - ikimon/MOVE/takotsubo/001
   - ikimon/MOVE/takotsubo/002
   - ikimon/MOVE/takotsubo/003
-seriesName: "-"
+seriesName: "ネイチャーテクニカラーMOVE"
 releaseStart: "2026.08"
 price: "500円"
 species: "-"

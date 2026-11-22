@@ -50,11 +50,10 @@ const recentPosts = (await getCollection("blog"))
     { heading: "最近追加したフィギュア", items: recentFigures, recent: true },
     { heading: "注目のフィギュア", items: featuredFigures, recent: false }
   ].map(({ heading, items, recent }) => (
-    <section class="home-section">
+    <section class="home-section home-figure-section">
       <div class="home-section-heading">
         <span></span>
         <h2>{heading}</h2>
-        <a href={siteUrl("/figures/")}>すべてのフィギュアを見る ›</a>
       </div>
       <div class:list={["home-figure-grid", { "home-figure-grid--recent": recent }]}>
         {items.map((item) => {
@@ -62,13 +61,27 @@ const recentPosts = (await getCollection("blog"))
             item.id,
             item.data.coverImage ?? item.data.topics.flatMap((topic) => topic.images)[0]
           );
+          const secondaryTitle =
+            item.data.contentType === "figure"
+              ? (item.data.titleId
+                  ? figureById.get(normalizeId(item.data.titleId))?.data.title
+                  : undefined) ?? "-"
+              : (Array.isArray(item.data.seriesName)
+                  ? item.data.seriesName.join("・")
+                  : item.data.seriesName) ?? "-";
           return (
             <a class="home-figure-card" href={siteUrl(`/figures/${normalizeId(item.id)}/`)}>
-              {image ? <img src={image} alt="" loading="lazy" /> : <span class="home-figure-placeholder">FIGURE</span>}
+              {recent ? (
+                <span class="home-figure-media">
+                  {image ? <img src={image} alt="" loading="lazy" /> : <span class="home-figure-placeholder">FIGURE</span>}
+                </span>
+              ) : (
+                image ? <img src={image} alt="" loading="lazy" /> : <span class="home-figure-placeholder">FIGURE</span>
+              )}
               <span class="home-figure-badge">NEW</span>
               <span class="home-figure-caption">
                 <strong>{item.data.title}</strong>
-                {item.data.maker && <small>{makerNames(item.data.maker).join("・")}</small>}
+                {recent ? <small>{secondaryTitle}</small> : item.data.maker && <small>{makerNames(item.data.maker).join("・")}</small>}
                 {recent && item.data.date && (
                   <time datetime={item.data.date.toISOString()}>{item.data.date.toISOString().slice(0, 10).replace(/-/g, "/")}</time>
                 )}

@@ -50,7 +50,7 @@ h2 { margin-top: 2.5rem; }
 .home-hero {
   position: relative;
   overflow: hidden;
-  margin: -28px -20px 34px;
+  margin: -28px -20px 11px;
 }
 .home-hero-image { display: block; width: 100%; height: auto; }
 .home-hero-overlay {
@@ -65,6 +65,7 @@ h2 { margin-top: 2.5rem; }
 .home-hero-content .lead { max-width: 480px; margin: 0; color: rgba(255,255,255,.94); }
 
 .home-section { margin-top: 40px; }
+.home-figure-section { margin-top: 13px; }
 .home-section-heading { display: flex; align-items: center; gap: 8px; margin-bottom: 16px; padding-bottom: 8px; border-bottom: 1px solid #dce9e2; }
 .home-section-heading > span { width: 4px; height: 19px; background: #35805c; }
 .home-section-heading h2 { flex: 1; margin: 0; color: #294d40; font-size: 1.12rem; }
@@ -93,30 +94,34 @@ h2 { margin-top: 2.5rem; }
 .home-figure-caption small { display: block; margin-top: 4px; color: #73857e; font-size: .74rem; }
 .home-figure-caption time { display: block; margin-top: 4px; color: #73857e; font-size: .74rem; }
 .home-figure-grid--recent > .home-figure-card {
-  display: grid; grid-template-columns: 40% minmax(0, 1fr); height: 136px;
+  display: grid; grid-template-columns: 40% minmax(0, 1fr);
 }
-.home-figure-grid--recent > .home-figure-card > img,
-.home-figure-grid--recent > .home-figure-card > .home-figure-placeholder {
-  grid-column: 1; grid-row: 1; width: 100%; height: 100%; min-width: 0; aspect-ratio: auto; object-fit: cover;
+.home-figure-grid--recent .home-figure-media {
+  position: relative; grid-column: 1; grid-row: 1; min-height: 95px; overflow: hidden;
+}
+.home-figure-grid--recent .home-figure-media > img,
+.home-figure-grid--recent .home-figure-media > .home-figure-placeholder {
+  position: absolute; inset: 0; width: 100%; height: 100%; min-width: 0; aspect-ratio: auto; object-fit: cover;
 }
 .home-figure-grid--recent .home-figure-badge { top: 8px; right: auto; left: 8px; z-index: 1; }
 .home-figure-grid--recent .home-figure-caption {
-  grid-column: 2; grid-row: 1; align-self: center; min-width: 0; padding: 8px 12px;
+  display: grid; grid-template-columns: minmax(0, 1fr); grid-column: 2; grid-row: 1;
+  align-content: center; gap: 2px; min-width: 0; padding: 8px 12px;
 }
 .home-figure-grid--recent .home-figure-caption strong {
-  display: -webkit-box; height: 2.8em; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
+  display: block; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
 .home-figure-grid--recent .home-figure-caption small,
 .home-figure-grid--recent .home-figure-caption time {
-  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  min-width: 0; margin: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
 .home-blog-meta { display: flex; align-items: center; gap: 8px; margin-top: 6px; color: #73857e; font-size: .72rem; }
 .home-blog-tag { padding: 2px 8px; border-radius: 999px; background: #eaf3ee; color: #2c7a55; font-weight: 700; }
 
 @media (max-width: 720px) {
   .home-figure-grid--recent { grid-template-columns: minmax(0, 1fr); }
-  .home-figure-grid--recent > .home-figure-card { grid-template-columns: 35% minmax(0, 1fr); height: 144px; }
-  .home-figure-grid--recent .home-figure-caption strong { height: 4.2em; -webkit-line-clamp: 3; }
+  .home-figure-grid--recent > .home-figure-card { grid-template-columns: 35% minmax(0, 1fr); }
+  .home-figure-grid--recent .home-figure-media { min-height: 101px; }
 }
 
 /* SPECIES */
@@ -626,13 +631,7 @@ body.lightbox-open { overflow: hidden; }
   .figure-layout { grid-template-columns: minmax(0, 1fr) 310px; }
 }
 @media (max-width: 800px) {
-  .home-figure-grid--recent { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 4px; }
   .home-figure-grid--recent > :nth-child(n + 9) { display: none; }
-  .home-figure-grid--recent .home-figure-caption { padding: 6px; overflow-wrap: anywhere; }
-  .home-figure-grid--recent .home-figure-caption strong { font-size: .75rem; }
-  .home-figure-grid--recent .home-figure-caption small,
-  .home-figure-grid--recent .home-figure-caption time { font-size: .65rem; }
-  .home-figure-grid--recent .home-figure-badge { top: 4px; right: 4px; padding: 2px 5px; font-size: .55rem; }
   footer {
     padding: 12px 14px;
     background: #2c7a55;
