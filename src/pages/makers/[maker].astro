@@ -148,7 +148,7 @@ const badgesForTitle = (section: (typeof entry.data.seriesSections)[number], tit
                 : undefined;
             return (
               <section class="maker-detail-series">
-                <header><div><h2>{section.listingName ?? section.name}</h2>{section.format && <span>{section.format}</span>}</div>{sectionHref && <a href={sectionHref}>すべてのタイトルを見る&gt;</a>}</header>
+                <header><div><h2>{section.listingName ?? section.name}</h2>{section.format && <span>{section.format}</span>}</div>{sectionHref && <a href={sectionHref}>一覧→</a>}</header>
                 <div class:list={[
                   "maker-detail-title-grid",
                   { "maker-detail-title-grid--default": section.itemIds.length > 0 || section.maxFigures !== undefined || (section.maxTitles === undefined && !section.showAllFigures) }

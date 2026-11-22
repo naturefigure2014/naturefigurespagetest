@@ -80,31 +80,33 @@ const resourceSections = [
         </div>
       </section>
 
-      {lineupSections.map(({ title, figures: sectionFigures }) => (
-      <section class="title-section title-lineup-section">
-        <div class="title-section-header">
-          <span class="topic-marker"></span>
-          <h2>{title}</h2>
-        </div>
-        <div class="lineup-grid">
-          {sectionFigures.map((figure) => {
-            const image = resolveFigureImage(
-              figure.id,
-              figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
-            );
-            return (
-              <a class="lineup-item" href={siteUrl(`/figures/${figure.id.replace(/\/index(?:\.md)?$/, "")}/`)}>
-                {image ? <img src={image} alt={figure.data.title} loading="lazy" /> : <span class="lineup-placeholder">{formatFigureId(figure.data.figureId)}</span>}
-                <span class="lineup-caption">
-                  <em>{formatFigureId(figure.data.figureId)}</em>
-                  <strong>{figure.data.title}</strong>
-                </span>
-              </a>
-            );
-          })}
-        </div>
-      </section>
-      ))}
+      <div class="title-lineup">
+        {lineupSections.map(({ title, figures: sectionFigures }) => (
+          <section class="title-section title-lineup-section">
+            <div class="title-section-header">
+              <span class="topic-marker"></span>
+              <h2>{title}</h2>
+            </div>
+            <div class="lineup-grid">
+              {sectionFigures.map((figure) => {
+                const image = resolveFigureImage(
+                  figure.id,
+                  figure.data.coverImage ?? figure.data.topics.flatMap((topic) => topic.images)[0]
+                );
+                return (
+                  <a class="lineup-item" href={siteUrl(`/figures/${figure.id.replace(/\/index(?:\.md)?$/, "")}/`)}>
+                    {image ? <img src={image} alt={figure.data.title} loading="lazy" /> : <span class="lineup-placeholder">{formatFigureId(figure.data.figureId)}</span>}
+                    <span class="lineup-caption">
+                      <em>{formatFigureId(figure.data.figureId)}</em>
+                      <strong>{figure.data.title}</strong>
+                    </span>
+                  </a>
+                );
+              })}
+            </div>
+          </section>
+        ))}
+      </div>
 
       {resourceSections.map(([heading, sectionKey, resource]) => {
         const resourceImages = resource?.images?.length

@@ -1,0 +1,35 @@
+---
+import "../../styles/global.css";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getEntry } from "astro:content";
+import { siteUrl } from "../../lib/site-url";
+
+const page = await getEntry("sculptors", "index");
+if (!page) throw new Error("クリエイター一覧のコンテンツが見つかりません。");
+---
+
+<BaseLayout title={`${page.data.title} | NATURE FIGURE`}>
+  <div class="maker-detail">
+    <div class="maker-detail-content">
+      <div class="breadcrumb"><a href={siteUrl("/")}>ホーム</a> / {page.data.title}</div>
+      <div class="maker-detail-hero-wrap">
+        <section class="maker-detail-hero maker-detail-hero--compact">
+          <div>
+            <h1>{page.data.title}</h1>
+            {page.data.description && <p>{page.data.description}</p>}
+          </div>
+        </section>
+      </div>
+      <div class="maker-detail-series-list">
+        {page.data.creators.map((creator) => (
+          <section class="maker-detail-series">
+            <header>
+              <div><h2>{creator.name}</h2></div>
+              {creator.href && <a href={creator.href.startsWith("/") ? siteUrl(creator.href) : creator.href}>一覧→</a>}
+            </header>
+          </section>
+        ))}
+      </div>
+    </div>
+  </div>
+</BaseLayout>

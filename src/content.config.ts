@@ -182,5 +182,17 @@ const makers = defineCollection({
   })
 });
 
-export const collections = { figures, works, blog, makers };
+const sculptors = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    description: z.string().optional(),
+    creators: z.array(z.object({
+      name: z.string(),
+      href: z.string().optional()
+    }))
+  })
+});
+
+export const collections = { figures, works, blog, makers, sculptors };
 

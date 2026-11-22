@@ -571,7 +571,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
   .title-main > .title-collection-photo { grid-area: collection-photo; }
   .title-sidebar > .title-basic-card { grid-area: basic; }
   .title-main > .title-description { grid-area: description; }
-  .title-main > .title-lineup-section { grid-area: lineup; }
+  .title-main > .title-lineup { grid-area: lineup; }
   .title-main > .title-resource-guide { grid-area: guide; }
   .title-main > .title-resource-display-pop { grid-area: display-pop; }
   .title-main > .title-resource-capsule { grid-area: capsule; }
