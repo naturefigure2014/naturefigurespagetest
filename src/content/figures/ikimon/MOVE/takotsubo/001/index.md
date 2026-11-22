@@ -2,6 +2,7 @@
 title: "ミズダコ"
 description: ""
 contentType: figure
+date: 2026-11-22
 titleId: ikimon/MOVE/takotsubo
 figureId: "001"
 maker: "いきもん"

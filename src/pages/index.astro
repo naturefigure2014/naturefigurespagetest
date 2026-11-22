@@ -13,6 +13,11 @@ const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
 const figures = await getCollection("figures");
 const figureById = new Map(figures.map((item) => [normalizeId(item.id), item]));
 
+const recentFigures = figures
+  .filter((item) => item.data.date)
+  .sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0) || compareContentId(a, b))
+  .slice(0, 5);
+
 // TODO: 「注目のフィギュア」の選定ロジックが決まるまでの仮のピックアップ。
 const featuredFigureIds = [
   "kaiyodo/aqualand/AQS009zinbezame",
@@ -45,59 +50,42 @@ const recentPosts = (await getCollection("blog"))
     </div>
   </section>
 
-  <section class="home-quicklinks">
-    <a class="home-quicklink" href={siteUrl("/species/")}>
-      <span class="home-quicklink-icon" aria-hidden="true">🌿</span>
-      <span class="home-quicklink-body">
-        <strong>生きものから探す</strong>
-        <span>動物・魚・昆虫・恐竜など、生きものの種類から探せます。</span>
-      </span>
-      <span class="home-quicklink-arrow" aria-hidden="true">→</span>
-    </a>
-    <a class="home-quicklink" href={siteUrl("/makers/")}>
-      <span class="home-quicklink-icon" aria-hidden="true">🏭</span>
-      <span class="home-quicklink-body">
-        <strong>メーカー・タイトルから探す</strong>
-        <span>海洋堂をはじめ、各メーカーのシリーズやタイトルから探せます。</span>
-      </span>
-      <span class="home-quicklink-arrow" aria-hidden="true">→</span>
-    </a>
-    <a class="home-quicklink" href={siteUrl("/figures/")}>
-      <span class="home-quicklink-icon" aria-hidden="true">▦</span>
-      <span class="home-quicklink-body">
-        <strong>フィギュア一覧</strong>
-        <span>すべてのフィギュアを一覧で見ることができます。</span>
-      </span>
-      <span class="home-quicklink-arrow" aria-hidden="true">→</span>
-    </a>
-  </section>
-
-  <section class="home-section">
-    <div class="home-section-heading">
-      <span></span>
-      <h2>注目のフィギュア</h2>
-      <a href={siteUrl("/figures/")}>すべてのフィギュアを見る ›</a>
-    </div>
-    <div class="home-figure-grid">
-      {featuredFigures.map((item) => {
-        const image = resolveFigureImage(
-          item.id,
-          item.data.coverImage ?? item.data.topics.flatMap((topic) => topic.images)[0]
-        );
-        const speciesGroups = Array.from(new Set(getSpeciesEntries(item.data).map((entry) => entry.speciesGroup)));
-        return (
-          <a class="home-figure-card" href={siteUrl(`/figures/${normalizeId(item.id)}/`)}>
-            {image ? <img src={image} alt="" loading="lazy" /> : <span class="home-figure-placeholder">FIGURE</span>}
-            <span class="home-figure-badge">NEW</span>
-            <span class="home-figure-caption">
-              <strong>{item.data.title}</strong>
-              {(speciesGroups.length > 0 || item.data.maker) && <small>{speciesGroups.length > 0 ? speciesGroups.join("・") : makerNames(item.data.maker).join("・")}</small>}
-            </span>
-          </a>
-        );
-      })}
-    </div>
-  </section>
+  {[
+    { heading: "最近追加したフィギュア", items: recentFigures, recent: true },
+    { heading: "注目のフィギュア", items: featuredFigures, recent: false }
+  ].map(({ heading, items, recent }) => (
+    <section class="home-section">
+      <div class="home-section-heading">
+        <span></span>
+        <h2>{heading}</h2>
+        <a href={siteUrl("/figures/")}>すべてのフィギュアを見る ›</a>
+      </div>
+      <div class:list={["home-figure-grid", { "home-figure-grid--recent": recent }]}>
+        {items.map((item) => {
+          const image = resolveFigureImage(
+            item.id,
+            item.data.coverImage ?? item.data.topics.flatMap((topic) => topic.images)[0]
+          );
+          const speciesGroups = recent && item.data.contentType === "title"
+            ? []
+            : Array.from(new Set(getSpeciesEntries(item.data).map((entry) => entry.speciesGroup)));
+          return (
+            <a class="home-figure-card" href={siteUrl(`/figures/${normalizeId(item.id)}/`)}>
+              {image ? <img src={image} alt="" loading="lazy" /> : <span class="home-figure-placeholder">FIGURE</span>}
+              <span class="home-figure-badge">NEW</span>
+              <span class="home-figure-caption">
+                <strong>{item.data.title}</strong>
+                {(speciesGroups.length > 0 || item.data.maker) && <small>{speciesGroups.length > 0 ? speciesGroups.join("・") : makerNames(item.data.maker).join("・")}</small>}
+                {recent && item.data.date && (
+                  <time datetime={item.data.date.toISOString()}>{item.data.date.toISOString().slice(0, 10).replace(/-/g, "/")}</time>
+                )}
+              </span>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  ))}
 
   <section class="home-section">
     <div class="home-section-heading">

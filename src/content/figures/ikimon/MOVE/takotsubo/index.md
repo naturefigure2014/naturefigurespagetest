@@ -2,6 +2,7 @@
 title: "ネイチャーテクニカラーMOVE ニューッとタコツボひっぱり根付け"
 description: ""
 contentType: title
+date: 2026-11-22
 titleId: ikimon/MOVE/takotsubo
 kind: series
 maker: "いきもん"
