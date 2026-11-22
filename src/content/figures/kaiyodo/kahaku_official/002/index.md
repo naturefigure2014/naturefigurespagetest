@@ -2,6 +2,7 @@
 title: "マッコウクジラ(全身骨格)"
 description: ""
 contentType: figure
+date: 2026-11-23
 titleId: kaiyodo/kahaku_official
 figureId: "002"
 species: "マッコウクジラ"

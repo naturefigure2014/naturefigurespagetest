@@ -16,7 +16,7 @@ const figureById = new Map(figures.map((item) => [normalizeId(item.id), item]));
 const recentFigures = figures
   .filter((item) => item.data.date)
   .sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0) || compareContentId(a, b))
-  .slice(0, 5);
+  .slice(0, 10);
 
 // TODO: 「注目のフィギュア」の選定ロジックが決まるまでの仮のピックアップ。
 const featuredFigureIds = [

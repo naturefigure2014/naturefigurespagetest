@@ -71,7 +71,7 @@ h2 { margin-top: 2.5rem; }
 .home-section-heading a { color: #39785f; font-size: .78rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
 
 .home-figure-grid, .home-blog-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
-.home-figure-grid--recent { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+.home-figure-grid--recent { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; }
 .home-figure-card, .home-blog-card {
   position: relative; display: block; overflow: hidden;
   border: 1px solid #dfe8e4; border-radius: 10px; background: #fff; text-decoration: none; color: inherit;
@@ -602,7 +602,13 @@ body.lightbox-open { overflow: hidden; }
   .figure-layout { grid-template-columns: minmax(0, 1fr) 310px; }
 }
 @media (max-width: 800px) {
-  .home-figure-grid--recent { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .home-figure-grid--recent { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 4px; }
+  .home-figure-grid--recent > :nth-child(n + 9) { display: none; }
+  .home-figure-grid--recent .home-figure-caption { padding: 6px; overflow-wrap: anywhere; }
+  .home-figure-grid--recent .home-figure-caption strong { font-size: .75rem; }
+  .home-figure-grid--recent .home-figure-caption small,
+  .home-figure-grid--recent .home-figure-caption time { font-size: .65rem; }
+  .home-figure-grid--recent .home-figure-badge { top: 4px; right: 4px; padding: 2px 5px; font-size: .55rem; }
   footer {
     padding: 12px 14px;
     background: #2c7a55;
@@ -670,7 +676,6 @@ body.lightbox-open { overflow: hidden; }
   .figure-cover { width: 100px; height: auto; aspect-ratio: 4 / 3; }
 }
 @media (max-width: 520px) {
-  .home-figure-grid--recent { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .site-header { min-height: 56px; }
   .logo-subtitle { font-size: .48rem; }
   .info-list { grid-template-columns: max-content 1fr; gap: 3px 8px; }
