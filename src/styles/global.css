@@ -268,7 +268,7 @@ h2 { margin-top: 2.5rem; }
 body:has(.detail-style) { background: #f8faf8; }
 .detail-style { --detail-block-gap: 2px; }
 .figure-layout.detail-style .figure-heading { margin-bottom: var(--detail-block-gap); padding: 0; background: transparent; }
-.title-layout.detail-style .title-heading { margin-bottom: var(--detail-block-gap); padding: 7px 0; background: #2c7a55; border-radius: 4px; }
+.title-layout.detail-style .title-heading { margin-bottom: var(--detail-block-gap); padding: 7px 9px; background: #2c7a55; border-radius: 4px; }
 .figure-layout.detail-style .figure-heading h1,
 .title-layout.detail-style .title-heading h1 { color: #fff; font-size: clamp(.93rem, 1.87vw, 1.45rem); margin: 3px 0 2px; }
 .title-layout.detail-style .title-heading h1 .title-part2-after,
