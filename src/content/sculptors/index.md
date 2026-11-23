@@ -10,6 +10,7 @@ creators:
   - name: 吉良かずや
   - name: C.S.Model Design
   - name: SHINZEN造形研究所
+    href: /figures/sculptors/SHINZEN/
   - name: 「生物部」蟹蟲修造
   - name: タートルブレイク TURTLEBREAK
   - name: はにわや工房

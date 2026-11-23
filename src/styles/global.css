@@ -27,6 +27,7 @@ a { color: inherit; }
 main { max-width: 1180px; margin: auto; padding: 10px 20px 70px; }
 h1, h2, h3 { line-height: 1.25; }
 h1 { font-size: clamp(1.33rem, 2.67vw, 2.07rem); margin: .15em 0 .1em; color: #173d30; }
+main > h1 { margin-left: max(0px, calc((100% - 1120px) / 2)); }
 h2 { margin-top: 2.5rem; }
 .lead { color: #667970; max-width: 720px; }
 .eyebrow { display: inline-block; font-size: .67rem; letter-spacing: .08em; font-weight: 800; color: #fff; background: #2c7a55; border-radius: 4px; padding: 2px 9px; margin: 0; }
@@ -59,7 +60,7 @@ h2 { margin-top: 2.5rem; }
   background: linear-gradient(180deg, rgba(10,30,22,.0) 0%, rgba(8,26,19,.0) 60%, rgba(6,20,15,.0) 100%);
 
 }
-.home-hero-content { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center; padding: 44px clamp(20px, 6vw, 56px); color: #fff; }
+.home-hero-content { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center; padding: 44px max(20px, calc((100% - 1120px) / 2)); color: #fff; }
 .home-hero-content .eyebrow { background: rgba(255,255,255,.18); }
 .home-hero-content h1 { margin: 0 0 .35em; color: #fff; font-size: clamp(1.7rem, 4.6vw, 2.7rem); }
 .home-hero-content .lead { max-width: 480px; margin: 0; color: rgba(255,255,255,.94); }
@@ -201,7 +202,7 @@ h2 { margin-top: 2.5rem; }
 
 /* SPECIES / PRIMATES */
 .primates-page { max-width: 1120px; margin: 0 auto; }
-.primates-hero { position: relative; min-height: 178px; margin: -8px -20px 22px; padding: 22px 42px; overflow: hidden; background: linear-gradient(105deg, #183d27, #507542 53%, #b7c995); border-radius: 0 0 10px 10px; color: #fff; }
+.primates-hero { position: relative; min-height: 178px; margin: -8px -20px 22px; padding: 22px 20px; overflow: hidden; background: linear-gradient(105deg, #183d27, #507542 53%, #b7c995); border-radius: 0 0 10px 10px; color: #fff; }
 .primates-hero-copy { position: relative; z-index: 1; }
 .primates-hero h1 { margin: 0; color: #fff; font-size: clamp(2.1rem, 4.2vw, 3.4rem); letter-spacing: .08em; }
 .primates-hero .eyebrow { background: rgba(20, 53, 32, .7); }
@@ -231,7 +232,7 @@ h2 { margin-top: 2.5rem; }
 
 /* SPECIES / SPECIES DETAIL */
 .species-detail-page { max-width: 1120px; margin: 0 auto; }
-.species-detail-hero { margin: -8px -20px 24px; padding: 28px 42px; background: linear-gradient(110deg, #eef8f2, #dcefe3); border-radius: 0 0 10px 10px; }
+.species-detail-hero { margin: -8px -20px 24px; padding: 28px 20px; background: linear-gradient(110deg, #eef8f2, #dcefe3); border-radius: 0 0 10px 10px; }
 .species-detail-hero h1 { margin: 8px 0 0; color: #176b55; font-size: clamp(2rem, 4vw, 3rem); }
 .species-detail-hero p:not(.eyebrow) { margin: 3px 0 0; color: #6d8e7e; font-family: Georgia, serif; }
 .species-detail-section h2 { margin: 0; color: #29463c; font-size: 1.15rem; }
@@ -261,13 +262,13 @@ h2 { margin-top: 2.5rem; }
 .figure-subtitle { margin: 0; color: #64776f; font-size: .91rem; }
 .figure-date { margin: 8px 0 0; color: #71837c; font-size: .78rem; }
 .figure-lead { max-width: 760px; margin: 12px 0 0; color: #50665d; font-size: .91rem; }
-.figure-layout { display: grid; grid-template-columns: minmax(0, 1fr) 358px; gap: 22px; align-items: start; }
+.figure-layout { display: grid; max-width: 1120px; margin-inline: auto; grid-template-columns: minmax(0, 1fr) 358px; gap: 22px; align-items: start; }
 .figure-main, .figure-sidebar { min-width: 0; }
 .figure-sidebar { position: static; }
 body:has(.detail-style) { background: #f8faf8; }
 .detail-style { --detail-block-gap: 2px; }
 .figure-layout.detail-style .figure-heading { margin-bottom: var(--detail-block-gap); padding: 0; background: transparent; }
-.title-layout.detail-style .title-heading { margin-bottom: var(--detail-block-gap); padding: 7px 9px; background: #2c7a55; border-radius: 4px; }
+.title-layout.detail-style .title-heading { margin-bottom: var(--detail-block-gap); padding: 7px 0; background: #2c7a55; border-radius: 4px; }
 .figure-layout.detail-style .figure-heading h1,
 .title-layout.detail-style .title-heading h1 { color: #fff; font-size: clamp(.93rem, 1.87vw, 1.45rem); margin: 3px 0 2px; }
 .title-layout.detail-style .title-heading h1 .title-part2-after,
@@ -393,7 +394,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 
 /* MAKER / TITLE DIRECTORY */
 .maker-directory { max-width: 1120px; margin: 0 auto; }
-.maker-directory-hero { margin: -8px -20px 15px; padding: 14px 24px 16px; color: #fff; background: linear-gradient(110deg, #315c40, #1f4f38 58%, #477e5b); border-radius: 0 0 10px 10px; }
+.maker-directory-hero { margin: -8px -20px 15px; padding: 14px 20px 16px; color: #fff; background: linear-gradient(110deg, #315c40, #1f4f38 58%, #477e5b); border-radius: 0 0 10px 10px; }
 .maker-directory-hero h1 { margin: 0 0 4px; color: #fff; font-size: clamp(1.55rem, 3vw, 2.25rem); }
 .maker-directory-hero p:not(.eyebrow) { margin: 0; color: rgba(255,255,255,.86); font-size: .84rem; }
 .maker-search { display: flex; align-items: center; gap: 10px; min-height: 42px; margin: 0 0 15px; padding: 0 14px; background: #fff; border: 1px solid #d9e5e0; border-radius: 999px; }
@@ -425,11 +426,11 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-detail-sidebar-heading { margin: 0 8px 8px; color: #294d40; font-size: .78rem; font-weight: 800; }
 .maker-detail-sidebar a { display: block; padding: 8px; color: #527469; font-size: .75rem; text-decoration: none; border-radius: 5px; }
 .maker-detail-sidebar a:hover, .maker-detail-sidebar a.is-current { color: #245b47; background: #dfeee6; font-weight: 800; }
-.maker-detail-content { min-width: 0; }
+.maker-detail-content { min-width: 0; max-width: 1120px; margin-inline: auto; }
 .maker-detail-menu { display: inline-flex; align-items: center; gap: 6px; margin: 0; padding: 7px 12px; border: 1px solid rgba(207,224,216,.8); border-radius: 999px; color: #3b6b58; background: rgba(255,255,255,.72); backdrop-filter: blur(6px); font: inherit; font-size: .75rem; cursor: pointer; }
-.maker-detail-hero { position: relative; display: flex; min-height: 120px; overflow: hidden; margin-bottom: 0; border-radius: 7px; color: #fff; background: #24533e; }
+.maker-detail-hero { position: relative; display: flex; min-height: 120px; overflow: hidden; margin: 0 -20px; border-radius: 7px; color: #fff; background: #24533e; }
 .maker-detail-hero::after { position: absolute; inset: 0; content: ""; background: linear-gradient(90deg, rgba(14,55,37,.88), rgba(14,55,37,.38)); }
-.maker-detail-hero > div { position: relative; z-index: 1; align-self: center; padding: 18px 150px 18px 28px; }
+.maker-detail-hero > div { position: relative; z-index: 1; align-self: center; padding: 18px 150px 18px 20px; }
 .maker-detail-hero .eyebrow { color: #d8f0df; }
 .maker-detail-hero h1 { margin: 7px 0; font-size: clamp(2rem, 4vw, 3.1rem); color: #fff;}
 .maker-detail-hero p { margin: 0; color: #effaf0; font-size: .9rem; }
@@ -497,7 +498,7 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .maker-detail-section--flat .maker-detail-card strong { padding: 6px 4px; font-size: .8rem; background: #fff; }
 
 /* TITLE detail */
-.title-layout { display: grid; grid-template-columns: minmax(0, 1fr) 358px; gap: 22px; align-items: start; }
+.title-layout { display: grid; max-width: 1120px; margin-inline: auto; grid-template-columns: minmax(0, 1fr) 358px; gap: 22px; align-items: start; }
 .title-main, .title-sidebar { min-width: 0; }
 .title-sidebar { position: static; }
 .title-heading { margin-bottom: 10px; }
@@ -651,8 +652,8 @@ body.lightbox-open { overflow: hidden; }
   .maker-pickup-grid > :nth-child(n + 4) { display: none; }
   .maker-detail { display: block; }
   .maker-detail-sidebar { width: min(260px, calc(100vw - 20px)); box-shadow: 0 8px 24px rgba(28,72,54,.18); }
-  .maker-detail-hero { min-height: 100px; }
-  .maker-detail-hero > div { padding: 16px 120px 16px 20px; }
+  .maker-detail-hero { min-height: 100px; margin-left: -16px; margin-right: -16px; }
+  .maker-detail-hero > div { padding: 16px 120px 16px 16px; }
   .maker-detail-hero--compact { min-height: 90px; }
   .maker-detail-hero--compact > div { padding: 10px 16px; }
   .maker-detail-hero--compact h1 { font-size: 1.6rem; white-space: nowrap; }
@@ -666,8 +667,8 @@ body.lightbox-open { overflow: hidden; }
   .maker-detail-section--flat .maker-detail-card strong { font-size: .875rem; line-height: 1.3; }
   .maker-detail-section--flat .maker-detail-series header { flex-direction: row; align-items: center; }
 
-  .maker-detail-series header { align-items: flex-start; flex-direction: column; gap: 7px; }
-  .maker-detail-series header a { margin-left: auto; }
+  .maker-detail-series header { align-items: center; flex-direction: row; gap: 7px; }
+  .maker-detail-series header a { display: flex; flex-shrink: 0; align-items: center; justify-content: center; width: 3.75rem; height: 2.125rem; margin-left: auto; border: 1px solid #a8cbbb; border-radius: 6px; background: #fff; line-height: 1; }
 
   .site-header { display: block; padding: 12px 16px; }
   .logo { margin-bottom: 8px; }
@@ -716,7 +717,7 @@ body.lightbox-open { overflow: hidden; }
   min-height: 300px;
   display: flex;
   align-items: center;
-  padding: 56px clamp(24px, 6vw, 72px);
+  padding: 56px max(20px, calc((100% - 1120px) / 2));
   margin: -48px -20px 42px;
   color: #fff;
   background:
@@ -766,7 +767,7 @@ body.lightbox-open { overflow: hidden; }
 .desktop-only { display: inline; }
 
 @media (max-width: 800px) {
-  .home-hero-content { padding: 12px clamp(12px, 2.5vw, 20px); }
+  .home-hero-content { padding: 12px max(16px, calc((100% - 1120px) / 2)); }
   .home-hero-content h1 { margin: 0 0 2px; font-size: clamp(1rem, 3.2vw, 1.7rem); }
   .home-hero-content .lead { margin: 0; font-size: clamp(.7rem, 1.5vw, .9rem); line-height: 1.3; }
   .home-hero-content .lead br { display: none; }
@@ -779,18 +780,18 @@ body.lightbox-open { overflow: hidden; }
   .mammals-hero { margin-left: -16px; margin-right: -16px; padding-left: 16px; padding-right: 16px; }
   .mammal-group-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px 8px; }
   .mammal-group-media { height: 105px; }
-  .primates-hero { min-height: 160px; margin-left: -16px; margin-right: -16px; padding: 18px 20px; }
+  .primates-hero { min-height: 160px; margin-left: -16px; margin-right: -16px; padding: 18px 16px; }
   .primates-hero-art { right: 7%; bottom: -35px; font-size: 10rem; }
   .primates-featured { grid-template-columns: 1fr; gap: 9px; }
   .primate-feature-card { display: grid; grid-template-columns: 108px minmax(0, 1fr); }
   .primate-feature-card > img { width: 108px; height: 88px; }
   .primate-list { grid-template-columns: 1fr; }
-  .species-detail-hero { margin-left: -16px; margin-right: -16px; padding: 22px 20px; }
+  .species-detail-hero { margin-left: -16px; margin-right: -16px; padding: 22px 16px; }
   .species-detail-grid { grid-template-columns: 1fr; gap: 10px; }
   .species-detail-card { display: grid; grid-template-columns: 108px minmax(0, 1fr); }
   .species-detail-media { width: 108px; }
   .species-detail-media > img { width: 100%; height: auto; aspect-ratio: 4 / 3; }
-  .blog-hero { min-height: 260px; margin: -30px -16px 28px; padding: 42px 22px; }
+  .blog-hero { min-height: 260px; margin: -30px -16px 28px; padding: 42px max(16px, calc((100% - 1120px) / 2)); }
   .blog-layout { grid-template-columns: 1fr; gap: 18px; }
   .blog-sidebar { position: static; }
   .filter-section { margin-top: 14px; padding-bottom: 10px; border-bottom: 0; }
