@@ -6,7 +6,7 @@ titleId: kabaya
 figureId: "001"
 maker: "-"
 sculptor: "-"
-species: "ヘルクレスオオカブト"
+species: "ヘラクレスオオカブト"
 speciesGroup: "カブトムシ・クワガタ類"
 price: "-"
 releaseStart: "-"

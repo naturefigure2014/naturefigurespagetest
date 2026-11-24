@@ -6,7 +6,7 @@ titleId: yujin/kyoryudaizukann
 figureId: "010"
 maker: "ユージン"
 sculptor: "-"
-species: "アパトサウルスC"
+species: "アパトサウルス"
 price: "200円 公式サイト： コチラ"
 releaseStart: "2006.03"
 genre:

@@ -6,7 +6,7 @@ titleId: yujin/kyoryudaizukann
 figureId: "018"
 maker: "ユージン"
 sculptor: "-"
-species: "アロサウルスB"
+species: "アロサウルス"
 price: "200円 公式サイト： コチラ"
 releaseStart: "2006.03"
 genre:

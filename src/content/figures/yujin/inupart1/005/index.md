@@ -6,7 +6,7 @@ titleId: yujin/inupart1
 figureId: "005"
 maker: "ユージン"
 sculptor: "-"
-species: "フレンチ・ブルドッグ"
+species: "フレンチブルドッグ"
 price: "200円"
 releaseStart: "-"
 genre:
