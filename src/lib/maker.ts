@@ -1,7 +1,7 @@
 export type MakerValue = string | string[] | undefined;
 
 export const makerNames = (maker: MakerValue): string[] =>
-  maker ? (Array.isArray(maker) ? maker : [maker]) : [];
+  maker ? (Array.isArray(maker) ? maker : [maker]).filter((name) => name.trim() !== "") : [];
 
 export const makerBadgeClass = (maker: string) => {
   switch (maker) {

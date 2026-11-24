@@ -8,6 +8,11 @@ test("keeps the existing single lineup when groups are absent", () => {
   assert.deepEqual(groupLineup(lineup, []), [{ title: "ラインナップ", figures: lineup }]);
 });
 
+test("allows an empty or custom heading for an ungrouped lineup", () => {
+  assert.deepEqual(groupLineup(lineup, [], ""), [{ title: "", figures: lineup }]);
+  assert.deepEqual(groupLineup(lineup, [], "作品"), [{ title: "作品", figures: lineup }]);
+});
+
 test("uses group headings and figure order, normalizing content IDs", () => {
   assert.deepEqual(groupLineup(lineup, [
     { title: "北", figureIds: ["series/002", "series/001"] },

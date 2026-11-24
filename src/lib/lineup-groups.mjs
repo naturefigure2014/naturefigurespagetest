@@ -4,10 +4,11 @@ const normalizeId = (id) => id.replace(/\/index(?:\.md)?$/, "");
  * @template {{ id: string }} T
  * @param {T[]} lineup
  * @param {{ title: string, figureIds: string[] }[]} groups
+ * @param {string} [heading]
  * @returns {{ title: string, figures: T[] }[]}
  */
-export function groupLineup(lineup, groups) {
-  if (groups.length === 0) return [{ title: "ラインナップ", figures: lineup }];
+export function groupLineup(lineup, groups, heading = "ラインナップ") {
+  if (groups.length === 0) return [{ title: heading, figures: lineup }];
 
   const figuresById = new Map(lineup.map((figure) => [normalizeId(figure.id), figure]));
   const seen = new Set();

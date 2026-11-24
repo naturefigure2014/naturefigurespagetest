@@ -46,8 +46,9 @@ const figures = defineCollection({
     collectionStatus: z.enum(["owned", "notOwned"]).optional(),
     salesPeriod: z.string().regex(/^\d{4}\.\d{2}\.\d{2}-\d{4}\.\d{2}\.\d{2}$/).optional(),
     figureIds: z.array(z.string()).default([]),
+    lineupHeading: z.string().optional(),
     lineupGroups: z.array(z.object({
-      title: z.string().min(1),
+      title: z.string().default(""),
       figureIds: z.array(z.string()).min(1)
     })).default([]),
     // src/data/themes.yaml の subgroups 名を指定する（複数可）。

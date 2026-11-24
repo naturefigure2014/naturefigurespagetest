@@ -277,8 +277,7 @@ body:has(.detail-style) { background: #f8faf8; }
 .title-layout.detail-style .title-heading h1 .title-part2 { color: #f5e6b8; font-size: .8em; font-style: normal; }
 .figure-layout.detail-style .figure-series-title .title-part2 { color: #f5e6b8; font-size: inherit; font-style: normal; }
 .figure-layout.detail-style .figure-title-banner { align-self: stretch; width: 100%; margin-bottom: 3px; padding: 7px 9px; border-radius: 4px; background: #2c7a55; color: #fff; }
-.figure-layout.detail-style .figure-standalone-meta { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; font-size: .8em; }
-.figure-layout.detail-style .figure-standalone-title-banner .figure-id-label { border: 1px solid rgba(255,255,255,.55); background: rgba(255,255,255,.16); }
+.figure-layout.detail-style .figure-standalone-title-banner .figure-id-label { border: 1px solid rgba(255,255,255,.55); background: rgba(255,255,255,.16); font-size: .512em; }
 .figure-layout.detail-style .figure-title-banner.single-lineup-title-banner { margin-bottom: var(--detail-block-gap); }
 .figure-layout.detail-style .figure-title-banner.single-lineup-title-banner h1 { display: block; margin: 3px 0 2px; padding: 0; border-radius: 0; background: transparent; color: #fff; font-size: clamp(.93rem, 1.87vw, 1.45rem); }
 .figure-layout.detail-style .figure-title-banner.single-lineup-title-banner h1::before { display: none; }
@@ -296,13 +295,13 @@ body:has(.detail-style) { background: #f8faf8; }
 .figure-layout.detail-style .figure-heading .maker-kaiyodo,
 .figure-layout.detail-style .figure-heading > div > p:first-child.maker-kaiyodo,
 .title-layout.detail-style .title-heading .eyebrow.maker-kaiyodo { background: #1976b9; border: 0; }
-.figure-layout.detail-style .figure-heading h1 { position: relative; display: flex; align-self: stretch; align-items: center; flex-wrap: wrap; gap: 10px; margin: 0; padding: 10px 9px 10px 25px; border-radius: 4px; background: #eaf3ee; color: #173d30; font-size: clamp(1.4rem, 3vw, 2rem); }
+.figure-layout.detail-style .figure-heading h1 { position: relative; display: block; align-self: stretch; margin: 0; padding: 10px 9px 10px 25px; border-radius: 4px; background: #eaf3ee; color: #173d30; font-size: clamp(1.4rem, 3vw, 2rem); }
 .figure-layout.detail-style .figure-heading h1::before { content: ""; position: absolute; top: 10px; bottom: 10px; left: 9px; width: 6px; background: #2c7a55; }
-.figure-layout.detail-style .figure-standalone-title-banner h1 { position: static; display: flex; flex-direction: column; align-items: flex-start; gap: 3px; margin: 3px 0 2px; padding: 0; border-radius: 0; background: transparent; color: #fff; font-size: clamp(.93rem, 1.87vw, 1.45rem); }
+.figure-layout.detail-style .figure-standalone-title-banner h1 { position: static; display: block; margin: 3px 0 2px; padding: 0; border-radius: 0; background: transparent; color: #fff; font-size: clamp(.93rem, 1.87vw, 1.45rem); }
 .figure-layout.detail-style .figure-standalone-title-banner h1::before { display: none; }
-.figure-layout.detail-style .figure-id-label { flex: 0 0 auto; padding: 3px 6px; border-radius: 3px; background: #2c7a55; color: #fff; font-size: .64em; font-weight: 700; line-height: 1.2; white-space: nowrap; }
+.figure-layout.detail-style .figure-id-label { display: inline-block; margin-right: .25em; padding: 3px 6px; border-radius: 3px; background: #2c7a55; color: #fff; font-size: .64em; font-weight: 700; line-height: 1.2; vertical-align: middle; white-space: nowrap; }
 .figure-layout.detail-style .single-lineup-title-banner .figure-id-label { border: 1px solid rgba(255,255,255,.55); background: rgba(255,255,255,.16); }
-.figure-layout.detail-style .figure-name { min-width: 0; font-size: inherit; font-weight: 700; line-height: 1.25; }
+.figure-layout.detail-style .figure-name { overflow-wrap: anywhere; font-size: inherit; font-weight: 700; line-height: 1.25; vertical-align: middle; }
 .figure-layout.detail-style .figure-group-photo,
 .title-layout.detail-style .title-collection-photo { margin-bottom: var(--detail-block-gap); }
 .figure-layout.detail-style .topic-card,
@@ -506,7 +505,8 @@ footer span { position: relative; z-index: 1; display: inline-block; padding: 5p
 .title-heading { margin-bottom: 10px; }
 .title-heading-meta { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; }
 .title-heading h1 { margin: 6px 0 4px; }
-.title-series-label { color: #64776f; font-size: .86rem; font-weight: 600; }
+.title-series-label, .title-heading-meta .title-eyebrow { font-size: .86rem; font-weight: 600; }
+.title-series-label { color: #64776f; }
 .title-date { margin: 4px 0 0; color: #71837c; font-size: .78rem; }
 .title-lead { max-width: 760px; margin: 7px 0 0; color: #50665d; font-size: .86rem; }
 .title-section, .title-description { margin-top: 14px; background: #fff; border: 1px solid #dfe8e4; border-radius: 10px; box-shadow: 0 2px 9px rgba(28,72,54,.025); }

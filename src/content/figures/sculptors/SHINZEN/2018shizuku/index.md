@@ -1,8 +1,8 @@
 ---
 title: "獅木菟(しずく)　ワシミミズク"
 description: ""
+titleId: "sculptors/SHINZEN"
 contentType: figure
-maker: "-"
 sculptor: "竹内しんぜん"
 seriesName: "-"
 species: "ワシミミズク"

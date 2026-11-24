@@ -1,8 +1,8 @@
 ---
 title: "ティラノサウルス（2015）"
 description: ""
+titleId: "sculptors/SHINZEN"
 contentType: figure
-maker: "-"
 sculptor: "竹内しんぜん"
 seriesName: "-"
 species: "ティラノサウルス"

@@ -1,8 +1,8 @@
 ---
 title: "ナイルワニ"
 description: ""
+titleId: "sculptors/SHINZEN"
 contentType: figure
-maker: "-"
 sculptor: "竹内しんぜん"
 seriesName: "-"
 species: "ナイルワニ"

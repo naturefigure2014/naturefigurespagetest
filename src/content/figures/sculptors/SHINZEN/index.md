@@ -1,10 +1,9 @@
 ---
-title: "SHIZEN造形研究所"
+title: "SHINZEN造形研究所"
 description: ""
 contentType: title
 titleId: sculptors/SHINZEN
 kind: collection
-maker: "-"
 figureIds:
   - sculptors/SHINZEN/2025haoju
   - sculptors/SHINZEN/2003tenohiraallo

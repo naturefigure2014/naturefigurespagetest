@@ -68,7 +68,7 @@ const figureMetadata = (figure: Figure) => {
   return {
     titleName,
     sculptor: figure.data.sculptor || "-",
-    maker: makers.length > 0 ? makers.join("・") : "-",
+    maker: makers.join("・"),
     makerClass: makerBadgeClass(makers[0] ?? ""),
     releaseYear
   };
@@ -90,7 +90,7 @@ const figureMetadata = (figure: Figure) => {
           <small>{metadata.titleName}</small>
           <small class="species-detail-sculptor">{metadata.sculptor}</small>
           <div class="species-detail-meta">
-            <span class:list={["species-detail-maker", metadata.makerClass]}>{metadata.maker}</span>
+            {metadata.maker && <span class:list={["species-detail-maker", metadata.makerClass]}>{metadata.maker}</span>}
             <small class="species-detail-year">{metadata.releaseYear}</small>
           </div>
           <b aria-hidden="true">›</b>

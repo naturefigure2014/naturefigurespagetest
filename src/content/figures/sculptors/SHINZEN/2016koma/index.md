@@ -1,8 +1,8 @@
 ---
 title: "虎毬(こま) 仔トラ"
 description: ""
+titleId: "sculptors/SHINZEN"
 contentType: figure
-maker: "-"
 sculptor: "竹内しんぜん"
 seriesName: "-"
 species: "トラ"

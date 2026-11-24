@@ -27,8 +27,12 @@ const lineup = figures
       : normalizeContentId(figure.data.titleId ?? "") === normalizeContentId(entry.id);
   })
   .sort((a, b) => (a.data.figureId ?? "").localeCompare(b.data.figureId ?? "", undefined, { numeric: true }) || compareContentId(a, b));
-const lineupSections = groupLineup(lineup, entry.data.lineupGroups);
-
+const isSculptor = entry.id.startsWith("sculptors/");
+const lineupSections = groupLineup(
+  lineup,
+  entry.data.lineupGroups,
+  entry.data.lineupHeading ?? (isSculptor ? "" : "ラインナップ")
+);
 const titleMakers = makerNames(entry.data.maker);
 const hasCustomTitle = Boolean(entry.data.title1 || entry.data.title2);
 const collectionPhoto = entry.data.collectionImage
@@ -43,15 +47,19 @@ const resourceSections = [
 ] as const;
 ---
 <BaseLayout title={`${entry.data.title} | NATURE FIGURE`} description={entry.data.description}>
-  <div class="breadcrumb"><a href={siteUrl("/")}>ホーム</a> / <a href={siteUrl("/titles/")}>タイトル</a> / {entry.data.title}</div>
+  <div class="breadcrumb">
+    <a href={siteUrl("/")}>ホーム</a> /
+    {isSculptor
+      ? <a href={siteUrl("/sculptors/")}>クリエイターから探す</a>
+      : <a href={siteUrl("/titles/")}>タイトル</a>}
+    / {entry.data.title}
+  </div>
 
   <div class="title-layout detail-style">
     <article class="title-main">
       <header class="title-heading">
         <div class="title-heading-meta">
-          {titleMakers.length > 0
-            ? titleMakers.map((maker) => <span class:list={["eyebrow", makerBadgeClass(maker)]}>{maker}</span>)
-            : <span class:list={["eyebrow", "maker-default"]}>メーカー</span>}
+          {titleMakers.map((maker) => <span class:list={["eyebrow", makerBadgeClass(maker)]}>{maker}</span>)}
           {seriesNames[0] && <span class="title-series-label">{seriesNames[0]}</span>}
           {entry.data.titleEyebrow && <span class="title-eyebrow">{entry.data.titleEyebrow}</span>}
         </div>
@@ -84,10 +92,12 @@ const resourceSections = [
       <div class="title-lineup">
         {lineupSections.map(({ title, figures: sectionFigures }) => (
           <section class="title-section title-lineup-section">
-            <div class="title-section-header">
-              <span class="topic-marker"></span>
-              <h2>{title}</h2>
-            </div>
+            {title.trim() && (
+              <div class="title-section-header">
+                <span class="topic-marker"></span>
+                <h2>{title}</h2>
+              </div>
+            )}
             <div class="lineup-grid">
               {sectionFigures.map((figure) => {
                 const image = resolveFigureImage(
@@ -205,6 +215,7 @@ const resourceSections = [
     </article>
 
     <aside class="title-sidebar">
+      {!isSculptor && (
       <section class="sidebar-card basic-card title-basic-card">
         <h2 class="basic-heading">基本情報</h2>
         <dl class="info-list">
@@ -225,6 +236,7 @@ const resourceSections = [
           <div class="tag-list">{entry.data.tags.map((tag) => <span>{tag}</span>)}</div>
         )}
       </section>
+      )}
 
       <section class="sidebar-card related-card">
         <h2>関連するフィギュア</h2>
