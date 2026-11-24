@@ -1,5 +1,6 @@
 ---
-title: "特別展『深海』会場特別先行販売 <ダイオウイカ> 精密ポリストーンフィギュア"
+titleEyebrow: "特別展『深海』会場特別先行販売"
+title: "ダイオウイカ 精密ポリストーンフィギュア"
 description: ""
 contentType: figure
 date: 2026-11-23
@@ -10,10 +11,6 @@ executiveProducer: 松村しのぶ
 species: ダイオウイカ
 speciesGroup: "イカ類"
 coverImage: "img/daiouika002.jpg"
-resources:
-  package:
-    image: "img/daiouikahako.jpg"
-    description: "パッケージデザインはポリストーン版アクアテイルズと同じ。"
 releaseStart: "2013年7月6日～10月6日"
 price: "2,500円"
 topics:

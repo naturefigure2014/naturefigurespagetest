@@ -7,8 +7,9 @@ figureId: "007"
 maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
-species: "縄文犬"
-speciesGroup: "食肉類"
+speciesEntries:
+  - species: "縄文犬"
+  - species: "ホモ・サピエンス"
 price: "300円 監修：国立科学博物館"
 releaseStart: "2007.04"
 genre:

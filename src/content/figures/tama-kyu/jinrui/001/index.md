@@ -6,7 +6,7 @@ titleId: tama-kyu/jinrui
 figureId: "001"
 maker: "ブシロードクリエイティブ"
 sculptor: "-"
-species: "猿"
+species: "ヒトの祖先"
 speciesGroup: "霊長類"
 price: "300円"
 releaseStart: "2023.11"

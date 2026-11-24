@@ -6,8 +6,7 @@ titleId: tama-kyu/jinrui
 figureId: "005"
 maker: "ブシロードクリエイティブ"
 sculptor: "-"
-species: "新人"
-speciesGroup: "霊長類"
+species: "ホモ・サピエンス"
 price: "300円"
 releaseStart: "2023.11"
 genre:

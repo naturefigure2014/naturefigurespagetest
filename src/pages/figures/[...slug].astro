@@ -84,6 +84,7 @@ const ownSeriesName = [entry.data.seriesName ?? []].flat().filter(Boolean).join(
 const titleSeriesNames = rawSeriesName
   ? (Array.isArray(rawSeriesName) ? rawSeriesName : [rawSeriesName])
   : [];
+const hasTitleId = Boolean(entry.data.titleId);
 const freeTags = [...new Map(
   [...(title?.data.freetag ?? []), ...entry.data.freetag]
     .map((tag) => [tag.label, tag] as const)
@@ -111,12 +112,13 @@ const resourceSections = [
     <article class="figure-main">
       <header class="figure-heading">
         <div>
-          {title
+          {hasTitleId && title
             ? (
               <div class="figure-title-banner">
                 <p class="figure-context">
                   {entryMakers.map((maker) => <span class:list={["eyebrow", "maker-badge", makerBadgeClass(maker)]}>{maker}</span>)}
                   {titleSeriesNames[0] && <span class="figure-title-context">{titleSeriesNames[0]}</span>}
+                  {entry.data.titleEyebrow && <span class="title-eyebrow">{entry.data.titleEyebrow}</span>}
                 </p>
                 <div class="figure-series-title" aria-label={hasCustomTitle
                   ? [title.data.title1, title.data.title2].filter(Boolean).join(" ")
@@ -133,7 +135,7 @@ const resourceSections = [
                 </div>
               </div>
             )
-            : ownSeriesName
+            : hasTitleId && ownSeriesName
               ? (
                 <div class="figure-title-banner">
                   <p class="figure-context">
@@ -141,20 +143,44 @@ const resourceSections = [
                       ? entryMakers.map((maker) => <span class:list={["eyebrow", "maker-badge", makerBadgeClass(maker)]}>{maker}</span>)
                       : <span class:list={["eyebrow", "maker-badge", "maker-default"]}>メーカー</span>}
                     <span class="figure-title-context">{ownSeriesName}</span>
+                    {entry.data.titleEyebrow && <span class="title-eyebrow">{entry.data.titleEyebrow}</span>}
                   </p>
                 </div>
               )
-              : (
+              : hasTitleId
+                ? (
                 <p class="figure-context">
                   {entryMakers.length > 0
                     ? entryMakers.map((maker) => <span class:list={["eyebrow", "maker-badge", makerBadgeClass(maker)]}>{maker}</span>)
                     : <span class:list={["eyebrow", "maker-badge", "maker-default"]}>メーカー</span>}
+                  {entry.data.titleEyebrow && <span class="title-eyebrow">{entry.data.titleEyebrow}</span>}
                 </p>
-              )}
-          <h1>
-            {figureId && <span class="figure-id-label">{figureId}</span>}
-            <span class="figure-name">{entry.data.title}</span>
-          </h1>
+              )
+                : (
+                  <div class="figure-title-banner figure-standalone-title-banner">
+                    <p class="figure-context">
+                      {entryMakers.length > 0
+                        ? entryMakers.map((maker) => <span class:list={["eyebrow", "maker-badge", makerBadgeClass(maker)]}>{maker}</span>)
+                        : <span class:list={["eyebrow", "maker-badge", "maker-default"]}>メーカー</span>}
+                      {ownSeriesName && <span class="figure-title-context">{ownSeriesName}</span>}
+                      {entry.data.titleEyebrow && <span class="title-eyebrow">{entry.data.titleEyebrow}</span>}
+                    </p>
+                    <h1>
+                      {figureId && (
+                        <span class="figure-standalone-meta">
+                          <span class="figure-id-label">{figureId}</span>
+                        </span>
+                      )}
+                      <span class="figure-name">{entry.data.title}</span>
+                    </h1>
+                  </div>
+                )}
+          {hasTitleId && (
+            <h1>
+              {figureId && <span class="figure-id-label">{figureId}</span>}
+              <span class="figure-name">{entry.data.title}</span>
+            </h1>
+          )}
           {entry.data.releaseDate && (
             <p class="figure-date">◷ {formatDate(entry.data.releaseDate)}</p>
           )}

@@ -53,6 +53,7 @@ const resourceSections = [
             ? titleMakers.map((maker) => <span class:list={["eyebrow", makerBadgeClass(maker)]}>{maker}</span>)
             : <span class:list={["eyebrow", "maker-default"]}>メーカー</span>}
           {seriesNames[0] && <span class="title-series-label">{seriesNames[0]}</span>}
+          {entry.data.titleEyebrow && <span class="title-eyebrow">{entry.data.titleEyebrow}</span>}
         </div>
         <h1>
           {hasCustomTitle
