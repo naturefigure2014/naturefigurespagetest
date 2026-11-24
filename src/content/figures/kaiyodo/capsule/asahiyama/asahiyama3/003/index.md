@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 speciesEntries:
-  - species: "キタジェンツーペンギン"
+  - species: "ジェンツーペンギン"
     speciesGroup: "ペンギン類"
   - species: "オウサマペンギン"
     speciesGroup: "ペンギン類"

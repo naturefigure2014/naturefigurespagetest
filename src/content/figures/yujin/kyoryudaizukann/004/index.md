@@ -6,7 +6,7 @@ titleId: yujin/kyoryudaizukann
 figureId: "004"
 maker: "ユージン"
 sculptor: "-"
-species: "プテラノドンB"
+species: "プテラノドン"
 price: "200円 公式サイト： コチラ"
 releaseStart: "2006.03"
 genre:

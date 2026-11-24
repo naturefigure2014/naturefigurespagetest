@@ -6,7 +6,7 @@ titleId: furuta/chocoegg_dino
 figureId: "012"
 maker: "フルタ 原型/解説：荒木一成"
 sculptor: "-"
-species: "プテラノドン骨格"
+species: "プテラノドン"
 speciesGroup: "翼竜類"
 price: "-"
 releaseStart: "2009.10"
