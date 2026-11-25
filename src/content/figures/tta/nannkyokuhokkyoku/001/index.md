@@ -6,7 +6,7 @@ titleId: tta/nannkyokuhokkyoku
 figureId: "001"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "コウテイペンギンの親子"
+species: "コウテイペンギン"
 price: "300円"
 releaseStart: "2012.09"
 genre:

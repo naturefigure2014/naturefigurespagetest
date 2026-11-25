@@ -6,7 +6,7 @@ titleId: tta/genn_kaiseihonyurui
 figureId: "004"
 maker: "タカラトミーアーツ 公式サイト： コチラ"
 sculptor: "EXPO"
-species: "△シャチ 全身骨格"
+species: "シャチ"
 price: "300円"
 releaseStart: "2010.08"
 genre:

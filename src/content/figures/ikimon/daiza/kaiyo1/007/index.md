@@ -6,7 +6,7 @@ titleId: ikimon/daiza/kaiyo1
 figureId: "007"
 maker: "奇譚クラブ"
 sculptor: "KOW 企画総指揮：佐藤純也"
-species: "ハンドウイルカ"
+species: "バンドウイルカ"
 price: "300円"
 releaseStart: "2008.12"
 genre:

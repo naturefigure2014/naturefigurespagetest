@@ -6,7 +6,7 @@ titleId: tta/nakamimarumie
 figureId: "004"
 maker: "ユージン・タカラトミー"
 sculptor: "-"
-species: "にわとり"
+species: "ニワトリ"
 price: "200円"
 releaseStart: "2006.06"
 genre:
