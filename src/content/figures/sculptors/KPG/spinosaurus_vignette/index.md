@@ -91,7 +91,7 @@ speciesEntries:
   - species: 'スピノサウルス'
     speciesGroup: '獣脚類'
   - species: 'オンコプリスティス'
-    speciesGroup: 'その他の動物'
+    speciesGroup: '古代の魚類'
 figureId: '001'
 ---
 

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "ユメナマコ"
-speciesGroup: "その他の動物"
+speciesGroup: "棘皮動物類"
 price: "-"
 releaseStart: "2001.09"
 genre:
