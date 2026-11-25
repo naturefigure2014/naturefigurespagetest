@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アカゲラ"
-speciesGroup: "その他鳥類"
+speciesGroup: "キツツキ類"
 price: "-"
 releaseStart: "2001.03"
 genre:

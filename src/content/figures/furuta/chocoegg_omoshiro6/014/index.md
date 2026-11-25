@@ -7,7 +7,7 @@ figureId: "014"
 maker: "フルタ製菓 公式サイト： コチラ"
 sculptor: "-"
 species: "ハチドリ"
-speciesGroup: "その他鳥類"
+speciesGroup: "ハチドリ類"
 price: "-"
 releaseStart: "2002.09"
 genre:

@@ -13,7 +13,7 @@ speciesEntries:
   - species: "イリオモテヤマネコ"
     speciesGroup: "食肉類"
   - species: "ヤンバルクイナ"
-    speciesGroup: "キジ・ニワトリ類"
+    speciesGroup: "水鳥"
 price: "-"
 releaseStart: "2004.07"
 genre:

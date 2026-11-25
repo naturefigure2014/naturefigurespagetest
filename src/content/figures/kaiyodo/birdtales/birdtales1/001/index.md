@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "アオゲラ"
-speciesGroup: "その他鳥類"
+speciesGroup: "キツツキ類"
 price: "-"
 releaseStart: "2004.04"
 genre:

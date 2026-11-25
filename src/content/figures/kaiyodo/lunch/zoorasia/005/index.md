@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "松村しのぶ"
 species: "カンムリシロムク"
-speciesGroup: "その他鳥類"
+speciesGroup: "小鳥・身近な鳥"
 price: "２２０円"
 releaseStart: "2004.03"
 genre:

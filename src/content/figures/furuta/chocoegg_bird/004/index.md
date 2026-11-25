@@ -7,7 +7,7 @@ figureId: "004"
 maker: "フルタ"
 sculptor: "-"
 species: "アカゲラ"
-speciesGroup: "その他鳥類"
+speciesGroup: "キツツキ類"
 price: "162円"
 releaseStart: "2003.10"
 genre:

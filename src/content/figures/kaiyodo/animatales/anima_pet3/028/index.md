@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ブンチョウ"
-speciesGroup: "その他鳥類"
+speciesGroup: "小鳥・身近な鳥"
 price: "-"
 releaseStart: "2002.09"
 genre:

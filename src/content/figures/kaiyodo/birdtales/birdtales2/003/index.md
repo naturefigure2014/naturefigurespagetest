@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "カワセミ"
-speciesGroup: "その他鳥類"
+speciesGroup: "ブッポウソウ・カワセミ類"
 price: "-"
 releaseStart: "2005.06"
 genre:

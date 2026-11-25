@@ -7,7 +7,7 @@ figureId: "015"
 maker: "フルタ製菓 監修・解説：畑 正憲(ムツゴロウ)"
 sculptor: "-"
 species: "ハチドリ"
-speciesGroup: "その他鳥類"
+speciesGroup: "ハチドリ類"
 price: "-"
 releaseStart: "2002.09"
 genre:

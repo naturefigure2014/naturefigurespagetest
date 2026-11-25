@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "キジバト"
-speciesGroup: "キジ・ニワトリ類"
+speciesGroup: "カラス・ハト類"
 price: "-"
 releaseStart: "2004.10"
 genre:

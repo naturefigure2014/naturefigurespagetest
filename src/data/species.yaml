@@ -364,6 +364,20 @@ groups:
       - "モズ"
       - "ルリビタキ"
       - "キツツキフィンチ"
+      - "アカコッコ"
+      - "キビタキ"
+      - "オオマシコ"
+      - "コキンチョウ"
+      - "ブンチョウ"
+      - "シマエナガ"
+      - "エナガ"
+      - "オーストンヤマガラ"
+      - "ヤマガラ"
+      - "メグロ"
+      - "キレンジャク"
+      - "スズメ"
+      - "カンムリシロムク"
+      - "ヤイロチョウ"
   カラス・ハト類:
     imageFigureId: kaiyodo/animatales/anima_jap3/081
     icon: "◆"
@@ -371,6 +385,11 @@ groups:
       - "キジバト"
       - "ホシガラス"
       - "ルリカケス"
+      - "アオバト"
+      - "ドバト"
+      - "ニシアカガシラエボシドリ"
+      - "ドードー"
+      - "ハシブトガラス"
   オウム・インコ類:
     imageFigureId: kaiyodo/animatales/anima_jap6/158
     icon: "◇"
@@ -387,9 +406,9 @@ groups:
       - "セキセインコブルーハルクイン"
       - "セキセインコルチノー"
       - "ハルクインコンゴウインコ"
-      - "ルリコンゴウ"
       - "ワカケホンセイインコ"
       - "コンゴウインコ"
+      - "フクロウオウム"
   猛禽類:
     imageFigureId: kaiyodo/animatales/anima_jap10/006
     icon: "▲"
@@ -420,7 +439,7 @@ groups:
       - "メンフクロウ"
       - "ワシミミズク"
   キジ・ニワトリ類:
-    imageFigureId: kaiyodo/animatales/anima_jap3/077
+    imageFigureId: kaiyodo/animatales/anima_jap3/085
     icon: "♠"
     species:
       - "うずら尾"
@@ -428,11 +447,11 @@ groups:
       - "シャモ"
       - "チャボ"
       - "ニワトリ"
-      - "ひよこ"
-      - "ヤンバルクイナ"
       - "ライチョウ"
       - "鶏卵運び［多摩子と副ぶちょー］"
       - "地鶏"
+      - "ヤマドリ"
+      - "土佐のオナガドリ"
   水鳥:
     imageFigureId: ikimon/nature_of_japan/noj1/006
     icon: "◈"
@@ -459,6 +478,8 @@ groups:
       - "マガモ"
       - "マガン"
       - "ミコアイサ"
+      - "バン"
+      - "ヤンバルクイナ"
   海鳥:
     imageFigureId: ikimon/daiza/nannkyoku/007
     icon: "▽"
@@ -471,6 +492,8 @@ groups:
       - "コアホウドリ"
       - "オオトウゾクカモメ"
       - "アオアシカツオドリ"
+      - "エトピリカ"
+      - "オオミズナギドリ"
   ペンギン類:
     imageFigureId: ikimon/daiza/kaiyukann/005
     icon: "♟"
@@ -478,7 +501,6 @@ groups:
       - "アデリーペンギン"
       - "イワトビペンギン"
       - "キガシラペンギン"
-      - "キングペンギン"
       - "オウサマペンギン"
       - "ケープペンギン"
       - "コウテイペンギン"
@@ -497,54 +519,49 @@ groups:
     species:
       - "ホヤ"
       - "オオグチボヤ"
-  その他鳥類:
-    imageFigureId: ikimon/daiza/ogasawara/007
-    icon: "◌"
+  ブッポウソウ・カワセミ類:
+    imageFigureId: furuta/chocoegg_bird/008
+    icon: "◈"
     species:
       - "ブッポウソウ"
-      - "フクロウオウム"
-      - "ハチドリ"
-      - "マメハチドリ"
-      - "アオゲラ"
-      - "アオバト"
-      - "アカゲラ"
-      - "アカコッコ"
       - "アカショウビン"
-      - "エトピリカ"
-      - "エナガ"
-      - "オーストンヤマガラ"
-      - "オオマシコ"
-      - "オオミズナギドリ"
-      - "コキンチョウ"
-      - "ブンチョウ"
-      - "カッコウ"
       - "カワセミ"
-      - "カンムリシロムク"
-      - "キーウィ"
-      - "キビタキ"
-      - "キレンジャク"
-      - "クマゲラ"
-      - "シマエナガ"
-      - "スズメ"
-      - "ドードー"
-      - "ドバト"
-      - "ニシアカガシラエボシドリ"
-      - "ハシブトガラス"
-      - "バン"
       - "ミヤコショウビン"
       - "ミヤコショウビン アカハラショウビン"
-      - "メグロ"
-      - "ヤイロチョウ"
-      - "ヤマガラ"
       - "ヤマセミ"
-      - "ヤマドリ"
-      - "鳥獣人物戯画"
-      - "土佐のオナガドリ"
+  キツツキ類:
+    imageFigureId: furuta/chocoegg_bird/004
+    icon: "◆"
+    species:
+      - "アオゲラ"
+      - "アカゲラ"
+      - "クマゲラ"
+  オオハシ類:
+    imageFigureId: ikimon/NTC500/ookinaoohashi/001
+    icon: "◇"
+    species:
       - "チョコキムネオオハシ"
       - "サンショクキムネオオハシ"
       - "ウスヒムネオオハシ"
       - "オニオオハシ"
+  ハチドリ類:
+    imageFigureId: kabaya/amazon/012
+    icon: "✦"
+    species:
+      - "ハチドリ"
+      - "マメハチドリ"
+  走鳥類:
+    imageFigureId: ikimon/daiza/sabanna/004
+    icon: "▲"
+    species:
+      - "キーウィ"
       - "ダチョウ"
+  その他鳥類:
+    imageFigureId: ikimon/daiza/ogasawara/007
+    icon: "◌"
+    species:
+      - "カッコウ"
+      - "鳥獣人物戯画"
       - "フラミンゴ"
   ヘビ類:
     imageFigureId: ikimon/nature_of_japan/noj1/007
@@ -2355,6 +2372,11 @@ taxonomy:
           - 水鳥
           - 海鳥
           - ペンギン類
+          - ブッポウソウ・カワセミ類
+          - キツツキ類
+          - オオハシ類
+          - ハチドリ類
+          - 走鳥類
           - その他鳥類
         groupLabels:
           その他鳥類: その他
