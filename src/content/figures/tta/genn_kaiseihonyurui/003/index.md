@@ -6,7 +6,7 @@ titleId: tta/genn_kaiseihonyurui
 figureId: "003"
 maker: "タカラトミーアーツ 公式サイト： コチラ"
 sculptor: "EXPO"
-species: "ナガスクジラ 摂食"
+species: "ナガスクジラ"
 price: "300円"
 releaseStart: "2010.08"
 genre:

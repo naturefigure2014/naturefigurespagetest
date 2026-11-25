@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "002"
 maker: "ユージン"
 sculptor: "KOW"
-species: "02 フエヤッコダイ"
+species: "フエヤッコダイ"
 price: "100円"
 releaseStart: "2005.03"
 genre:

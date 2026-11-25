@@ -6,7 +6,7 @@ titleId: tta/JWFKstdfig
 figureId: "003"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "MOSASAURUS"
+species: "モササウルス"
 price: "300円"
 releaseStart: "2018.08"
 genre:

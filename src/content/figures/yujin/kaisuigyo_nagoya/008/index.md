@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "008"
 maker: "ユージン"
 sculptor: "KOW"
-species: "08 シロギス"
+species: "シロギス"
 price: "100円"
 releaseStart: "2005.03"
 genre:

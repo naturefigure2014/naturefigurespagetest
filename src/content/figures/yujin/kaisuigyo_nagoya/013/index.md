@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "013"
 maker: "ユージン"
 sculptor: "KOW"
-species: "13 マダイ"
+species: "マダイ"
 price: "100円"
 releaseStart: "2005.03"
 genre:

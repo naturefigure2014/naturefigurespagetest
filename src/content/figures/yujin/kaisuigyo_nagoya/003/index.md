@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "003"
 maker: "ユージン"
 sculptor: "KOW"
-species: "03 ミスジリュウキュウスズメダイ"
+species: "ミスジリュウキュウスズメダイ"
 price: "100円"
 releaseStart: "2005.03"
 genre:
