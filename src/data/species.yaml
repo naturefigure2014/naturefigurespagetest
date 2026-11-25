@@ -1727,14 +1727,12 @@ groups:
       - "ダコタラプトル"
       - "タルボサウルス"
       - "デイノケイルス"
-      - "ディノニクス"
       - "デイノニクス"
       - "ティラノサウルス"
       - "テリジノサウルス"
       - "フクイラプトル"
       - "マイプ"
       - "ミクロラプトル・グイ"
-      - "ユウティラヌス"
       - "ユティランヌス・フアリ"
       - "ズケンティランヌス・マグヌス"
       - "アロサウルス・フラギリス"
@@ -1814,8 +1812,6 @@ groups:
   古代の海生爬虫類:
     imageFigureId: ikimon/daiza/koseibutsu/007
     species:
-      - "ティロザウルス"
-      - "エラスモザウルス"
       - "ワカヤマソウリュウ"
       - "アーケロン"
       - "イクチオサウルス"
@@ -1827,7 +1823,6 @@ groups:
       - "プレシオサウルス"
       - "メトリオリンクス"
       - "モササウルス"
-      - "モササウルス類"
       - "リオプレウロドン"
   古代の鳥類:
     imageFigureId: kaiyodo/dinotales/dinotales2/012
@@ -1892,7 +1887,6 @@ groups:
   古代の両生類:
     imageFigureId: kaiyodo/capsule/seimeishinnka/003
     species:
-      - "アカントステガ"
       - "イクチオステガ"
       - "ディプロカウルス"
       - "アカンソステガ"
@@ -2564,7 +2558,7 @@ taxonomy:
           - その他古生物
         groupLabels:
           その他古生物: その他の古生物
-        imageFigureId: kaiyodo/capsule/kokuritsu_capsule/003
+        imageFigureId: kaiyodo/dinotales/dinotales3/012
       古代の鳥類:
         groups:
           - 古代の鳥類
