@@ -39,7 +39,7 @@ seriesName: "ダイノテイルズ"
 releaseStart: "2002.07"
 price: "158円"
 speciesEntries:
-  - species: "ディノニクス"
+  - species: "デイノニクス"
     speciesGroup: "獣脚類"
   - species: "プレシオサウルス"
     speciesGroup: "古代の海生爬虫類"

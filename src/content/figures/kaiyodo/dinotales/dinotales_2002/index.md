@@ -20,7 +20,7 @@ price: "200円(単品) 1000円(セットボックス)"
 speciesEntries:
   - species: "セイスモサウルス"
     speciesGroup: "竜脚類"
-  - species: "ディノニクス"
+  - species: "デイノニクス"
     speciesGroup: "獣脚類"
   - species: "アクロカントサウルス"
     speciesGroup: "獣脚類"

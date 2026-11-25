@@ -63,7 +63,7 @@ speciesEntries:
     speciesGroup: "その他古生物"
   - species: "アウストラロピテクス"
     speciesGroup: "その他古生物"
-  - species: "アカントステガ"
+  - species: "アカンソステガ"
     speciesGroup: "その他古生物"
   - species: "プテラスピス"
     speciesGroup: "古代の魚類"

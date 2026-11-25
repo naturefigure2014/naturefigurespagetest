@@ -6,7 +6,7 @@ titleId: Qualia/kyoryuzukan
 figureId: "003"
 maker: "Qualia"
 sculptor: "-"
-species: "ディノニクス"
+species: "デイノニクス"
 speciesGroup: "獣脚類"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2021.06"
