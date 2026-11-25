@@ -7,7 +7,7 @@ figureId: "001"
 maker: "Qualia"
 sculptor: "-"
 species: "ジュゴン"
-speciesGroup: "その他哺乳類"
+speciesGroup: "海牛類"
 price: "400円"
 releaseStart: "2019.03"
 genre:
