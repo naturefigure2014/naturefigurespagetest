@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "コペプテリクス"
-speciesGroup: "その他古生物"
+speciesGroup: "古代の鳥類"
 price: "158円"
 releaseStart: "2002.07"
 genre:

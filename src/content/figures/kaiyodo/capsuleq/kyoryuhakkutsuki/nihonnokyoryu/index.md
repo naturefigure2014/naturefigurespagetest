@@ -25,7 +25,7 @@ speciesEntries:
   - species: "プテラノドン"
     speciesGroup: "その他古生物"
   - species: "マチカネワニ"
-    speciesGroup: "その他古生物"
+    speciesGroup: "古生物/古代の爬虫類"
 genre:
   - "-"
 tags:

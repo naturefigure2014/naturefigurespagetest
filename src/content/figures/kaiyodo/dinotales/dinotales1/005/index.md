@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "ディアトリマ"
-speciesGroup: "-"
+speciesGroup: "古代の鳥類"
 price: "158円"
 releaseStart: "2001.04"
 genre:

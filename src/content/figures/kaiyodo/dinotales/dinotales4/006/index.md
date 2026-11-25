@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "ドウビレイセラス"
-speciesGroup: "その他古生物"
+speciesGroup: "古代のアンモナイト類"
 price: "158円"
 releaseStart: "2003.07"
 genre:

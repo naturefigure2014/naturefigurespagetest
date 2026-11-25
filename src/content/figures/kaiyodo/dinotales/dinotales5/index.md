@@ -42,7 +42,7 @@ speciesEntries:
   - species: "カルノタウルス"
     speciesGroup: "獣脚類"
   - species: "エリオプス"
-    speciesGroup: "その他古生物"
+    speciesGroup: "古代の両生類"
   - species: "オヴィラプトル"
     speciesGroup: "獣脚類"
   - species: "パキケファロサウルス"

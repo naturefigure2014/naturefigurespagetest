@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "ハルキゲニア"
-speciesGroup: "その他古生物"
+speciesGroup: "古代の節足動物"
 price: "158円"
 releaseStart: "2002.07"
 genre:

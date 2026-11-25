@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "ニッポニテス"
-speciesGroup: "その他古生物"
+speciesGroup: "古代のアンモナイト類"
 price: "300円 監修：国立科学博物館"
 releaseStart: "2007.04"
 genre:

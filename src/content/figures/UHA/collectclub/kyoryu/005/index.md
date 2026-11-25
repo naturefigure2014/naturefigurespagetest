@@ -6,8 +6,8 @@ titleId: UHA/collectclub/kyoryu
 figureId: "005"
 maker: "UHA味覚糖"
 sculptor: "林 雪真紗"
-species: "プロティベロドン"
-speciesGroup: "その他古生物"
+species: "プラティベロドン"
+speciesGroup: "古代の哺乳類"
 price: "-"
 releaseStart: "2005.12"
 genre:

@@ -7,7 +7,7 @@ figureId: "007"
 maker: "システムサービス株式会社 鳥羽水族館監修"
 sculptor: "-"
 species: "アメリカカブトガニ"
-speciesGroup: "その他古生物"
+speciesGroup: "古代の節足動物"
 price: "200円"
 releaseStart: "-"
 genre:
