@@ -6,7 +6,7 @@ titleId: ikimon/daiza/ougon
 figureId: "007"
 maker: "いきもん"
 sculptor: "KOW"
-species: "ハンドウイルカ"
+species: "バンドウイルカ"
 price: "400円"
 releaseStart: "2015.12"
 genre:

@@ -6,7 +6,7 @@ titleId: ikimon/daiza/kaiyo1_tokuso
 figureId: "004"
 maker: "いきもん"
 sculptor: "KOW"
-species: "ハンドウイルカ"
+species: "バンドウイルカ"
 price: "500円"
 releaseStart: "2024.04"
 genre:

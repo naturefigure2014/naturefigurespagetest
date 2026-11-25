@@ -6,7 +6,7 @@ titleId: tta/genn_kaiseihonyurui
 figureId: "002"
 maker: "タカラトミーアーツ 公式サイト： コチラ"
 sculptor: "EXPO"
-species: "イッカク 全身骨格"
+species: "イッカク"
 price: "300円"
 releaseStart: "2010.08"
 genre:

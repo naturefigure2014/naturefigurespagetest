@@ -6,7 +6,7 @@ titleId: ikimon/NTC400/kujira
 figureId: "004"
 maker: "いきもん"
 sculptor: "KOW 原型制作協力：真鯱 企画総指揮：佐藤純也"
-species: "ハンドウイルカ"
+species: "バンドウイルカ"
 price: "400円"
 releaseStart: "2022.05"
 genre:
