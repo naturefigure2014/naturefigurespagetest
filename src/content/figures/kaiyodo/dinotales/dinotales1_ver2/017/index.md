@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "パキディスクス"
-speciesGroup: "その他古生物"
+speciesGroup: "古代のアンモナイト類"
 price: "158円"
 releaseStart: "2001.12"
 genre:

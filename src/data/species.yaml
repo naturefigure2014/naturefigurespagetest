@@ -1759,6 +1759,7 @@ groups:
       - "ブラキオサウルス"
       - "プラテオサウルス"
       - "ブロントサウルス"
+      - "オピストコエリカウティア"
   鳥脚類:
     imageFigureId: kaiyodo/capsule/kyoryuhaku2016/003
     species:
@@ -1828,42 +1829,28 @@ groups:
       - "モササウルス"
       - "モササウルス類"
       - "リオプレウロドン"
-  その他古生物:
+  古代の鳥類:
+    imageFigureId: kaiyodo/dinotales/dinotales2/012
+    species:
+      - "始祖鳥"
+      - "ディアトリマ"
+      - "ティタニス"
+      - "コペプテリクス"
+  古代のアンモナイト類:
     imageFigureId: kaiyodo/capsule/kokuritsu_capsule/003
     species:
-      - "プロティベロドン"
-      - "オピストコエリカウティア"
-      - "アメリカカブトガニ"
-      - "アンドリューサルクス"
-      - "エリオプス"
-      - "エリオン"
-      - "グリプトドン"
-      - "コペプテリクス"
+      - "ドウビレイセラス"
+      - "ニッポニテス"
+      - "パキディスクス"
+      - "ポリプティコセラス"
+      - "ライオンノセラス"
+  その他古生物:
+    imageFigureId: kaiyodo/dinotales/dinotales3/012
+    species:
       - "シネミス・ガメラ"
       - "スピノサウルス＆マウソニア"
 
-      - "ディアトリマ"
-      - "ティタニス"
-      - "ディメトロドン"
-      - "ドウビレイセラス"
-      - "ドエディクルス"
-      - "トロコサウルス"
-      - "ニッポニテス"
-      - "パキディスクス"
-      - "ハルキゲニア"
-      - "プシコピゲ"
-      - "プテラスピス"
       - "プレウロキスチテス"
-      - "ヘミキクラスピス"
-      - "ポリプティコセラス"
-      - "マチカネワニ"
-      - "ムカシトカゲ"
-      - "メイオラニア"
-      - "メガラニア"
-      - "ライオンノセラス"
-      - "リストロサウルス"
-      - "ルティオドン"
-      - "始祖鳥"
   古代の哺乳類:
     imageFigureId: kaiyodo/capsule/seimeishinnka/005
     species:
@@ -1887,6 +1874,9 @@ groups:
       - "ヘンケロテリウム＆プラティペロドン"
       - "旧人"
       - "ヒトの祖先"
+      - "アンドリューサルクス"
+      - "グリプトドン"
+      - "ドエディクルス"
   古代の魚類:
     imageFigureId: kaiyodo/capsule/seimeishinnka/002
     species:
@@ -1897,6 +1887,8 @@ groups:
       - "ダンクルオステウス"
       - "ボスリオレピス"
       - "ユーステノプテロン"
+      - "プテラスピス"
+      - "ヘミキクラスピス"
   古代の両生類:
     imageFigureId: kaiyodo/capsule/seimeishinnka/003
     species:
@@ -1904,6 +1896,7 @@ groups:
       - "イクチオステガ"
       - "ディプロカウルス"
       - "アカンソステガ"
+      - "エリオプス"
   古代の節足動物:
     imageFigureId: kaiyodo/capsule/seimeishinnka/001
     species:
@@ -1914,6 +1907,10 @@ groups:
       - "メガネウラ"
       - "ユーリプテルス"
       - "三葉虫"
+      - "アメリカカブトガニ"
+      - "ハルキゲニア"
+      - "プシコピゲ"
+      - "エリオン"
   UMA:
     imageFigureId: kaiyodo/animatales/anima_jap10/021
     species:
@@ -2342,7 +2339,15 @@ groups:
     species: []
   古生物/古代の爬虫類:
     imageFigureId: ikimon/daiza/koseibutsu/007
-    species: []
+    species:
+      - "ディメトロドン"
+      - "リストロサウルス"
+      - "トロコサウルス"
+      - "ルティオドン"
+      - "マチカネワニ"
+      - "メイオラニア"
+      - "メガラニア"
+      - "ムカシトカゲ"
 
 
 # Taxonomy category keys define pages; group references point to the groups mapping.
@@ -2559,6 +2564,14 @@ taxonomy:
           - その他古生物
         groupLabels:
           その他古生物: その他の古生物
+        imageFigureId: kaiyodo/capsule/kokuritsu_capsule/003
+      古代の鳥類:
+        groups:
+          - 古代の鳥類
+        imageFigureId: kaiyodo/dinotales/dinotales2/012
+      古代のアンモナイト類:
+        groups:
+          - 古代のアンモナイト類
         imageFigureId: kaiyodo/capsule/kokuritsu_capsule/003
     imageFigureId: kaiyodo/capsule/seimeishinnka/005
   幻獣・伝承:

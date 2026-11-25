@@ -7,7 +7,7 @@ figureId: "002"
 maker: "スタジオソータ"
 sculptor: "-"
 species: "マチカネワニ"
-speciesGroup: "その他古生物"
+speciesGroup: "古生物/古代の爬虫類"
 price: "660円（ボックス）/500円（ガチャ）"
 releaseStart: "2023.09"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "ヘミキクラスピス"
-speciesGroup: "その他古生物"
+speciesGroup: "古代の魚類"
 price: "158円"
 releaseStart: "2002.07"
 genre:

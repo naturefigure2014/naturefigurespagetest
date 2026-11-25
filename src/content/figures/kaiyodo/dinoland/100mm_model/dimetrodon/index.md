@@ -4,7 +4,7 @@ description: ""
 titleId: kaiyodo/dinoland
 figureId: ""
 species: "ディメトロドン"
-speciesGroup: "その他古生物"
+speciesGroup: "古生物/古代の爬虫類"
 contentType: figure
 maker: "海洋堂"
 price: "1800円"

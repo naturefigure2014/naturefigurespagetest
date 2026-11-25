@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "ドエディクルス"
-speciesGroup: "その他古生物"
+speciesGroup: "古代の哺乳類"
 price: "-"
 releaseStart: "2006.01"
 genre:

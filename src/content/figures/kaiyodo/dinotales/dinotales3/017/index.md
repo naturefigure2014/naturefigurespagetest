@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "古田悟郎"
 executiveProducer: "-"
 species: "グリプトドン"
-speciesGroup: "その他古生物"
+speciesGroup: "古代の哺乳類"
 price: "158円"
 releaseStart: "2002.07"
 genre:

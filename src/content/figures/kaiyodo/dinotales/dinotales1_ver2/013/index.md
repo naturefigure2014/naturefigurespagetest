@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "ディメトロドン"
-speciesGroup: "その他古生物"
+speciesGroup: "古生物/古代の爬虫類"
 price: "158円"
 releaseStart: "2001.12"
 genre:
