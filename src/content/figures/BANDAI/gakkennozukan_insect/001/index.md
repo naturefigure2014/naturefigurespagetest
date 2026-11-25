@@ -7,7 +7,7 @@ figureId: "001"
 maker: "バンダイ"
 sculptor: "-"
 species: "アブラゼミ"
-speciesGroup: "その他昆虫"
+speciesGroup: "セミ類"
 price: "300円"
 releaseStart: "2003.08"
 genre:

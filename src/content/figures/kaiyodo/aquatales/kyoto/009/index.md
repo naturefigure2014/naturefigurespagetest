@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫 スケール：1.5倍サイズ"
 executiveProducer: "-"
 species: "ゲンゴロウ"
-speciesGroup: "その他昆虫"
+speciesGroup: "その他の甲虫類"
 price: "300円 造形企画制作：海洋堂 造形総指揮：松村しのぶ"
 releaseStart: "2012.03"
 genre:

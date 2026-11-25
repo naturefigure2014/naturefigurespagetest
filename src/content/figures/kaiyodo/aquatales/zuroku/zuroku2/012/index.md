@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎 スケール：1/1.5"
 executiveProducer: "松村しのぶ"
 species: "タガメ"
-speciesGroup: "その他昆虫"
+speciesGroup: "カメムシ類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2008.08"
 genre:

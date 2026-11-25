@@ -1161,6 +1161,11 @@ groups:
       - "ホシベニカミキリ"
       - "ゴマダラカミキリ"
       - "テテナガカミキリ"
+      - "ゲンゴロウ"
+      - "ハンミョウ"
+      - "ヒラズゲンセイ"
+      - "フェリエベニボシカミキリ"
+      - "ルリボシカミキリ"
   チョウ・ガ類:
     imageFigureId: kaiyodo/animatales/anima_jap1/006
     icon: "◇"
@@ -1212,6 +1217,8 @@ groups:
       - "メダマカレハカマキリ"
       - "ニセハナマオウカマキリ"
       - "アミメノコギリガアミ"
+      - "ヤエヤマツダナナフシ"
+      - "オオカマキリ"
   ハチ・アリ類:
     imageFigureId: kaiyodo/animatales/anima_jap7/191
     icon: "▲"
@@ -1229,6 +1236,7 @@ groups:
       - "キイロスズメバチ"
       - "クロスズメバチ"
       - "キボシアシナガバチ"
+      - "キアシナガバチ"
   トンボ類:
     imageFigureId: kaiyodo/animatales/anima_jap3/088
     icon: "◈"
@@ -1246,39 +1254,40 @@ groups:
       - "マレーシアアオイトトンボ"
       - "アキアカネ"
       - "ギンヤンマ"
-  その他昆虫:
-    imageFigureId: kaiyodo/animatales/anima_jap10/014
-    icon: "◌"
+  カメムシ類:
+    imageFigureId: BANDAI/ikimono_advance/tagame/001
+    icon: "◑"
     species:
       - "ライチカメムシ"
-      - "アブラゼミ"
       - "アカスジキンカメムシ"
+      - "タガメ"
+      - "アカギキンカメムシ"
+      - "オオホシカメムシ"
+  セミ類:
+    imageFigureId: kaiyodo/animatales/anima_jap10/014
+    icon: "◐"
+    species:
+      - "アブラゼミ"
+      - "トネリコゼミ"
+      - "ヒメハルゼミ"
+      - "クマゼミ"
+      - "ニイニイゼミ"
+      - "ミンミンゼミ"
+  ハエ類:
+    imageFigureId: kaiyodo/capsuleq/hittuki/005
+    icon: "◎"
+    species:
       - "イエバエ"
-      - "ウスバカゲロウ"
       - "キンバエ"
+  その他昆虫:
+    imageFigureId: kaiyodo/capsuleq/gaichu/002
+    icon: "◌"
+    species:
+      - "ウスバカゲロウ"
       - "クロゴキブリ"
       - "ケジラミ"
-      - "ゲンゴロウ"
-      - "タガメ"
-      - "トネリコゼミ"
-      - "トノサマバッタ"
-      - "ハンミョウ"
       - "ヒトノミ"
-      - "ヒメハルゼミ"
-      - "ヒラズゲンセイ"
-      - "フェリエベニボシカミキリ"
-      - "ヤエヤマツダナナフシ"
-      - "ルリボシカミキリ"
       - "ハサミムシ"
-      - "アカギキンカメムシ"
-      - "オオカマキリ"
-      - "オオホシカメムシ"
-      - "キアシナガバチ"
-      - "クマゼミ"
-      - "ショウリョウバッタ"
-      - "ニイニイゼミ"
-      - "ハタケノウマオイ"
-      - "ミンミンゼミ"
   エビ類:
     imageFigureId: ikimon/daiza/tobasui3/005
     icon: "〰"
@@ -2289,9 +2298,12 @@ groups:
     icon: "◌"
     species: []
   バッタ・コオロギ類:
-    imageFigureId: ikimon/nature_of_japan/noj2/003
+    imageFigureId: BANDAI/ikimono_advance/tonosamabatta/001
     icon: "♠"
-    species: []
+    species:
+      - "トノサマバッタ"
+      - "ショウリョウバッタ"
+      - "ハタケノウマオイ"
   その他の大型甲殻類:
     imageFigureId: ikimon/daiza/tobasui3/005
     icon: "✦"
@@ -2399,6 +2411,9 @@ taxonomy:
           - カマキリ・ナナフシ類
           - トンボ類
           - その他
+          - カメムシ類
+          - セミ類
+          - ハエ類
           - その他昆虫
         groupLabels:
           その他昆虫: その他
