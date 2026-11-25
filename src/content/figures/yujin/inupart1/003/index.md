@@ -6,7 +6,7 @@ titleId: yujin/inupart1
 figureId: "003"
 maker: "ユージン"
 sculptor: "-"
-species: "ゴールデン・レトリーバー"
+species: "ゴールデンレトリバー"
 price: "200円"
 releaseStart: "-"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "トノサマバッタ"
-speciesGroup: "その他昆虫"
+speciesGroup: "バッタ・コオロギ類"
 price: "-"
 releaseStart: "2002.12"
 genre:

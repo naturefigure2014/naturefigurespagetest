@@ -7,7 +7,7 @@ figureId: "014"
 maker: "フルタ"
 sculptor: "-"
 species: "スズメ"
-speciesGroup: "その他鳥類"
+speciesGroup: "小鳥・身近な鳥"
 price: "162円"
 releaseStart: "2003.10"
 genre:

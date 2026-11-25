@@ -6,7 +6,7 @@ titleId: tta/nakamimarumie
 figureId: "007"
 maker: "ユージン・タカラトミー"
 sculptor: "-"
-species: "ふぐ"
+species: "フグ"
 price: "200円"
 releaseStart: "2006.06"
 genre:

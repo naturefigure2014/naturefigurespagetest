@@ -7,7 +7,7 @@ figureId: "012"
 maker: "カバヤ"
 sculptor: "-"
 species: "ハチドリ"
-speciesGroup: "その他鳥類"
+speciesGroup: "ハチドリ類"
 price: "180円"
 releaseStart: "2003.05"
 genre:

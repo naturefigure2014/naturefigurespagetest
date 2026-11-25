@@ -7,7 +7,7 @@ figureId: "003"
 maker: "フルタ"
 sculptor: "-"
 species: "カワセミ"
-speciesGroup: "その他鳥類"
+speciesGroup: "ブッポウソウ・カワセミ類"
 price: "-"
 releaseStart: "2009.08"
 genre:

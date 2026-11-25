@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "吉良かずや"
 executiveProducer: "-"
 species: "キーウィ"
-speciesGroup: "その他鳥類"
+speciesGroup: "走鳥類"
 price: "500円 造形総指揮：松村しのぶ"
 releaseStart: "2018.09"
 genre:

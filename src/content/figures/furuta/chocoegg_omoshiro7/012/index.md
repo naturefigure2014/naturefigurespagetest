@@ -7,7 +7,7 @@ figureId: "012"
 maker: "フルタ製菓 公式サイト： コチラ"
 sculptor: "-"
 species: "キーウィ"
-speciesGroup: "その他鳥類"
+speciesGroup: "走鳥類"
 price: "-"
 releaseStart: "2003.02"
 genre:

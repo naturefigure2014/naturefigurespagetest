@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "エトピリカ"
-speciesGroup: "その他鳥類"
+speciesGroup: "海鳥"
 price: "500円"
 releaseStart: "2019.11"
 genre:

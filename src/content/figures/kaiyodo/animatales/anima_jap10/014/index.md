@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アブラゼミ"
-speciesGroup: "その他昆虫"
+speciesGroup: "セミ類"
 price: "-"
 releaseStart: "2005.03"
 genre:

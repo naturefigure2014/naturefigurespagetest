@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ヤンバルクイナ"
-speciesGroup: "キジ・ニワトリ類"
+speciesGroup: "水鳥"
 price: "-"
 releaseStart: "2000.02"
 genre:

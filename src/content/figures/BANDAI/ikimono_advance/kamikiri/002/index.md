@@ -7,7 +7,7 @@ figureId: "002"
 maker: "バンダイ"
 sculptor: "-"
 species: "ルリボシカミキリ"
-speciesGroup: "その他昆虫"
+speciesGroup: "その他の甲虫類"
 price: "1,000円"
 releaseStart: "2024.01"
 genre:

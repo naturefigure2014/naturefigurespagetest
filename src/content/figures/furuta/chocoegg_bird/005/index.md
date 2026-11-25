@@ -7,7 +7,7 @@ figureId: "005"
 maker: "フルタ"
 sculptor: "-"
 species: "アカショウビン"
-speciesGroup: "その他鳥類"
+speciesGroup: "ブッポウソウ・カワセミ類"
 price: "162円"
 releaseStart: "2003.10"
 genre:

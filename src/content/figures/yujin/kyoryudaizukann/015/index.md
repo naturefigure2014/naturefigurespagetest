@@ -6,7 +6,7 @@ titleId: yujin/kyoryudaizukann
 figureId: "015"
 maker: "ユージン"
 sculptor: "-"
-species: "ヴェロキラプトルA"
+species: "ヴェロキラプトル"
 price: "200円 公式サイト： コチラ"
 releaseStart: "2006.03"
 genre:

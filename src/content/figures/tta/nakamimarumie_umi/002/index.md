@@ -6,7 +6,7 @@ titleId: tta/nakamimarumie_umi
 figureId: "002"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "ふぐ"
+species: "フグ"
 price: "300円 公式サイト： コチラ"
 releaseStart: "2021.03"
 genre:

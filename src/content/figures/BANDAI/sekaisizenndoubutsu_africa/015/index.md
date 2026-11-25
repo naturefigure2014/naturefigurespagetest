@@ -7,7 +7,7 @@ figureId: "015"
 maker: "バンダイ"
 sculptor: "-"
 species: "ダチョウ"
-speciesGroup: "その他鳥類"
+speciesGroup: "走鳥類"
 price: "-"
 releaseStart: "-"
 genre:

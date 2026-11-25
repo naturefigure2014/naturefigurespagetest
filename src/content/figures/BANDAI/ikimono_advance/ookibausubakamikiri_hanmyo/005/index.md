@@ -7,7 +7,7 @@ figureId: "005"
 maker: "バンダイ"
 sculptor: "-"
 species: "ハンミョウ"
-speciesGroup: "その他昆虫"
+speciesGroup: "その他の甲虫類"
 price: "1,500円/1,800円（カプセル/オンライン）"
 releaseStart: "2025.05"
 genre:

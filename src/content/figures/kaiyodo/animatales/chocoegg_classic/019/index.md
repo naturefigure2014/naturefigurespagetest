@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "クマゲラ"
-speciesGroup: "食肉類"
+speciesGroup: "キツツキ類"
 price: "-"
 releaseStart: "2002.02"
 genre:

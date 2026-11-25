@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ハシブトガラス"
-speciesGroup: "その他鳥類"
+speciesGroup: "カラス・ハト類"
 price: "-"
 releaseStart: "2005.03"
 genre:

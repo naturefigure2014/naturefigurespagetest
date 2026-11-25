@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ スケール：1/50"
 executiveProducer: "松村しのぶ"
 species: "アメリカマナティー"
-speciesGroup: "その他哺乳類"
+speciesGroup: "海牛類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2012.03"
 genre:

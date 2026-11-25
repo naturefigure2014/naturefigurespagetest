@@ -7,7 +7,7 @@ figureId: "003"
 maker: "バンダイ"
 sculptor: "-"
 species: "タガメ"
-speciesGroup: "その他昆虫"
+speciesGroup: "カメムシ類"
 price: "1,500円（カプセル版）/1,800円（ガシャポンオンライン版）"
 releaseStart: "2024.10"
 genre:

@@ -7,7 +7,7 @@ figureId: "013"
 maker: "フルタ製菓 公式サイト： コチラ"
 sculptor: "-"
 species: "フクロウオウム"
-speciesGroup: "その他鳥類"
+speciesGroup: "オウム・インコ類"
 price: "-"
 releaseStart: "2003.02"
 genre:

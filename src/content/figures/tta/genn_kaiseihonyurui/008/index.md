@@ -6,7 +6,7 @@ titleId: tta/genn_kaiseihonyurui
 figureId: "008"
 maker: "タカラトミーアーツ 公式サイト： コチラ"
 sculptor: "EXPO"
-species: "スナメリ バブルリング"
+species: "スナメリ"
 price: "300円"
 releaseStart: "2010.08"
 genre:

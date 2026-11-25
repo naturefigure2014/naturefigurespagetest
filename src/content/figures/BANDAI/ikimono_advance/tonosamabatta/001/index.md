@@ -7,7 +7,7 @@ figureId: "001"
 maker: "バンダイ"
 sculptor: "-"
 species: "トノサマバッタ"
-speciesGroup: "その他昆虫"
+speciesGroup: "バッタ・コオロギ類"
 price: "1,000円"
 releaseStart: "2023.05"
 genre:

@@ -6,7 +6,7 @@ titleId: tta/JWFKstdfig
 figureId: "001"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "T.Rex"
+species: "ティラノサウルス"
 price: "300円"
 releaseStart: "2018.08"
 genre:

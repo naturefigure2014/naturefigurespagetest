@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "カワネズミ"
-speciesGroup: "その他哺乳類"
+speciesGroup: "食虫類"
 price: "-"
 releaseStart: "2005.06"
 genre:
