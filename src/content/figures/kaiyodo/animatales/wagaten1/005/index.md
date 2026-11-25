@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アカショウビン"
-speciesGroup: "その他鳥類"
+speciesGroup: "ブッポウソウ・カワセミ類"
 price: "1000円"
 releaseStart: "2002.07"
 genre:

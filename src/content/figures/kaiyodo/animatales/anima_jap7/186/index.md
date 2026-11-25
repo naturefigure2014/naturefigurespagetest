@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ヤマドリ"
-speciesGroup: "その他鳥類"
+speciesGroup: "キジ・ニワトリ類"
 price: "-"
 releaseStart: "2003.03"
 genre:

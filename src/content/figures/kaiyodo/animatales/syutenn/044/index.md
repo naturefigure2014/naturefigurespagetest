@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "メグロ"
-speciesGroup: "その他鳥類"
+speciesGroup: "小鳥・身近な鳥"
 price: "850円（1号のみ500円）"
 releaseStart: "2002.06"
 genre:

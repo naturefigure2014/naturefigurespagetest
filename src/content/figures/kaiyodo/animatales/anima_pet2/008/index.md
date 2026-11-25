@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "コキンチョウ"
-speciesGroup: "チョウ・ガ類"
+speciesGroup: "小鳥・身近な鳥"
 price: "-"
 releaseStart: "2001.09"
 genre:

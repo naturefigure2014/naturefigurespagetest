@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "ヤマセミ"
-speciesGroup: "その他鳥類"
+speciesGroup: "ブッポウソウ・カワセミ類"
 price: "-"
 releaseStart: "2005.06"
 genre:

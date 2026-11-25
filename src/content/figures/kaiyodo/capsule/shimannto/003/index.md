@@ -8,7 +8,7 @@ maker: "ホビー館四万十（奇想天外）価格：300円"
 sculptor: "-"
 executiveProducer: "-"
 species: "ヤイロチョウ"
-speciesGroup: "その他鳥類"
+speciesGroup: "小鳥・身近な鳥"
 price: "300円"
 releaseStart: "-"
 genre:

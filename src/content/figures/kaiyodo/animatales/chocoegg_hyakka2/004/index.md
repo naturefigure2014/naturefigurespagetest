@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アオバト"
-speciesGroup: "その他鳥類"
+speciesGroup: "カラス・ハト類"
 price: "3,200円(BOX版) 1,300円(通常版) 出版社：小学館"
 releaseStart: "2001.04"
 genre:
