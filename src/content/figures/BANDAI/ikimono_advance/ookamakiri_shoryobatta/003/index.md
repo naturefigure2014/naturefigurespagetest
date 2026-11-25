@@ -7,7 +7,7 @@ figureId: "003"
 maker: "バンダイ"
 sculptor: "-"
 species: "ショウリョウバッタ"
-speciesGroup: "その他昆虫"
+speciesGroup: "バッタ・コオロギ類"
 price: "1,500円/1,800円（カプセル/オンライン）"
 releaseStart: "2025.04"
 genre:

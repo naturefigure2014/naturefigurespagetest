@@ -7,7 +7,7 @@ figureId: "005"
 maker: "京都キディ"
 sculptor: "-"
 species: "ライチカメムシ"
-speciesGroup: "その他昆虫"
+speciesGroup: "カメムシ類"
 price: "300円"
 releaseStart: "-"
 genre:

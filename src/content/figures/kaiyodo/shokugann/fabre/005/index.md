@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "トネリコゼミ"
-speciesGroup: "その他昆虫"
+speciesGroup: "セミ類"
 price: "-"
 releaseStart: "2005.08"
 genre:

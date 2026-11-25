@@ -8,7 +8,7 @@ sculptor: "吉良かずや 可動加工：大津敦哉 塗装設計：古田悟�
 executiveProducer: "松村しのぶ"
 seriesName: "REVOGEO 全地球立体生物目録[リボジオ]"
 species: "タガメ"
-speciesGroup: "その他昆虫"
+speciesGroup: "カメムシ類"
 price: "8,800円"
 releaseStart: "2021.04"
 freetag:

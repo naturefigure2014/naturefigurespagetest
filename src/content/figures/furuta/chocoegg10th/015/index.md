@@ -7,7 +7,7 @@ figureId: "015"
 maker: "フルタ"
 sculptor: "-"
 species: "トノサマバッタ"
-speciesGroup: "その他昆虫"
+speciesGroup: "バッタ・コオロギ類"
 price: "-"
 releaseStart: "2009.08"
 genre:

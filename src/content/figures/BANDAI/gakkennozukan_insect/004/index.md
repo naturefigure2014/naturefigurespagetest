@@ -10,7 +10,7 @@ speciesEntries:
   - species: "カエル"
     speciesGroup: "カエル類"
   - species: "タガメ"
-    speciesGroup: "その他昆虫"
+    speciesGroup: "カメムシ類"
 price: "300円"
 releaseStart: "2003.08"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アカスジキンカメムシ"
-speciesGroup: "カメ類"
+speciesGroup: "カメムシ類"
 price: "-"
 releaseStart: "2000.02"
 genre:
