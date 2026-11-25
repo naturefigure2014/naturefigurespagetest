@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "005"
 maker: "ユージン"
 sculptor: "KOW"
-species: "05 ロイヤルグラマ"
+species: "ロイヤルグラマ"
 price: "100円"
 releaseStart: "2005.03"
 genre:

@@ -6,7 +6,7 @@ titleId: tta/nakamimarumie
 figureId: "003"
 maker: "ユージン・タカラトミー"
 sculptor: "-"
-species: "ぶた"
+species: "ブタ"
 price: "200円"
 releaseStart: "2006.06"
 genre:

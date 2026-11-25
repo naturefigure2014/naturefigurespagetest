@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "011"
 maker: "ユージン"
 sculptor: "KOW"
-species: "11 マサバ"
+species: "マサバ"
 price: "100円"
 releaseStart: "2005.03"
 genre:

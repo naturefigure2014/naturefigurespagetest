@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "012"
 maker: "ユージン"
 sculptor: "KOW"
-species: "12 ブリ"
+species: "ブリ"
 price: "100円"
 releaseStart: "2005.03"
 genre:

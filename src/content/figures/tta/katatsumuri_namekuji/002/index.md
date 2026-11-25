@@ -6,7 +6,7 @@ titleId: tta/katatsumuri_namekuji
 figureId: "002"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "なめくじ"
+species: "ナメクジ"
 price: "200円"
 releaseStart: "2016.06"
 genre:

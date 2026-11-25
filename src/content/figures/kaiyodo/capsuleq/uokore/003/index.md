@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/uokore
 figureId: "003"
-species: "ししゃも"
+species: "シシャモ"
 speciesGroup: "サケ・マス類"
 maker: "海洋堂"
 sculptor: "松本栄一郎"

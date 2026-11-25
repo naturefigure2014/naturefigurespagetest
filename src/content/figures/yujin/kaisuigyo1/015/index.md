@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo1
 figureId: "015"
 maker: "ユージン"
 sculptor: "-"
-species: "△メガネモチノウオ"
+species: "メガネモチノウオ"
 price: "100円"
 releaseStart: "2004.09"
 genre:

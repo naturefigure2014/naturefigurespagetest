@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "009"
 maker: "ユージン"
 sculptor: "KOW"
-species: "09 マイワシ"
+species: "マイワシ"
 price: "100円"
 releaseStart: "2005.03"
 genre:

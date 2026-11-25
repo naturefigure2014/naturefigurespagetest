@@ -6,7 +6,7 @@ titleId: yujin/ebi_kani
 figureId: "007"
 maker: "ユージン"
 sculptor: "-"
-species: "△ホンヤドカリ"
+species: "ホンヤドカリ"
 price: "２００円"
 releaseStart: "2005.09"
 genre:

@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "010"
 maker: "ユージン"
 sculptor: "KOW"
-species: "10 サンマ"
+species: "サンマ"
 price: "100円"
 releaseStart: "2005.03"
 genre:

@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo1
 figureId: "016"
 maker: "ユージン"
 sculptor: "-"
-species: "△ニセゴイシウツボ＆ホンソメワケベラ"
+species: "ニセゴイシウツボ＆ホンソメワケベラ"
 price: "100円"
 releaseStart: "2004.09"
 genre:
