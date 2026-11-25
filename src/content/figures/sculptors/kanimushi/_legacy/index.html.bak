@@ -1,0 +1,542 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>[蟹蟲修造]オリジナルフィギュア</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>「生物部」蟹蟲修造</h4>
+			<p>
+			とにかく細かいウロコを造りこむ蟹蟲修造さん。いきもにあ2017で発売のセンザンコウが発表されたときには動物フィギュア界隈は大盛り上がりでした。</p>
+		</div>
+		<div id="collection_page_main">
+		<!--<table style="width:100%">
+		<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td><a href="matamata/index.html">
+		<img height="109" src="matamata/img/matamata001_small.jpg" width="146" /></a></td>
+		<td><a href="#mimi"><img src="img/mimisenzanko001_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#iwatokage"><img src="img/iwatokage_003_small.jpg" width="146" /></a></td>
+		<td><a href="#onitama"><img src="img/onitama001_small.jpg" width="146" /></a></td>
+		<td><a href="#futoago"><img src="img/futoago002_small.jpg" width="146" /></a></td>
+		<td><a href="#kuresu"><img src="img/kuresu003_small.jpg" width="146" /></a></td>
+		<td><a href="#moroku"><img src="img/moroku001_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#abronia"><img src="img/Abronia004_small.jpg" width="146" /></a></td>
+		<td><a href="#ooyoroi"><img src="../../production/ooyoroitokage/img/ooyoroi004_small.jpg" width="146" /></a></td>
+		<td><a href="#matsukasa"><img src="img/matsukasa001_small.jpg" width="146" /></a></td>
+		<td><a href="#senzanko"><img src="../../production/senzankou/img/senzankou002_small.jpg" width="146" /></a></td>
+		<td><a href="#arumaziro"><img src="img/arumajiro002_small.jpg" width="146" /></a></td>
+		</tr>
+		</table>-->
+<table style="width: 100%">
+<!-- 
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th></tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+-->
+<tr>
+<th>ピラルクー</th>
+<th>シーラカンス</th></tr>
+<tr>
+<td><a href="pirarucu/">
+<img height="283" src="pirarucu/img/pirarucu002_small.jpg" width="378" /></a></td>
+<td><a href="coelacanth/">
+<img height="283" src="coelacanth/img/coelacanth001_small.jpg" width="378" /></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+<tr>
+<th>ヨウスコウワニ</th>
+<th>ヨウスコウワニ</th></tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<!-- -->
+<tr>
+<th>ヒクイドリ</th>
+<th>マタマタ</th></tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="matamata/index.html">
+<img height="283" src="matamata/img/matamata001_small.jpg" width="378" /></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<!-- -->
+<tr>
+<th>ミミセンザンコウ</th>
+<th>ヒガシピルバラヒメイワトカゲ&nbsp;</th></tr>
+<tr>
+<td><a href="#mimi">
+<img height="283" src="img/mimisenzanko001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/mimisenzanko001.jpg" --></a></td>
+<td><a href="#iwatokage">
+<img height="283" src="img/iwatokage_003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/iwatokage_003.jpg" --></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<!-- -->
+<tr>
+<th>オニタマオヤモリ</th>
+<th>フトアゴヒゲトカゲ</th></tr>
+<tr>
+<td><a href="#onitama">
+<img height="283" src="img/onitama001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/onitama001.jpg" --></a></td>
+<td><a href="#futoago">
+<img height="283" src="img/futoago002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/futoago002.jpg" --></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<!-- -->
+<tr>
+<th>クレステッドゲッコー</th>
+<th>モロクトカゲ</th></tr>
+<tr>
+<td><a href="#kuresu">
+<img height="283" src="img/kuresu003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/kuresu003.jpg" --></a></td>
+<td><a href="#moroku">
+<img height="283" src="img/moroku001_small.jpg" width="378" /></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<!-- -->
+<tr>
+<th>アブロニア（アオキノボリアリゲータートカゲ）&nbsp;</th>
+<th>オオヨロイトカゲ</th></tr>
+<tr>
+<td><a href="#abronia">
+<img height="283" src="img/Abronia004_small.jpg" width="378" /></a></td>
+<td><a href="#ooyoroi">
+					<img height="283" src="../../production/ooyoroitokage/img/ooyoroi004_small.jpg" width="378" /></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<!-- -->
+<tr>
+<th>マツカサトカゲ</th>
+<th>オオセンザンコウ</th></tr>
+<tr>
+<td><a href="#matsukasa">
+<img height="283" src="img/matsukasa001_small.jpg" width="378" /></a></td>
+<td><a href="#senzanko">
+					<img height="283" src="../../production/senzankou/img/senzankou002_small.jpg" width="378" /></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<!-- -->
+<tr>
+<th>アルマジロ</th>
+<th>&nbsp;</th></tr>
+<tr>
+<td><a href="#arumaziro">
+<img height="283" src="img/arumajiro002_small.jpg" width="378" /></a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+</table>
+			<table style="width: 100%">
+<!--<tr>
+<th>マツカサトカゲ</th></tr>
+<tr>
+<td>&nbsp;</td></tr>
+-->
+<tr>
+<th id="mimi">ミミセンザンコウ</th></tr>
+<tr>
+<td><a href="img/mimisenzanko001.jpg">
+<img height="283" src="img/mimisenzanko001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/mimisenzanko001.jpg" --></a><a href="img/mimisenzanko002.jpg"><img height="283" src="img/mimisenzanko002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/mimisenzanko002.jpg" --></a></td></tr>
+
+<tr>
+<td><a href="img/mimisenzanko003.jpg">
+<img height="283" src="img/mimisenzanko003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/mimisenzanko003.jpg" --></a><a href="img/mimisenzanko004.jpg"><img height="283" src="img/mimisenzanko004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/mimisenzanko004.jpg" --></a></td></tr>
+
+<tr>
+<td><a href="img/mimisenzanko005.jpg">
+<img height="283" src="img/mimisenzanko005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/mimisenzanko005.jpg" --></a><a href="img/mimisenzanko006.jpg"><img height="283" src="img/mimisenzanko006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/mimisenzanko006.jpg" --></a></td></tr>
+
+<tr>
+<td class="comment">塗装完了：2022/04<br />
+<br />
+僕が最初に購入した蟹蟲さんのフィギュアはオオセンザンコウでした。<br />
+ひさびさのセンザンコウは期待通り良い出来。</td></tr>
+
+<tr>
+<td><a href="img/mimisenzanko007.jpg">
+<img height="283" src="img/mimisenzanko007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/mimisenzanko007.jpg" --></a></td></tr>
+
+<tr>
+<td class="comment">サイズ感、造形力ともにアップしています。</td></tr>
+
+<tr>
+<th id="iwatokage">ヒガシピルバラヒメイワトカゲ</th></tr>
+<tr>
+<td><a href="img/iwatokage_003.jpg">
+<img height="283" src="img/iwatokage_003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/iwatokage_003.jpg" --></a><a href="img/iwatokage_004.jpg"><img height="283" src="img/iwatokage_004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/iwatokage_004.jpg" --></a></td></tr>
+
+<tr>
+<td><a href="img/iwatokage_005.jpg">
+<img height="283" src="img/iwatokage_005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/iwatokage_005.jpg" --></a></td></tr>
+
+<tr>
+<td><a href="img/iwatokage_002.jpg">
+<img height="283" src="img/iwatokage_002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/iwatokage_002.jpg" --></a><a href="img/iwatokage_001.jpg"><img height="283" src="img/iwatokage_001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/iwatokage_001.jpg" --></a></td></tr>
+
+<tr>
+<td class="comment">塗装完了：2021/11<br />
+<br />
+ぶりくら・とんぶり2021のコラボフィギュア。<br />
+キット版を通販で入手しました。<br />
+<br />
+オーストラリアに生息するイワトカゲ属の一種。<br />
+トゲトゲがかっこいい。</td></tr>
+
+<tr>
+<th id="onitama">オニタマオヤモリ</th></tr>
+<tr>
+<td><a href="img/onitama001.jpg">
+<img height="283" src="img/onitama001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/onitama001.jpg" --></a><a href="img/onitama002.jpg"><img height="283" src="img/onitama002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/onitama002.jpg" --></a></td></tr>
+
+<tr>
+<td><a href="img/onitama003.jpg">
+<img height="283" src="img/onitama003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/onitama003.jpg" --></a><a href="img/onitama004.jpg"><img height="283" src="img/onitama004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/onitama004.jpg" --></a></td></tr>
+
+<tr>
+<td class="comment">塗装完了：2020/12<br />
+こちらもナゴレプ2020で購入したもの。<br />
+3D造形ソフトを使用して製作されました。<br />
+頭部は開口/閉口の2パターンが用意されています。</td></tr>
+
+<tr>
+<td><a href="img/onitama009.jpg">
+<img height="283" src="img/onitama009_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/onitama009.jpg" --></a><a href="img/onitama006.jpg"><img height="283" src="img/onitama006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/onitama006.jpg" --></a></td></tr>
+
+<tr>
+<td><a href="img/onitama007.jpg">
+<img height="283" src="img/onitama007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/onitama007.jpg" --></a><a href="img/onitama008.jpg"><img height="283" src="img/onitama008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/onitama008.jpg" --></a></td></tr>
+
+<tr>
+<td class="comment">マグネットを仕込んでコンパチにしました。</td></tr>
+
+<tr>
+<th id="futoago">フトアゴヒゲトカゲ</th></tr>
+<tr>
+<td><a href="img/futoago002.jpg">
+<img height="283" src="img/futoago002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/futoago002.jpg" --></a><a href="img/futoago004.jpg"><img height="283" src="img/futoago004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/futoago004.jpg" --></a></td></tr>
+
+<tr>
+<td><a href="img/futoago005.jpg">
+<img height="283" src="img/futoago005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/futoago005.jpg" --></a><a href="img/futoago003.jpg"><img height="283" src="img/futoago003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/futoago003.jpg" --></a></td></tr>
+
+<tr>
+<td><a href="img/futoago001.jpg">
+<img height="283" src="img/futoago001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/futoago001.jpg" --></a></td></tr>
+
+<tr>
+<td class="comment">塗装完了：2020/11<br />
+ナゴレプ2020で入手した新作のフトアゴ。</td></tr>
+
+<tr>
+<th id="kuresu">クレステッドゲッコー</th></tr>
+<tr>
+<td><a href="img/kuresu003.jpg">
+<img height="283" src="img/kuresu003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/kuresu003.jpg" --></a><a href="img/kuresu004.jpg"><img height="283" src="img/kuresu004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/kuresu004.jpg" --></a></td></tr>
+
+<tr>
+<td><a href="img/kuresu001.jpg">
+<img height="283" src="img/kuresu001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/kuresu001.jpg" --></a><a href="img/kuresu002.jpg"><img height="283" src="img/kuresu002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/kuresu002.jpg" --></a></td></tr>
+
+<tr>
+<td><a href="img/kuresu005.jpg">
+<img height="283" src="img/kuresu005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/kanimushi/img/kuresu005.jpg" --></a></td></tr>
+
+<tr>
+<td class="comment">塗装完了：2020/11<br />
+ナゴレプ2020で入手した新作のクレス。<br />
+「ハーレクイーン」と呼ばれるハデな柄にしてみました。</td></tr>
+
+<tr>
+<th id="moroku">モロクトカゲ</th></tr>
+<tr>
+<td><a href="img/moroku001.jpg">
+<img height="283" src="img/moroku001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/moroku001.jpg" --></a><a href="img/moroku005.jpg"><img height="283" src="img/moroku005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/moroku005.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/moroku003.jpg">
+<img height="283" src="img/moroku003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/moroku003.jpg" --></a><a href="img/moroku004.jpg"><img height="283" src="img/moroku004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/moroku004.jpg" --></a></td>
+</tr>
+
+<tr>
+<td><a href="img/moroku002.jpg">
+<img height="283" src="img/moroku002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/moroku002.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment">塗装完了：2019/12<br />
+いきもにあ2019で入手したキット版を塗装。<br />
+ご覧のとおりのものすごいトゲトゲ。造型師の気合を感じます。<br />
+ややずんぐりとした個体ですが、フィギュアとしてはこのくらいがちょうど良いのではないでしょうか。<br />
+トゲの向きは型抜きしやすいように調整しているのだとか。<br />
+<br />
+今回はファレホをメインに使用しています。<br />
+スミイレを流す楽しさはキット版を痛みに耐えながら組み立てた者のみが味わえる愉悦。</td>
+</tr>
+
+<tr>
+<th id="abronia">アブロニア（アオキノボリアリゲータートカゲ）</th></tr>
+<tr>
+<td><a href="img/Abronia004.jpg">
+<img height="283" src="img/Abronia004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/Abronia004.jpg" --></a><a href="img/Abronia005.jpg"><img height="283" src="img/Abronia005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/Abronia005.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/Abronia006.jpg">
+<img height="283" src="img/Abronia006_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/Abronia006.jpg" --></a></td>
+</tr>
+
+
+<tr>
+<td><a href="img/Abronia002.jpg">
+<img height="283" src="img/Abronia002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/Abronia002.jpg" --></a><a href="img/Abronia003.jpg"><img height="283" src="img/Abronia003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/Abronia003.jpg" --></a></td>
+</tr>
+
+
+<tr>
+<td><a href="img/Abronia001.jpg">
+<img height="283" src="img/Abronia001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/Abronia001.jpg" --></a></td>
+</tr>
+
+
+<tr>
+<td class="comment">塗装完了：2019/08<br />
+ワンフェス2019夏で購入。これまでにないヴィネット調でかっこいい。<br />
+タミヤの水性アクリル塗料で塗りました。<br />
+先に本体を塗ってしまい、ベース部分（木）の塗装で死にそうになったので、先にベースを塗ったほうがいいですね。</td>
+</tr>
+
+
+			<tr>
+<th id="ooyoroi">オオヨロイトカゲ</th></tr>
+<tr>
+<td><a href="../../production/ooyoroitokage/img/ooyoroi004.jpg">
+					<img height="283" src="../../production/ooyoroitokage/img/ooyoroi004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/production/ooyoroitokage/img/ooyoroi004.jpg" --></a><a href="../../production/ooyoroitokage/img/ooyoroi001.jpg"><img height="283" src="../../production/ooyoroitokage/img/ooyoroi001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/production/ooyoroitokage/img/ooyoroi001.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/yoroi001.jpg">
+<img height="283" src="img/yoroi001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/yoroi001.jpg" --></a><a href="img/yoroi002.jpg"><img height="283" src="img/yoroi002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/yoroi002.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/yoroi003.jpg">
+<img height="283" src="img/yoroi003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/yoroi003.jpg" --></a><a href="img/yoroi004.jpg"><img height="283" src="img/yoroi004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/yoroi004.jpg" --></a></td>
+</tr>
+<!--
+-->
+
+<tr>
+<td class="comment">
+「太陽を見つめる者」のテーマどおりのポーズ。ヨロイトカゲ科のフィギュアはアルマジロトカゲの防御ポーズが立体化されがちですが、このようなポーズのフィギュアも探していたので非常にうれしい。分割も目立たないようになっています。<br />
+塗装版は自分で塗装したものです→<a href="../../production/ooyoroitokage/index.html">コチラ</a></td>
+</tr>
+
+<tr>
+<th id="matsukasa">マツカサトカゲ</th></tr>
+<tr>
+<td><a href="img/matsukasa001.jpg">
+<img height="283" src="img/matsukasa001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/matsukasa001.jpg" --></a><a href="img/matsukasa002.jpg"><img height="283" src="img/matsukasa002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/matsukasa002.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/matsukasa003.jpg">
+<img height="283" src="img/matsukasa003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/matsukasa003.jpg" --></a><a href="img/matsukasa004.jpg"><img height="283" src="img/matsukasa004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/matsukasa004.jpg" --></a></td>
+</tr>
+<!--
+-->
+
+<tr>
+<td><a href="img/matsukasa005.jpg">
+<img height="283" src="img/matsukasa005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/matsukasa005.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment">頭のようにも見える尻尾やずんぐりした胴体、そして文字通りマツカサのようなウロコ、一切妥協なしの一級品。おまけにアオジタトカゲ属であることも分かるポーズ。</td>
+</tr>
+
+<tr>
+<th id="senzanko">オオセンザンコウ</th></tr>
+<tr>
+<td><a href="../../production/senzankou/img/senzankou002.jpg">
+					<img height="283" src="../../production/senzankou/img/senzankou002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/production/senzankou/img/senzankou002.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">こちらは自分で塗装したもの→<a href="../../production/senzankou/index.html">コチラ</a></td>
+</tr>
+<tr>
+<td><a href="img/sennzannkou001.jpg">
+<img height="283" src="img/sennzannkou001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/sennzannkou001.jpg" --></a><a href="img/sennzannkou004.jpg"><img height="283" src="img/sennzannkou004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/sennzannkou004.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/sennzannkou002.jpg">
+<img height="283" src="img/sennzannkou002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/sennzannkou002.jpg" --></a><a href="img/sennzannkou003.jpg"><img height="283" src="img/sennzannkou003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/sennzannkou003.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/sennzannkou005.jpg">
+<img height="283" src="img/sennzannkou005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/sennzannkou005.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">ウロコ一枚一枚丁寧に作りこまれています。簡単なスミイレながらこのクオリティ。<br />
+	<br />
+	ちなみにセンザンコウはシンガポールのナイトサファリにいましたが、暗くてよく見えませんでした。</td>
+</tr>
+<tr>
+<td><a href="img/sennzannkou006.jpg">
+<img height="283" src="img/sennzannkou006_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/sennzannkou006.jpg" --></a></td>
+</tr>
+<!--
+-->
+<tr>
+<td class="comment">未塗装版。</td>
+</tr>
+<tr>
+<th id="arumaziro">アルマジロ</th></tr>
+<tr>
+<td><a href="img/Armadillo001.jpg">
+<img height="283" src="img/Armadillo001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/Armadillo001.jpg" --></a><a href="img/Armadillo002.jpg"><img height="283" src="img/Armadillo002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/Armadillo002.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment">
+小さいながら本当に細かく造りこまれています。ちょろっと出している爪がポイント。</td>
+</tr>
+<tr>
+<td><a href="img/arumajiro002.jpg">
+<img height="283" src="img/arumajiro002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/arumajiro002.jpg" --></a><a href="img/arumajiro001.jpg"><img height="283" src="img/arumajiro001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/arumajiro001.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/arumajiro003.jpg">
+<img height="283" src="img/arumajiro003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/kanimushi/img/arumajiro003.jpg" --></a></td>
+</tr>
+
+
+<tr>
+<td class="comment">ちょっとだけ塗装しました。</td>
+</tr>
+
+
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>SkinkHaunt</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>Skink Haunt</h4>
+			<p>
+			Skink（蜥蜴）さんは台湾の原型師さんで、日本では<a href="http://www.skink.us/1/skink.htm">公式サイト</a>から作品を購入することが出来ます。動物シリーズとしては「ANIMALS 
+			IN TAIWAN」をリリース。</p>
+		</div>
+		<div id="collection_page_main">
+		
+			<table style="width: 100%">
+<tr>
+<th colspan="2">タイワントビアオガエル</th></tr>
+<tr>
+<td><a href="img/skink_frog1_002.jpg">
+<img height="283" src="img/skink_frog1_002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/SkinkHaunt/img/skink_frog1_002.jpg" --></a></td><td>
+	<a href="img/skink_frog1_003.jpg">
+	<img height="283" src="img/skink_frog1_003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/SkinkHaunt/img/skink_frog1_003.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/skink_frog1_005.jpg">
+<img height="283" src="img/skink_frog1_005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/SkinkHaunt/img/skink_frog1_005.jpg" --></a></td><td>
+	<a href="img/skink_frog1_004.jpg">
+	<img height="283" src="img/skink_frog1_004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/SkinkHaunt/img/skink_frog1_004.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/skink_frog1_001.jpg">
+<img height="283" src="img/skink_frog1_001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/SkinkHaunt/img/skink_frog1_001.jpg" --></a></td>
+	<td class="comment">
+	緑部分は<a href="../../production/PAINTTRY03">アマガエル塗装キット</a>のものをそのまま使用。黄色部分はタミヤカラーです。</td>
+</tr>
+<tr>
+<td><a href="img/skink004.jpg">
+<img height="283" src="img/skink004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/SkinkHaunt/img/skink004.jpg" --></a></td><td>
+	<a href="img/skink001.jpg">
+	<img height="283" src="img/skink001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/SkinkHaunt/img/skink001.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/skink002.jpg">
+<img height="283" src="img/skink002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/SkinkHaunt/img/skink002.jpg" --></a></td><td>
+	<a href="img/skink003.jpg">
+	<img height="283" src="img/skink003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/SkinkHaunt/img/skink003.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/skink005.jpg">
+<img height="283" src="img/skink005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/SkinkHaunt/img/skink005.jpg" --></a></td>
+	<td class="comment">
+	コチラは塗装前。</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+	<td class="comment">
+	&nbsp;</td>
+</tr>
+
+
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

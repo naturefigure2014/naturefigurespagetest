@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>タートルブレイク</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>タートルブレイク TURTLEBREAK</h4>
+			<p>
+			株式会社GB2に所属している原型師さんたちによる屋号。<br />
+			アートユニット<a href="http://g-b-2.net/gb2/newmenu.html">現代美術二等兵</a>としてはネイチャーテクニカラー<a href="../../ntc/big/giantisopod">ダイオウグソクムシ</a>にも携わっています。</p>
+		</div>
+		<div id="collection_page_main">
+		
+			<table style="width: 100%">
+<!--<tr>
+<th colspan="2">&nbsp;</th></tr>
+<tr>
+<td>&nbsp;</td><td>
+	&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>
+	&nbsp;</td>
+</tr>
+<tr>
+<th colspan="2">&nbsp;</th></tr>
+<tr>
+<td>&nbsp;</td><td>
+	&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td><td>
+	&nbsp;</td>
+</tr>-->
+<tr>
+<th colspan="2" id="machikane">1/35 マチカネワニ骨格</th></tr>
+<tr>
+<td><a href="img/machikane001.jpg">
+<img height="283" src="img/machikane001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/TURTLEBREAK/img/machikane001.jpg" --></a></td><td>
+	<a href="img/machikane002.jpg">
+	<img height="283" src="img/machikane002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/TURTLEBREAK/img/machikane002.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/machikane003.jpg">
+<img height="283" src="img/machikane003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/TURTLEBREAK/img/machikane003.jpg" --></a></td><td>
+	&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2"><a href="img/machikane004.jpg">
+<img height="504" src="img/machikane004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/TURTLEBREAK/img/machikane004.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/machikane005.jpg">
+<img height="283" src="img/machikane005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/TURTLEBREAK/img/machikane005.jpg" --></a></td><td>
+	<a href="img/machikane006.jpg">
+	<img height="283" src="img/machikane006_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/TURTLEBREAK/img/machikane006.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">
+塗装完了：2019/05<br />
+精密なマチカネワニの全身骨格。組み立ては大変でしたがとても楽しかったです。<br />
+塗装は<a href="https://twitter.com/aquarium_ninja/status/1132667595088207875" target="_blank">一度茶色っぽく塗りました</a>が、気に入らなかったので緑色をかぶせておきました。いい感じ。<br />
+豊橋自然史博物館で見たウォールマウントを再現したかったので、100均で買ってきた下敷きを切り刻んで真鍮線を指しました。取り外し可能です。</td>
+</tr>
+
+<tr>
+<th colspan="2">1/35 ディアブロケラトプス頭骨＆トリケラトプス頭骨（幼体）</th></tr>
+<tr>
+<td colspan="2"><a href="img/diabro004.jpg">
+<img height="283" src="img/diabro004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/TURTLEBREAK/img/diabro004.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/diabro005.jpg">
+<img height="283" src="img/diabro005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/TURTLEBREAK/img/diabro005.jpg" --></a></td><td>
+	<a href="img/diabro006.jpg">
+	<img height="283" src="img/diabro006_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/TURTLEBREAK/img/diabro006.jpg" --></a></td>
+</tr>
+<tr>
+<td><a href="img/diabro002.jpg">
+<img height="283" src="img/diabro002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/TURTLEBREAK/img/diabro002.jpg" --></a></td><td>
+	<a href="img/diabro003.jpg">
+	<img height="283" src="img/diabro003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/TURTLEBREAK/img/diabro003.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">
+ネームプレート風のシールつき。なかなか商品化されないのでうれしいですね。本当はすごく小さなトリケラトプス幼体の頭骨もありますが、そちらはまだ未塗装です。</td>
+</tr>
+<tr>
+<td colspan="2"><a href="img/diabro001.jpg">
+<img height="283" src="img/diabro001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/TURTLEBREAK/img/diabro001.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" colspan="2">
+海洋堂のトリケラトプス風に塗ってみました。</td>
+</tr>
+
+
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

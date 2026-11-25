@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+
+<!--スマホ対応↓-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<!--スマホ対応↑-->
+
+<meta content="ja" http-equiv="Content-Language" />
+<!-- #BeginEditable "doctitle" -->
+<title>C.S.Model Design</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="header">動物フィギュアを中心に紹介するページ。</div>
+<div id="masthead">
+</div>
+<div id="top_nav">
+	<ul>
+		<li><a href="../../index.html">HOME</a></li>
+		<li><a href="../../masterarts/index.html">素晴らしき逸品たち</a></li>
+		<li><a href="../../production.html">塗装・改造</a></li>
+		<li><a href="../../blog/index.html">ブログ</a></li>
+	<li><a href="../../Twitter/index.html">Twitter</a></li>
+	</ul>
+</div>
+
+	<div id="left_col">
+		<ul>
+			<li>
+			<a href="../../kaiyodo_animal/index.html">
+			<img alt="海洋堂ミニチュア生き物1" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature1.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_animal/index2.html">
+			<img alt="海洋堂ミニチュア生き物2" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature2.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_dino/index.html">
+			<img alt="海洋堂ミニチュア古代生物" class="left_col_pic" src="../../img/navi/navi_kaiyodo_nature3.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_Kit_Prepaint/index.html">
+			<img alt="海洋堂ガレージキット・完成品" class="left_col_pic" src="../../img/navi/navi_kaiyodo_GK_Prepaint.png" /></a></li>
+			<li>
+			<a href="../../kaiyodo_culture/index.html">
+			<img alt="海洋堂カルチャーモノ" class="left_col_pic" src="../../img/navi/navi_kaiyodo_calture.png" /></a></li>
+			<li>
+			<a href="../../ntc/index.html">
+			<img alt="いきもん" class="left_col_pic" src="../../img/navi/navi_ikimon.png" /></a></li>
+			<li>
+			<a href="../../yujin/index.html">
+			<img alt="ユージン" class="left_col_pic" src="../../img/navi/navi_yujin.png" /></a></li>
+			<li>
+			<a href="../../BANDAI/index.html">
+			<img alt="バンダイ" class="left_col_pic" src="../../img/navi/navi_BANDAI.png" /></a></li>
+			<li>
+			<a href="../../etc/index.html">
+			<img alt="その他メーカ" class="left_col_pic" src="../../img/navi/navi_etc.png" /></a></li>
+			<li>
+			<a href="../index.html">
+			<img alt="ガレージキット" class="left_col_pic" src="../../img/navi/navi_GK_etc.png" /></a></li>
+		</ul>
+	</div>
+	<div id="page_content">
+	
+		<!-- #BeginEditable "content" -->
+	
+	<div id="collection_page">
+		<div id="collection_page_head">
+		<h4>C.S.Model Design</h4>
+			<p>
+			<a href="https://twitter.com/CSModelDesign" target="_blank">タナカさん</a>と<a href="https://twitter.com/aoijiyu" target="_blank">ツキムラさん</a>によるユニット。<br />
+			動物や恐竜、クリーチャーからヒトまで、幅広いジャンルを扱っています。今やバンダイやQualiaからリリースされるフィギュアの原型や塗装見本を担当する人気者。</p>
+		</div>
+		<div id="collection_page_main">
+		<!--
+		<table width="100%">
+		<tr>
+		<td><a href="#kabuto_anatomy"><img src="img/kabuto_anatomy002_small.jpg" width="146" /></a></td>
+		<td><a href="#deino"><img src="img/deino001_small.jpg" width="146" /></a></td>
+		<td><a href="#mendako"><img src="img/mendako_p002_small.jpg" width="146" /></a></td>
+		<td><a href="#akaumi"><img src="img/CSMD011_small.jpg" width="146" /></a></td>
+		<td><a href="#sanagi"><img src="img/CSMD013_small.jpg" width="146" /></a></td>
+		</tr>
+		<tr>
+		<td><a href="#sauro"><img src="img/sauro003_small.jpg" width="146" /></a></td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		</tr>
+		</table>-->
+		
+		<!-- ハイライトここから -->
+		<table style="width: 100%">
+		<!-- 2つずつ -->
+		<tr><th>カブトムシ　アナトミーモデル</th><th>ディノニクス</th></tr>
+		<tr>
+		<td><a href="#kabuto_anatomy"><img height="283" src="img/kabuto_anatomy002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/kabuto_anatomy002.jpg" --></a></td>
+		<td><a href="#deino"><img height="283" src="img/deino001_small.jpg" width="378" /></a></td>
+		</tr>
+		<!-- 2つずつ -->
+		<tr><th>メンダコ</th><th>アオウミガメ（幼体）</th></tr>
+		<tr>
+		<td><a href="#mendako"><img height="283" src="img/mendako_p002_small.jpg" width="378" /></a></td>
+		<td><a href="#akaumi"><img height="283" src="img/CSMD011_small.jpg" width="378" /></a></td>		
+		</tr>
+		<!-- 2つずつ -->
+		<tr><th>カブトムシ</th><th></th></tr>
+		<tr>
+		<td><a href="#sanagi"><img height="283" src="img/CSMD013_small.jpg" width="378" /></a></td>
+		</tr>
+		<!-- 2つずつ -->
+		<tr><th>サウロロフス</th><th>ティラノサウルス</th></tr>
+		<tr>
+		<td><a href="#sauro"><img height="283" src="img/sauro003_small.jpg" width="378" /></a></td>
+		<td><a href="Tsukimura/Tyranno2021/index.html">
+		<img height="283" src="Tsukimura/Tyranno2021/img/Tyranno2021_002_small.jpg" width="378" /></a></td>
+		</tr>
+
+		</table>
+		<!-- ハイライトここまで -->
+		
+			<table style="width: 100%">
+<!--
+<tr>
+<th>&nbsp;</th>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+-->
+<tr>
+<td class="comment">&nbsp;</td>
+</tr>
+<tr>
+<td class="comment"><span class="font_yellow_bold">■タナカさんの作品たち</span></td>
+</tr>
+<tr>
+<th id="kabuto_anatomy">カブトムシ　アナトミーモデル</th>
+</tr>
+<tr>
+<td><a href="img/kabuto_anatomy002.jpg">
+<img height="283" src="img/kabuto_anatomy002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/kabuto_anatomy002.jpg" --></a><a href="img/kabuto_anatomy003.jpg"><img height="283" src="img/kabuto_anatomy003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/kabuto_anatomy003.jpg" --></a></td>
+</tr>
+
+<tr>
+<td><a href="img/kabuto_anatomy004.jpg">
+<img height="283" src="img/kabuto_anatomy004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/kabuto_anatomy004.jpg" --></a><a href="img/kabuto_anatomy005.jpg"><img height="283" src="img/kabuto_anatomy005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/kabuto_anatomy005.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment">完成：2021/04<br />
+タナカさんによるカブトムシの成虫/サナギのアナトミーモデル。<br />
+一般販売されなさそうな、超マニアックなテーマ。<br />
+こんなフィギュアを待っていました。</td>
+</tr>
+
+<tr>
+<td><a href="img/kabuto_anatomy001.jpg">
+<img height="283" src="img/kabuto_anatomy001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/kabuto_anatomy001.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment">細かな触角や脚は３Dプリンタと相性が良いですね。</td>
+</tr>
+
+<tr>
+<th id="deino">ディノニクス</th>
+</tr>
+<tr>
+<td><a href="img/deino001.jpg">
+<img height="283" src="img/deino001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/deino001.jpg" --></a><a href="img/deino005.jpg"><img height="283" src="img/deino005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/deino005.jpg" --></a></td>
+</tr>
+
+<tr>
+<td><a href="img/deino006.jpg">
+<img height="283" src="img/deino006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/deino006.jpg" --></a><a href="img/deino004.jpg"><img height="283" src="img/deino004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/deino004.jpg" --></a></td>
+</tr>
+
+<tr>
+<td><a href="img/deino002.jpg">
+<img height="283" src="img/deino002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/deino002.jpg" --></a><a href="img/deino003.jpg"><img height="283" src="img/deino003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/deino003.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment">完成：2021/01<br />
+タナカさんのディノニクスキット。<br />
+原型は３D造形ですが、歯と頭部のディテールを活かすために、３D出力品ではなくレジンキットにしたとのことです。<br />
+<br />
+塗装は「ツメバケイ」を参考にしています。「恐竜異説」から着想を得ました。</td>
+</tr>
+
+<tr>
+<th  id="mendako">メンダコ</th></tr>
+<tr>
+<td ><a href="img/mendako_p002.jpg">
+<img height="283" src="img/mendako_p002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/mendako_p002.jpg" --></a><a href="img/mendako_p003.jpg"><img height="283" src="img/mendako_p003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/mendako_p003.jpg" --></a></td>
+</tr>
+<tr>
+<td ><a href="img/mendako_p004.jpg">
+<img height="283" src="img/mendako_p004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/mendako_p004.jpg" --></a><a href="img/mendako_p005.jpg"><img height="283" src="img/mendako_p005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/mendako_p005.jpg" --></a></td>
+</tr>
+<tr>
+<td ><a href="img/mendako_p006.jpg">
+<img height="283" src="img/mendako_p006_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/mendako_p006.jpg" --></a><a href="img/mendako_p007.jpg"><img height="283" src="img/mendako_p007_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/mendako_p007.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" >塗装完了：2019/06<br />
+クリアレジン製のメンダコ。海底でぺちょっとしているところですね。ワンフェスでは松村さんも絶賛だったとか。<br />
+塗装はすべてアクリラガッシュ。うっすらベースとなる白とオレンジで塗った後は、ひたすら気が済むまでドライブラシ。<br />
+タナカさんによる塗装見本は<a href="https://twitter.com/CSModelDesign/status/1022389778833006594">コチラ</a>。</td>
+</tr>
+<tr>
+<td ><a href="img/mendako_p008.jpg">
+<img height="283" src="img/mendako_p008_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/mendako_p008.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" >
+ゲーセンでよく見かけるヌードルストッパーフィギュアとしても大活躍。スマホスタンドにもなるそうです。</td>
+</tr>
+<tr>
+<td ><a href="img/mendako_p001.jpg">
+<img height="283" src="img/mendako_p001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/mendako_p001.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" >
+クリア素材ゆえの透け感を出したかったのですが、写真だとイマイチ伝わらなかったので、照明バックで撮影。透けてるでしょ？</td>
+</tr>
+<tr>
+<td ><a href="img/CSMD006.jpg">
+<img height="283" src="img/CSMD006_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD006.jpg" --></a><a href="img/CSMD007.jpg"><img height="283" src="img/CSMD007_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD007.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" >
+塗装前。全然分かりませんね。</td>
+</tr>
+<tr>
+<th  id="akaumi">アカウミガメ（幼体）</th></tr>
+<tr>
+<td ><a href="img/akaumi.jpg">
+<img height="283" src="img/akaumi_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/akaumi.jpg" --></a></td>
+</tr>
+<tr>
+<td ><a href="img/CSMD009.jpg">
+<img height="283" src="img/CSMD009_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD009.jpg" --></a><a href="img/CSMD010.jpg"><img height="283" src="img/CSMD010_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD010.jpg" --></a></td>
+</tr>
+<tr>
+<td ><a href="img/CSMD011.jpg">
+<img height="283" src="img/CSMD011_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD011.jpg" --></a><a href="img/CSMD012.jpg"><img height="283" src="img/CSMD012_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD012.jpg" --></a></td>
+</tr>
+<tr>
+<td ><a href="img/CSMD005.jpg">
+<img height="283" src="img/CSMD005_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD005.jpg" --></a><a href="img/CSMD001.jpg"><img height="283" src="img/CSMD001_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD001.jpg" --></a></td>
+</tr>
+<tr>
+<td class="comment" >
+可愛らしいアカウミの幼体。かなり精密に作られており、学術的にも正しいのでしょう。カメ好きは持っておくべき。<br />
+海洋堂の熱帯魚が転がっていたので、遊泳シーンにしてみました。<br />
+タナカさんによる塗装見本は<a href="https://twitter.com/CSModelDesign/status/1022389778833006594">コチラ</a>。</td>
+</tr>
+<tr>
+<th id="sanagi">カブトムシ</th></tr>
+<tr>
+<td ><a href="img/CSMD013.jpg">
+<img height="283" src="img/CSMD013_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD013.jpg" --></a><a href="img/CSMD014.jpg"><img height="283" src="img/CSMD014_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD014.jpg" --></a></td>
+</tr>
+<tr>
+<td ><a href="img/CSMD015.jpg">
+<img height="283" src="img/CSMD015_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD015.jpg" --></a></td>
+</tr>
+<tr>
+<td ><a href="img/CSMD002.jpg">
+<img height="283" src="img/CSMD002_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD002.jpg" --></a><a href="img/CSMD003.jpg"><img height="283" src="img/CSMD003_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD003.jpg" --></a></td>
+</tr>
+
+
+<tr>
+<td><a href="img/CSMD004.jpg">
+<img height="283" src="img/CSMD004_small.jpg" width="378" /><!-- Documents/My Web Sites/mysite2/nonmaker/CSModelDesign/img/CSMD004.jpg" --></a></td>
+</tr>
+
+
+<tr>
+<td class="comment" >
+意外と少ないカブトムシのサナギフィギュア。デリケートで触りづらいサナギも、フィギュアならば手にとって造形をじっくり眺められます。<br />
+タナカさんによる塗装見本は<a href="https://twitter.com/CSModelDesign/status/1022389778833006594">コチラ</a>。</td>
+</tr>
+
+
+<tr>
+<td class="comment" >
+&nbsp;</td>
+</tr>
+
+
+<tr>
+<td class="comment" >
+<span class="font_yellow_bold">■ツキムラさんの作品たち</span></td>
+</tr>
+<tr>
+<th id="sauro">サウロロフス</th>
+</tr>
+<tr>
+<td><a href="img/sauro003.jpg">
+<img height="283" src="img/sauro003_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/sauro003.jpg" --></a><a href="img/sauro005.jpg"><img height="283" src="img/sauro005_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/sauro005.jpg" --></a></td>
+</tr>
+
+<tr>
+<td><a href="img/sauro002.jpg">
+<img height="283" src="img/sauro002_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/sauro002.jpg" --></a><a href="img/sauro001.jpg"><img height="283" src="img/sauro001_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/sauro001.jpg" --></a></td>
+</tr>
+
+<tr>
+<td><a href="img/sauro004.jpg">
+<img height="283" src="img/sauro004_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/sauro004.jpg" --></a><a href="img/sauro006.jpg"><img height="283" src="img/sauro006_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/sauro006.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment">塗装完了：2020/02<br />
+ツキムラさんによるサウロロフス。<br />
+前脚は最近発見されたミイラ化石に基づき、いち早くヒヅメ表現で立体化しています。<br />
+<br />
+どう塗装しようか迷いましたが、細かく造形された皮膚のシワやウロコを強調したいと思い、クドめにスミイレしてみました。色はケイマンイワイグアナを参考にしました。</td>
+</tr>
+
+<tr>
+<td><a href="img/sauro007.jpg">
+<img height="283" src="img/sauro007_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/sauro007.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment">塗装前。</td>
+</tr>
+
+<tr>
+<td><a href="img/sauro008.jpg">
+<img height="283" src="img/sauro008_small.jpg" width="378" /><!-- MSComment="autothumbnail" xthumbnail-orig-image="file:///G:/My Web Sites/mysite2/nonmaker/CSModelDesign/img/sauro008.jpg" --></a></td>
+</tr>
+
+<tr>
+<td class="comment">ツキムラさんによる塗装例。</td>
+</tr>
+
+
+			</table>
+
+
+		</div>
+		</div>
+		<!-- #EndEditable -->
+		</div>
+
+<div id="footer">
+	Copyright (C) 2014 ネイチャーフィギュアのページ All rights reserved.</div>
+</div>
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
