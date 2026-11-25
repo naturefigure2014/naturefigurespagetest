@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ヒミズ"
-speciesGroup: "その他哺乳類"
+speciesGroup: "食虫類"
 price: "500円"
 releaseStart: "2019.11"
 genre:

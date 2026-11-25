@@ -7,7 +7,7 @@ figureId: "016"
 maker: "カバヤ"
 sculptor: "-"
 species: "オオアリクイ"
-speciesGroup: "その他哺乳類"
+speciesGroup: "異節類"
 price: "180円"
 releaseStart: "2003.05"
 genre:

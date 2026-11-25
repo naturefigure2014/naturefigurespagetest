@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/fushigipet
 figureId: "001"
 species: "ヨツユビハリネズミ"
-speciesGroup: "齧歯・兎類"
+speciesGroup: "食虫類"
 maker: "海洋堂"
 figureTopImage: "fushigipet004.jpg"
 coverImage: "fushigipet004.jpg"

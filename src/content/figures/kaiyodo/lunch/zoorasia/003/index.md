@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "松村しのぶ"
 species: "オオアリクイ"
-speciesGroup: "その他哺乳類"
+speciesGroup: "異節類"
 price: "２２０円"
 releaseStart: "2004.03"
 genre:
