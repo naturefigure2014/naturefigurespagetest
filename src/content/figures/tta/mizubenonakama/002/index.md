@@ -6,7 +6,7 @@ titleId: tta/mizubenonakama
 figureId: "002"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "ミドリガメ"
+species: "ミシシッピアカミミガメ"
 price: "300円 公式サイト： コチラ"
 releaseStart: "2019.04"
 genre:

@@ -6,7 +6,7 @@ titleId: BANDAI/ikimono_advance/amagaeru
 figureId: "002"
 maker: "バンダイ"
 sculptor: "-"
-species: "アマガエル"
+species: "ニホンアマガエル"
 speciesGroup: "カエル類"
 price: "1,000円"
 releaseStart: "2023.06"

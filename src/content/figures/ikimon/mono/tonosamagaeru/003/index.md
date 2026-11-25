@@ -6,7 +6,7 @@ titleId: ikimon/mono/tonosamagaeru
 figureId: "003"
 maker: "いきもん 公式ページ： コチラ"
 sculptor: "KOW 企画総指揮：佐藤純也"
-species: "アマガエル"
+species: "ニホンアマガエル"
 price: "300円"
 releaseStart: "2017.08"
 genre:
