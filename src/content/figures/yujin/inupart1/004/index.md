@@ -6,7 +6,7 @@ titleId: yujin/inupart1
 figureId: "004"
 maker: "ユージン"
 sculptor: "-"
-species: "ウェルシュ・コーギー・ペンブローク"
+species: "ウェルシュ・コーギー"
 price: "200円"
 releaseStart: "-"
 genre:
