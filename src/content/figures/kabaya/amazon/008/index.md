@@ -7,7 +7,7 @@ figureId: "008"
 maker: "カバヤ"
 sculptor: "-"
 species: "オオオオハシ"
-speciesGroup: "その他鳥類"
+speciesGroup: "オオハシ類"
 price: "180円"
 releaseStart: "2003.05"
 genre:

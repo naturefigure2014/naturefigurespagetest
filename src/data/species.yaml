@@ -3,7 +3,6 @@ groups:
     imageFigureId: ikimon/nature_of_japan/noj1/003
     icon: "●"
     species:
-      - "オオオオハシ"
       - "リスザル"
       - "サバンナヒヒ"
       - "オランウータン"
@@ -540,6 +539,7 @@ groups:
       - "サンショクキムネオオハシ"
       - "ウスヒムネオオハシ"
       - "オニオオハシ"
+      - "オオオオハシ"
   ハチドリ類:
     imageFigureId: kabaya/amazon/012
     icon: "✦"
