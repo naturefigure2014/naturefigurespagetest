@@ -6,7 +6,7 @@ titleId: tta/genn_kaiseihonyurui
 figureId: "005"
 maker: "タカラトミーアーツ 公式サイト： コチラ"
 sculptor: "EXPO"
-species: "ジュゴン 授乳"
+species: "ジュゴン"
 price: "300円"
 releaseStart: "2010.08"
 genre:

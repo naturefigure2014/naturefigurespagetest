@@ -7,7 +7,7 @@ figureId: "002"
 maker: "Qualia"
 sculptor: "-"
 species: "マナティー"
-speciesGroup: "その他哺乳類"
+speciesGroup: "海牛類"
 price: "500円"
 releaseStart: "2021.06"
 genre:

@@ -9,7 +9,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ジュゴン"
-speciesGroup: "クジラ・イルカ類"
+speciesGroup: "海牛類"
 price: "-"
 releaseStart: "-"
 genre:
