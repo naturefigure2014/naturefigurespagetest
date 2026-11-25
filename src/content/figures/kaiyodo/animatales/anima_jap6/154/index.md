@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "クロアカコウモリ"
-speciesGroup: "その他哺乳類"
+speciesGroup: "コウモリ類"
 price: "-"
 releaseStart: "2002.09"
 genre:

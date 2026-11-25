@@ -7,7 +7,7 @@ figureId: "022"
 maker: "フルタ製菓 公式サイト： コチラ"
 sculptor: "-"
 species: "ナマケモノ"
-speciesGroup: "その他哺乳類"
+speciesGroup: "異節類"
 price: "-"
 releaseStart: "2002.09"
 genre:

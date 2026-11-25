@@ -311,6 +311,7 @@ groups:
       - "オガサワラオオコウモリ"
       - "アブラコウモリ"
       - "キクガシラコウモリ"
+      - "クロアカコウモリ"
   有袋類:
     imageFigureId: ikimon/NTC400/Australia/001
     icon: "♧"
@@ -322,27 +323,34 @@ groups:
       - "フクロオオカミ"
       - "タスマニアデビル"
       - "ヒメウォンバット"
-  その他哺乳類:
-    imageFigureId: ikimon/NTC400/Australia/005
-    icon: "◌"
+  異節類:
+    imageFigureId: kabaya/amazon/016
+    icon: "◐"
     species:
       - "ミツユビナマケモノ"
       - "ナマケモノ"
       - "ココノオビアルマジロ"
-      - "センザンコウ"
-      - "アズマモグラ"
       - "オオアリクイ"
-      - "カモノハシ"
-      - "カワネズミ"
-      - "クロアカコウモリ"
       - "コアリクイ"
-      - "ツチブタ"
+      - "ミナミコアリクイ"
+  食虫類:
+    imageFigureId: kaiyodo/capsuleq/fushigipet/001
+    icon: "◑"
+    species:
+      - "アズマモグラ"
+      - "カワネズミ"
       - "ヒミズ"
       - "ミズラモグラ"
       - "トガリネズミ"
       - "マンシュウハリネズミ"
       - "ヨツユビハリネズミ"
-      - "ミナミコアリクイ"
+  その他哺乳類:
+    imageFigureId: ikimon/NTC400/Australia/005
+    icon: "◌"
+    species:
+      - "センザンコウ"
+      - "カモノハシ"
+      - "ツチブタ"
   小鳥・身近な鳥:
     imageFigureId: kaiyodo/animatales/anima_jap10/005
     icon: "●"
@@ -2337,6 +2345,8 @@ taxonomy:
           - 海牛類
           - コウモリ類
           - 有袋類
+          - 異節類
+          - 食虫類
           - その他哺乳類
         groupLabels:
           その他哺乳類: その他

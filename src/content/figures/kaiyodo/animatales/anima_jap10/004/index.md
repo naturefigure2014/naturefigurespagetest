@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "マンシュウハリネズミ"
-speciesGroup: "齧歯・兎類"
+speciesGroup: "食虫類"
 price: "-"
 releaseStart: "2005.03"
 genre:
