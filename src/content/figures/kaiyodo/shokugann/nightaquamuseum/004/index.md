@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "ムラサキクラゲ"
-speciesGroup: "その他の動物"
+speciesGroup: "クラゲ・イソギンチャク類"
 price: "-"
 releaseStart: "2004.12"
 genre:

@@ -38,7 +38,7 @@ speciesEntries:
   - species: 'カバ'
     speciesGroup: '偶蹄類'
   - species: 'ウシツツキ'
-    speciesGroup: 'その他の動物'
+    speciesGroup: '小鳥・身近な鳥'
   - species: 'ヒョウモンガメ'
-    speciesGroup: 'その他の動物'
+    speciesGroup: 'カメ類'
 ---

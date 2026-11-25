@@ -137,6 +137,7 @@ groups:
       - "狸"
       - "狐"
       - "狼"
+      - "オオカワウソ"
   齧歯・兎類:
     imageFigureId: ikimon/daiza/sabanna/010
     icon: "◆"
@@ -230,6 +231,7 @@ groups:
       - "乳牛"
       - "ヌー"
       - "トムソンガゼル"
+      - "ヤギ"
   奇蹄類:
     imageFigureId: ikimon/daiza/sabanna/006
     icon: "◇"
@@ -246,6 +248,7 @@ groups:
       - "イエウマ"
       - "グレービーシマウマ"
       - "シマウマ"
+      - "インドサイ"
   ゾウ類:
     imageFigureId: ikimon/daiza/sabanna/002
     icon: "◉"
@@ -323,6 +326,7 @@ groups:
       - "ココノオビアルマジロ"
       - "オオアリクイ"
       - "コアリクイ"
+      - "アルマジロ"
   食虫類:
     imageFigureId: kaiyodo/capsuleq/fushigipet/001
     icon: "◑"
@@ -341,6 +345,8 @@ groups:
       - "センザンコウ"
       - "カモノハシ"
       - "ツチブタ"
+      - "オオセンザンコウ"
+      - "ミミセンザンコウ"
   小鳥・身近な鳥:
     imageFigureId: kaiyodo/animatales/anima_jap10/005
     icon: "●"
@@ -372,6 +378,7 @@ groups:
       - "スズメ"
       - "カンムリシロムク"
       - "ヤイロチョウ"
+      - "ウシツツキ"
   カラス・ハト類:
     imageFigureId: kaiyodo/animatales/anima_jap3/081
     icon: "◆"
@@ -558,6 +565,7 @@ groups:
       - "カッコウ"
       - "鳥獣人物戯画"
       - "フラミンゴ"
+      - "ツメバケイ"
   ヘビ類:
     imageFigureId: ikimon/nature_of_japan/noj1/007
     icon: "〰"
@@ -615,6 +623,13 @@ groups:
       - "ヨナグニキノボリトカゲ"
       - "ホオグロヤモリ"
       - "ガラパゴスウミイグアナ"
+      - "フィジーイグアナ"
+      - "オオヒルヤモリ"
+      - "マツカサトカゲ"
+      - "オオヨロイトカゲ"
+      - "アオキノボリアリゲータートカゲ"
+      - "フトアゴヒゲトカゲ"
+      - "ヒガシピルバラヒメイワトカゲ"
   カメ類:
     imageFigureId: ikimon/daiza/kaiyo1/006
     icon: "◉"
@@ -658,6 +673,7 @@ groups:
       - "ギリシャリクガメ"
       - "イシガメ"
       - "クジャクガメ"
+      - "ヒョウモンガメ"
   ワニ類:
     imageFigureId: kaiyodo/animatales/chocoq_amazing/012
     icon: "♢"
@@ -668,6 +684,8 @@ groups:
       - "メガネカイマン"
       - "ヨウスコウアリゲーター"
       - "ヨウスコウワニ"
+      - "コビトカイマン"
+      - "イリエワニ"
   カエル類:
     imageFigureId: ikimon/daiza/kaeru/001
     icon: "●"
@@ -728,6 +746,8 @@ groups:
       - "オキナワイシカワガエル"
       - "アマゾンツノガエル"
       - "クランウェルツノガエル"
+      - "タイワントビアオガエル"
+      - "ヒキガエル"
   イモリ・サンショウウオ類:
     imageFigureId: ikimon/daiza/kaiyukann/001
     icon: "〰"
@@ -760,6 +780,7 @@ groups:
       - "ピラルクー"
       - "ラティメリア"
       - "サカバンバスピス"
+      - "ナイルアロワナ"
   サメ・エイ類:
     imageFigureId: ikimon/daiza/kaiyo1/003
     icon: "〰"
@@ -1161,6 +1182,8 @@ groups:
       - "ヒラズゲンセイ"
       - "フェリエベニボシカミキリ"
       - "ルリボシカミキリ"
+      - "ダイコクコガネ"
+      - "トカラマンマルコガネ"
   チョウ・ガ類:
     imageFigureId: kaiyodo/animatales/anima_jap1/006
     icon: "◇"
@@ -1367,6 +1390,7 @@ groups:
       - "クロフジツボ"
       - "アカフジツボ"
       - "カメフジツボ"
+      - "ケラトセロリス属の1種"
   その他節足動物:
     imageFigureId: kaiyodo/animatales/anima_jap2/037
     icon: "◌"
@@ -1479,6 +1503,7 @@ groups:
       - "アオミノウミウシ"
       - "ゾウゲイロウミウシ"
       - "ナメクジ"
+      - "カタツムリ"
   巻貝類:
     imageFigureId: ikimon/mono/shinkaiseibutsu1/007
     icon: "◉"
@@ -1497,6 +1522,7 @@ groups:
       - "クリオネ"
       - "ハマグリ"
       - "マガキ"
+      - "ムカデミノウミウシ"
   その他/未分類:
     imageFigureId: kaiyodo/animatales/chocoegg_hansoku/002
     icon: "●"
@@ -1612,69 +1638,28 @@ groups:
       - "侍大将"
       - "足軽"
       - "龍と鬼"
-  その他の動物:
-    imageFigureId: ikimon/mono/kyokuhi/001
+  クラゲ・イソギンチャク類:
+    imageFigureId: ikimon/NTC500/kurageLED/001
     icon: "◌"
     species:
-      - "タイワントビアオガエル"
-      - "ヒョウモンガメ"
-      - "ウシツツキ"
-      - "インドサイ"
-      - "コビトカイマン"
-      - "ダイコクコガネ"
-      - "フィジーイグアナ"
-      - "オオヒルヤモリ"
-      - "ドロマエオサウルス"
-      - "オンコプリスティス"
-      - "アルマジロ"
-      - "オオセンザンコウ"
-      - "マツカサトカゲ"
-      - "オオヨロイトカゲ"
-      - "アオキノボリアリゲータートカゲ"
-      - "フトアゴヒゲトカゲ"
-      - "ヒガシピルバラヒメイワトカゲ"
-      - "ミミセンザンコウ"
-      - "トカラマンマルコガネ"
-      - "オオカワウソ"
-      - "ムカデミノウミウシ"
-      - "ケラトセロリス属の1種"
-      - "カタツムリ"
-      - "ナイルアロワナ"
-      - "ツメバケイ"
-      - "サウロロフス"
-      - "ヒキガエル"
-      - "イリエワニ"
-      - "ヤギ"
       - "ブラックシーネットル"
       - "インドネシアンシーネットル"
       - "アトランティックシーネットル"
       - "パシフィックシーネットル"
-      - "イソバナ"
-      - "ミドリイソギンチャク"
-      - "イトマキヒトデ"
-      - "ホンナガウニ"
-      - "シラヒゲウニ"
-      - "コシダカウニ"
-      - "バフンウニ"
-      - "タコノマクラ"
-      - "スカシカシパン"
-      - "バクダンウニ"
-      - "ムラサキウニ"
-      - "クマムシ"
+      - "シーネットル"
       - "アンドンクラゲ"
       - "オワンクラゲ"
       - "クロカムリクラゲ"
-      - "シーネットル"
-      - "センジュナマコ"
       - "タコクラゲ"
-      - "ハオリムシ"
       - "ブルージェリーフィッシュ"
       - "ミズクラゲ"
-      - "ミドリムシ"
       - "ムラサキクラゲ"
-      - "ユメナマコ"
-      - "ニホントゲクマムシ"
-      - "フツウミミズ"
+      - "イソバナ"
+      - "ミドリイソギンチャク"
+  サンゴ類:
+    imageFigureId: yujin/sanngo/001
+    icon: "◌"
+    species:
       - "アミトリセンベイサンゴ"
       - "アワユキサンゴ"
       - "イボハダハナヤサイサンゴ"
@@ -1691,6 +1676,34 @@ groups:
       - "ボーンミドリイシ"
       - "ホソエダアナサンゴモドキ"
       - "ユビエダハマサンゴ"
+  棘皮動物類:
+    imageFigureId: ikimon/mono/kyokuhi/001
+    icon: "◌"
+    species:
+      - "イトマキヒトデ"
+      - "ホンナガウニ"
+      - "シラヒゲウニ"
+      - "コシダカウニ"
+      - "バフンウニ"
+      - "タコノマクラ"
+      - "スカシカシパン"
+      - "バクダンウニ"
+      - "ムラサキウニ"
+      - "センジュナマコ"
+      - "ユメナマコ"
+  クマムシ類:
+    imageFigureId: tta/genn_kumamushi/001
+    icon: "◌"
+    species:
+      - "クマムシ"
+      - "ニホントゲクマムシ"
+  その他の動物:
+    imageFigureId: kaiyodo/aquatales/miu2/001
+    icon: "◌"
+    species:
+      - "ハオリムシ"
+      - "ミドリムシ"
+      - "フツウミミズ"
       - "未知の古細菌"
   獣脚類:
     imageFigureId: ikimon/daiza/koseibutsu/003
@@ -1736,6 +1749,7 @@ groups:
       - "INDORAPTOR"
       - "BLUE"
       - "シティパティ"
+      - "ドロマエオサウルス"
   竜脚類:
     imageFigureId: kaiyodo/capsule/GiantDinosaurs/001
     species:
@@ -1765,6 +1779,7 @@ groups:
       - "マイアサウラ"
       - "ランベオサウルス"
       - "フクイサウルス"
+      - "サウロロフス"
   角竜類:
     imageFigureId: ikimon/daiza/koseibutsu/005
     species:
@@ -1879,6 +1894,7 @@ groups:
       - "ユーステノプテロン"
       - "プテラスピス"
       - "ヘミキクラスピス"
+      - "オンコプリスティス"
   古代の両生類:
     imageFigureId: kaiyodo/capsule/seimeishinnka/003
     species:
@@ -2476,6 +2492,10 @@ taxonomy:
         icon: ◌
         groups:
           - その他/未分類
+          - クラゲ・イソギンチャク類
+          - サンゴ類
+          - 棘皮動物類
+          - クマムシ類
           - その他の動物
         groupLabels:
           その他/未分類: 分類未設定

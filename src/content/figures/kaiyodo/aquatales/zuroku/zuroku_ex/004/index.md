@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志 スケール：1/10"
 executiveProducer: "松村しのぶ"
 species: "タコクラゲ"
-speciesGroup: "その他の動物"
+speciesGroup: "クラゲ・イソギンチャク類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2012.05"
 genre:
