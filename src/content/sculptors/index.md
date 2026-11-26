@@ -13,6 +13,7 @@ creators:
   - name: K←PG
     href: /figures/sculptors/KPG/
   - name: 吉良かずや
+    figureFolder: sculptors/KiraKazuya
   - name: C.S.Model Design
     href: /figures/sculptors/CSModelDesign/
   - name: SHINZEN造形研究所

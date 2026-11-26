@@ -33,7 +33,6 @@ topics:
       - 'img/Tyranno2021_010.jpg'
       - 'img/Tyranno2021_011.jpg'
 titleId: 'sculptors/CSModelDesign'
-figureId: '007'
 ---
 
 Qualiaの「恐竜図鑑 スタンドフィギュア」(2021)でティラノの造形を担当したツキムラさん。<br />

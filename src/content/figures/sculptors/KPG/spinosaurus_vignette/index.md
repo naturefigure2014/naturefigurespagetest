@@ -92,7 +92,6 @@ speciesEntries:
     speciesGroup: '獣脚類'
   - species: 'オンコプリスティス'
     speciesGroup: 'その他の動物'
-figureId: '001'
 ---
 
 原型制作：ogyhara<br />

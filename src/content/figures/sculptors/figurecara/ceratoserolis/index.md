@@ -21,7 +21,6 @@ topics:
     images:
       - 'img/ceratoserolis006.jpg'
 titleId: 'sculptors/figurecara'
-figureId: '004'
 ---
 
 原型制作：ごいち<br />

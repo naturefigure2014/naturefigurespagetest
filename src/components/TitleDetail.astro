@@ -8,7 +8,7 @@ import { resolveFigureImage } from "../lib/figure-images";
 import { formatFigureId } from "../lib/figure-id";
 import { makerBadgeClass, makerNames } from "../lib/maker";
 import { siteUrl } from "../lib/site-url";
-import { groupLineup } from "../lib/lineup-groups.mjs";
+import { groupLineup, orderLineupByFigureIds } from "../lib/lineup-groups.mjs";
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
@@ -17,17 +17,19 @@ const normalizeContentId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
 const seriesNames = entry.data.seriesName
   ? (Array.isArray(entry.data.seriesName) ? entry.data.seriesName : [entry.data.seriesName])
   : [];
+const isSculptor = entry.id.startsWith("sculptors/");
 const listedFigureIds = new Set(entry.data.figureIds.map(normalizeContentId));
-const lineup = figures
+const matchingFigures = figures
   .filter((figure) => {
     if (figure.data.contentType === "title") return false;
     const figureId = normalizeContentId(figure.id);
     return listedFigureIds.size > 0
       ? listedFigureIds.has(figureId)
       : normalizeContentId(figure.data.titleId ?? "") === normalizeContentId(entry.id);
-  })
-  .sort((a, b) => (a.data.figureId ?? "").localeCompare(b.data.figureId ?? "", undefined, { numeric: true }) || compareContentId(a, b));
-const isSculptor = entry.id.startsWith("sculptors/");
+  });
+const lineup = isSculptor && listedFigureIds.size > 0
+  ? orderLineupByFigureIds(matchingFigures, entry.data.figureIds)
+  : matchingFigures.sort((a, b) => (a.data.figureId ?? "").localeCompare(b.data.figureId ?? "", undefined, { numeric: true }) || compareContentId(a, b));
 const lineupSections = groupLineup(
   lineup,
   entry.data.lineupGroups,

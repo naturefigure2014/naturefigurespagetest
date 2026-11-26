@@ -3,7 +3,6 @@ title: "ハコネサンショウウオ(B type)"
 description: ""
 contentType: figure
 titleId: sculptors/KiraKazuya/hakone
-figureId: "002"
 maker: "海洋堂高知"
 sculptor: "吉良かずや"
 species: "ハコネサンショウウオ"

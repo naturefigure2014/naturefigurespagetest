@@ -23,7 +23,6 @@ topics:
       - 'img/africanarowana005.jpg'
     comment: 'いきもにあ2025では、塗装版も販売していました。'
 titleId: 'sculptors/figurecara'
-figureId: '002'
 ---
 
 原型制作：ごいち<br />

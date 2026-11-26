@@ -29,7 +29,6 @@ topics:
       - 'img/babyT-Rex009.jpg'
     comment: "いきもにあ2025で撮影したもの。\nワンフェス2024夏で撮影したもの。"
 titleId: 'sculptors/FujimakiRyo'
-figureId: '001'
 ---
 
 原型制作：藤巻 嶺<br />

@@ -3,7 +3,6 @@ title: "鬼の頭骨"
 description: ""
 contentType: figure
 titleId: sculptors/MatsumuraShinobu/ryutooni
-figureId: "003"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"

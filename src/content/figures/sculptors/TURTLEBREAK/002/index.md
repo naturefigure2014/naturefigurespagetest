@@ -3,7 +3,6 @@ title: '1/35 ディアブロケラトプス頭骨＆トリケラトプス頭骨�
 description: ''
 contentType: 'figure'
 titleId: 'sculptors/TURTLEBREAK'
-figureId: '002'
 figureTopImage: 'diabro004.jpg'
 coverImage: 'diabro004.jpg'
 topics:

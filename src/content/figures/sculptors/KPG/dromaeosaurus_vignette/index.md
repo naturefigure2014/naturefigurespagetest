@@ -39,7 +39,6 @@ topics:
     images:
       - 'img/dromaeosaurus_vignette013.jpg'
 titleId: 'sculptors/KPG'
-figureId: '002'
 ---
 
 原型制作：ogyhara<br />

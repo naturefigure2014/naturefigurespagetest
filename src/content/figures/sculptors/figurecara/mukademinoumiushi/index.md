@@ -22,7 +22,6 @@ topics:
     images:
       - 'img/mukademinoumiushi005.jpg'
 titleId: 'sculptors/figurecara'
-figureId: '005'
 ---
 
 原型制作：ごいち<br />

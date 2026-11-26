@@ -24,7 +24,6 @@ topics:
       - 'img/coelacanth006.jpg'
       - 'img/coelacanth007.jpg'
 titleId: 'sculptors/kanimushi'
-figureId: '002'
 ---
 
 原型制作：蟹蟲修造<br />

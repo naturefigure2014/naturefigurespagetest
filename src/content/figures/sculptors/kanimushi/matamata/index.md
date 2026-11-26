@@ -43,7 +43,6 @@ topics:
     images:
       - 'img/matamata009.jpg'
 titleId: 'sculptors/kanimushi'
-figureId: '005'
 ---
 
 原型制作：生物部 蟹蟲修造<br />

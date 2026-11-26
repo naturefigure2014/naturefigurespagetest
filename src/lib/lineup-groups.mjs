@@ -3,6 +3,24 @@ const normalizeId = (id) => id.replace(/\/index(?:\.md)?$/, "");
 /**
  * @template {{ id: string }} T
  * @param {T[]} lineup
+ * @param {string[]} figureIds
+ * @returns {T[]}
+ */
+export function orderLineupByFigureIds(lineup, figureIds) {
+  /** @type {Map<string, T[]>} */
+  const figuresById = new Map();
+  for (const figure of lineup) {
+    const id = normalizeId(figure.id);
+    const matches = figuresById.get(id) ?? [];
+    matches.push(figure);
+    figuresById.set(id, matches);
+  }
+  return [...new Set(figureIds.map(normalizeId))].flatMap((id) => figuresById.get(id) ?? []);
+}
+
+/**
+ * @template {{ id: string }} T
+ * @param {T[]} lineup
  * @param {{ title: string, figureIds: string[] }[]} groups
  * @param {string} [heading]
  * @returns {{ title: string, figures: T[] }[]}

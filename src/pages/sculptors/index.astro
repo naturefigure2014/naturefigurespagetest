@@ -1,11 +1,17 @@
 ---
 import "../../styles/global.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import MakerCardBadges from "../../components/MakerCardBadges.astro";
 import { getEntry } from "astro:content";
+import { getSortedCollection as getCollection } from "../../lib/content";
+import { resolveFigureImage } from "../../lib/figure-images";
+import { getCreatorFigures } from "../../lib/creator-figures.mjs";
 import { siteUrl } from "../../lib/site-url";
 
 const page = await getEntry("sculptors", "index");
 if (!page) throw new Error("クリエイター一覧のコンテンツが見つかりません。");
+const figures = await getCollection("figures");
+const normalizeId = (id: string) => id.replace(/\/index(?:\.md)?$/, "");
 ---
 
 <BaseLayout title={`${page.data.title} | NATURE FIGURE`}>
@@ -27,6 +33,19 @@ if (!page) throw new Error("クリエイター一覧のコンテンツが見つ�
               <div><h2>{creator.name}</h2></div>
               {creator.href && <a href={creator.href.startsWith("/") ? siteUrl(creator.href) : creator.href}>一覧→</a>}
             </header>
+            <div class="maker-pickup-grid sculptor-pickup-grid">
+              {getCreatorFigures(figures, creator).map((figure) => {
+                const image = resolveFigureImage(figure.id, figure.data.coverImage);
+                return (
+                  <a class="maker-pickup-card" href={siteUrl(`/figures/${normalizeId(figure.id)}/`)}>
+                    {image ? <img src={image} alt="" loading="lazy" /> : <span class="maker-pickup-placeholder">FIGURE</span>}
+                    {image && <MakerCardBadges collectionStatus={figure.data.collectionStatus} />}
+                    <span class="maker-pickup-caption"><strong>{figure.data.shortTitle || figure.data.title}</strong></span>
+                    <span class="maker-pickup-arrow" aria-hidden="true">›</span>
+                  </a>
+                );
+              })}
+            </div>
           </section>
         ))}
       </div>

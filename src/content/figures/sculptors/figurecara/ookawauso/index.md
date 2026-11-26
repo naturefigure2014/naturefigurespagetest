@@ -37,7 +37,6 @@ topics:
       - 'img/ookawauso008.jpg'
       - 'img/ookawauso009.jpg'
 titleId: 'sculptors/figurecara'
-figureId: '006'
 ---
 
 原型制作：ごいち<br />

@@ -31,7 +31,6 @@ topics:
     images:
       - 'img/tsumebakei009.jpg'
 titleId: 'sculptors/figurecara'
-figureId: '001'
 ---
 
 原型制作：ごいち<br />

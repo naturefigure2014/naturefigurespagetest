@@ -191,7 +191,8 @@ const sculptors = defineCollection({
     description: z.string().optional(),
     creators: z.array(z.object({
       name: z.string(),
-      href: z.string().optional()
+      href: z.string().optional(),
+      figureFolder: z.string().optional()
     }))
   })
 });

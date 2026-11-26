@@ -3,7 +3,6 @@ title: 'カバちゃん Ver.2'
 description: ''
 contentType: 'figure'
 titleId: 'sculptors/RBenStudio'
-figureId: '001'
 figureTopImage: 'kabachan001.jpg'
 coverImage: 'kabachan001.jpg'
 topics:

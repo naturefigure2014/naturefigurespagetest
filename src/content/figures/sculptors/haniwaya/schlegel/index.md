@@ -52,7 +52,6 @@ topics:
     images: []
     comment: 'いきもにあ2022で撮影。'
 titleId: 'sculptors/haniwaya'
-figureId: '001'
 ---
 
 原型制作：はにわや工房<br />

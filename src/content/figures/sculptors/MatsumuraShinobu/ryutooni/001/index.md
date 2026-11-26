@@ -3,7 +3,6 @@ title: "龍の頭骨"
 description: ""
 contentType: figure
 titleId: sculptors/MatsumuraShinobu/ryutooni
-figureId: "002"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"

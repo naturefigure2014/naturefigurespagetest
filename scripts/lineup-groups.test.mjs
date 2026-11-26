@@ -1,8 +1,19 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { groupLineup } from "../src/lib/lineup-groups.mjs";
+import { groupLineup, orderLineupByFigureIds } from "../src/lib/lineup-groups.mjs";
 
 const lineup = [{ id: "series/001" }, { id: "series/002/index.md" }, { id: "series/003" }];
+
+test("orders listed figures by ID, normalizing IDs and ignoring duplicate or missing entries", () => {
+  assert.deepEqual(orderLineupByFigureIds(lineup, [
+    "series/003", "series/002", "series/002/index.md", "series/missing", "series/001"
+  ]), [lineup[2], lineup[1], lineup[0]]);
+});
+
+test("keeps all figures that share a normalized ID", () => {
+  const figures = [{ id: "series/001" }, { id: "series/001/index.md" }];
+  assert.deepEqual(orderLineupByFigureIds(figures, ["series/001"]), figures);
+});
 
 test("keeps the existing single lineup when groups are absent", () => {
   assert.deepEqual(groupLineup(lineup, []), [{ title: "ラインナップ", figures: lineup }]);
