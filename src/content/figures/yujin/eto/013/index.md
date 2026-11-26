@@ -6,7 +6,7 @@ titleId: yujin/eto
 figureId: "013"
 maker: "ユージン"
 sculptor: "-"
-species: "シークレット ネコ"
+species: "ニホンネコ"
 price: "百園 監修：奥山秀輝 協力：宮島町立宮島水族館"
 releaseStart: "2003.01"
 genre:
