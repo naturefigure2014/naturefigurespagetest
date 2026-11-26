@@ -6,7 +6,7 @@ titleId: BANDAI/ikimono_advance/hercules_advance
 figureId: "001"
 maker: "バンダイ"
 sculptor: "-"
-species: "ヘラクレスオオカブト ヘラクレス・ヘラクレス"
+species: "ヘラクレスオオカブト"
 price: "1,500円（カプセル）、1,700円（オンライン）"
 releaseStart: "2023.11"
 genre:
