@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "タツノオトシゴ"
-speciesGroup: "その他魚類"
+speciesGroup: "タツノオトシゴ類"
 price: "-"
 releaseStart: "2000.02"
 genre:

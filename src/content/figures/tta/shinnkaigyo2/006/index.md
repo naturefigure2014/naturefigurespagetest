@@ -6,7 +6,7 @@ titleId: tta/shinnkaigyo2
 figureId: "006"
 maker: "-"
 sculptor: "-"
-species: "ラティメリア"
+species: "シーラカンス"
 price: "200円 公式ページ： コチラ"
 releaseStart: "2011.02"
 genre:

@@ -7,7 +7,7 @@ figureId: "003"
 maker: "フォーコーポレーション"
 sculptor: "-"
 species: "タマカイ"
-speciesGroup: "サメ・エイ類"
+speciesGroup: "ハタ類"
 price: "時価？"
 releaseStart: "2017.08"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "アゴヌケホシエソ"
-speciesGroup: "その他魚類"
+speciesGroup: "深海魚類"
 price: "500円 造形企画制作：海洋堂 制作総指揮：松村しのぶ"
 releaseStart: "2017.07"
 genre:

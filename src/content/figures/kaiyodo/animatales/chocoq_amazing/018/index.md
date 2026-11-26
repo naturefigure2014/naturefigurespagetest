@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "クマドリイザリウオ"
-speciesGroup: "食肉類"
+speciesGroup: "アンコウ・カエルアンコウ類"
 price: "-"
 releaseStart: "2003.11"
 genre:

@@ -7,7 +7,7 @@ figureId: "002"
 maker: "バンダイ"
 sculptor: "-"
 species: "ポリプテルス・エンドリケリー"
-speciesGroup: "その他魚類"
+speciesGroup: "古代魚類"
 price: "500円"
 releaseStart: "2023.10"
 genre:

@@ -7,7 +7,7 @@ figureId: "002"
 maker: "バンダイ"
 sculptor: "-"
 species: "カクレクマノミ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "クマノミ・スズメダイ類"
 price: "500円"
 releaseStart: "2025.08"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "松村しのぶ"
 species: "ミドリフサアンコウ"
-speciesGroup: "その他魚類"
+speciesGroup: "アンコウ・カエルアンコウ類"
 price: "500円"
 releaseStart: "2016.05"
 genre:

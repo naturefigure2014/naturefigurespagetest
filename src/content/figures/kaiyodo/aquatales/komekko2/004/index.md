@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "バショウカジキ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "カジキ類"
 price: "-"
 releaseStart: "2003.01"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷中"
 executiveProducer: "-"
 species: "ホソミクジラウオ"
-speciesGroup: "その他魚類"
+speciesGroup: "深海魚類"
 price: "-"
 releaseStart: "2001.09"
 genre:

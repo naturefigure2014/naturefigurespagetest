@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/uokore
 figureId: "001"
 species: "マアジ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "アジ類"
 maker: "海洋堂"
 sculptor: "村田明玄"
 figureTopImage: "uokore008.jpg"

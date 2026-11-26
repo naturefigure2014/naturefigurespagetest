@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "ユウゼン"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "チョウチョウウオ・キンチャクダイ類"
 price: "300円 企画造形製作：海洋堂 造形総指揮：松村しのぶ"
 releaseStart: "2012.05"
 genre:

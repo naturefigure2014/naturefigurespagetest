@@ -7,7 +7,7 @@ figureId: "006"
 maker: "システムサービス株式会社 鳥羽水族館監修"
 sculptor: "-"
 species: "ホワイトソックス"
-speciesGroup: "その他魚類"
+speciesGroup: "エビ類"
 price: "200円"
 releaseStart: "-"
 genre:

@@ -9,7 +9,7 @@ maker: "海洋堂"
 sculptor: "？？？"
 executiveProducer: "-"
 species: "ピラニア・ナッテリィ"
-speciesGroup: "その他魚類"
+speciesGroup: "熱帯魚類"
 price: "-"
 releaseStart: "-"
 genre:

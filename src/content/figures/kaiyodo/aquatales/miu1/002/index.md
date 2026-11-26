@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "チョウチンアンコウ"
-speciesGroup: "その他魚類"
+speciesGroup: "アンコウ・カエルアンコウ類"
 price: "は1個300円。"
 releaseStart: "2001.04"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志 スケール：1/7"
 executiveProducer: "松村しのぶ"
 species: "タテジマキンチャクダイ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "チョウチョウウオ・キンチャクダイ類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2008.08"
 genre:

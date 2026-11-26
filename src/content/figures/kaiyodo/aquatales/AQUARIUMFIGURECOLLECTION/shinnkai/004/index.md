@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "松村しのぶ"
 species: "ミズウオ"
-speciesGroup: "その他魚類"
+speciesGroup: "深海魚類"
 price: "500円"
 releaseStart: "2016.05"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "カスリハタ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "ハタ類"
 price: "-"
 releaseStart: "2002.07"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "ハナオコゼ"
-speciesGroup: "その他魚類"
+speciesGroup: "アンコウ・カエルアンコウ類"
 price: "-"
 releaseStart: "2003.01"
 genre:

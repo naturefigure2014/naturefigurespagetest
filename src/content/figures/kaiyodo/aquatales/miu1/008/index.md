@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷中"
 executiveProducer: "-"
 species: "オニキンメ"
-speciesGroup: "その他魚類"
+speciesGroup: "深海魚類"
 price: "は1個300円。"
 releaseStart: "2001.04"
 genre:

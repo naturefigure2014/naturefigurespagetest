@@ -7,7 +7,7 @@ figureId: "008"
 maker: "エポック社"
 sculptor: "-"
 species: "オオチョウザメ"
-speciesGroup: "サメ・エイ類"
+speciesGroup: "古代魚類"
 price: "200円"
 releaseStart: "2003.06"
 genre:

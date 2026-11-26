@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "バステト神"
-speciesGroup: "その他魚類"
+speciesGroup: "幻獣"
 price: "-"
 releaseStart: "2002.09"
 genre:

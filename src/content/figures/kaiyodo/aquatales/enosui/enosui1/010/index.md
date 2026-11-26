@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "トウジン"
-speciesGroup: "その他魚類"
+speciesGroup: "深海魚類"
 price: "200円 造形企画製作：海洋堂 公式サイト： コチラ"
 releaseStart: "2004.04"
 genre:

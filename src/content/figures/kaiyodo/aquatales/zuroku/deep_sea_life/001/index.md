@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎 スケール：1/3"
 executiveProducer: "松村しのぶ"
 species: "デメニギス"
-speciesGroup: "その他魚類"
+speciesGroup: "深海魚類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2014.03"
 genre:

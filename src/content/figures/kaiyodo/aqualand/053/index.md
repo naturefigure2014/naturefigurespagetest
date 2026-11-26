@@ -9,7 +9,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ハマクマノミ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "クマノミ・スズメダイ類"
 price: "-"
 releaseStart: "-"
 genre:

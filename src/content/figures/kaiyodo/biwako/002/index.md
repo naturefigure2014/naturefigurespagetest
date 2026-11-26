@@ -7,7 +7,7 @@ figureId: "002"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 species: "オオクチバス"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "バス類"
 price: "840円"
 releaseStart: "-"
 genre:
