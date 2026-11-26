@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "オオクチバス"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "バス類"
 price: "-"
 releaseStart: "2000.02"
 genre:

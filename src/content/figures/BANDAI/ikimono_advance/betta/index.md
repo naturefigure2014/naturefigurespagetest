@@ -13,7 +13,7 @@ figureIds:
 seriesName: "-"
 releaseStart: "2023.11"
 price: "1,500円"
-species: "トウギョ〈闘魚〉。"
+species: "ベタ"
 genre:
   - "-"
 tags:

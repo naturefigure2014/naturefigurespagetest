@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "バショウカジキ"
-speciesGroup: スズキ目の魚類
+speciesGroup: "カジキ類"
 price: "1900円"
 releaseStart: "2013.04"
 genre:

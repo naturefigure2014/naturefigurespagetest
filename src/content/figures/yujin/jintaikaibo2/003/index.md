@@ -6,7 +6,8 @@ titleId: yujin/jintaikaibo2
 figureId: "003"
 maker: "ユージン"
 sculptor: "鈴木貴雄"
-species: "目の構造模型"
+themes:
+  - "その他人体"
 price: "200円 製作協力：株式会社京都科学、株式会社ニッシン"
 releaseStart: "2005.12"
 genre:

@@ -6,7 +6,8 @@ titleId: yujin/jintaikaibo1
 figureId: "008"
 maker: "ユージン"
 sculptor: "-"
-species: "皮膚断面ブロック"
+themes:
+  - "その他人体"
 price: "200円 製作協力：株式会社京都科学"
 releaseStart: "2004.05"
 genre:

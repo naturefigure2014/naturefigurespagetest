@@ -6,7 +6,7 @@ titleId: ikimon/mono/upa_berutsuno
 figureId: "001"
 maker: "いきもん 公式ページ："
 sculptor: "KOW 企画総指揮：佐藤純也"
-species: "ウーパールーパー"
+species: "メキシコサラマンダー"
 price: "400円"
 releaseStart: "2018.01"
 genre:

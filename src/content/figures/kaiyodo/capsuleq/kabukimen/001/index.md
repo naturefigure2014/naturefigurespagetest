@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/kabukimen
 figureId: "001"
-species: "忠信"
-speciesGroup: "その他/未分類"
+themes:
+  - "歌舞伎"
 maker: "海洋堂"
 figureTopImage: "kabuki009.jpg"
 coverImage: "kabuki009.jpg"

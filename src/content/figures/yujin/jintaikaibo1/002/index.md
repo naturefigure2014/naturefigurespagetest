@@ -6,7 +6,8 @@ titleId: yujin/jintaikaibo1
 figureId: "002"
 maker: "ユージン"
 sculptor: "-"
-species: "脳の構造模型"
+themes:
+  - "その他人体"
 price: "200円 製作協力：株式会社京都科学"
 releaseStart: "2004.05"
 genre:

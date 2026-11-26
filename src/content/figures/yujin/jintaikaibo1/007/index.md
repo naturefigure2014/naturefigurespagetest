@@ -6,7 +6,8 @@ titleId: yujin/jintaikaibo1
 figureId: "007"
 maker: "ユージン"
 sculptor: "-"
-species: "人体解剖模型"
+themes:
+  - "内臓"
 price: "200円 製作協力：株式会社京都科学"
 releaseStart: "2004.05"
 genre:

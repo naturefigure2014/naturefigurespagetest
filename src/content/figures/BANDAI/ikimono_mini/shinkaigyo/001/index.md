@@ -7,7 +7,7 @@ figureId: "001"
 maker: "バンダイ"
 sculptor: "-"
 species: "リュウグウノツカイ"
-speciesGroup: "その他魚類"
+speciesGroup: "深海魚類"
 price: "500円"
 releaseStart: "2024.02"
 genre:

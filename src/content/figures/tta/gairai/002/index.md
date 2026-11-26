@@ -6,7 +6,7 @@ titleId: tta/gairai
 figureId: "002"
 maker: "-"
 sculptor: "-"
-species: "アカミミガメ"
+species: "ミシシッピアカミミガメ"
 price: "200円"
 releaseStart: "2010.09"
 genre:

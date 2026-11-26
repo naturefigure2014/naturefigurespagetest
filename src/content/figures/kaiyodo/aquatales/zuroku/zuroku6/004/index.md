@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "寺岡邦明 スケール：1/6"
 executiveProducer: "松村しのぶ"
 species: "セダカヤッコ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "チョウチョウウオ・キンチャクダイ類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2013.04"
 genre:

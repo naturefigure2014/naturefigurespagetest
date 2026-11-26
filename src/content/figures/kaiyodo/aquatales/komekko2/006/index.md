@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "ハタタテダイ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "チョウチョウウオ・キンチャクダイ類"
 price: "-"
 releaseStart: "2003.01"
 genre:

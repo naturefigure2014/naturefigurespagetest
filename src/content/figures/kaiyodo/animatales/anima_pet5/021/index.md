@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ポリプテルス・エンドリケリー"
-speciesGroup: "その他魚類"
+speciesGroup: "古代魚類"
 price: "-"
 releaseStart: "2005.10"
 genre:

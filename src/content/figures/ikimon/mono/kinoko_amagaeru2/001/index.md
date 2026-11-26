@@ -6,7 +6,7 @@ titleId: ikimon/mono/kinoko_amagaeru2
 figureId: "001"
 maker: "いきもん"
 sculptor: "KOW 企画総指揮：佐藤純也"
-species: "アマガエル"
+species: "ニホンアマガエル"
 price: "400円"
 releaseStart: "2016.10"
 genre:

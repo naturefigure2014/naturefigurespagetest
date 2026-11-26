@@ -91,7 +91,12 @@ speciesEntries:
   - species: 'スピノサウルス'
     speciesGroup: '獣脚類'
   - species: 'オンコプリスティス'
+<<<<<<< HEAD
     speciesGroup: 'その他の動物'
+=======
+    speciesGroup: '古代の魚類'
+figureId: '001'
+>>>>>>> 25c3d313b547f4b04fa124b720fbbfa6107cef4d
 ---
 
 原型制作：ogyhara<br />

@@ -10,7 +10,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "ムツゴロウ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "ハゼ類"
 price: "-"
 releaseStart: "2005.07"
 genre:

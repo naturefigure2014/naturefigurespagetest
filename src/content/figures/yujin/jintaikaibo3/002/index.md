@@ -6,7 +6,8 @@ titleId: yujin/jintaikaibo3
 figureId: "002"
 maker: "ユージン"
 sculptor: "重松優志（EXPO）"
-species: "足の筋肉"
+themes:
+  - "筋肉"
 price: "300円 製作協力：株式会社京都科学"
 releaseStart: "2008.11"
 genre:

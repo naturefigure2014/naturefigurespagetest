@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/nihonnoshiro1
 figureId: "004"
-species: "高知城"
-speciesGroup: "その他/未分類"
+themes:
+  - "日本の城"
 maker: "海洋堂"
 figureTopImage: "nihonnoshiro004.jpg"
 coverImage: "nihonnoshiro004.jpg"

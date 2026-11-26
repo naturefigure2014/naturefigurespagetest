@@ -4,8 +4,9 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/nihonkitte
 figureId: "002"
-species: "市川鰕蔵の竹村定之進"
-speciesGroup: "その他/未分類"
+themes:
+  - "日本画"
+  - "歌舞伎"
 maker: "海洋堂"
 sculptor: "村田明玄"
 figureTopImage: "kitte003.jpg"

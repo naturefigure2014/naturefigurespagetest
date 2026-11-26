@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/nihonnoshiro2
 figureId: "001"
-species: "城郭"
-speciesGroup: "その他/未分類"
+themes:
+  - "日本の城"
 maker: "海洋堂"
 sculptor: "市原俊成"
 figureTopImage: "nihonnoshiro2_011.jpg"

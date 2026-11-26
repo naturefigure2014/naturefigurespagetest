@@ -21,6 +21,12 @@ groups:
           - その他乗り物
       - 道具
       - ロボット
+      - name: 人体
+        children:
+          - 骨格
+          - 筋肉
+          - 内臓
+          - その他人体
   アート:
     subgroups:
       - name: 日本画

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志 スケール：1/3"
 executiveProducer: "松村しのぶ"
 species: "オオウミウマ"
-speciesGroup: "その他魚類"
+speciesGroup: "タツノオトシゴ類"
 price: "200円→300円 造形企画製作：海洋堂"
 releaseStart: "2007.04"
 genre:

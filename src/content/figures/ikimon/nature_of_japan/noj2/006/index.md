@@ -6,7 +6,7 @@ titleId: ikimon/nature_of_japan/noj2
 figureId: "006"
 maker: "いきもん"
 sculptor: "平田隆行"
-species: "ヤエヤマセマルハコガメ"
+species: "セマルハコガメ"
 price: "500円"
 releaseStart: "2025.05"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アユカケ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "カジカ類"
 price: "-"
 releaseStart: "2000.09"
 genre:

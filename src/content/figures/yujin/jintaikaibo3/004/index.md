@@ -6,7 +6,8 @@ titleId: yujin/jintaikaibo3
 figureId: "004"
 maker: "ユージン"
 sculptor: "？？？"
-species: "腸解剖模型"
+themes:
+  - "内臓"
 price: "300円 製作協力：株式会社京都科学"
 releaseStart: "2008.11"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ウケクチウグイ"
-speciesGroup: "その他魚類"
+speciesGroup: "コイ・フナ類"
 price: "-"
 releaseStart: "2003.03"
 genre:

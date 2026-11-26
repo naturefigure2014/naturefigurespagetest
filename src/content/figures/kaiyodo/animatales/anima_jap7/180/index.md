@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "キヌバリ"
-speciesGroup: "その他魚類"
+speciesGroup: "ハゼ類"
 price: "-"
 releaseStart: "2003.03"
 genre:

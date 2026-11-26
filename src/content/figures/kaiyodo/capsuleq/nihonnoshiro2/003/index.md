@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/nihonnoshiro2
 figureId: "003"
-species: "金鯱"
-speciesGroup: "その他/未分類"
+themes:
+  - "日本の城"
 maker: "海洋堂"
 sculptor: "鈴川大葵"
 figureTopImage: "nihonnoshiro2_008.jpg"

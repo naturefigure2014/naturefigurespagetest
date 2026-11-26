@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "リストロサウルス"
-speciesGroup: "その他古生物"
+speciesGroup: "古生物/古代の爬虫類"
 price: "158円"
 releaseStart: "2002.07"
 genre:

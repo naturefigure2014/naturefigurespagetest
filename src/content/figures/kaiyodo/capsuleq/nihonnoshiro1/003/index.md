@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/nihonnoshiro1
 figureId: "003"
-species: "熊本城"
-speciesGroup: "その他/未分類"
+themes:
+  - "日本の城"
 maker: "海洋堂"
 figureTopImage: "nihonnoshiro009.jpg"
 coverImage: "nihonnoshiro009.jpg"

@@ -6,7 +6,8 @@ titleId: yujin/jintaikaibo3
 figureId: "007"
 maker: "ユージン"
 sculptor: "？？？"
-species: ""
+themes:
+  - "その他人体"
 price: "300円 製作協力：株式会社京都科学"
 releaseStart: "2008.11"
 genre:

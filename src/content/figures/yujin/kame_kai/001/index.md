@@ -6,7 +6,7 @@ titleId: yujin/kame_kai
 figureId: "001"
 maker: "ユージン"
 sculptor: "KOW"
-species: "ミドリガメ"
+species: "ミシシッピアカミミガメ"
 price: "100円"
 releaseStart: "2004.03"
 genre:

@@ -7,7 +7,7 @@ figureId: "004"
 maker: "カバヤ"
 sculptor: "-"
 species: "ピラニア"
-speciesGroup: "その他魚類"
+speciesGroup: "熱帯魚類"
 price: "180円"
 releaseStart: "2003.05"
 genre:

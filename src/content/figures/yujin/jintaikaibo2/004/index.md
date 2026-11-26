@@ -6,7 +6,8 @@ titleId: yujin/jintaikaibo2
 figureId: "004"
 maker: "ユージン"
 sculptor: "小野哲也"
-species: "胃模型"
+themes:
+  - "内臓"
 price: "200円 製作協力：株式会社京都科学、株式会社ニッシン"
 releaseStart: "2005.12"
 genre:

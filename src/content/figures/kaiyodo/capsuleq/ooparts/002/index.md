@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/ooparts
 figureId: "002"
-species: "アカンバロ恐竜土偶A"
-speciesGroup: "その他/未分類"
+themes:
+  - "中南米の古代文明"
 maker: "海洋堂"
 figureTopImage: "occult007.jpg"
 coverImage: "occult007.jpg"

@@ -6,7 +6,7 @@ titleId: BANDAI/ikimono_advance/betta
 figureId: "001"
 maker: "バンダイ"
 sculptor: "-"
-species: "トウギョ〈闘魚〉。"
+species: "ベタ"
 price: "1,500円"
 releaseStart: "2023.11"
 genre:

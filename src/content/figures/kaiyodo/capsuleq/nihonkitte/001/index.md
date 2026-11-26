@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/nihonkitte
 figureId: "001"
-species: "月に雁"
-speciesGroup: "その他/未分類"
+themes:
+  - "日本画"
 maker: "海洋堂"
 sculptor: "村田明玄"
 figureTopImage: "kitte009.jpg"

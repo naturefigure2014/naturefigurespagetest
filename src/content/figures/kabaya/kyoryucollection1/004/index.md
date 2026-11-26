@@ -6,7 +6,7 @@ titleId: kabaya/kyoryucollection1
 figureId: "004"
 maker: "カバヤ"
 sculptor: "荒木一成"
-species: "ディノニクス"
+species: "デイノニクス"
 speciesGroup: "獣脚類"
 price: "３００円"
 releaseStart: "2005.07"

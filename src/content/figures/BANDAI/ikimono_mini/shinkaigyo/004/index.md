@@ -7,7 +7,7 @@ figureId: "004"
 maker: "バンダイ"
 sculptor: "-"
 species: "チョウチンアンコウ"
-speciesGroup: "その他魚類"
+speciesGroup: "アンコウ・カエルアンコウ類"
 price: "500円"
 releaseStart: "2024.02"
 genre:

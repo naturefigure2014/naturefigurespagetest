@@ -6,7 +6,7 @@ titleId: BANDAI/ikimono_mini/konchu01
 figureId: "003"
 maker: "バンダイ"
 sculptor: "-"
-species: "ヘラクレス・ヘラクレス"
+species: "ヘラクレスオオカブト"
 price: "400円"
 releaseStart: "2022.08"
 genre:

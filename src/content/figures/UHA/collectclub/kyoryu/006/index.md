@@ -7,7 +7,7 @@ figureId: "006"
 maker: "UHA味覚糖"
 sculptor: "林 雪真紗"
 species: "オピストコエリカウティア"
-speciesGroup: "その他古生物"
+speciesGroup: "竜脚類"
 price: "-"
 releaseStart: "2005.12"
 genre:

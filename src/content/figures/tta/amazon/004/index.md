@@ -6,7 +6,7 @@ titleId: tta/amazon
 figureId: "004"
 maker: "タカラトミー"
 sculptor: "-"
-species: "ヘラクレスオオカブトムシ"
+species: "ヘラクレスオオカブト"
 price: "300円"
 releaseStart: "2015.05"
 genre:

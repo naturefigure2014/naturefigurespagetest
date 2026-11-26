@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: "ポリプティコセラス"
-speciesGroup: "その他古生物"
+speciesGroup: "古代のアンモナイト類"
 price: "-"
 releaseStart: "2006.01"
 genre:

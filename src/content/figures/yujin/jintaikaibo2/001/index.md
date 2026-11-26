@@ -6,7 +6,8 @@ titleId: yujin/jintaikaibo2
 figureId: "001"
 maker: "ユージン"
 sculptor: "木本 諒"
-species: "人体骨格模型"
+themes:
+  - "骨格"
 price: "200円 製作協力：株式会社京都科学、株式会社ニッシン"
 releaseStart: "2005.12"
 genre:

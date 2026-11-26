@@ -19,7 +19,7 @@ price: "300円"
 speciesEntries:
   - species: "ティラノサウルス"
     speciesGroup: "獣脚類"
-  - species: "ユウティラヌス"
+  - species: "ユティランヌス・フアリ"
     speciesGroup: "獣脚類"
 genre:
   - "-"

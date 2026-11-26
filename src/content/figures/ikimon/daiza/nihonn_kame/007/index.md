@@ -6,7 +6,7 @@ titleId: ikimon/daiza/nihonn_kame
 figureId: "007"
 maker: "奇譚クラブ"
 sculptor: "KOW 企画総指揮：佐藤純也"
-species: "ヤエヤマセマルハコガメ"
+species: "セマルハコガメ"
 price: "300円"
 releaseStart: "2010.05"
 genre:

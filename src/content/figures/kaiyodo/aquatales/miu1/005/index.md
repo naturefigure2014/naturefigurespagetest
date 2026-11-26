@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "山本聖士"
 executiveProducer: "-"
 species: "センジュナマコ"
-speciesGroup: "その他の動物"
+speciesGroup: "棘皮動物類"
 price: "は1個300円。"
 releaseStart: "2001.04"
 genre:

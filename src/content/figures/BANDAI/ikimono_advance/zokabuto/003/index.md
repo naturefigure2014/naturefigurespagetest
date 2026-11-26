@@ -6,7 +6,7 @@ titleId: BANDAI/ikimono_advance/zokabuto
 figureId: "003"
 maker: "バンダイ"
 sculptor: "-"
-species: "ヘラクレス・エクアトリアヌス"
+species: "ヘラクレスオオカブト"
 price: "1,500円/1,800円（カプセル/オンライン）"
 releaseStart: "2024.08"
 genre:

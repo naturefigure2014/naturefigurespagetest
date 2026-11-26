@@ -6,7 +6,8 @@ titleId: yujin/jintaikaibo3
 figureId: "001"
 maker: "ユージン"
 sculptor: "木本 諒（EXPO）"
-species: ""
+themes:
+  - "筋肉"
 price: "300円 製作協力：株式会社京都科学"
 releaseStart: "2008.11"
 genre:

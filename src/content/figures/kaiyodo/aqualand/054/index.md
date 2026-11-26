@@ -9,7 +9,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "フエヤッコダイ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "チョウチョウウオ・キンチャクダイ類"
 price: "-"
 releaseStart: "-"
 genre:

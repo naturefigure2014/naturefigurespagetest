@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "ムカシトカゲ"
-speciesGroup: "その他古生物"
+speciesGroup: "古生物/古代の爬虫類"
 price: "158円"
 releaseStart: "2001.08"
 genre:

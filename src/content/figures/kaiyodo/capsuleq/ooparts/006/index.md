@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/ooparts
 figureId: "006"
-species: "黄金ジェット"
-speciesGroup: "その他/未分類"
+themes:
+  - "中南米の古代文明"
 maker: "海洋堂"
 figureTopImage: "occult003.jpg"
 coverImage: "occult003.jpg"

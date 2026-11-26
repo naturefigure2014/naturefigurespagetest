@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中"
 executiveProducer: "-"
 species: "クレナイホシエソ"
-speciesGroup: "その他魚類"
+speciesGroup: "深海魚類"
 price: "-"
 releaseStart: "2004.12"
 genre:

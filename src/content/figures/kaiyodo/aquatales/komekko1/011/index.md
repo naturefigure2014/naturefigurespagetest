@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "イトヒキアジ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "アジ類"
 price: "-"
 releaseStart: "2002.07"
 genre:
