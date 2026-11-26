@@ -3,7 +3,6 @@ title: "1弾販促品 特大ポップ"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales1_sp
-figureId: "004"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
@@ -15,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "販促品"
 figureTopImage: "dino1_sp008.jpg"
 coverImage: "dino1_sp008.jpg"
 topics:

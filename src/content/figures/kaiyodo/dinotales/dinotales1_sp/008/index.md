@@ -3,7 +3,6 @@ title: "4弾販促品 棚"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales1_sp
-figureId: "008"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
@@ -15,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "販促品"
 figureTopImage: "chocora4disp003.jpg"
 coverImage: "chocora4disp003.jpg"
 topics:

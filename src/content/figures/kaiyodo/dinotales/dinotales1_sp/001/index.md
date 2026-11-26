@@ -3,7 +3,6 @@ title: "1弾キャンペーン品 1/20スケールティラノサウルス(白)"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales1_sp
-figureId: "001"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
@@ -15,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "キャンペーングッズ"
 figureTopImage: "dino1_sp007.jpg"
 coverImage: "dino1_sp007.jpg"
 topics:

@@ -3,7 +3,6 @@ title: "1弾キャンペーン品 コレクションボックス"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales1_sp
-figureId: "002"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
@@ -15,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "コレクションボックス"
 figureTopImage: "dino1_sp002.jpg"
 coverImage: "dino1_sp002.jpg"
 topics:
