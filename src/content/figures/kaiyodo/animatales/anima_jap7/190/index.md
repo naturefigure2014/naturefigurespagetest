@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ハマグリ"
-speciesGroup: "その他軟体動物"
+speciesGroup: "二枚貝類"
 price: "-"
 releaseStart: "2003.03"
 genre:

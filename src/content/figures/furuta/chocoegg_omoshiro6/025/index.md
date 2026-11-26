@@ -7,7 +7,7 @@ figureId: "025"
 maker: "フルタ製菓 公式サイト： コチラ"
 sculptor: "-"
 species: "クリオネ"
-speciesGroup: "その他軟体動物"
+speciesGroup: "クリオネ類"
 price: "-"
 releaseStart: "2002.09"
 genre:

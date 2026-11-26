@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ヤマトメリベ"
-speciesGroup: "カタツムリ・ナメクジ類"
+speciesGroup: "ウミウシ類"
 price: "-"
 releaseStart: "2004.10"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "菅谷 中 スケール：×2"
 executiveProducer: "-"
 species: "ハダカカメガイ"
-speciesGroup: "巻貝類"
+speciesGroup: "クリオネ類"
 price: "300円 企画造形製作：海洋堂 造形総指揮：松村しのぶ"
 releaseStart: "2011.08"
 genre:

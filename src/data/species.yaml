@@ -1469,7 +1469,6 @@ groups:
       - "スジコウイカ"
       - "スルメイカ"
       - "ダイオウイカ"
-      - "ダイオウホズキイカ"
       - "ダンゴイカ"
       - "トビイカ"
       - "ハナイカ"
@@ -1479,8 +1478,6 @@ groups:
       - "ヒメダンゴイカ"
       - "ユウレイイカ"
       - "ソデイカ"
-      - "ダイオウイカB"
-      - "ダイオウイカA"
       - "ダイオウホウズキイカ"
   タコ類:
     imageFigureId: ikimon/mono/shinkaiseibutsu1/004
@@ -1497,12 +1494,27 @@ groups:
       - "シマダコ"
       - "オオクラゲダコ"
       - "ヒカリジュウモンジダコ"
+  オウムガイ類:
+    imageFigureId: epoch/ikitakaseki/006
+    icon: "◍"
+    species:
+      - "オウムガイ"
+      - "オオベソオウムガイ"
   カタツムリ・ナメクジ類:
-    imageFigureId: ikimon/mono/umibenoikimono/001
+    imageFigureId: kaiyodo/aquatales/sumida/002
     icon: "〰"
     species:
       - "カタマイマイ"
       - "クチベニマイマイ"
+      - "かたつむり長"
+      - "ミスジマイマイ"
+      - "ナメクジ"
+      - "カタツムリ"
+      - "アオミオカタニシ"
+  ウミウシ類:
+    imageFigureId: ikimon/mono/umibenoikimono/001
+    icon: "✿"
+    species:
       - "ヤマトメリベ"
       - "キイロウミウシ"
       - "コモンウミウシ"
@@ -1512,11 +1524,9 @@ groups:
       - "フジナミウミウシ"
       - "ミズタマウミウシ"
       - "ラベンダーウミウシ"
-      - "かたつむり長"
       - "アオウミウシ"
       - "ウデフリツノザヤウミウシ"
       - "エリザベスウミウシ"
-      - "ミスジマイマイ"
       - "オトヒメウミウシ"
       - "ツノキイボウミウシ"
       - "ソライロイボウミウシ"
@@ -1524,27 +1534,13 @@ groups:
       - "シロタスキウミウシ"
       - "アオミノウミウシ"
       - "ゾウゲイロウミウシ"
-      - "ナメクジ"
-      - "カタツムリ"
+      - "ムカデミノウミウシ"
   巻貝類:
     imageFigureId: ikimon/mono/shinkaiseibutsu1/007
     icon: "◉"
     species:
-      - "アオミオカタニシ"
       - "オキナエビスガイ"
       - "ウロコフネタマガイ"
-      - "ハダカカメガイ"
-  その他軟体動物:
-    imageFigureId: ikimon/nature_of_japan/noj1/011
-    icon: "◌"
-    species:
-      - "アコヤガイ"
-      - "オオベソオウムガイ"
-      - "オウムガイ"
-      - "クリオネ"
-      - "ハマグリ"
-      - "マガキ"
-      - "ムカデミノウミウシ"
   その他/未分類:
     imageFigureId: kaiyodo/animatales/chocoegg_hansoku/002
     icon: "●"
@@ -2265,9 +2261,18 @@ groups:
     icon: "✦"
     species: []
   二枚貝類:
-    imageFigureId: ikimon/mono/umibenoikimono/001
+    imageFigureId: ikimon/nature_of_japan/noj1/011
     icon: "◇"
-    species: []
+    species:
+      - "アコヤガイ"
+      - "ハマグリ"
+      - "マガキ"
+  クリオネ類:
+    imageFigureId: kaiyodo/shokugann/hokkaido_land/006
+    icon: "✧"
+    species:
+      - "クリオネ"
+      - "ハダカカメガイ"
   古生物/古代の爬虫類:
     imageFigureId: ikimon/daiza/koseibutsu/007
     species:
@@ -2417,13 +2422,14 @@ taxonomy:
         icon: ◌
         groups:
           - カタツムリ・ナメクジ類
+          - ウミウシ類
           - 巻貝類
           - 二枚貝類
+          - クリオネ類
           - イカ類
           - タコ類
-          - その他軟体動物
+          - オウムガイ類
         groupLabels:
-          その他軟体動物: その他
         imageFigureId: ikimon/mono/umibenoikimono/001
       その他:
         icon: ◌
