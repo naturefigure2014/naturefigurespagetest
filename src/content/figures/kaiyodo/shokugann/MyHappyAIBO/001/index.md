@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "ロボット"
 figureTopImage: "myhappyaibo001.jpg"
 coverImage: "myhappyaibo001.jpg"
 topics:

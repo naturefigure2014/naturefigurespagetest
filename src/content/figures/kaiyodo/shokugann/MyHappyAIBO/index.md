@@ -22,6 +22,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "ロボット"
 freetag:
   - label: "フィギュア制作"
     value: "海洋堂"
