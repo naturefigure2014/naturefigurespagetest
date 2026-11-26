@@ -6,7 +6,7 @@ titleId: BANDAI/ikimono_dispay/yaseinoinuka
 figureId: "001"
 maker: "バンダイ"
 sculptor: "-"
-species: "狼"
+species: "シンリンオオカミ"
 price: "1,000円"
 releaseStart: "2024.10"
 genre:
