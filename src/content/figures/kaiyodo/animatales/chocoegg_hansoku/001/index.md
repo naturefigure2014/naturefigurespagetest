@@ -15,6 +15,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "販促品"
 figureTopImage: "mihon2_001.jpg"
 coverImage: "mihon2_001.jpg"
 topics:

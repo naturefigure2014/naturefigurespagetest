@@ -3,7 +3,6 @@ title: "1弾キャンペーン品 2弾販促用下敷き"
 description: ""
 contentType: figure
 titleId: kaiyodo/dinotales/dinotales1_sp
-figureId: "003"
 maker: "海洋堂"
 sculptor: "-"
 executiveProducer: "-"
@@ -15,6 +14,8 @@ genre:
   - "-"
 tags:
   - "-"
+themes:
+  - "販促品"
 figureTopImage: "dino2shitaziki1.jpg"
 coverImage: "dino2shitaziki1.jpg"
 topics:
