@@ -1392,16 +1392,10 @@ groups:
       - "フチゾリネッタイコシビロダンゴムシ"
       - "アルビノダンゴムシ"
       - "ダンゴムシ"
-  その他甲殻類:
+  フジツボ類:
     imageFigureId: ikimon/mono/fujitsubo/001
-    icon: "◌"
+    icon: "◎"
     species:
-      - "ホウネンエビ"
-      - "ノロ"
-      - "ミジンコ"
-      - "シャコ"
-      - "ギガントキプリス"
-      - "オオタルマワシ"
       - "ミョウガガイ"
       - "スジエボシ"
       - "カメノテ"
@@ -1410,6 +1404,16 @@ groups:
       - "クロフジツボ"
       - "アカフジツボ"
       - "カメフジツボ"
+  その他甲殻類:
+    imageFigureId: ikimon/mono/shinkaiseibutsu1/006
+    icon: "◌"
+    species:
+      - "ホウネンエビ"
+      - "ノロ"
+      - "ミジンコ"
+      - "シャコ"
+      - "ギガントキプリス"
+      - "オオタルマワシ"
       - "ケラトセロリス属の1種"
   その他節足動物:
     imageFigureId: kaiyodo/animatales/anima_jap2/037
@@ -2254,10 +2258,6 @@ groups:
       - "トノサマバッタ"
       - "ショウリョウバッタ"
       - "ハタケノウマオイ"
-  その他の大型甲殻類:
-    imageFigureId: ikimon/daiza/tobasui3/005
-    icon: "✦"
-    species: []
   二枚貝類:
     imageFigureId: ikimon/nature_of_japan/noj1/011
     icon: "◇"
@@ -2402,7 +2402,7 @@ taxonomy:
           - カニ類
           - ヤドカリ・ロブスター類
           - ダンゴムシ・ワラジムシ類
-          - その他の大型甲殻類
+          - フジツボ類
           - その他甲殻類
         imageFigureId: ikimon/daiza/tobasui3/005
       その他節足動物:
