@@ -7,7 +7,7 @@ figureId: "003"
 maker: "システムサービス株式会社 鳥羽水族館監修"
 sculptor: "-"
 species: "オオベソオウムガイ"
-speciesGroup: "その他軟体動物"
+speciesGroup: "オウムガイ類"
 price: "200円"
 releaseStart: "-"
 genre:

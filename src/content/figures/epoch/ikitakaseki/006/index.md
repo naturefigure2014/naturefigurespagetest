@@ -7,7 +7,7 @@ figureId: "006"
 maker: "エポック社"
 sculptor: "判治靖郎"
 species: "オウムガイ"
-speciesGroup: "その他軟体動物"
+speciesGroup: "オウムガイ類"
 price: "200円"
 releaseStart: "2003.08"
 genre:

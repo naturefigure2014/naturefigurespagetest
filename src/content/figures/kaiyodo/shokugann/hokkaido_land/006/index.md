@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
 species: "クリオネ"
-speciesGroup: "その他軟体動物"
+speciesGroup: "クリオネ類"
 price: "470円"
 releaseStart: "2013.07"
 genre:

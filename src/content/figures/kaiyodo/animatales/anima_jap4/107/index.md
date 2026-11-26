@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "アオミオカタニシ"
-speciesGroup: "巻貝類"
+speciesGroup: "カタツムリ・ナメクジ類"
 price: "-"
 releaseStart: "2000.09"
 genre:
