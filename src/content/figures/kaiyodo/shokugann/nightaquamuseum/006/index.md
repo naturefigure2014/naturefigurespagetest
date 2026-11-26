@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 executiveProducer: "-"
 species: ""
-speciesGroup: "その他軟体動物"
+speciesGroup: "クリオネ類"
 price: "-"
 releaseStart: "2004.12"
 genre:

@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "オウムガイ"
-speciesGroup: "その他軟体動物"
+speciesGroup: "オウムガイ類"
 price: "は1個300円。"
 releaseStart: "2001.04"
 genre:

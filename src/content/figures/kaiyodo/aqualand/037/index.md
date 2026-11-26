@@ -9,7 +9,7 @@ maker: "海洋堂"
 sculptor: "Bome"
 executiveProducer: "-"
 species: "オウムガイ"
-speciesGroup: "その他軟体動物"
+speciesGroup: "オウムガイ類"
 price: "-"
 releaseStart: "-"
 genre:
