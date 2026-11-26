@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/vegecolle
 figureId: "009"
-species: "タマネギ"
-speciesGroup: "その他/未分類"
+themes:
+  - "野菜"
 maker: "海洋堂"
 sculptor: "村田明玄"
 figureTopImage: "vege022.jpg"

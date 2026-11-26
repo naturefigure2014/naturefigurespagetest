@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/vegecolle
 figureId: "008"
-species: "ホウレンソウ"
-speciesGroup: "その他/未分類"
+themes:
+  - "野菜"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "vege020.jpg"

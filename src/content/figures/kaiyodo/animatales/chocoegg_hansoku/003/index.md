@@ -7,8 +7,8 @@ figureId: "003"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "店舗ディスプレイ用バルーン"
-speciesGroup: "その他/未分類"
+themes:
+  - "販促品"
 price: "-"
 releaseStart: "-"
 genre:

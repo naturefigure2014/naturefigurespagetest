@@ -7,8 +7,8 @@ figureId: "001"
 maker: "海洋堂"
 sculptor: "森 謙次"
 executiveProducer: "-"
-species: "侍大将"
-speciesGroup: "その他の動物"
+themes:
+  - "戦国甲冑"
 price: "-"
 releaseStart: "-"
 genre:

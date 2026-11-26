@@ -7,8 +7,8 @@ figureId: "004"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "ペット動物見本"
-speciesGroup: "その他/未分類"
+themes:
+  - "販促品"
 price: "-"
 releaseStart: "-"
 genre:

@@ -7,8 +7,8 @@ figureId: "005"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "セレクションシール"
-speciesGroup: "その他/未分類"
+themes:
+  - "キャンペーングッズ"
 price: "-"
 releaseStart: "-"
 genre:

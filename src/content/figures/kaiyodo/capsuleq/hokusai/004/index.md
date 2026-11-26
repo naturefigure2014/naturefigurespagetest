@@ -4,8 +4,6 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/hokusai
 figureId: "004"
-species: "お岩さん"
-speciesGroup: "妖怪"
 themes:
   - "葛飾北斎"
 maker: "海洋堂"

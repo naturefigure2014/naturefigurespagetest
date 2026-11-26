@@ -4,8 +4,8 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/vegecolle
 figureId: "006"
-species: "エダマメ"
-speciesGroup: "その他/未分類"
+themes:
+  - "野菜"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "vege015.jpg"
