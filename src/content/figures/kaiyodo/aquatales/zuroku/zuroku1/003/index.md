@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫 スケール：1/5"
 executiveProducer: "松村しのぶ"
 species: "トゲチョウチョウウオ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "チョウチョウウオ・キンチャクダイ類"
 price: "200円→300円 造形企画製作：海洋堂"
 releaseStart: "2007.04"
 genre:

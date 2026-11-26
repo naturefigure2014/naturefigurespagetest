@@ -6,7 +6,7 @@ titleId: BANDAI/ikimono_mini/kodaigyo02
 figureId: "001"
 maker: "バンダイ"
 sculptor: "-"
-species: "シルバーアロアナ"
+species: "シルバーアロワナ"
 price: "500円"
 releaseStart: "2023.10"
 genre:

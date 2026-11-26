@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ スケール：1/1"
 executiveProducer: "松村しのぶ"
 species: "ダンゴウオ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "カジカ類"
 price: "300円 造形企画製作：海洋堂"
 releaseStart: "2011.03"
 genre:

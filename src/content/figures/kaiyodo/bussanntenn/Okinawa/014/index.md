@@ -10,7 +10,7 @@ maker: "海洋堂"
 sculptor: "木下隆志"
 executiveProducer: "-"
 species: "熱帯魚"
-speciesGroup: "その他魚類"
+speciesGroup: "熱帯魚類"
 price: "-"
 releaseStart: "2004.07"
 genre:

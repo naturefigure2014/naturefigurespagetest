@@ -7,7 +7,7 @@ figureId: "003"
 maker: "エポック社"
 sculptor: "-"
 species: "カクレクマノミ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "クマノミ・スズメダイ類"
 price: "200円"
 releaseStart: "2010.02"
 genre:

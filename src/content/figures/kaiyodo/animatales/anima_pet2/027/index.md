@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
 species: "ディスカス"
-speciesGroup: "その他魚類"
+speciesGroup: "熱帯魚類"
 price: "-"
 releaseStart: "2001.09"
 genre:

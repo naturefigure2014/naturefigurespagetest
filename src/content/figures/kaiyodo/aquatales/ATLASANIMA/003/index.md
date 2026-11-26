@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "村田明玄 原型塗装：清水ゆう子"
 executiveProducer: "-"
 species: "タテジマキンチャクダイ"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "チョウチョウウオ・キンチャクダイ類"
 price: "200円 販売場所：新江ノ島水族館"
 releaseStart: "2005.04"
 genre:

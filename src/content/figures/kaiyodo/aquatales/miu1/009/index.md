@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
 species: "ザラビクニン"
-speciesGroup: "スズキ目の魚類"
+speciesGroup: "カジカ類"
 price: "は1個300円。"
 releaseStart: "2001.04"
 genre:
