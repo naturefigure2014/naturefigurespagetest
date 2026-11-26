@@ -6,7 +6,7 @@ titleId: furuta/chocoegg_omoshiro6
 figureId: "025"
 maker: "フルタ製菓 公式サイト： コチラ"
 sculptor: "-"
-species: "クリオネ"
+species: "ハダカカメガイ"
 speciesGroup: "クリオネ類"
 price: "-"
 releaseStart: "2002.09"
