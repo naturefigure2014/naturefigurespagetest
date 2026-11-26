@@ -13,7 +13,6 @@ figureIds:
   - kaiyodo/capsuleq/nyanslife/003
   - kaiyodo/capsuleq/nyanslife/004
   - kaiyodo/capsuleq/nyanslife/005
-  - kaiyodo/capsuleq/nyanslife/006
 releaseStart: "2022.01"
 price: "400円"
 coverImage: "img/nyans026.jpg"
@@ -23,6 +22,13 @@ resources:
     image: "img/nyansbook.jpg"
   displayPop:
     image: "img/nyansDP.jpg"
+topics:
+  - title: "キャットタワー"
+    images:
+      - "img/nyans021.jpg"
+      - "img/nyans022.jpg"
+    comment: |
+      猫１匹にベース１枚と柱２本が付属。
 ---
 
 ■概要<br />

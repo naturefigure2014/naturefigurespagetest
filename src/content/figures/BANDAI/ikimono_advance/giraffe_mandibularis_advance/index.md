@@ -10,7 +10,6 @@ figureIds:
   - BANDAI/ikimono_advance/giraffe_mandibularis_advance/002
   - BANDAI/ikimono_advance/giraffe_mandibularis_advance/003
   - BANDAI/ikimono_advance/giraffe_mandibularis_advance/004
-  - BANDAI/ikimono_advance/giraffe_mandibularis_advance/005
 seriesName: "-"
 releaseStart: "2025.02"
 price: "1,500円/1,800円（カプセル/オンライン）"
@@ -31,6 +30,16 @@ collectionImage: "img/giraffe_mandibularis030.jpg"
 resources:
   displayPop:
     image: "img/giraffe_mandibularis028.jpg"
+topics:
+  - title: "梱包"
+    images:
+      - "img/giraffe_mandibularis026.jpg"
+    comment: |
+      ギラファの大アゴは破損防止のため、紙に包まれて入っていました。 そのため、カプセルの外から中身を確認することは不可能。
+      改めて90mmカプセル。 ミニコレクションで使われるカプセルと比べるとめちゃデカい。
+  - title: "カプセル"
+    images:
+      - "img/giraffe_mandibularis027.jpg"
 ---
 
 ### 概要

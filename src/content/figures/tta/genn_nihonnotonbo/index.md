@@ -11,7 +11,6 @@ figureIds:
   - tta/genn_nihonnotonbo/003
   - tta/genn_nihonnotonbo/004
   - tta/genn_nihonnotonbo/005
-  - tta/genn_nihonnotonbo/006
 seriesName: "-"
 releaseStart: "2022.10"
 price: "400円"
@@ -32,6 +31,12 @@ collectionImage: "img/tonbo038.jpg"
 resources:
   displayPop:
     image: "img/tonboDP.jpg"
+topics:
+  - title: "台座"
+    images:
+      - "img/tonbo040.jpg"
+    comment: |
+      本作の台座は自分で組み立て＆貼り付けをする必要があります。 工数削減ですね。
 ---
 
 ### 概要

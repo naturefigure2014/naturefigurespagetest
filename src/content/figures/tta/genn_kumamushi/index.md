@@ -10,7 +10,6 @@ figureIds:
   - tta/genn_kumamushi/002
   - tta/genn_kumamushi/003
   - tta/genn_kumamushi/004
-  - tta/genn_kumamushi/005
 seriesName: "-"
 releaseStart: "2023.05"
 price: "400円"
@@ -31,6 +30,12 @@ resources:
     image: "img/kumamushibook1.jpg"
   displayPop:
     image: "img/kumamushiDP.jpg"
+topics:
+  - title: "組み立て前"
+    images:
+      - "img/kumamushi017.jpg"
+    comment: |
+      ものすごいパーツ数。 直感的に組み立てるのは不可能で、解説書をよく読みましょう。 よく読んでも、前後がよくわからないパーツがいくつかあるので注意です。 ４個組み立てるのはなかなか大変。
 ---
 
 ### 概要

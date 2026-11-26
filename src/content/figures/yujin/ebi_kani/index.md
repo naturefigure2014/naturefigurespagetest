@@ -18,7 +18,6 @@ figureIds:
   - yujin/ebi_kani/010
   - yujin/ebi_kani/011
   - yujin/ebi_kani/012
-  - yujin/ebi_kani/013
   - yujin/ebi_kani/014
   - yujin/ebi_kani/015
 seriesName: "-"
@@ -36,6 +35,12 @@ freetag:
     value: "佐藤純也"
 coverImage: "img/genn_ebikani027.jpg"
 collectionImage: "img/genn_ebikani027.jpg"
+resources:
+  guide:
+    images:
+      - "img/ebikanibook.jpg"
+      - "img/ebikanibook2.jpg"
+      - "img/ebikanibook3.jpg"
 ---
 
 ### 概要

@@ -12,7 +12,6 @@ figureIds:
   - BANDAI/ikimono_advance/purachinakogane/004
   - BANDAI/ikimono_advance/purachinakogane/005
   - BANDAI/ikimono_advance/purachinakogane/006
-  - BANDAI/ikimono_advance/purachinakogane/007
 seriesName: "-"
 releaseStart: "2024.08"
 price: "1,500円"
@@ -35,6 +34,12 @@ resources:
     image: "img/purachinakoganebook.jpg"
   displayPop:
     image: "img/purachinakoganeDP.jpg"
+topics:
+  - title: "梱包"
+    images:
+      - "img/purachinakogane015.jpg"
+    comment: |
+      プラチナコガネは完全に組み立て済み、ニジイロクワガタは大あご以外組み立て済み。 助かります。
 ---
 
 ### 概要

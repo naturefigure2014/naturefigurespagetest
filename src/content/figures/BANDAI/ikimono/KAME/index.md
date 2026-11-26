@@ -8,7 +8,6 @@ maker: "バンダイ"
 figureIds:
   - BANDAI/ikimono/KAME/001
   - BANDAI/ikimono/KAME/002
-  - BANDAI/ikimono/KAME/003
 seriesName: "-"
 releaseStart: "2019.12"
 price: "500円"
@@ -19,6 +18,18 @@ tags:
   - "-"
 coverImage: "img/kame026.jpg"
 collectionImage: "img/kame026.jpg"
+topics:
+  - title: "梱包"
+    images:
+      - "img/kame001.jpg"
+      - "img/kame002.jpg"
+    comment: |
+      プラスチックの梱包材を付けられてベンダーから出てきます。
+  - title: "梱包材のロゴ"
+    images:
+      - "img/kame023.jpg"
+    comment: |
+      梱包材にはロゴが入っていました。
 ---
 
 販売開始時期：2019年12月　発売元：バンダイ　価格：500円

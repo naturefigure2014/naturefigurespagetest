@@ -9,7 +9,6 @@ figureIds:
   - BANDAI/ikimono/suzumebachi/001
   - BANDAI/ikimono/suzumebachi/002
   - BANDAI/ikimono/suzumebachi/003
-  - BANDAI/ikimono/suzumebachi/004
   - BANDAI/ikimono/suzumebachi/005
 seriesName: "-"
 releaseStart: "2020.06"
@@ -26,6 +25,13 @@ freetag:
     value: "//t.co/etbYpxlcIH pic.twitter.com/4aXamEFwHg"
 coverImage: "img/hachi027.jpg"
 collectionImage: "img/hachi027.jpg"
+topics:
+  - title: "梱包"
+    images:
+      - "img/hachi023.jpg"
+      - "img/hachi001.jpg"
+    comment: |
+      今回はカプセルディスプレイに囲まれてベンダーに入っています。 前回のカラッパは詰まりやすい形状だったので、これなら安心。 パーツは小分け袋に入っているので色移りの心配もありません。
 ---
 
 ### 概要
