@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "サラブレッド"
 speciesGroup: "奇蹄類"
 themes:
-  - "スポーツ"
+  - "その他スポーツ"
 price: "400円"
 releaseStart: "2014.02"
 genre:
