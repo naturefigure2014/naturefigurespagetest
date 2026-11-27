@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "blog20190721_127.jpg"
 coverImage: "blog20190721_127.jpg"
+themes:
+  - "古代エジプト"
 topics:
   - title: ""
     images:
