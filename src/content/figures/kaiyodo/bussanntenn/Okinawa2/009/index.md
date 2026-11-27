@@ -3,7 +3,7 @@ title: "三線（さんしん）"
 description: ""
 contentType: figure
 themes:
-  - "祭り・伝統文化"
+  - "伝統芸能"
 titleId: kaiyodo/bussanntenn/Okinawa2
 figureId: "009"
 maker: "海洋堂"

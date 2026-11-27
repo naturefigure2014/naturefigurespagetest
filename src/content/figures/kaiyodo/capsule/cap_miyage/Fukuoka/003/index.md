@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "金印「漢委奴国王」"
 speciesGroup: "-"
 themes:
-  - "歴史資料"
+  - "日本史"
 price: "500円"
 releaseStart: "2019.04"
 genre:

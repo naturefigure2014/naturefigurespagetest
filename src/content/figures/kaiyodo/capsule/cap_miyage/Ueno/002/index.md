@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "考える人"
 speciesGroup: "-"
 themes:
-  - "美術"
+  - "西洋美術"
 price: "400円 公式サイト： コチラ"
 releaseStart: "2017.06"
 genre:

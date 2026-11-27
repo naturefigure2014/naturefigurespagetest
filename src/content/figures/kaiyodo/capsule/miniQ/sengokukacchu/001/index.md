@@ -16,7 +16,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "歴史資料"
+  - "戦国甲冑"
 figureTopImage: "kacchu010.jpg"
 coverImage: "kacchu010.jpg"
 topics:

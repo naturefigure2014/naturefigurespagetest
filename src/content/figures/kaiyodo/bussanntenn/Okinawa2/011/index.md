@@ -3,7 +3,7 @@ title: "マングローブ（ヤエヤマヒルギ）"
 description: ""
 contentType: figure
 themes:
-  - "自然・風景"
+  - "自然の景観"
 titleId: kaiyodo/bussanntenn/Okinawa2
 figureId: "011"
 maker: "海洋堂"
