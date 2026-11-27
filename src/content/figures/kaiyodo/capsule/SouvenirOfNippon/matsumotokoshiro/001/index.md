@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "matsumoto007.jpg"
 coverImage: "matsumoto007.jpg"
+themes:
+  - "歌舞伎"
 topics:
   - title: ""
     images:
