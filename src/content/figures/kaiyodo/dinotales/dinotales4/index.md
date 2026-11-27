@@ -22,14 +22,6 @@ figureIds:
   - kaiyodo/dinotales/dinotales4/013
   - kaiyodo/dinotales/dinotales4/014
   - kaiyodo/dinotales/dinotales4/015
-  - kaiyodo/dinotales/dinotales4/016
-  - kaiyodo/dinotales/dinotales4/017
-  - kaiyodo/dinotales/dinotales4/018
-  - kaiyodo/dinotales/dinotales4/019
-  - kaiyodo/dinotales/dinotales4/020
-  - kaiyodo/dinotales/dinotales4/021
-  - kaiyodo/dinotales/dinotales4/022
-  - kaiyodo/dinotales/dinotales4/023
 executiveProducer: "-"
 seriesName: "ダイノテイルズ"
 releaseStart: "2003.07"
