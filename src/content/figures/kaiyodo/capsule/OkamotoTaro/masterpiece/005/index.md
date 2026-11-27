@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "TaroMP007.jpg"
 coverImage: "TaroMP007.jpg"
+themes:
+  - "岡本太郎"
 topics:
   - title: ""
     images:

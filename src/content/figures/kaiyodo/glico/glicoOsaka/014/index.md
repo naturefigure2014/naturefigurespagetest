@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "glicoOsaka021.jpg"
 coverImage: "glicoOsaka021.jpg"
+themes:
+  - "岡本太郎"
 topics:
   - title: ""
     images:
