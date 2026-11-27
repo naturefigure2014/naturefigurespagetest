@@ -5,7 +5,7 @@ contentType: figure
 titleId: kaiyodo/capsuleq/nihonkitte
 figureId: "005"
 themes:
-  - "日本画"
+  - "その他アート"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 figureTopImage: "kitte013.jpg"

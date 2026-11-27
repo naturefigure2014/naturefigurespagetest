@@ -23,7 +23,7 @@ resources:
     image: "img/chojugiga011.jpg"
     description: "フレーム切手セットのボックス。両面に鳥獣戯画の絵が印刷されています。"
 themes:
-  - "日本画"
+  - "その他アート"
 topics:
   - title: "フィギュア本体"
     images:
