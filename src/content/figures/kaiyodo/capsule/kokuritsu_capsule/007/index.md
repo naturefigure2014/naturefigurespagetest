@@ -18,6 +18,8 @@ tags:
   - "-"
 figureTopImage: "kokuritsu_cap020.jpg"
 coverImage: "kokuritsu_cap020.jpg"
+themes:
+  - "日本史"
 topics:
   - title: ""
     images:

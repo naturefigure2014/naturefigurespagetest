@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "kokuritsu_cap022.jpg"
 coverImage: "kokuritsu_cap022.jpg"
+themes:
+  - "その他建築"
 topics:
   - title: ""
     images:

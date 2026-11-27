@@ -8,6 +8,7 @@ executiveProducer: "-"
 seriesName: "-"
 themes:
   - "古代エジプト"
+  - "ミイラ・棺"
 price: "5,000円"
 releaseStart: "-"
 salesPeriod: "2006.10.07-2007.02.18"

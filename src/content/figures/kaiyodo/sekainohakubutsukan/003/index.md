@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "worldmuseum001.jpg"
 coverImage: "worldmuseum001.jpg"
+themes:
+  - "中国の歴史"
 topics:
   - title: ""
     images:

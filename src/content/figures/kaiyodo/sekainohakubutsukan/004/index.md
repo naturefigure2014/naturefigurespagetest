@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "sekaino003.jpg"
 coverImage: "sekaino003.jpg"
+themes:
+  - "古代オリエント"
 topics:
   - title: ""
     images:
