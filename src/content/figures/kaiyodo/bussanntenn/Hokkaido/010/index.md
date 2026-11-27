@@ -3,7 +3,7 @@ title: "阿寒湖のマリモ"
 description: ""
 contentType: figure
 themes:
-  - "自然・風景"
+  - "自然の景観"
 titleId: kaiyodo/bussanntenn/Hokkaido
 figureId: "010"
 maker: "海洋堂"

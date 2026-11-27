@@ -3,7 +3,7 @@ title: "雪のクラーク像"
 description: ""
 contentType: figure
 themes:
-  - "建築・史跡"
+  - "石像"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "014"
 maker: "海洋堂"

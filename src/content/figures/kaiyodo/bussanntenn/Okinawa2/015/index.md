@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 themes:
   - "郷土料理・特産品"
-  - "自然・風景"
+  - "自然の景観"
   - "人物"
 titleId: kaiyodo/bussanntenn/Okinawa2
 figureId: "015"
