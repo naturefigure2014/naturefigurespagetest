@@ -3,7 +3,7 @@ title: "ジャンプ競技"
 description: ""
 contentType: figure
 themes:
-  - "スポーツ"
+  - "スキージャンプ"
 titleId: kaiyodo/bussanntenn/HokkaidoHuyu
 figureId: "011"
 maker: "海洋堂"
