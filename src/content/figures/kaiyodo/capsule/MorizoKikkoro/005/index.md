@@ -16,7 +16,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "ポップカルチャー"
+  - "モリゾーとキッコロ"
 figureTopImage: "morizo005.jpg"
 coverImage: "morizo005.jpg"
 topics:

@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "キャラクター・ボーカル・シリーズ「初音ミク」"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
+  - "その他キャラクター"
 price: "400円"
 releaseStart: "2013.02"
 genre:

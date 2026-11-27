@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "8. 初音ミク"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
+  - "その他キャラクター"
 price: "300円→400円"
 releaseStart: "2012.01"
 genre:

@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "じゃりン子チエ"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
+  - "その他キャラクター"
 price: "400円"
 releaseStart: "2016.01"
 genre:

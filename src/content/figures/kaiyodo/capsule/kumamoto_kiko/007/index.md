@@ -16,7 +16,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "ポップカルチャー"
+  - "ゆるキャラ"
 figureTopImage: "kumamoto021.jpg"
 coverImage: "kumamoto021.jpg"
 topics:
