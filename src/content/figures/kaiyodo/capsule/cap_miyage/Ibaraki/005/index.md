@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "ガールズ＆パンツァー"
 speciesGroup: "-"
 themes:
-  - "キャラクター"
+  - "その他キャラクター"
 price: "400円"
 releaseStart: "2016.02"
 genre:

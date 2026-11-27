@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "初音ミク"
 speciesGroup: "-"
 themes:
-  - "キャラクター"
+  - "その他キャラクター"
 price: "400円"
 releaseStart: "2014.02"
 genre:

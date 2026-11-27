@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "この世界の片隅に"
 speciesGroup: "-"
 themes:
-  - "キャラクター"
+  - "その他キャラクター"
 price: "400円"
 releaseStart: "2018.05"
 genre:
