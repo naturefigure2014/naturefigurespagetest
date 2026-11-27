@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "ryoma019.jpg"
 coverImage: "ryoma019.jpg"
+themes:
+  - "日本の偉人"
 topics:
   - title: ""
     images:
