@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "TaroQhikari018.jpg"
 coverImage: "TaroQhikari018.jpg"
+themes:
+  - "岡本太郎"
 topics:
   - title: ""
     images:

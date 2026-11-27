@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "TaroAPC1_006.jpg"
 coverImage: "TaroAPC1_006.jpg"
+themes:
+  - "岡本太郎"
 topics:
   - title: ""
     images:

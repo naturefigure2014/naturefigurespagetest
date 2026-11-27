@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "BEGIN"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
+  - "その他ポップカルチャー"
 price: "400円"
 releaseStart: "2015.06"
 genre:

@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "博多華丸・大吉"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
+  - "その他ポップカルチャー"
 price: "500円"
 releaseStart: "2019.04"
 genre:

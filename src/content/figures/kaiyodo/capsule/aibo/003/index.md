@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "若島あさひ"
 executiveProducer: "-"
 themes:
-  - "ポップカルチャー"
+  - "その他ポップカルチャー"
 price: "300円"
 releaseStart: "2002.07"
 genre:

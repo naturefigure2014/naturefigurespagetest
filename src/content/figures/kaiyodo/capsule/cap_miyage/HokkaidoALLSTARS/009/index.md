@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: ""
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
+  - "その他ポップカルチャー"
 price: "400円"
 releaseStart: "2016.03"
 genre:

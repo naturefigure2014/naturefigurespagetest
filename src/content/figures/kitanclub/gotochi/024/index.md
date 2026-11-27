@@ -16,6 +16,6 @@ tags:
 figureTopImage: ""
 coverImage: ""
 themes:
-  - "ポップカルチャー"
+  - "その他ポップカルチャー"
 topics: []
 ---
