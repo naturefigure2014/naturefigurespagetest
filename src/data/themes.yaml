@@ -133,6 +133,7 @@ groups:
         children:
           - スキージャンプ
           - ダイビング
+          - その他スポーツ
       - name: 仏像
   フィギュア関連グッズ:
     subgroups:

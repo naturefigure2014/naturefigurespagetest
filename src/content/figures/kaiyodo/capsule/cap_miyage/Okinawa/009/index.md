@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "具志堅用高"
 speciesGroup: "-"
 themes:
-  - "スポーツ"
+  - "その他スポーツ"
 price: "400円"
 releaseStart: "2015.06"
 genre:

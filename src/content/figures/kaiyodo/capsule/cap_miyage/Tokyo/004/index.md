@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "力士"
 speciesGroup: "-"
 themes:
-  - "スポーツ"
+  - "その他スポーツ"
 price: "300円"
 releaseStart: "2014.08"
 genre:
