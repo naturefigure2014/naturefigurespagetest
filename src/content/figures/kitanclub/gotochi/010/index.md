@@ -15,5 +15,7 @@ tags:
   - "-"
 figureTopImage: ""
 coverImage: ""
+themes:
+  - "祭り"
 topics: []
 ---
