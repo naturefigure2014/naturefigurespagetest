@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "kyoryuhaku2023_007.jpg"
 coverImage: "kyoryuhaku2023_007.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

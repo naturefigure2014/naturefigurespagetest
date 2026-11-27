@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "syachi001.jpg"
 coverImage: "syachi001.jpg"
+themes:
+  - "骨格標本"
 topics:
   - title: ""
     images:

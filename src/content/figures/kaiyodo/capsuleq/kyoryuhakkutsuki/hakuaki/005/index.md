@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "hakuaki014.jpg"
 coverImage: "hakuaki014.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

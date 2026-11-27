@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "zuroku4_028.jpg"
 coverImage: "zuroku4_028.jpg"
+themes:
+  - "骨格標本"
 topics:
   - title: ""
     images:

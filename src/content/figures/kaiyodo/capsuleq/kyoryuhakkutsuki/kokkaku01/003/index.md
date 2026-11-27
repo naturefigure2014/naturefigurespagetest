@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "kokkaku035.jpg"
 coverImage: "kokkaku035.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

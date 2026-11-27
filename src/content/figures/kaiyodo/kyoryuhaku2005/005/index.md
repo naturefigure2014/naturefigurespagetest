@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "tyranno2005zouge002.jpg"
 coverImage: "tyranno2005zouge002.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

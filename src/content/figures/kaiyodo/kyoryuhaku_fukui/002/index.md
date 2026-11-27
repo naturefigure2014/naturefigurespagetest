@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "fukui014.jpg"
 coverImage: "fukui014.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

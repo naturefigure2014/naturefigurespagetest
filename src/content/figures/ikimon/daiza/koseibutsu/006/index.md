@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "koseibutsu019.jpg"
 coverImage: "koseibutsu019.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

@@ -24,6 +24,8 @@ freetag:
     value: "コチラ"
 figureTopImage: "img/ga_tricera002.jpg"
 coverImage: "img/ga_tricera002.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

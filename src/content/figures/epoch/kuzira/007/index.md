@@ -16,6 +16,8 @@ tags:
   - "-"
 figureTopImage: "kuzira002.jpg"
 coverImage: "kuzira002.jpg"
+themes:
+  - "骨格標本"
 topics:
   - title: ""
     images:

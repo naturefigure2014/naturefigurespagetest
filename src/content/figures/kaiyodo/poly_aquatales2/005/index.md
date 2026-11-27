@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "poly_aqua2_014.jpg"
 coverImage: "poly_aqua2_014.jpg"
+themes:
+  - "骨格標本"
 topics:
   - title: ""
     images:

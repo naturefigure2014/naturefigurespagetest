@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "dino1_042.jpg"
 coverImage: "dino1_042.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

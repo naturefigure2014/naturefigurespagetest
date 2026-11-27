@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "GiantDinosaurs_013.jpg"
 coverImage: "GiantDinosaurs_013.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

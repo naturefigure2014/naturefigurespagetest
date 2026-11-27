@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "zuroku5_010.jpg"
 coverImage: "zuroku5_010.jpg"
+themes:
+  - "骨格標本"
 topics:
   - title: ""
     images:

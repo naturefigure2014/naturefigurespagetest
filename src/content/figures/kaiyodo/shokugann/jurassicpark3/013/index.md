@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "jp3_018.jpg"
 coverImage: "jp3_018.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

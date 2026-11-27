@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "plesiosaurus002.jpg"
 coverImage: "plesiosaurus002.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

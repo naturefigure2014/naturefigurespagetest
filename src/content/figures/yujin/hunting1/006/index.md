@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "hunting002.jpg"
 coverImage: "hunting002.jpg"
+themes:
+  - "骨格標本"
 topics:
   - title: ""
     images:

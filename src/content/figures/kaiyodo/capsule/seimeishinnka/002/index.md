@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "seimeishinka005.jpg"
 coverImage: "seimeishinka005.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

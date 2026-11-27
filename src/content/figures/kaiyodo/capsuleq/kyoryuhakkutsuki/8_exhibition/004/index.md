@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "exhibition001.jpg"
 coverImage: "exhibition001.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

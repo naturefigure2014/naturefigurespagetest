@@ -11,6 +11,8 @@ maker: "海洋堂"
 sculptor: "松本栄一郎"
 figureTopImage: "kahaku036.jpg"
 coverImage: "kahaku036.jpg"
+themes:
+  - "骨格標本"
 topics:
   - title: ""
     images:

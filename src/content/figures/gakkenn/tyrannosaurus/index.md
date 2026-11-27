@@ -20,6 +20,8 @@ freetag:
     value: "コチラ"
 figureTopImage: "img/ga_tyranno009.jpg"
 coverImage: "img/ga_tyranno009.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "jurassic004.jpg"
 coverImage: "jurassic004.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

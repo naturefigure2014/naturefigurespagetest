@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "kokuritsu_cap002.jpg"
 coverImage: "kokuritsu_cap002.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

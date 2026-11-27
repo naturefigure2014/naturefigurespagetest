@@ -5,6 +5,8 @@ contentType: 'figure'
 titleId: 'sculptors/TURTLEBREAK'
 figureTopImage: 'diabro004.jpg'
 coverImage: 'diabro004.jpg'
+themes:
+  - "化石"
 topics:
   - title: ''
     images:
