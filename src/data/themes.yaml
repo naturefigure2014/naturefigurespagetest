@@ -34,6 +34,11 @@ groups:
           - 花
           - 樹木
           - その他植物
+      - name: 自然史標本
+        children:
+          - 骨格標本
+          - 化石
+          - 昆虫標本
   アート:
     subgroups:
       - name: 日本画
