@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "glico4_005.jpg"
 coverImage: "glico4_005.jpg"
+themes:
+  - "船舶"
 topics:
   - title: ""
     images:

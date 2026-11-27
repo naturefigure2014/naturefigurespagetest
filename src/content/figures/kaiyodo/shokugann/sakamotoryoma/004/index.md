@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "ryoma016.jpg"
 coverImage: "ryoma016.jpg"
+themes:
+  - "日本史"
 topics:
   - title: ""
     images:
