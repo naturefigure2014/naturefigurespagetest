@@ -9,6 +9,8 @@ speciesGroup: "食肉類"
 maker: "海洋堂"
 figureTopImage: "yotsubatoshirokuro2_001.jpg"
 coverImage: "yotsubatoshirokuro2_001.jpg"
+themes:
+  - "よつばと"
 topics:
   - title: ""
     images:

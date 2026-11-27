@@ -12,6 +12,8 @@ speciesEntries:
 maker: "海洋堂"
 figureTopImage: "yotsubatoshirokuro2_007.jpg"
 coverImage: "yotsubatoshirokuro2_007.jpg"
+themes:
+  - "よつばと"
 topics:
   - title: ""
     images:

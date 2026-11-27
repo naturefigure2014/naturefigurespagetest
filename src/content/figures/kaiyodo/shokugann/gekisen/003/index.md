@@ -17,5 +17,7 @@ tags:
   - "-"
 figureTopImage: ""
 coverImage: ""
+themes:
+  - "戦国甲冑"
 topics: []
 ---

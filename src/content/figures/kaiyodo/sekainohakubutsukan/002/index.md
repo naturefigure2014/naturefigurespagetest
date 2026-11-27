@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "worldmuseum013.jpg"
 coverImage: "worldmuseum013.jpg"
+themes:
+  - "土偶"
 topics:
   - title: ""
     images:

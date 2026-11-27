@@ -10,5 +10,7 @@ maker: "海洋堂"
 sculptor: "よつば・ＢＯＭＥ／ダルメシアン・松村しのぶ"
 figureTopImage: ""
 coverImage: ""
+themes:
+  - "よつばと"
 topics: []
 ---

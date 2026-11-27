@@ -9,6 +9,8 @@ speciesGroup: "ペンギン類"
 maker: "海洋堂"
 figureTopImage: "yotsubatoshirokuro2_003.jpg"
 coverImage: "yotsubatoshirokuro2_003.jpg"
+themes:
+  - "よつばと"
 topics:
   - title: ""
     images:
