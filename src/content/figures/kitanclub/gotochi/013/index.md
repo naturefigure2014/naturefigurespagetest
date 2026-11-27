@@ -15,5 +15,7 @@ tags:
   - "-"
 figureTopImage: ""
 coverImage: ""
+themes:
+  - "その他工芸"
 topics: []
 ---

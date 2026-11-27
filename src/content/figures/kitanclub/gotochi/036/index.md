@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "gotochi036_001.jpg"
 coverImage: "gotochi036_001.jpg"
+themes:
+  - "日本の城"
 topics:
   - title: ""
     images:
