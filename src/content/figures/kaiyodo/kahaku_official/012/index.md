@@ -9,5 +9,7 @@ speciesGroup: ""
 maker: "海洋堂"
 figureTopImage: ""
 coverImage: ""
+themes:
+  - "飛行機"
 topics: []
 ---

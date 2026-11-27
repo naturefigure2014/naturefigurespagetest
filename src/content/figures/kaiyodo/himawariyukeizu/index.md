@@ -15,6 +15,8 @@ resources:
   package:
     image: "img/himawari005.jpg"
     description: "シンプルなパッケージ。"
+themes:
+  - "伊藤若冲"
 topics:
   - title: "全体"
     images:
