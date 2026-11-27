@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "[大分] おんせん県"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
+  - "ゆるキャラ"
 price: "500円"
 releaseStart: "2018.04"
 genre:

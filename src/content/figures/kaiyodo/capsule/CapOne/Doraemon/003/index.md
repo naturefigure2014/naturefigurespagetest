@@ -8,7 +8,7 @@ maker: "海洋堂"
 sculptor: "香川雅彦"
 executiveProducer: "-"
 themes:
-  - "ポップカルチャー"
+  - "ドラえもん"
 price: "500円"
 releaseStart: "2019.05"
 genre:

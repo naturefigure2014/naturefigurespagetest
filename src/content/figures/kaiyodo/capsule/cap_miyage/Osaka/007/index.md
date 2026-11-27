@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "ラムちゃん in 阪神タイガースユニホーム"
 speciesGroup: "-"
 themes:
-  - "ポップカルチャー"
+  - "キャラクター"
 price: "400円"
 releaseStart: "2016.01"
 genre:
