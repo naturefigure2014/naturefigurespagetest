@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "jintaimokei2_012.jpg"
 coverImage: "jintaimokei2_012.jpg"
+themes:
+  - "筋肉"
 topics:
   - title: ""
     images:

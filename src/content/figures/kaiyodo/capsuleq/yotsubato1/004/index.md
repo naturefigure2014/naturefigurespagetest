@@ -10,5 +10,7 @@ maker: "海洋堂"
 sculptor: "よつば・村田明玄／ホルスタイン・松村しのぶ"
 figureTopImage: ""
 coverImage: ""
+themes:
+  - "よつばと"
 topics: []
 ---

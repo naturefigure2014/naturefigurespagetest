@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "gekisen039.jpg"
 coverImage: "gekisen039.jpg"
+themes:
+  - "戦国甲冑"
 topics:
   - title: ""
     images:

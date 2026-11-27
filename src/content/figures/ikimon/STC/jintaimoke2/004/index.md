@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "jintaimokei2_004.jpg"
 coverImage: "jintaimokei2_004.jpg"
+themes:
+  - "骨格"
 topics:
   - title: ""
     images:

@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "tradition016.jpg"
 coverImage: "tradition016.jpg"
+themes:
+  - "文楽"
 topics:
   - title: ""
     images:

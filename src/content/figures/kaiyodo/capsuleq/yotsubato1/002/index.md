@@ -10,6 +10,8 @@ maker: "海洋堂"
 sculptor: "よつば・村田明玄／ミナミコアリクイ・松村しのぶ"
 figureTopImage: "yotsubato1_004.jpg"
 coverImage: "yotsubato1_004.jpg"
+themes:
+  - "よつばと"
 topics:
   - title: ""
     images:

@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "jintaimokei2_001.jpg"
 coverImage: "jintaimokei2_001.jpg"
+themes:
+  - "その他人体"
 topics:
   - title: ""
     images:

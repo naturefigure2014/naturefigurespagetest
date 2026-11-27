@@ -9,6 +9,8 @@ speciesGroup: "奇蹄類"
 maker: "海洋堂"
 figureTopImage: "yotsubatoshirokuro2_005.jpg"
 coverImage: "yotsubatoshirokuro2_005.jpg"
+themes:
+  - "よつばと"
 topics:
   - title: ""
     images:

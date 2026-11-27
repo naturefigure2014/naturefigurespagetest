@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "jintaimokei2_007.jpg"
 coverImage: "jintaimokei2_007.jpg"
+themes:
+  - "内臓"
 topics:
   - title: ""
     images:

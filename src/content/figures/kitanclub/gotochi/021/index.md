@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "gotochi021_001.jpg"
 coverImage: "gotochi021_001.jpg"
+themes:
+  - "タワー"
 topics:
   - title: ""
     images:
