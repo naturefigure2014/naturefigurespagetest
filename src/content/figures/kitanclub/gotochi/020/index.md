@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "gotochi020_001.jpg"
 coverImage: "gotochi020_001.jpg"
+themes:
+  - "自然の景観"
 topics:
   - title: ""
     images:

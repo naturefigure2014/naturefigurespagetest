@@ -15,5 +15,7 @@ tags:
   - "-"
 figureTopImage: ""
 coverImage: ""
+themes:
+  - "郷土料理"
 topics: []
 ---

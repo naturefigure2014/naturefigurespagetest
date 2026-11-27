@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "gotochi048_001.jpg"
 coverImage: "gotochi048_001.jpg"
+themes:
+  - "仏像"
 topics:
   - title: ""
     images:

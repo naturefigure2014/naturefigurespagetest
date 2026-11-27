@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "gotochi067_001.jpg"
 coverImage: "gotochi067_001.jpg"
+themes:
+  - "特産品"
 topics:
   - title: ""
     images:
