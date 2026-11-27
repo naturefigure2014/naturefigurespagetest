@@ -679,7 +679,8 @@ body.lightbox-open { overflow: hidden; }
   .site-header nav a { padding: 8px 10px; }
   .site-header nav a.is-active::after { right: 10px; bottom: 3px; left: 10px; }
   .header-tools { display: none; }
-  main { padding: 24px 16px 60px; }
+  main { padding: 10px 16px 60px; }
+  .home-hero { margin-top: -14px; }
   .grid { grid-template-columns: repeat(2, 1fr); gap: 14px; }
   .figure-layout { grid-template-columns: 1fr; gap: 6px; }
   .figure-layout.detail-style, .title-layout.detail-style { gap: 2px; }
