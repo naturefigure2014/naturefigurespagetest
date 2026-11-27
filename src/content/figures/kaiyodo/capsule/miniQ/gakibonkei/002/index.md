@@ -16,7 +16,7 @@ genre:
 tags:
   - "-"
 themes:
-  - "日本画"
+  - "河鍋暁斎"
 figureTopImage: "gakibonkei_001.jpg"
 coverImage: "gakibonkei_001.jpg"
 topics:
