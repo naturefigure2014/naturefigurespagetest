@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "inochidama008.jpg"
 coverImage: "inochidama008.jpg"
+themes:
+  - "その他アート"
 topics:
   - title: ""
     images:

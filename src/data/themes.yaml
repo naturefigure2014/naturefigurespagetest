@@ -60,6 +60,7 @@ groups:
         children:
           - 岡本太郎
           - その他ポップカルチャー
+      - name: その他アート
   歴史:
     subgroups:
       - name: 古代エジプト
