@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "kyoryuhaku2004_013.jpg"
 coverImage: "kyoryuhaku2004_013.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

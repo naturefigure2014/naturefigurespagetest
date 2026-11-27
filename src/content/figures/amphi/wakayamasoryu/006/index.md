@@ -16,6 +16,8 @@ tags:
   - "-"
 figureTopImage: "wakayamasoryu008.jpg"
 coverImage: "wakayamasoryu008.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

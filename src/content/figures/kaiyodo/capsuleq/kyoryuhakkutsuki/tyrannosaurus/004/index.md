@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "tyrannosaurus013.jpg"
 coverImage: "tyrannosaurus013.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

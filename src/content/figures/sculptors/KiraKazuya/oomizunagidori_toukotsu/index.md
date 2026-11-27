@@ -14,6 +14,8 @@ tags:
   - "-"
 figureTopImage: "img/oomizunagidori_toukotsu010.jpg"
 coverImage: "img/oomizunagidori_toukotsu010.jpg"
+themes:
+  - "骨格標本"
 topics:
   - title: ""
     images:

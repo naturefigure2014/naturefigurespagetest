@@ -10,6 +10,8 @@ maker: "海洋堂"
 sculptor: "松村しのぶ"
 figureTopImage: "kahaku013.jpg"
 coverImage: "kahaku013.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

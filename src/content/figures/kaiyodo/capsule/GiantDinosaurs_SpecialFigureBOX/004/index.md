@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "GiantDinosaurs_SpecialFigureBOX005.jpg"
 coverImage: "GiantDinosaurs_SpecialFigureBOX005.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

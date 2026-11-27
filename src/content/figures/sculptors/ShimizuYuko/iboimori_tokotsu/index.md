@@ -17,6 +17,8 @@ freetag:
     value: "2017"
 figureTopImage: "img/iboimori_tokotsu007.jpg"
 coverImage: "img/iboimori_tokotsu001.jpg"
+themes:
+  - "骨格標本"
 topics:
   - title: ""
     images:

@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "triceratops010.jpg"
 coverImage: "triceratops010.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

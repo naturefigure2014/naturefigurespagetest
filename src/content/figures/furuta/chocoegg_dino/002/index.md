@@ -16,6 +16,8 @@ tags:
   - "-"
 figureTopImage: "choco_dino024.jpg"
 coverImage: "choco_dino024.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

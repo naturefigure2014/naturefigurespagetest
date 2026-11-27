@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "kaiseihonyurui009.jpg"
 coverImage: "kaiseihonyurui009.jpg"
+themes:
+  - "骨格標本"
 topics:
   - title: ""
     images:

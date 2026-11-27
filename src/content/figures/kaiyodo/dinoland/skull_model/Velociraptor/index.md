@@ -16,6 +16,8 @@ tags:
   - "-"
 figureTopImage: "img/Velociraptor001.jpg"
 coverImage: "img/Velociraptor001.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:

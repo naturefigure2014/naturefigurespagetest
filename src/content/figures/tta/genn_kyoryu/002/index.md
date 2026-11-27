@@ -15,6 +15,8 @@ tags:
   - "-"
 figureTopImage: "kyoryu008.jpg"
 coverImage: "kyoryu008.jpg"
+themes:
+  - "化石"
 topics:
   - title: ""
     images:
