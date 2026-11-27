@@ -10,7 +10,7 @@ executiveProducer: "-"
 species: "スキージャンプ"
 speciesGroup: "-"
 themes:
-  - "スポーツ"
+  - "スキージャンプ"
 price: "400円"
 releaseStart: "2014.02"
 genre:
