@@ -6,7 +6,7 @@ titleId: yujin/kaisuigyo_nagoya
 figureId: "017"
 maker: "ユージン"
 sculptor: "KOW"
-species: "ニセゴイシウツボ"
+species: ""
 price: "100円"
 releaseStart: "2005.03"
 genre:
