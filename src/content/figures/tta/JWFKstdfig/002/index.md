@@ -6,7 +6,7 @@ titleId: tta/JWFKstdfig
 figureId: "002"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "BLUE"
+species: "ヴェロキラプトル（ジュラシック・パーク）"
 price: "300円"
 releaseStart: "2018.08"
 genre:

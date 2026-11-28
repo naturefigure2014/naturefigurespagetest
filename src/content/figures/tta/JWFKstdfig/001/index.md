@@ -6,7 +6,7 @@ titleId: tta/JWFKstdfig
 figureId: "001"
 maker: "タカラトミーアーツ"
 sculptor: "-"
-species: "ティラノサウルス"
+species: "ティラノサウルス（ジュラシック・パーク）"
 price: "300円"
 releaseStart: "2018.08"
 genre:
