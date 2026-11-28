@@ -6,7 +6,7 @@ titleId: yell/dinosaurmuseum2
 figureId: "011"
 maker: "株式会社エール"
 sculptor: "-"
-species: "スティラコサウルス"
+species: ""
 speciesGroup: "角竜類"
 price: "200円"
 releaseStart: "-"
