@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "don020.jpg"
 coverImage: "don020.jpg"
+themes:
+  - "その他アート"
 topics:
   - title: ""
     images:
