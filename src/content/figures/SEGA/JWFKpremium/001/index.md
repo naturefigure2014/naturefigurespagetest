@@ -6,7 +6,7 @@ titleId: SEGA/JWFKpremium
 figureId: "001"
 maker: "セガ・インタラクティブ"
 sculptor: "-"
-species: "ヴェロキラプトル"
+species: "ヴェロキラプトル（ジュラシック・パーク）"
 price: "-"
 releaseStart: "2018.07"
 genre:
