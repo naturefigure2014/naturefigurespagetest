@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "komekko1_035.jpg"
 coverImage: "komekko1_035.jpg"
+themes:
+  - "ダイビング"
 topics:
   - title: ""
     images:

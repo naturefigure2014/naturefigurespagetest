@@ -20,6 +20,8 @@ tags:
   - "-"
 figureTopImage: "asahiyama3_027.jpg"
 coverImage: "asahiyama3_027.jpg"
+themes:
+  - "ダイビング"
 topics:
   - title: ""
     images:

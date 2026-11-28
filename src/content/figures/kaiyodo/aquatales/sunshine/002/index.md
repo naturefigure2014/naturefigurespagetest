@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "sunshine020.jpg"
 coverImage: "sunshine020.jpg"
+themes:
+  - "ダイビング"
 topics:
   - title: ""
     images:

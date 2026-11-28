@@ -17,6 +17,8 @@ tags:
   - "-"
 figureTopImage: "okinawa004.jpg"
 coverImage: "okinawa004.jpg"
+themes:
+  - "ダイビング"
 topics:
   - title: ""
     images:
