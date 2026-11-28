@@ -3,7 +3,7 @@ title: 'ディノニクス'
 description: ''
 contentType: 'figure'
 titleId: 'sculptors/CSModelDesign'
-species: 'ディノニクス'
+species: 'デイノニクス'
 figureTopImage: 'deino001.jpg'
 coverImage: 'deino001.jpg'
 topics:

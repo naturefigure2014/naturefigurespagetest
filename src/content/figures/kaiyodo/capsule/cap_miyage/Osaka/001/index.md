@@ -7,7 +7,7 @@ figureId: "001"
 maker: "海洋堂"
 sculptor: "大津敦哉"
 executiveProducer: "-"
-species: "大阪城"
+species: "-"
 speciesGroup: "-"
 themes:
   - "日本の城"

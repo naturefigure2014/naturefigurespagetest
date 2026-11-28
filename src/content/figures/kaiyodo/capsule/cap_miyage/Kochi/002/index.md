@@ -7,7 +7,7 @@ figureId: "002"
 maker: "海洋堂"
 sculptor: "田熊勝夫"
 executiveProducer: "-"
-species: "高知城"
+species: "-"
 speciesGroup: "-"
 themes:
   - "日本の城"

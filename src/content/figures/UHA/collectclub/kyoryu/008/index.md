@@ -6,7 +6,7 @@ titleId: UHA/collectclub/kyoryu
 figureId: "008"
 maker: "UHA味覚糖"
 sculptor: "林 雪真紗"
-species: "ベロキラプトル"
+species: "ヴェロキラプトル"
 speciesGroup: "獣脚類"
 price: "-"
 releaseStart: "2005.12"

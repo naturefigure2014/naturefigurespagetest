@@ -6,7 +6,7 @@ titleId: sculptors/MatsumuraShinobu/ryutooni
 maker: "海洋堂"
 sculptor: "松村しのぶ"
 executiveProducer: "-"
-species: "鬼の頭骨"
+species: "-"
 speciesGroup: "-"
 price: "10,000円（キット版） 20,000円（完成品）"
 releaseStart: "-"

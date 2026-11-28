@@ -7,7 +7,7 @@ figureId: "006"
 maker: "海洋堂"
 sculptor: "寺岡邦明"
 executiveProducer: "-"
-species: "遮光器土偶"
+species: "-"
 speciesGroup: "-"
 themes:
   - "土偶"
