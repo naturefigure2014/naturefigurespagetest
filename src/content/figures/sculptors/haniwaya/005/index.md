@@ -3,7 +3,7 @@ title: 'ハンドウイルカ頭骨'
 description: ''
 contentType: 'figure'
 titleId: 'sculptors/haniwaya'
-species: 'ハンドウイルカ'
+species: 'バンドウイルカ'
 figureTopImage: 'iruka001.jpg'
 coverImage: 'iruka001.jpg'
 themes:

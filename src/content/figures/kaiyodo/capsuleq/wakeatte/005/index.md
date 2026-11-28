@@ -4,7 +4,7 @@ description: ""
 contentType: figure
 titleId: kaiyodo/capsuleq/wakeatte
 figureId: "005"
-species: "メガネウ"
+species: "メガネウラ"
 speciesGroup: "古代の節足動物"
 maker: "海洋堂"
 sculptor: "松村しのぶ"
